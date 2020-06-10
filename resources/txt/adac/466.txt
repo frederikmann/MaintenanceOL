@@ -1,0 +1,11 @@
+weißer Lackpunkt auf Motorsteuergerät, Injektoren mit Wachsauftrag ; Lenkgetriebe: Wegen zu geringer Fettfüllung kann es zu vorzeitigem Verschleiß an der Zahnstange des Lenkgetriebes kommen. Das notwendige Fett wird durch die Werkstatt ergänzt.
+Scheibenwischermotor: Wegen unzureichender Abdeckung des Scheibenwischermotors kann es bei Eindringen von Feuchtigkeit zum Ausfall des Wischermotors kommen. Abhilfe bringt eine zusätzliche Abdeckung oberhalb des Wischermotors.
+Die Aktionen sind kostenlos und dauern etwa eine Stunde. ; Aktion: 5247: Wegen diverser sporadischer Fehler im Fehlerspeicher ein Softwareupdate für das Motorsteuergerät
+Aktion: 5221: Wegen unzureichender Abdeckung sammelt sich Ablaufwasser im Bereich der Einspritzinjektoren und führt dort zu
+Oberflächenkorrosion. Die Händler behandeln die
+Injektoren mit Rostumwandler und versiegeln diese
+anschl. mit einem Wachsschutz.
+Die Aktionen sind kostenlos und dauern zusammen
+etwa eine Stunde. ; Aktion 5220: Wegen fehlender Abdeckung kann es zum Ausfall des Anlassers kommen.
+Aktion 5222: Wegen unzureichender Abdeckung kann es zum Feuchtigkeitseintritt im ABS-Steuergerät kommen. Die Händler bringen an beiden Bauteilen zusätzliche Abdeckungen an. Die Aktionen sind kostenlos und dauern zusammen etwa eine Stunde. ; Abdeckung an Anlasser und ABS-Steuergerät vorhanden ; Lenkgetriebe: weißer Lackpunkt an der linken Staubmanschette des Lenkgetriebes
+Abdeckung am Scheibenwischermotor vorhanden

@@ -1,0 +1,2 @@
+Im internen Herstellersystem vermerkt.  ; Aufgrund einer Fehlfunktion des Abgastemperatursensors kann das Motorsteuergerät die Motorleistung grundlos reduzieren, um vermeintliches Überhitzen des Turboladers zu verhindern. Dann kommt es zum Leistungsabfall und die Motorkontrolle leuchtet. 
+Die Händler bauen einen verbesserten Sensor ein. Die Aktion läuft seit Herbst 2013, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.

@@ -1,0 +1,3 @@
+Die Bedienungsanleitung für die Verriegelung der Hintertür ist fehlerhaft beschrieben. Aufgrund der falschen Beschreibung könnte die Tür unbeabsichtigt geöffnet werden.
+Abhilfe:
+In der Werkstatt erfolgt die Korrektur des Benutzerhandwerks. ; Im Hersteller-Werkstattsystem. Aktionscode lautet „81C095“. ; Ein fehlerhafter Elektromotor hat Auswirkung auf die Funktion der Einklemmschutzfunktion. Abhilfe:  Die Vertragswerkstatt tausch den Elektromotor bei Bedarf aus. ; Eine fehlerhafte Programmierung des Airbagsteuergerätes kann zu einer fehlerhaften Funktion des Airbags führen. Möglich ist, dass der Airbag unkontrolliert auslöst. Abhilfe: In der Werkstatt wird das Steuergerät umprogrammiert. ; Im Hersteller-Werkstattsystem

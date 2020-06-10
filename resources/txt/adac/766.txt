@@ -1,0 +1,4 @@
+Aktueller IMA-CPU-Softwarestand  ; Eine fehlerhafte Software der elektromotrischen Steuerung führt lt. Hersteller bei versehentlichem Abwürgen des Verbrennungsmotors zum plötzlichen Gegenlauf des E-Motors und damit zum ungewollten Vor- oder Zurückrollen des Fahrzeuges.
+Die Händler führen einen Softwareupdate des Hybrid-Steuergerätes (IMA-ECU) durch. 
+Der Aktionsstart ist Mitte Sept. 2011, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.
+ 

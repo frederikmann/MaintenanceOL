@@ -1,0 +1,15 @@
+Wegen eines Fertigungsfehlers kann aus der Kühlmittelvorlaufleitung im Bereich des Turboladers Kühlmittel austreten.
+Laut Hersteller wird der stetige Kühlmittelverlust per Warnlampe angezeigt, so dass der Fahrer kurzfristig reagieren kann und es nicht zum Überhitzungsschaden kommt. .
+Die Händler tauschen das Kühlmittelrohr gegen ein modifiziertes Teil aus. 
+Die Aktion läuft seit Nov. 2009 ist kostenlos und dauert etwa eine Stunde. 
+Vorherige Terminvereinbarung mit dem Händler wäre sinnvoll. ; Im Hersteller-Werkstattsystem ; Keine nachträgliche Kennzeichnung, da alle Fahrzeuge, lt. Hersteller, vor Auslieferung beim Handel überprüft wurden. ; Wegen eines Fertigungsfehlers kann es zu Undichtigkeiten am Ladeluftkühler kommen. 
+Laut Hersteller beschränken sich die Auswirkungen auf eine reduzierte Motorleistung.
+Die Händler überprüfen das Fertigungsdatum des Ladeluftkühlers und tauschen Kühler aus dem fehlerhaften Fertigungszeitraum aus.
+Die Aktion läuft seit Dez. 2009 ist kostenlos und dauert 10 Minuten (Prüfung), bei Austausch etwa drei Stunden. 
+Vorherige Terminvereinbarung mit dem Händler wäre sinnvoll. 
+ ; Eintragung "26E4 durchgeführt" mit Datum/Stempel im Serviceplan. ; Eintragung "21C5 durchgeführt" im Serviceplan. ; Die Regelklappe (AGR-Kühler) kann sich lösen, was in Folge zum Motorschaden führen kann. Die Händler prüfen anhand der verbauten Teilenr. am AGR-Kühler und tauschen die Unterdruckdose, die die Regelklappe trägt im Bedarfsfall aus.
+Zusätzlich erfolgt dabei noch ein Softwareupdate des Motorsteuergerätes. ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzuführen. 
+
+
+Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
+Die Aktion ist für den Kunden kostenlos.

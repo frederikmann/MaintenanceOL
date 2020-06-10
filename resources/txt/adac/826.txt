@@ -1,0 +1,3 @@
+Im Hersteller-Werkstattsystem ; Die Bedienungsanleitung für die Verriegelung der Hintertür ist fehlerhaft beschrieben. Aufgrund der falschen Beschreibung könnte die Tür unbeabsichtigt geöffnet werden.
+Abhilfe:
+In der Werkstatt erfolgt die Korrektur des Benutzerhandwerks.

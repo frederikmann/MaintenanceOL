@@ -1,0 +1,11 @@
+An der Unterdruckpumpe kann es aufgrund einer unzureichenden Verschleißfestigkeit dazu kommen, dass deren Leistung nachlässt. Dadurch kann es zu einem Abfall der Bremsleistung kommen. Es besteht die Möglichkeit, dass es zu schädlichen Spannungsspitzen kommen kann. Zudem besteht die Möglichkeit, dass das Anzugsmoment der Montagemuttern der Injektoren nicht korrekt ist. Dadurch können Verbrennungsgase in den Motorölkreislauf gelangen.
+Als Abhilfemaßnahme wird die Unterdruckpumpe ausgetauscht und die Motorsteuerung auf den letzten Stand der Produktion aktualisiert.
+Falls notwendig wird der Motor auf Verbrennungsgasaustritt an den Injektordichtungen überprüft. Reparaturumfang abhängig von Prüfergebnis.
+Die Aktion ist für die Kunden kostenlos. ; Aufgrund einer fehlerhaft programmierten Steuerungssoftware kann es dazu kommen, dass sich Ruß im Bereich der Einlassschließklappe des Motors ablagert und dafür sorgt, dass die Einlassschließklappe nicht wie vorgesehen operiert. Der Motor könnte ausgehen, wenn sich bei vollständig geschlossener Einlassschließklappe Rußablagerungen gebildet haben.
+Als Abhilfemaßnahmen wird die Ansteuerungssoftware (Einlassschließklappe) überprüft und die Software aktualisiert. Werden bei der Prüfung Fehler an der Einlassschließklappe festgestellt oder die Motorwarnleuchte leuchtet nach der Neuprogrammierung, wird die Einlassschließklappe durch ein neues Bauteil ersetzt.
+Die Aktion ist für die Kunden kostenlos. ; Bei den Motorsteuergeräten (PCM) der betroffenen Fahrzeuge kann die
+Software, die den hydraulischen Ventilspielausgleich steuert, beim
+Übergang von der Zylinderabschaltung in den Normalbetrieb während der
+Fahrt fehlerhaft arbeiten. Infolgedessen kann ein Kipphebel des
+Einlassventils aus der Position geraten und mit inneren Motorteilen in
+Kontakt kommen. Abhilfe: In der Werkstatt findet eine Aktualisierung der Motorsteuerung auf den letzten Stand der Produktion statt. ; Im Hersteller-Werkstattsystem

@@ -1,19 +1,21 @@
 import spacy
+import string
 from spacy.pipeline import Sentencizer
 
 nlp = spacy.load("de_core_news_md")
-sentencizer = Sentencizer(punct_chars=[".", "?", "!", ",", ";", ":"])
+# sentencizer = Sentencizer(punct_chars=[".", "?", "!", ",", ";", ":"])
+sentencizer = Sentencizer(punct_chars=[char for char in string.punctuation])
 nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
 
 
-def get_oie(corpus, just_terms=None):
+def get_oie(corpus):
     # decision logic for extracting roots and terms - for better analysis sentences are passed as well
 
     roots = []
     terms = []
     sents = []
 
-    doc = nlp(corpus)
+    doc = nlp(corpus.lower())
 
     for sent in doc.sents:
         t = set()
@@ -23,8 +25,6 @@ def get_oie(corpus, just_terms=None):
         # get important tokens from sentence
         pd, oc, ng = "", "", ""
         for token in sent:
-            if token.dep_ == "sb":
-                t.add(token.lemma_)
             if token.dep_ == "pd":
                 pd = token.lemma_
             if token.dep_ == "oc":
@@ -33,22 +33,16 @@ def get_oie(corpus, just_terms=None):
                 ng = token.lemma_
             if token.pos_ == "NOUN":
                 t.add(token.text)
+            if token.pos_ == "PROPN":
+                t.add(token.text)
 
-        # get noun chunks and remove stopwords
         for chunk in sent.noun_chunks:
             c = []
             for token in chunk:
-                if not token.is_stop:
+                if not token.is_stop and not token.pos_ == "DET":
                     c.append(token.text)
-            t.add(" ".join(c))
-
-        # get entities and remove stopwords
-        for ent in sent.ents:
-            e = []
-            for token in ent:
-                if not token.is_stop:
-                    e.append(token.text)
-            t.add(" ".join(e))
+            if len(c)>1:
+                t.add(" ".join(c))
 
         # get roots / predicate depending on sentence structure
         r = []
@@ -64,8 +58,25 @@ def get_oie(corpus, just_terms=None):
         roots.append(' '.join(r))
         terms.append(t)
 
-    if just_terms:
-        return [item for sublist in terms for item in sublist]
-    else:
-        return roots, terms, sents
+    return roots, terms, sents
 
+
+def get_terms(corpus):
+
+    terms = []
+
+    doc = nlp(corpus.lower())
+
+    for token in doc:
+        if token.pos_ in ["NOUN", "PROPN"] and not token.is_stop:
+            terms.append(token.lemma_)
+
+    for chunk in doc.noun_chunks:
+        c = []
+        for token in chunk:
+            if not token.is_stop and not token.pos_ == "DET":
+                c.append(token.text)
+        if len(c) > 1:
+            terms.append(" ".join(c))
+
+    return terms

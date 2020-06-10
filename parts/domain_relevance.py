@@ -1,8 +1,9 @@
 import spacy
 import numpy as np
 from spacy.pipeline import Sentencizer
+from collections import Counter
 
-from .collect import get_text_car, get_text_cook
+from .collect import get_text
 from .preprocessing import normalize
 from .oie import get_oie
 
@@ -30,6 +31,45 @@ def get_words(terms):
             words[term] += 1
 
     return words
+
+
+def get_tf(terms):
+    flat_terms = [item for sublist in terms for item in sublist]
+    tf = Counter(flat_terms)
+    max_freq = Counter(flat_terms).most_common(1)[0][1]
+    for t in tf:
+        tf[t] = (tf[t] / max_freq)
+
+    return tf
+
+
+def get_idf(terms):
+    flat_terms = [item for sublist in terms for item in set(sublist)]
+    idf = Counter(flat_terms)
+    for t in idf:
+        idf[t] = np.log2(len(terms) / idf[t])
+
+    return idf
+
+
+def get_tdf(terms):
+    flat_terms = [item for sublist in terms for item in set(sublist)]
+    tdf = Counter(flat_terms)
+    for t in tdf:
+        tdf[t] = tdf[t] / len(terms)
+
+    return tdf
+
+
+def get_tf_idf(terms):
+    tf_idf = {}
+    tf = get_tf(terms)
+    idf = get_idf(terms)
+
+    for term in set([item for sublist in terms for item in sublist]):
+        tf_idf[term] = tf[term] * idf[term]
+
+    return tf_idf
 
 
 def get_dr(dic_a, dic_b, term):
@@ -65,35 +105,20 @@ def get_dw(dr, dc, alpha):
     return alpha * dr + (1 - alpha) * dc
 
 
-def get_cook_terms(links):
-    # getting cooking terms for domain relevance
-    cook_terms = []
-    for link in links:
-        cook = []
-        cook.extend(get_text_cook(link))
-        cook_corpus = "; ".join(cook)
-        cook_norm = normalize(cook_corpus, 1, 0)
-        terms = get_oie(cook_norm, 1)
-        cook_terms.append(terms)
+def get_mean(domain, candidate):
+    prob_d = 0
+    for link in domain:
+        words = get_words(link)
 
-    return cook_terms
+        try:
+            prob_d += words[candidate] / sum(words.values())
+        except KeyError:
+            pass
 
-
-def get_car_terms(links):
-    # getting car terms for domain relevance per link
-    car_terms = []
-    for link in links:
-        car = []
-        car.extend(get_text_car(link))
-        car_corpus = "; ".join(car)
-        car_norm = normalize(car_corpus, 1, 0)
-        terms = get_oie(car_norm, 1)
-        car_terms.append(terms)
-
-    return car_terms
+    return prob_d/len(domain)
 
 
-def main(target_link, target_terms):
+def main(target_link, target_terms, domain_relevance_measure):
     domain_relevance = {}
 
     # get terms from both domains for each link
@@ -108,9 +133,17 @@ def main(target_link, target_terms):
     target_domain = get_words(flat_car_terms)
     contrastive_domain = get_words(flat_cook_terms)
 
-    for candidate in candidates:
-        dr = get_dr(target_domain, contrastive_domain, candidate)
-        dc = get_dc(car_terms, candidate)
-        domain_relevance[candidate] = get_dw(dr, dc, 0.5)
+    if domain_relevance_measure == "DR_DC":
+        for candidate in candidates:
+            dr = get_dr(target_domain, contrastive_domain, candidate)
+            dc = get_dc(car_terms, candidate)
+            domain_relevance[candidate] = get_dw(dr, dc, 0.5)
+
+    if domain_relevance_measure == "LOR":
+        # IMPLEMENT LOR
+        for candidate in candidates:
+            p_i = get_mean(car_terms, candidate)
+            p_j = get_mean(cook_terms, candidate)
+            domain_relevance[candidate] = get_log(p_i) - get_log(p_j)
 
     return domain_relevance

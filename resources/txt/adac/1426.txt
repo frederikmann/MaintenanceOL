@@ -1,0 +1,8 @@
+Vermerk im internen Händlersystem ; Wegen eines Produktionsfehlers des Zulieferers Takata, kann im Auslösefall (Unfall) der Zünderdruck so hoch werden, dass sich aus dem Gasgenerator beim Entfalten des Airbags Metallsplitter lösen die dann die Insassen verletzen können. 
+Die Händler tauschen das Fahrerairbagmodul aus. Der Rückruf läuft seit Nov.2014 an, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Im internen Händlersystem des Herstellers vermerkt. ; Das CVT-Schubgliederband überträgt die Antriebskräfte von der Eingangs- zur Antriebsachse. Wegen zu geringem Hydraulikdruck bei häufigem Wechsel zwischen den Fahrstufen L- und D, kann es zu erhöhtem Schlupf des Gliederbands und damit Antriebsverlust mit vorzeitigem Verschleiß des Gliederbandes kommen. 
+Dies kann zu kritischen Verkehrssituationen führen.
+Die Händler führen ein Softwareupdate des Getriebesteuergerätes durch.
+Der Rückruf startet Mitte Okt. 2014, dauert eine knappe Stunde und ist für die Kunden kostenlos. ; Im internen System des Herstellers vermerkt. ; Laut Hersteller besteht die Möglichkeit, dass sich bei leichtem Druck auf das Bremspedal der Druckpunkt in Richtung Fahrzeugboden verschiebt (Bremspedal fällt teilweise leer durch). Grund dafür ist eine unzureichende Oberflächengüte der Zylinderwand des Hauptbremszylinders.
+Das führt laut Hersteller zu verzögerter Bremswirkung und damit verlängertem Bremsweg.
+Die Händler tauschen den Hauptbremszylinder gegen eine verbesserte Version aus. 
+Die Aktion läuft seit Apr.2013, dauert etwa eine Stunde und ist für die Kunden kostenlos.

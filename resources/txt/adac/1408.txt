@@ -1,0 +1,1 @@
+Motor-Kabelstrang kann mit dem Kühlerventilator in Kontakt kommen. Folge: Motor geht aus und lässt sich nicht mehr starten. Beim Atleon (nicht beim Cabstar) kann es zu Wärmebildung am Kabelstrang kommen. Abhilfe durch neue Befestigung des Kabelstranges; Dauer etwa zwei Stunden ; im Nissan-EDV-System

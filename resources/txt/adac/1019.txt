@@ -1,0 +1,4 @@
+Wegen eines Fertigungsfehlers im Elektromotor der Lenkungssteuerung kánn es zum ausfall der Lenkungsunterstützung kommen. 
+Damit sind schlagartig deutlich höhere Lenkkräfte erforderlich, die dem Fahrer das Gefühl geben könnten, die Lenkung würde blockieren, was aber nicht der Fall ist. 
+Wegen diesem Überraschungseffekt kann es zu Fahrproblemen kommen. Insbesondere bei niedrigen Geschwindigkeiten und Einparsituationen, wo die höchste Lenkkräfte auftreten.
+Die elektromechanische Lenkung wir durch den Händler kostenlos komplett ersetzt.  ; Eintrag im Werkstattsystem

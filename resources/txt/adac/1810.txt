@@ -1,0 +1,4 @@
+Durch einen Lötstellenfehler auf der Platine des Steuergerätes kann die Lenkhilfewirkung beim Fahren ausfallen und es dann zu Fahrproblemen kommen. Dies wird gleichzeitig durch das Aufleuchten der STOP-Warnlampe in der Instrumententafel angezeigt.
+Die Händler tauschen das Lenkhilfe-Steuergerät  aus. ; Die Sicherungsmutter der Verbindungsschraube zwischen Lenkspindel und Lenkgetriebeeingang kann sich lösen. Dadurch kann es zum Ausfall der Lenkung kommen. 
+Die Händler bringen einen zusätzlichen Halteflansch an die Überwurfmutter der Verbindung an, um eine dauerhafte Sicherung zu gewährleisten. 
+Die Aktion wurde im November gestartet und dauert   etwa eine halbe Stunde.   ; Aufkleber ("C1") am rechten, vorderen Stoßdämpfer. ; Kontrollaufkleber im Motorraum mit Vermerk "B6".

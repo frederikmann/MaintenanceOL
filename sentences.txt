@@ -1,0 +1,144 @@
+hallo zusammen 
+mein dicker macht seit kurzem probleme 
+folgende probleme 
+fahrzeug startet nicht mehr 
+anlasser dreht 
+nach einiger zeit wieder probiert 
+fahrzeug startet normal 
+am nächsten tag gleiches problem wieder 
+also fehlversuche 
+bisher konnte geprüft werden 
+anlasser dreht 
+kein zündfunken feststellbar 
+benzinpumpe läuft   
+mein erster gedanke nockenwellensensor 
+dieser ist nun bestellt und wird verbaut 
+dachte eventuell auch das msg 
+auffallend ist ebenfalls das ich mein msg nicht auslesen kann 
+keine verbindung möglich 
+alle anderen steuergerät sind ansprechbar 
+abs airbag   
+   
+vielen dank   
+ich würde dir dazu raten fehlerspeicher auszulesen 
+aber gibts offenbar probleme 
+wenn du hallgeber schon bestellt hast 
+dann warte erstmal ab 
+ob der tausch etwas bewirkt 
+das mit dem steuergerät ist jetzt noch kein grund es für defekt zu halten 
+ist das mitunter etwas zickig 
+wenn es nicht mit originalen testern angesprochen wird  
+ok danke der antwort 
+werde sensor morgen mal verbauen und mich dann melden  
+viele grüße 
+wenn man 26 abc auslesen wollte musste man ganz besonders auf die einstellungen im obd programm achten  
+baudrate höchstens 9600   
+com1 oder 2 
+überprüf das mal  
+zitat  
+swissphonememo112 schrieb am 15 
+märz 2020 um 113313 uhr  
+ok danke der antwort 
+werde sensor morgen mal verbauen und mich dann melden  
+viele grüße 
+es gibt noch eine ganze reihe anderer möglichkeiten für dein symptom 
+aber die mit abstand häufigste ursache ist der hallgeber 
+du ja bereits vorsorglich tauschen möchtest 
+die chancen sind durchaus gegeben 
+dass der wagen danach schon wieder läuft 
+wenn nicht 
+dann melde dich einfach wieder hier  
+wenn du dich abseits der diagnose hier näher einlesen möchtest 
+dann gibt es in der suche haufenweise themen zu startproblemen beim v6  
+hallo zusammen also habe heute impulsgeber für die nockenwelle getauscht  
+konnte das fahrzeug auch auslesen 
+fehler hallgeber und der kurbelwellensensor sensor waren dort abgelegt 
+wären dann diese beiden 
+und   
+kurbelwellensensor kabel  vom 
+steuergerät fahrzeug seitig kommen  keine spannung an pin2 messen konnte 
+am hallgeber liegen 12v an   
+viele grüße 
+hey 
+einfach weiter tauschen bringt nichts und kostet geld 
+dier fehler 00514 vom hallgeber wird immer zwangsweise gesetzt 
+wenn der 00515 gesetzt wird 
+der 00513 ist der motordrehzahlgeber g28 ohne startet der abc auch nicht  
+beim hallgeber  g40  sollte auf pin 1  rosw  plus anliegen und auf pin 3gnbr  masse 
+dann logo auf pin 2 das signal  
+  der zündzeitpunktgeber  g4  sollte abgesteckt 1kohm haben 
+zwischen pin 1 2 
+zwischen 1 3 darf kein messbarer widerstand sein  
+für g28 ist es gleich zum g4 zu prüfen  
+lg kim 
+ok das sehe ich ein 
+ich glaube es war fehler 00515 und 00514 
+jetzt bin ich etwas verwirrt der abc hat 3 sensoren 
+2 im block von unten zu wechseln und hallgeber oben in fahrtrichtung links 
+die 2 sensoren die unten im block sind  schwarzer stecker und weißer stecker  und dann eben hallgeber von oben verschraubt 
+werte von 1kohm hab ich gemessen waren genau 1023 ohm am sensor mit dem weißen stecker 
+ich denke das der sensor der ziemlich weit unten im block steckt und schwarzen stecker hat der übeltäter ist 
+dies ist nämlich negativ  
+also der g4 hat schwarzen stecker und an dem kannst du spannung messen 
+beim g28 
+dem motordrehzahlgeber 
+kannst du  am grauen stecker  keine spannung messen und müsstest mit nem oszi das signal prüfen 
+g4 zündzeitpunkt ist unten links am block eingeschraubt und geht an die kurbelwelle  wange  
+g28 sitzt etwas höher darüber und geht an die zähne vom schwungrad 
+wenn man g28 wechselt sollte man halter nicht verschieben 
+sonst muss der neu eingestellt werden  
+g40 ist der hallgeber an der linken nockenwellen  hinten am kopfventildeckel  
+fehler 00514  g4   
+fehler 00515  g40   
+fehler 00513  g28 
+ok danke g28 hab ich heute gewechselt 
+das kabel war auch sehr porös also kein nachteil auch wenn nicht defekt 
+viele grüße 
+am g4 zwischen pin 1  rot  und pin 2  lila  spannung wenn zündung ein 
+ich glaub 5v waren das 
+aber ich müsste mal nachgucken  
+lg kim 
+ah ja und nicht die stecker verwechseln bei zusammenbauen  
+das problem ist ich hab heut gemessen und leider kommt keine spannung an 
+dann könnt ich dort mal messen ob 5v aus dem steuergerät kommen oder nicht  dann könnt ich schon mal ausschließen ob es das msg ist 
+oder ob evtl das kabel nach draußen im eimer ist  
+kannst du am stecker  20polig rot  am msg messen und zwar am pin b19  lila   und 15  rot   
+ok perfekt mache 
+ich morgen und melde mich wieder 
+muss nicht 
+na das teuergerät braucht ja grundsätzlich mehrere masseversorgungen und plus 
+wobei ausserdem die mpfi auch ausrastet wenn ein sensor mal müll liefert 
+wir hatten mal so einen noname geber der einfach spannungsspitzen geliefert hat und einen der nur beim anschieben das signal gab 
+dem reichte die anlasserdrehzahl manchmal einfach nicht  
+ok danke hast du mal nen plan über die gesamte pin belegung für das msg 
+dann würde ich hier mal alles messen  
+viele grüße 
+hallo  
+wollte mich kurz zurückmelden damit dem nächsten der dieses problem hat auch geholfen werden kann  
+letztendlich war es der g4 der kaputt war 
+wurde getauscht seither läuft das fahrzeug 
+vielen dank an alle vor allem der userin kimitation für die tolle hilfe  
+hallo zusammen 
+zu früh gefreut  seit heute leider das gleiche problem  
+du könntest kühlmitteltemperatur sensor g62 noch prüfen 
+bringt der falsche oder gar keine werte so springt der abc sehr schlecht gar nicht an 
+die funktion kannst du testen in dem du sensor prüfst 
+müsste bei ca 3kohm liegen 
+oder im msg unter meßwertblöcke anpassungskanal 002 die temperatur checkst 
+hallo 
+der g62 ist  gut   
+hab das fahrzeug gestern mal ausgelesen  
+   
+hatte wieder folgende fehler  
+   
+00515 hallgeber  g40  
+00514 geber für zündzeitpunkt  g4  
+   
+hab dann die fehler gelöscht 
+anschließend sprang das fahrzeug ohne problem an  
+   
+ich weis langsam nicht mehr weiter  
+   
+viele grüße 
+ja wurde gelöscht  jetzt auch wieder  
+steht eh oben 

@@ -1,0 +1,2 @@
+Im Hersteller-Werkstattsystem ; Durch einen Software-Fehler ertönt keine Warnung beim Ausfall eines Fahrtrichtungsanzeigers (Blinkers). Dieser Warnhinweis muss laut EU Richtlinie ECE R48 vorhanden sein. Der Hersteller ruft betroffene Fahrzeuge daher in die Werkstatt, um ein Softwareupdate durchzuführen.
+Die Aktion läuft seit April 2018 und ist für den Kunden kostenlos.

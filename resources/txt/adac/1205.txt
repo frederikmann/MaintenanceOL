@@ -1,0 +1,1 @@
+Die Auslösekriterien vom Sensor des Bremsassistenten werden geändert (Vollbremsung)

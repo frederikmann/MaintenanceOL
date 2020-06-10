@@ -1,0 +1,8 @@
+Eintrag im Werkstattsystem ; Bei dynamischer Fahrt und hohen Öldrücken kann es zu einem Materialversagen kommen. Austretende Betriebsflüssigkeiten können somit auf die Straße gelangen, den rückwärtigen Verkehr beeinflussen und es besteht die Gefahr eines Motorschadens. Abhilfe: In der Werkstatt wird der Motor nachgebessert. ; Wegen der fehlerhafter Spannungssignale des Sensors kann es an der Vorderachse zu ungewöhnlichen Aufbaubewegungen kommen, wobei dies auch mit Warnmeldung im Kombiinstrument einhergehen kann.
+Lt. Hersteller handelt es sich nur um Komfortbeeinträchtigungen.
+Die Händler prüfen und tauschen ggf. den Aufbaubeschleunigungssensor aus.
+Der Maßnahme läuft Ende 2008, dauert eine Stunde und ist kostenlos.
+ ; Wegen unzureichender Dauerfestigkeit können die Radialgelenke der vorderen Federbeine vorzeitig ausfallen. Der Hersteller macht zwar keine genaueren Angaben zu möglichen Folgen, aber es ist davon auszugehen, dass dann mit Fahrbarkeitsproblemen zu rechnen ist. 
+Die Händler prüfen anhand der Produktionsnummern der Federbeine, ob diese ausgetauscht werden müssen. 
+Der Maßnahme läuft seit Ende 2008, dauert etwas 2,5 Stunden und ist kostenlos.
+ ; Im Hersteller-Werkstattsystem

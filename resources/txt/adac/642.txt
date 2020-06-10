@@ -1,0 +1,3 @@
+Bei einigen Fahrzeugen wurde eine Feder möglicherweise nicht korrekt in die Türverriegelungen (hintere Türen) eingesetzt, so dass die manuelle Kindersicherung nicht korrekt funktioniert. Nach Aktivieren der Kindersicherung ist es eventuell möglich, dass die im normalen Fahrbetrieb auftretenden Vibrationen die Kindersicherung deaktivieren könnten. 
+Abhilfemaßnahme: Der Ford-Händlerbetrieb prüft zunächst, ob die Kindersicherungen in Ordnung sind. Ist dies nicht der Fall, wird eine neue Verriegelungs-Baugruppe eingebaut.
+Die Aktion ist für die Kunden kostenlos. ; Im Hersteller-Werkstattsystem

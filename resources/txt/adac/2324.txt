@@ -1,0 +1,23 @@
+Eine Kraftstoffleitungsabdeckung am Unterboden kann sich lösen. Dadurch können die freiliegenden Kraftstoffleitungen beschädigt werden. 
+Die Händler prüfen die korrekte Befestigung der Abdeckung und ziehen die schrauben ggf. nach Herstellervorgabe nach. 
+Die Aktion wurde bereits im Dez. 2009 gestartet.    Die Durchführung dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Wegen eines gelösten Kugelbolzens in der Schaltkulisse kann es zu Schaltproblemen bei den obigen Modellen kommen. 
+Die Händler ziehen den Kugelbolzen mit korrektem Anzugsmoment nach Herstellervorgabe fest.
+Die Aktion ist ab 3.6.2010 gestartet, dauert je nach Modell, bis zu einer Stunde und ist für die Kunden kostenlos. ; Im internen Volvo-Händler-System und Aufkleber ; Wegen eines Softwarefehlers der Steuerung elektronische Feststellbremse, kann diese sich bereits vorzeitig, nach Fahrzeugstart und eingelegtem Gang, lösen.
+Dann könnte es zu einem unbeabsichtigten Wegrollen des Fahrzeugs kommen.
+Die Händler aktualisieren die Steuersoftware der elektr. Feststellbremse.
+Start der Aktion war Feb.2015, die Aktion dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Vermerk im Volvo-Händlersystem. ; Im Volvo Servicesystem vermerkt. ; Im internen Volvo System unter Code R29424 hinterlegt.  ; Die falsche Einbaulage der Pumpe der Scheinwerferreinigungsanlage führt zu einer falschen Füllstandsanzeige. dadurch kann es passieren, dass bei leeren Waschbehälter keine entsprechende Warnmeldung im Display erscheint. .
+Die Händler verändern beim XC60 die Einbaulage der Waschpumpe im Behälter. Bei allen anderen betroffenen Modellen wird ein zusätzlicher Montagerahmen (Schutzhülle) eingebaut.
+Die Aktion ist im Apr. 2011 gestartet, dauert etwa eine Stunde (XC60), halbe Stunde bei allen anderen Modellen und ist für die Kunden kostenlos. ; Im internen Herstellersystem vermerkt. ; Im Volvo Herstellersystem hinterlegt.  ; Da die Endanschläge der Sitzschienen fehlen oder nicht korrekt verbaut wurden, kann der Sitz auch über den vorgesehenen Minimalabstand zum Lenkrad weiter nach vorne gefahren werden.
+Dadurch kann es lt. Hersteller bei einem Unfall mit Airbagauslösung zu erhöhtem Verletzungsrisiko des Fahrers kommen.
+Die Händler ergänzen die Sitzendanschläge falls erforderlich. 
+Die Aktion wurde am 10.12.2010 gestartet und ist für die Kunden kostenlos.
+ ; Im Volvo-Herstellersystem hinterlegt (Rückrufcode R89205 -Titel: Füllstandssensor der Scheinwerfer-Reinigungsanlage) ; Der Riemenspanner des Nebenaggregateantriebs kann vorzeitig verschleißen und der Antriebsriemen abspringen.
+Laut Hersteller treten zunächst Laufgeräusche auf und in Folge kann es zum Abspringen des Riemens kommen, so dass dann die Unterstützung der Servolenkung ausfällt. Dann sind die Fahrzeuge nur noch mit erheblich höherer Lenkkraft zu steuern.
+Die Händler überprüfen die Riemenspanner und tauschen ggf. den Spanner und Antriebsriemen Nebenaggregate aus.
+Die Aktion läuft seit Nov. 2013, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Bei Partikelfilterfahrzeugen kann es  u.a. auch wegen der Regenerierungsstrategie zu hoher Motorölverdünnung kommen, was bei Anstieg des Ölstands über Maximum zum Motorschaden führen kann. 
+Im ersten Anschreiben vom Mai 2010 hatte Volvo die Kunden zur regelmäßigen Ölstandskontrolle aufgerufen. Mit dem aktuellen Rückruf ab Aug. 2010 werden die Kunden zum Motorsoftwareupdate gerufen. Mit dem verbesserten Softwarestand wird u.a. auch eine Meldung im Infodisplay integriert, falls ein erhöhter Motorölstand erreicht wird. 
+Die Händler spielen den aktuellen Softwarestand auf und bringen einen Aufkleber im Motorraum an , an dem die Ölstände protokolliert werden. 
+Die Aktion dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Laut Hersteller Volvo wurde in den Gurtschlössern der Fahrzeuge für den nordamerikan. Markt eine Kunststoffsperre verbaut, die nicht sicher funktioniert. 
+Dadurch könnte es bei einem Unfall mit hoher Belastung zum Lösen der Gurtzunge aus dem Schloss kommen. 
+Bei den betroffenen Fahrzeugen wird die Kunststoffabdeckung am Gurtschloss getauscht.
+Die Aktion wird Mitte Dezember anlaufen. Die Durchführung dauert etwa eine halbe Stunde und ist kostenlos.

@@ -1,0 +1,2 @@
+Im Hersteller-Werkstattsystem und ein Aufkleber im Bereich des Kofferraums und im Bordbuch (Code 97CH) ; An Fahrzeugen mit einem bestimmten Softwarestand (S0162) ist das Bordnetzsteuergerät fehlerhaft kalibriert. Mögliche Folge ist, dass ein Ausfall des Blinkers, Abblend-, Fern-, Tagfahr- oder Nebelschlusslichts nicht erkannt und somit nicht im Kombiinstrument angezeigt wird. Weiterhin besteht die Möglichkeit, dass eine Beleuchtung, die in Ordnung ist, als defekt angezeigt wird. Abhilfe schafft ein Softwareupdate.
+Die Aktion ist für den Kunden kostenlos.

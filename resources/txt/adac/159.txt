@@ -1,0 +1,1 @@
+Durch Feuchtigkeitsbrücken und den daraus resultierenden Kriechströmen an der Verkabelung zum Telematik-Steuergerät bzw. einem Kondensatorbruch im SOS-Schalter wird vom Audi Telematics-System bei Betätigung kein Notruf ausgesendet oder aber es wird selbsttätig ein Notruf abgesetzt und die Rettungskräfte unnötig alarmiert. ; nicht bekannt

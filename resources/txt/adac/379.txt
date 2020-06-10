@@ -1,0 +1,5 @@
+Vermerk des Aktionscodes im Serviceheft ; Wegen eines Gussfehlers kann es zum plötzlichen Bruch des Getriebehalters kommen. Dann würde auch ein unmittelbarer Antriebsverlust entstehen und es könnte zu kritischen Fahrsituationen kommen.
+Die Händler tauschen den Getriebehalter.
+Der Rückruf (Code: OSB14-16-001) wurde im Mai 2014 gestartet und ist für den Kunden kostenlos. ; keine Angaben ; Der Motorhaubenfanghaken korrodiert und wird dadurch schwergängig. Dann rastet er nicht automatisch ein und im Falle einer nicht vollständig geschlossenen Haube, kann diese während der Fahrt plötzlich hochschlagen und dem Fahrer dann neben dem Schreckeffekt auch die komplette Sicht nach vorne versperren. 
+Die Händler tauschen den Fanghaken gegen eine korrosionsbeständigere Version aus.
+Die Aktion ist im Jan. 2015 angelaufen und ist für die Kunden kostenlos.

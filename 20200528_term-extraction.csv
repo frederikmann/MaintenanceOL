@@ -1,145 +1,145 @@
-label;sent;predicted
-0;hallo zusammen ;1
-1;mein dicker macht seit kurzem probleme ;1
-1;folgende probleme ;1
-1;fahrzeug startet nicht mehr ;1
-1;anlasser dreht ;1
-0;nach einiger zeit wieder probiert ;1
-1;fahrzeug startet normal ;1
-1;am nächsten tag gleiches problem wieder ;1
-1;also fehlversuche    ;0
-0;bisher konnte geprüft werden    ;0
-1;anlasser dreht ;1
-1;kein zündfunken feststellbar ;1
-1;benzinpumpe läuft   ;1
-1;mein erster gedanke nockenwellensensor ;1
-0;dieser ist nun bestellt und wird verbaut ;1
-1;dachte eventuell auch das msg ;1
-1;auffallend ist ebenfalls das ich mein msg nicht auslesen kann ;1
-1;keine verbindung möglich ;1
-1;alle anderen steuergerät sind ansprechbar ;1
-1;abs airbag   ;1
-0;   ;0
-0;vielen dank   ;0
-1;ich würde dir dazu raten fehlerspeicher auszulesen ;1
-1;aber gibts offenbar probleme ;1
-1;wenn du hallgeber schon bestellt hast ;1
-0;dann warte erstmal ab ;0
-1;ob der tausch etwas bewirkt ;1
-1;das mit dem steuergerät ist jetzt noch kein grund es für defekt zu halten ;1
-0;ist das mitunter etwas zickig ;1
-1;wenn es nicht mit originalen testern angesprochen wird  ;1
-0;ok danke der antwort ;1
-1;werde sensor morgen mal verbauen und mich dann melden  ;1
-0;viele grüße ;1
-1;wenn man 26 abc auslesen wollte musste man ganz besonders auf die einstellungen im obd programm achten  ;1
-1;baudrate höchstens 9600   ;1
-1;com1 oder 2 ;1
-0;überprüf das mal  ;1
-0;zitat  ;1
-0;swissphonememo112 schrieb am 15 ;1
-0;märz 2020 um 113313 uhr  ;1
-0;ok danke der antwort ;1
-1;werde sensor morgen mal verbauen und mich dann melden  ;1
-0;viele grüße ;1
-1;es gibt noch eine ganze reihe anderer möglichkeiten für dein symptom ;1
-1;aber die mit abstand häufigste ursache ist der hallgeber ;1
-0;du ja bereits vorsorglich tauschen möchtest ;1
-0;die chancen sind durchaus gegeben ;1
-1;dass der wagen danach schon wieder läuft ;1
-0;wenn nicht ;0
-0;dann melde dich einfach wieder hier  ;0
-1;wenn du dich abseits der diagnose hier näher einlesen möchtest ;1
-1;dann gibt es in der suche haufenweise themen zu startproblemen beim v6  ;1
-1;hallo zusammen also habe heute impulsgeber für die nockenwelle getauscht  ;1
-1;konnte das fahrzeug auch auslesen ;1
-1;fehler hallgeber und der kurbelwellensensor sensor waren dort abgelegt ;1
-0;wären dann diese beiden    ;1
-0;und   ;0
-1;kurbelwellensensor kabel  vom ;1
-1;steuergerät fahrzeug seitig kommen  keine spannung an pin2 messen konnte ;1
-1;am hallgeber liegen 12v an   ;1
-0;viele grüße ;1
-0;hey ;0
-0;einfach weiter tauschen bringt nichts und kostet geld ;1
-1;dier fehler 00514 vom hallgeber wird immer zwangsweise gesetzt ;1
-1;wenn der 00515 gesetzt wird ;1
-1;der 00513 ist der motordrehzahlgeber g28 ohne startet der abc auch nicht  ;1
-1;beim hallgeber  g40  sollte auf pin 1  rosw  plus anliegen und auf pin 3gnbr  masse ;1
-1;dann logo auf pin 2 das signal  ;1
-1;  der zündzeitpunktgeber  g4  sollte abgesteckt 1kohm haben ;1
-1;zwischen pin 1 2 ;1
-1;zwischen 1 3 darf kein messbarer widerstand sein  ;1
-1;für g28 ist es gleich zum g4 zu prüfen  ;1
-0;lg kim ;1
-0;ok das sehe ich ein ;1
-1;ich glaube es war fehler 00515 und 00514 ;1
-1;jetzt bin ich etwas verwirrt der abc hat 3 sensoren ;1
-1;2 im block von unten zu wechseln und hallgeber oben in fahrtrichtung links ;1
-1;die 2 sensoren die unten im block sind  schwarzer stecker und weißer stecker  und dann eben hallgeber von oben verschraubt ;1
-1;werte von 1kohm hab ich gemessen waren genau 1023 ohm am sensor mit dem weißen stecker ;1
-1;ich denke das der sensor der ziemlich weit unten im block steckt und schwarzen stecker hat der übeltäter ist ;1
-0;dies ist nämlich negativ  ;1
-1;also der g4 hat schwarzen stecker und an dem kannst du spannung messen ;1
-1;beim g28 ;1
-1;dem motordrehzahlgeber ;1
-1;kannst du  am grauen stecker  keine spannung messen und müsstest mit nem oszi das signal prüfen ;1
-1;g4 zündzeitpunkt ist unten links am block eingeschraubt und geht an die kurbelwelle  wange  ;1
-1;g28 sitzt etwas höher darüber und geht an die zähne vom schwungrad ;1
-1;wenn man g28 wechselt sollte man halter nicht verschieben ;1
-0;sonst muss der neu eingestellt werden  ;1
-1;g40 ist der hallgeber an der linken nockenwellen  hinten am kopfventildeckel  ;1
-1;fehler 00514  g4   ;1
-1;fehler 00515  g40   ;1
-1;fehler 00513  g28 ;1
-1;ok danke g28 hab ich heute gewechselt ;1
-1;das kabel war auch sehr porös also kein nachteil auch wenn nicht defekt ;1
-0;viele grüße ;1
-1;am g4 zwischen pin 1  rot  und pin 2  lila  spannung wenn zündung ein ;1
-1;ich glaub 5v waren das ;1
-0;aber ich müsste mal nachgucken  ;1
-0;lg kim ;0
-1;ah ja und nicht die stecker verwechseln bei zusammenbauen  ;1
-1;das problem ist ich hab heut gemessen und leider kommt keine spannung an ;1
-1;dann könnt ich dort mal messen ob 5v aus dem steuergerät kommen oder nicht  dann könnt ich schon mal ausschließen ob es das msg ist ;1
-1;oder ob evtl das kabel nach draußen im eimer ist  ;1
-1;kannst du am stecker  20polig rot  am msg messen und zwar am pin b19  lila   und 15  rot   ;1
-0;ok perfekt mache ;0
-0;ich morgen und melde mich wieder ;0
-0;muss nicht ;0
-1;na das teuergerät braucht ja grundsätzlich mehrere masseversorgungen und plus ;1
-1;wobei ausserdem die mpfi auch ausrastet wenn ein sensor mal müll liefert ;1
-1;wir hatten mal so einen noname geber der einfach spannungsspitzen geliefert hat und einen der nur beim anschieben das signal gab ;1
-1;dem reichte die anlasserdrehzahl manchmal einfach nicht  ;1
-1;ok danke hast du mal nen plan über die gesamte pin belegung für das msg ;1
-0;dann würde ich hier mal alles messen  ;1
-0;viele grüße ;1
-0;hallo  ;1
-1;wollte mich kurz zurückmelden damit dem nächsten der dieses problem hat auch geholfen werden kann  ;1
-1;letztendlich war es der g4 der kaputt war ;1
-1;wurde getauscht seither läuft das fahrzeug ;1
-0;vielen dank an alle vor allem der userin kimitation für die tolle hilfe  ;1
-0;hallo zusammen ;1
-1;zu früh gefreut  seit heute leider das gleiche problem  ;1
-1;du könntest kühlmitteltemperatur sensor g62 noch prüfen ;1
-1;bringt der falsche oder gar keine werte so springt der abc sehr schlecht gar nicht an ;1
-1;die funktion kannst du testen in dem du sensor prüfst ;1
-1;müsste bei ca 3kohm liegen ;1
-1;oder im msg unter meßwertblöcke anpassungskanal 002 die temperatur checkst ;1
-0;hallo ;1
-1;der g62 ist  gut   ;1
-1;hab das fahrzeug gestern mal ausgelesen  ;1
-0;   ;0
-1;hatte wieder folgende fehler  ;1
-0;   ;0
-1;00515 hallgeber  g40  ;1
-1;00514 geber für zündzeitpunkt  g4  ;1
-0;   ;0
-1;hab dann die fehler gelöscht ;1
-1;anschließend sprang das fahrzeug ohne problem an  ;1
-0;   ;0
-0;ich weis langsam nicht mehr weiter  ;1
-0;   ;0
-0;viele grüße ;1
-0;ja wurde gelöscht  jetzt auch wieder  ;0
-0;steht eh oben ;0
+roots;terms;sents
+hallo;;"hallo zusammen ;"
+machen;probleme;"mein dicker macht seit kurzem probleme ;"
+probleme;probleme;"folgende probleme ;"
+nicht starten;fahrzeug;"fahrzeug startet nicht mehr ;"
+drehen;anlasser;"anlasser dreht ;"
+probieren;;"nach einiger zeit wieder probiert ;"
+starten;fahrzeug;"fahrzeug startet normal ;"
+problem;problem;"am nächsten tag gleiches problem wieder ;"
+fehlversuche;;"also fehlversuche    ;"
+können;;"bisher konnte geprüft werden    ;"
+drehen;anlasser;"anlasser dreht ;"
+zündfunken;zündfunken;"kein zündfunken feststellbar ;"
+laufen;benzinpumpe;"benzinpumpe läuft   ;"
+nockenwellensensor;gedanke, nockenwellensensor;"mein erster gedanke nockenwellensensor ;"
+bestellen verbauen;;"dieser ist nun bestellt und wird verbaut ;"
+denken;msg;"dachte eventuell auch das msg ;"
+auffallen können;msg;"auffallend ist ebenfalls das ich mein msg nicht auslesen kann ;"
+verbindung;verbindung;"keine verbindung möglich ;"
+ansprechbar sein;steuergerät;"alle anderen steuergerät sind ansprechbar ;"
+airbag;;"abs airbag   ;"
+";";;"   ;"
+viel;;"vielen dank   ;"
+raten;fehlerspeicher;"ich würde dir dazu raten fehlerspeicher auszulesen ;"
+gibts;probleme;"aber gibts offenbar probleme ;"
+bestellen;hallgeber;"wenn du hallgeber schon bestellt hast ;"
+warten;;"dann warte erstmal ab ;"
+bewirken;tausch;"ob der tausch etwas bewirkt ;"
+grund halten;steuergerät, grund;"das mit dem steuergerät ist jetzt noch kein grund es für defekt zu halten ;"
+zickig sein;;"ist das mitunter etwas zickig ;"
+ansprechen;testern;"wenn es nicht mit originalen testern angesprochen wird  ;"
+danke;antwort;"ok danke der antwort ;"
+verbauen;sensor;"werde sensor morgen mal verbauen und mich dann melden  ;"
+grüße;;"viele grüße ;"
+musste;abc, einstellungen, programm, obd;"wenn man 26 abc auslesen wollte musste man ganz besonders auf die einstellungen im obd programm achten  ;"
+baudrate;baudrate;"baudrate höchstens 9600   ;"
+com1;com1;"com1 oder 2 ;"
+überprüf;mal;"überprüf das mal  ;"
+zitat;;"zitat  ;"
+schreiben;swissphonememo112;"swissphonememo112 schrieb am 15 ;"
+märz;märz;"märz 2020 um 113313 uhr  ;"
+danke;antwort;"ok danke der antwort ;"
+verbauen;sensor;"werde sensor morgen mal verbauen und mich dann melden  ;"
+grüße;grüße;"viele grüße ;"
+geben;möglichkeiten, reihe, symptom;"es gibt noch eine ganze reihe anderer möglichkeiten für dein symptom ;"
+ursache sein;abstand, ursache, hallgeber;"aber die mit abstand häufigste ursache ist der hallgeber ;"
+mögen;;"du ja bereits vorsorglich tauschen möchtest ;"
+geben sein;chancen;"die chancen sind durchaus gegeben ;"
+laufen;wagen;"dass der wagen danach schon wieder läuft ;"
+nicht;;"wenn nicht ;"
+melden;;"dann melde dich einfach wieder hier  ;"
+mögen;diagnose;"wenn du dich abseits der diagnose hier näher einlesen möchtest ;"
+geben;v6, themen, startproblemen, suche;"dann gibt es in der suche haufenweise themen zu startproblemen beim v6  ;"
+tauschen;nockenwelle, impulsgeber;"hallo zusammen also habe heute impulsgeber für die nockenwelle getauscht  ;"
+können;fahrzeug;"konnte das fahrzeug auch auslesen ;"
+ablegen;kurbelwellensensor, fehler, sensor, hallgeber;"fehler hallgeber und der kurbelwellensensor sensor waren dort abgelegt ;"
+beid sein;;"wären dann diese beiden    ;"
+und;;"und   ;"
+kurbelwellensensor;kurbelwellensensor, kabel;"kurbelwellensensor kabel  vom ;"
+kommen;fahrzeug, steuergerät, pin2, spannung;"steuergerät fahrzeug seitig kommen  keine spannung an pin2 messen konnte ;"
+liegen;hallgeber;"am hallgeber liegen 12v an   ;"
+grüße;grüße;"viele grüße ;"
+";";;"hey ;"
+bringen;geld;"einfach weiter tauschen bringt nichts und kostet geld ;"
+setzen;fehler, dier, hallgeber;"dier fehler 00514 vom hallgeber wird immer zwangsweise gesetzt ;"
+setzen;;"wenn der 00515 gesetzt wird ;"
+sein;motordrehzahlgeber, g28, abc;"der 00513 ist der motordrehzahlgeber g28 ohne startet der abc auch nicht  ;"
+sollen;anliegen, masse, pin, hallgeber, rosw, g40;"beim hallgeber  g40  sollte auf pin 1  rosw  plus anliegen und auf pin 3gnbr  masse ;"
+logo;pin, logo, signal;"dann logo auf pin 2 das signal  ;"
+sollen;g4, zündzeitpunktgeber;"  der zündzeitpunktgeber  g4  sollte abgesteckt 1kohm haben ;"
+zwischen;pin;"zwischen pin 1 2 ;"
+dürfen;widerstand;"zwischen 1 3 darf kein messbarer widerstand sein  ;"
+prüfen;g28, g4;"für g28 ist es gleich zum g4 zu prüfen  ;"
+kim;;"lg kim ;"
+sehen;;"ok das sehe ich ein ;"
+glauben;fehler;"ich glaube es war fehler 00515 und 00514 ;"
+verwirren sensoren;abc, sensoren;"jetzt bin ich etwas verwirrt der abc hat 3 sensoren ;"
+wechseln;block, fahrtrichtung, hallgeber;"2 im block von unten zu wechseln und hallgeber oben in fahrtrichtung links ;"
+sein;block, stecker, sensoren, hallgeber;"die 2 sensoren die unten im block sind  schwarzer stecker und weißer stecker  und dann eben hallgeber von oben verschraubt ;"
+messen sein;werte, stecker, ohm, sensor;"werte von 1kohm hab ich gemessen waren genau 1023 ohm am sensor mit dem weißen stecker ;"
+denken;block, stecker, übeltäter, sensor;"ich denke das der sensor der ziemlich weit unten im block steckt und schwarzen stecker hat der übeltäter ist ;"
+negativ sein;;"dies ist nämlich negativ  ;"
+messen;g4, stecker, spannung;"also der g4 hat schwarzen stecker und an dem kannst du spannung messen ;"
+beim;g28;"beim g28 ;"
+motordrehzahlgeber;motordrehzahlgeber;"dem motordrehzahlgeber ;"
+können;spannung, oszi, stecker, signal;"kannst du  am grauen stecker  keine spannung messen und müsstest mit nem oszi das signal prüfen ;"
+einschrauben sein;g4, block, kurbelwelle, zündzeitpunkt;"g4 zündzeitpunkt ist unten links am block eingeschraubt und geht an die kurbelwelle  wange  ;"
+sitzen;g28, schwungrad, zähne;"g28 sitzt etwas höher darüber und geht an die zähne vom schwungrad ;"
+nicht sollen;g28, halter;"wenn man g28 wechselt sollte man halter nicht verschieben ;"
+muss;;"sonst muss der neu eingestellt werden  ;"
+g40 sein;kopfventildeckel, nockenwellen, hallgeber, g40;"g40 ist der hallgeber an der linken nockenwellen  hinten am kopfventildeckel  ;"
+fehler;g4, fehler;"fehler 00514  g4   ;"
+fehler;fehler, g40;"fehler 00515  g40   ;"
+fehler;g28, fehler;"fehler 00513  g28 ;"
+wechseln;g28;"ok danke g28 hab ich heute gewechselt ;"
+defekt sein;nachteil, kabel;"das kabel war auch sehr porös also kein nachteil auch wenn nicht defekt ;"
+grüße;grüße;"viele grüße ;"
+am;g4, pin, zündung, spannung;"am g4 zwischen pin 1  rot  und pin 2  lila  spannung wenn zündung ein ;"
+glaub;;"ich glaub 5v waren das ;"
+müsste;;"aber ich müsste mal nachgucken  ;"
+kim;;"lg kim ;"
+";";zusammenbauen, stecker;"ah ja und nicht die stecker verwechseln bei zusammenbauen  ;"
+hab messen;problem, spannung;"das problem ist ich hab heut gemessen und leider kommt keine spannung an ;"
+können;steuergerät, 5v, msg;"dann könnt ich dort mal messen ob 5v aus dem steuergerät kommen oder nicht  dann könnt ich schon mal ausschließen ob es das msg ist ;"
+oder;kabel, evtl, eimer;"oder ob evtl das kabel nach draußen im eimer ist  ;"
+können;lila, stecker, pin, msg, b19;"kannst du am stecker  20polig rot  am msg messen und zwar am pin b19  lila   und 15  rot   ;"
+machen;;"ok perfekt mache ;"
+ich;;"ich morgen und melde mich wieder ;"
+nicht muss;;"muss nicht ;"
+brauchen;plus, teuergerät, masseversorgungen;"na das teuergerät braucht ja grundsätzlich mehrere masseversorgungen und plus ;"
+liefern;mpfi, sensor, müll;"wobei ausserdem die mpfi auch ausrastet wenn ein sensor mal müll liefert ;"
+haben;signal, spannungsspitzen, anschieben, geber;"wir hatten mal so einen noname geber der einfach spannungsspitzen geliefert hat und einen der nur beim anschieben das signal gab ;"
+nicht reichen;anlasserdrehzahl;"dem reichte die anlasserdrehzahl manchmal einfach nicht  ;"
+danke;pin, belegung, plan, msg;"ok danke hast du mal nen plan über die gesamte pin belegung für das msg ;"
+messen;;"dann würde ich hier mal alles messen  ;"
+grüße;grüße;"viele grüße ;"
+";";;"hallo  ;"
+wollen;problem;"wollte mich kurz zurückmelden damit dem nächsten der dieses problem hat auch geholfen werden kann  ;"
+kaputt sein;g4;"letztendlich war es der g4 der kaputt war ;"
+laufen;fahrzeug;"wurde getauscht seither läuft das fahrzeug ;"
+danken;userin, hilfe, kimitation;"vielen dank an alle vor allem der userin kimitation für die tolle hilfe  ;"
+hallo;;"hallo zusammen ;"
+freuen;problem;"zu früh gefreut  seit heute leider das gleiche problem  ;"
+können;g62, sensor, kühlmitteltemperatur;"du könntest kühlmitteltemperatur sensor g62 noch prüfen ;"
+nicht springen;abc, werte;"bringt der falsche oder gar keine werte so springt der abc sehr schlecht gar nicht an ;"
+können;funktion, sensor;"die funktion kannst du testen in dem du sensor prüfst ;"
+müsste;3kohm;"müsste bei ca 3kohm liegen ;"
+checken;checkst, temperatur, meßwertblöcke, msg, anpassungskanal;"oder im msg unter meßwertblöcke anpassungskanal 002 die temperatur checkst ;"
+hallo;;"hallo ;"
+gut sein;g62;"der g62 ist  gut   ;"
+auslesen;fahrzeug;"hab das fahrzeug gestern mal ausgelesen  ;"
+";";;"   ;"
+haben;fehler;"hatte wieder folgende fehler  ;"
+";";;"   ;"
+hallgeber;hallgeber, g40;"00515 hallgeber  g40  ;"
+geber;g4, geber, zündzeitpunkt;"00514 geber für zündzeitpunkt  g4  ;"
+";";;"   ;"
+löschen;fehler;"hab dann die fehler gelöscht ;"
+springen;problem, fahrzeug;"anschließend sprang das fahrzeug ohne problem an  ;"
+";";;"   ;"
+nicht weis;;"ich weis langsam nicht mehr weiter  ;"
+";";;"   ;"
+grüße;grüße;"viele grüße ;"
+löschen;;"ja wurde gelöscht  jetzt auch wieder  ;"
+stehen;;steht eh oben

@@ -1,0 +1,15 @@
+Langzeiteinwirkungen wie Vibrationen und wechselnde Temperaturen in Verbindung mit einer erhöhten Feuchtigkeits- und einer extremen Streusalzbelastung können zu Korrosion im Übergabestützpunkt der B+-Leitung im Gepäckraum führen. Ein höherer Übergangswiderstand kann dann zu Schwankungen im Bordnetz mit Störungen unterschiedlicher Systeme bis hin zum Startversagen führen. In wenigen Einzelfällen kann sich die Schraubverbindung durch den erhöhten Übergangswiderstand oder den Kriechstrom erhitzen. Im Falle einer Erhitzung der Schraubverbindung kann unter Umständen ein Schmorschaden auftreten. Abhilfe: In der Werkstatt werden die Leitungen geprüft und bei Bedarf gewechselt. ; Eine fehlerhafte Steckverbindung der Dieselkraftstoffheizung verursacht möglicherweise einen Dauerbetrieb der Dieselfilterheizung. 
+Dadurch schaltet diese nach dem Startvorgang nicht mehr ab und der Dieselkraftstoff heizt sich auf. Dies führt dann entweder zum entleeren der Batterie (Startprobleme) oder im extremeren Fall zu Brandschäden. 
+Die Händler tauschen die fehlerhafte Steckverbindung und ggf. vorgeschädigte Teile aus.
+Der Aktionsstart ist Aug.2011, dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Im Händlersystem hinterlegt. ; Im fahrzeugeigenen Diagnosesystem ; Wegen möglicher Softwareprobleme der Motorsteuerung kann es zu Startproblemen bzw. Leistungseinbußen kommen. In extremeren Fällen kann auch der Tausch der Hochdruckeinspritzpumpe erforderlich sein. 
+In Deutschland scheint es, lt. Hersteller nur vereinzelte Fälle zu geben.
+Es wird ein Motorsoftwareupdate durchgeführt und ggf die Hochdruckeinspritzpumpe getauscht. Wann ein Tausch fällig ist, hat uns der Hersteller allerdings nicht mitgeteilt. 
+Auch bei betroffenen, reimportierten Fahrzeugen aus Übersee können die Händler auch hier prüfen und die erforderlichen Maßnahmen durchführen. 
+Die Aktion läuft seit Okt. 2010 und ist für die Kunden kostenlos. ; Im Servicesystem des Herstellers vermerkt. ; Im Hersteller-Werkstattsystem, Code 0061070500 ; Die elektrische Wasserpumpe zur Kühlung des Turboladers kann bei höheren Temperaturen ausfallen und es dadurch zum Überhitzen des Turboladers führen. 
+Dies kann in Folge bis zum Fahrzeugbrand führen.
+Die Händler ersetzen die Wasserpumpe durch eine geänderte Version. 
+Die Aktion ist im Okt. 2011 angelaufen, dauert etwa eine Stunde und ist für die Kunden kostenlos.  ; Im Herstellerdiagnosesystem vermerkt  ; Wegen eines Softwarefehlers kann es zum Aktivieren des Notlaufprogrammes im Motorsteuergerät kommen.
+Dies führt zu einer Geschwindigkeits- und Drehzahlbegrenzung.
+Bei den Betroffenen, die ab Mitte Juli 2008 angeschrieben werden, wird ein Update der Motorsteuersoftware durchgeführt.
+Bei bestimmten Fahrzeugen dieser Aktion werden auch die Piezo-Injektoren ausgetauscht, da es auchhier zu Leistungsproblemen kommen kann.
+Die Aktion ist kostenlos und Kunden erhalten im Bedarfsfall für die Dauer ein kostenloses Ersatzfahrzeug.

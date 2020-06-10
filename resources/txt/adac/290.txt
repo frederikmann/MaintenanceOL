@@ -1,0 +1,12 @@
+Es wurde eine Unregelmäßigkeit, in der Fertigung der Airbag Herstellung durch ein verunfalltes Fahrzeug in USA auffällig. Personenschäden sind zu diesem Fall nicht bekannt. Der Tausch des Fahrerairbags wird durchgeführt als Vorsorgemaßnahme.
+Die Aktion läuft seit August 2017 und ist für den Kunden kostenlos. ; BMW Connected Drive erlaubt den damit ausgestatteten Fahrzeugen, via Mobilfunk (und mittels festverbauter SIM-Karte) Informationen mit dem Auto-Hersteller auszutauschen (je nach Modell u.a. Wartungsfälligkeiten, Batterie-Zustand, Stau-Daten). Außerdem können dem Fahrzeug per Smartphone-App über einen Hersteller-Server Befehle wie z. B. „Fahrertür öffnen“, „Hupe aktivieren“ etc. gesendet. werden.
+Der ADAC hat bei BMW-Fahrzeugen mit der Ausstattung Connected Drive Sicherheitslücken festgestellt. Dadurch können die Autos nach einmaliger Vorbereitung per Mobilfunk minutenschnell von außen geöffnet werden, ohne dass dies Spuren hinterlässt.
+Der ADAC hat in seiner Eigenschaft als Verbraucherschützer den Hersteller BMW aufgefordert, diese Sicherheitslücken umgehend zu schließen und über den Fortgang der Arbeiten laufend zu informieren.
+Die Sicherheitslücken sollten laut BMW bis 31. Januar 2015 durch Einschalten einer Verschlüsselung der Kommunikation mit dem Fahrzeug geschlossen werden.Drei Nacharbeiten zu dieser Aktion:             1.) Beim i3 und i8 kam es zu einem Konfigurationsfehler bei der Leitungs-verschlüsselung. Laut BMW wurde der Konfigurationsfehler zum 21.08.2015 bei allen i-Fahrzeugen behoben.
+
+2.) Bei allen Fahrzeugen mit Connected Drive war ein unberechtigtes Öffnen des Fahrzeugs durch Kapern der BMW Remote App (per Smartphone ausgeführtes Programm) möglich.
+Laut BMW wird ab 29.6.2015 bei der Remote App, zusätzlich zur Fahrgestellnummer, auch der Abgleich der Seriennummer der SIM-Karte gefordert, um dadurch den Missbrauch zu verhindern.
+
+3.) Bei allen BMW i-Fahrzeugen bis 03/2015 sowie den F-Baureihen (03/2014 bis 03/2015) konnte ein Rücksetzen der Leitungsverschlüsselung erfolgen. 
+Laut BMW wird der Einstellungsparameter so abgeändert, dass eine Rückstellung von außen nicht mehr möglich ist. Die Abhilfemaßnahme erfolgt online, so dass weder ein Werkstatt-Besuch noch ein Zutun des Fahrzeugbesitzers erforderlich sind. 
+Die Aktion soll bis Ende September 2015 (KW39) abgeschlossen sein. ; Im Hersteller-Werkstattsystem ; Nicht erkennbar, um sicher zu gehen muß die BMW-Hotline 0 89/ 1 25 01 60 10 angerufen werden.

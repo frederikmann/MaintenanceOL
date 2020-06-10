@@ -1,0 +1,1 @@
+Es besteht das Risiko, dass beim Drücken der eCall-Taste bzw. beim automatischen Notruf das System nicht richtig funktioniert. Falscher Datensatz im OCU-Steuergerät (Online Connectivity Unit).Abhilfe: Bei den betroffenen Fahrzeugen wird  das OCU-Steuergerät getauscht ; Im Hersteller-Werkstattsystem. Code 91W7

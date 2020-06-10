@@ -1,0 +1,12 @@
+Im Hersteller-Werkstattsystem ; Eintrag "19F8 ausgeführt" im Serviceplan. ; Keine nachträgliche Kennzeichnung, da alle Fahrzeuge, lt. Hersteller, vor Auslieferung beim Handel überprüft wurden. ; Wegen eines Fertigungsfehlers kann es zu Undichtigkeiten am Ladeluftkühler kommen. 
+Laut Hersteller beschränken sich die Auswirkungen auf eine reduzierte Motorleistung.
+Die Händler überprüfen das Fertigungsdatum des Ladeluftkühlers und tauschen Kühler aus dem fehlerhaften Fertigungszeitraum aus.
+Die Aktion läuft seit Dez. 2009 ist kostenlos und dauert 10 Minuten (Prüfung), bei Austausch etwa drei Stunden. 
+Vorherige Terminvereinbarung mit dem Händler wäre sinnvoll. 
+ ; Audi hat laut KBA unzulässige Programme in der Motorsoftware, mit denen die Fahrzeuge die erlaubten Stickoxid-Abgasgrenzwerte nur auf dem Prüfstand einhalten, auf der Straße jedoch nicht. Abhilfe: Ein Softwareupdate wird erfolgen. ; Wegen eines falschen Motortemperatursignals,  kann der Kühlerlüfter auch nach Abkühlen des Motors noch so lange nachlaufen, bis die Batterie leer ist.
+Im Rahmen der Aktion wird ein zusätzlicher Adapterleitungssatz mit zwei Trennrelais eingebaut. Dadurch soll eine zuverlässige Abschaltung des Lüfters gewährleistet werden. 
+Die Maßnahme ist kostenlos und dauert etwa 1,5 Stunden. ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzuführen. 
+
+
+Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
+Die Aktion ist für den Kunden kostenlos.

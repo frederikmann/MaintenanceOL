@@ -1,0 +1,6 @@
+Laut Hersteller kann es bei Volllastfahrten auf rutschiger oder schlechter Fahrbahnoberfläche zum Durchrutschen des Schubgliederbandes des CVT-Getriebes kommen. 
+Dies führt zu erhöhtem Verschleiß und kann auf Dauer bis zum Verlust des Antriebs (Fahrzeug bleibt stehen- Motorkontrollleuchte an) führen. 
+Die Händler führen ein Programmupdate am CVT-Steuergerät durch. 
+Die Aktion läuft seit  Jun. 2013, dauert etwa eine viertel Stunde und ist für die Kunden kostenlos. ; Im internen Herstellersystem vermerkt.  ; Im Händlersystem des Herstellers hinterlegt. 
+ ; Aufgrund einer Fehlfunktion des Abgastemperatursensors kann das Motorsteuergerät die Motorleistung grundlos reduzieren, um vermeintliches Überhitzen des Turboladers zu verhindern. Dann kommt es zum Leistungsabfall und die Motorkontrolle leuchtet. 
+Die Händler bauen einen verbesserten Sensor ein. Die Aktion läuft seit Herbst 2013, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.

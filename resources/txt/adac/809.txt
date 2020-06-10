@@ -1,0 +1,3 @@
+Eine fehlerhafte Programmierung des Airbagsteuergerätes kann zu einer fehlerhaften Funktion des Airbags führen. Möglich ist, dass der Airbag unkontrolliert auslöst. Abhilfe: In der Werkstatt wird das Steuergerät umprogrammiert. ; Die Lenkungsschraube am Kreuzgelenk ist nicht richtig festgezogen. Die Schraube kann sich lösen, so dass es im ungünstigsten Fall das Fahrzeug nicht mehr lenkbar ist. 
+Die Händler befestigen die Schraube mit dem vorgeschriebenen Drehmoment.  
+Der Rückruf (Code "41C055") ist im Okt.2014 angelaufen, dauert eine knappe halbe Stunde und ist für die Kunden kostenlos. ; Vermerk zum Aktionscode "41C055" im Händlersystem . ; Im Hersteller-Werkstattsystem

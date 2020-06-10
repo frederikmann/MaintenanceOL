@@ -1,0 +1,8 @@
+Aufgrund eines möglichen Defektes der Gasdruckfedern der Gepäckraumklappe in Verbindung mit der Antriebssteuerung, kann es nach Öffnen zeitverzögert zu einem plötzlichen Schließen der Klappe kommen. Dies kann auch zu Personengefährdung führen. Die Händler tauschen die beiden Antriebseinheiten der Heckklappensteuerung bei den betroffenen Fahrzeugen aus und aktualisieren die Software der Steuerung.
+Die Maßnahmen sind für den Kunden kostenlos und dauern etwa eine Stunde. Wegen der Teiledisposition sollte eine vorherige Terminvereinbarung mit dem Händler erfolgen. Der Hersteller hat für Fragen dazu auch die Servicenr. 0800-28347378423 eingerichtet. ; Eintrag "19F8 ausgeführt" im Serviceplan. ; Im Hersteller-Werkstattsystem ; Eintrag "55 E5 ausgeführt" im Serviceplan. ; Wegen eines falschen Motortemperatursignals,  kann der Kühlerlüfter auch nach Abkühlen des Motors noch so lange nachlaufen, bis die Batterie leer ist.
+Im Rahmen der Aktion wird ein zusätzlicher Adapterleitungssatz mit zwei Trennrelais eingebaut. Dadurch soll eine zuverlässige Abschaltung des Lüfters gewährleistet werden. 
+Die Maßnahme ist kostenlos und dauert etwa 1,5 Stunden. ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzuführen. 
+
+
+Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
+Die Aktion ist für den Kunden kostenlos.

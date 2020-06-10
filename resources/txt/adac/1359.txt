@@ -1,0 +1,3 @@
+Im Hersteller-Werkstattsystem, Code „R30380“ ; Die Fahrzeuge verfügen möglicherweise über ein fehlerhaftes Auto Stop & Go-System (AS&G). Das Steuergerät erkennt nicht mehr zuverlässig den Ladezustand der Batterie. So könnte trotz leerem Stromspeicher der Motor bei Halt des Fahrzeugs ausgehen und dann nicht mehr anspringen. Abhilfe: Softwareupdate ; 
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem

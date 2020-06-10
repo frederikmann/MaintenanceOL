@@ -1,0 +1,4 @@
+Weisse Farbmarkierung am Stecker des Drosselventils. ; Weisser Lackpunkt am Anschluss der Dieselrückführung. ; Das Kraftstoffverteilerrohr kann wegen Fertigungsfehler (dünne Wandstärke) undicht werden. Es kommt dann in Folge zum Kraftstoffaustritt. 
+Die Händler prüfen am Haltebügel der Kraftstoffleitung ob diese getauscht werden muss (Aufdruck "1" tauschen, "2" ist o.k.).
+Die Maßnahme, die bereits unter der Aktionsnr. 5331 im Okt. 2008 angelaufen ist, ist kostenlos und dauert etwa eine halbe Stunde.  ; Wegen mangelhaften Schweissnaht am Anschlußteil für die Rücklaufleitung kann es zum Austritt von Dieselkraftstoff und in Folge zum Brandschaden kommen. 
+Die Händler tauschen das Verbindungsstück (nur Prod.datum vor 09-04-07 - Datumaufdruck auf Rail.  Die interne Aktionsnr. lautet 5386.

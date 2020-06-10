@@ -1,0 +1,6 @@
+im fahrzeug-eigenen Datenspeicher (On-Board-Diagnose) ; Vermerk im internen Diagnosesystem ; Bei einigen Fahrzeugen könnte die Leitung von der Hydraulikpumpe am Motor zur Lenkung in Kontakt mit dem Keilriemen kommen, wodurch diese leckschlagen könne.
+Im ungünstigsten Fall würde dadurch die Servounterstützung ausfallen. Dies sei aber nur bei einem hohen Druck in der Leitung, also bei starkem Lenkeinschlag möglich, wie er hauptsächlich beim Rangieren vorkommt. ; Ein Defekt an der Diesel-Hochdruckpumpe kann bereits nach kurzer Laufzeit zum Blockieren der Pumpe und damit zum Motorstillstand führen. Nach Angaben von BMW werden die betroffenen Kunden ab 7.Februar 2005 angeschrieben. Die mängelfreien Pumpen werden von Bosch ab Anfang Februar produziert und sobald wie möglich kostenlos in der BMW-Werkstatt getauscht.
+Die Produktion und Auslieferung von Neufahrzeugen verzögert sich durch das fehlerhafte Zulieferteil um etwa 1-2 Wochen. ; Wegen einer defekten Sensormatte der Beifahrersitzbelegungserkennung löst der Beifahrerairbag bei einem Unfall nicht aus.
+Der Fehler wird dem Fahrer durch Aufleuchten der Airbagkontrolle angezeigt. 
+Die Sensormatte im Beifahrersitz wird kostenlos ausgetauscht.
+Lt. Hersteller BMW sind nur Fahrzeuge für den USA-Markt betroffern, deshalb wird die Aktion nur dort durchgeführt..

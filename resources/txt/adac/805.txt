@@ -1,0 +1,5 @@
+Das ABS/ESP-Modul kann auch bei ausgeschaltetem Motor mit Strom versorgt werden. Dadurch entsteht Brandgefahr bzw. ABS und ESP könnten nicht ordnungsgemäß funktionieren. Der Hersteller ruft betroffene Fahrzeuge daher in die Werkstatt, um ein Relais in der Hauptverteilerbox zu installieren.
+Die Aktion läuft seit dem 20.03.2018 und ist für den Kunden kostenlos. ; Wegen unzureichendem Korrosionsschutz kann der hintere Achsträger brechen. Dann ist die Fahrstabilität nicht mehr gewährleistet und es kann zum Unfall kommen.
+Die Händler führen bei geringer Korrosion eine Korrosionsbehandlung des Trägers durch.
+Im fortgeschrittenem Stadium wird der Achsträger getauscht. 
+Die Aktion ist im Dez. 2014 angelaufen, dauert bis zu einem ganzen Tag (Korrosionsbehandlung) und ist für die Kunden kostenlos., ; Im Hersteller-Werkstattsystem (Code 71C126) ; Im Hyundai- Werkstattsystem (Aktionscode 31C031) hinterlegt.

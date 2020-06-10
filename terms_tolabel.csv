@@ -1,0 +1,1088 @@
+index;roots;terms;sents
+0;hallo;hallo;"hallo nochmal, ; habe folgendes problem am audi."
+1;hallo;audi;"hallo nochmal, ; habe folgendes problem am audi."
+2;hallo;problem;"hallo nochmal, ; habe folgendes problem am audi."
+3;hallo;folgendes problem;"hallo nochmal, ; habe folgendes problem am audi."
+4;lassen;gänge;die gänge lassen sich schlecht einlegen.
+5;problem sein;gang;der 1. gang ist das größte problem.
+6;problem sein;problem;der 1. gang ist das größte problem.
+7;problem sein;1 . gang;der 1. gang ist das größte problem.
+8;scheinen;fahrersitz;scheint mir als op der ganghebel sich zu sehr nach links zum fahrersitz neigt.
+9;scheinen;op;scheint mir als op der ganghebel sich zu sehr nach links zum fahrersitz neigt.
+10;scheinen;ganghebel;scheint mir als op der ganghebel sich zu sehr nach links zum fahrersitz neigt.
+11;lande;drücke;wenn ich dann zurück in den 2.gang schalte und nach vorne drücke, lande ich mit viel glück im 1. gang.
+12;lande;gang;wenn ich dann zurück in den 2.gang schalte und nach vorne drücke, lande ich mit viel glück im 1. gang.
+13;lande;glück;wenn ich dann zurück in den 2.gang schalte und nach vorne drücke, lande ich mit viel glück im 1. gang.
+14;anschauen;gestänge;"; habe mir das gestänge unterm auto angeschaut."
+15;anschauen;auto;"; habe mir das gestänge unterm auto angeschaut."
+16;verbauen sein;plastikschalen;"; habe mir nun die 2 plastikschalen bestellt die unter dem ganghebel verbaut sind. ;"
+17;verbauen sein;ganghebel;"; habe mir nun die 2 plastikschalen bestellt die unter dem ganghebel verbaut sind. ;"
+18;können;einfach;kann mir bitte jemand sagen op die einfach zu wechseln sind?
+19;hallo;hallo;"hallo ;"
+20;bewegen;gestänge;wenn es die beiden für das kleine gestänge ist um nach rechts und links zu bewegen.
+21;entscheitung sein;entscheitung;"; ist das schon mal eine gute entscheitung."
+22;lassen;fett;diese lassen sich mit etwas fett gut wechseln.
+23;thomas;gruß thomas;"gruß thomas ;"
+24;thomas;thomas;"gruß thomas ;"
+25;thomas;gruß;"gruß thomas ;"
+26;hallo;hallo;hallo auch, rein interessehalber...  
+27;hallo;interessehalber;hallo auch, rein interessehalber...  
+28;richtig sein;/;"dein 100er ist ein 5-zylinder mit motorkennbuchstabe ""wc"", 2144cm³ / 100kw (136ps), 5700 u/min, 185 nm bei 4800 u/min richtig ?"
+29;richtig sein;u/min;"dein 100er ist ein 5-zylinder mit motorkennbuchstabe ""wc"", 2144cm³ / 100kw (136ps), 5700 u/min, 185 nm bei 4800 u/min richtig ?"
+30;richtig sein;wc;"dein 100er ist ein 5-zylinder mit motorkennbuchstabe ""wc"", 2144cm³ / 100kw (136ps), 5700 u/min, 185 nm bei 4800 u/min richtig ?"
+31;richtig sein;nm;"dein 100er ist ein 5-zylinder mit motorkennbuchstabe ""wc"", 2144cm³ / 100kw (136ps), 5700 u/min, 185 nm bei 4800 u/min richtig ?"
+32;richtig sein;motorkennbuchstabe;"dein 100er ist ein 5-zylinder mit motorkennbuchstabe ""wc"", 2144cm³ / 100kw (136ps), 5700 u/min, 185 nm bei 4800 u/min richtig ?"
+33;richtig sein;5-zylinder;"dein 100er ist ein 5-zylinder mit motorkennbuchstabe ""wc"", 2144cm³ / 100kw (136ps), 5700 u/min, 185 nm bei 4800 u/min richtig ?"
+34;richtig sein;cm³;"dein 100er ist ein 5-zylinder mit motorkennbuchstabe ""wc"", 2144cm³ / 100kw (136ps), 5700 u/min, 185 nm bei 4800 u/min richtig ?"
+35;handeln;modell;ja genau um dieses modell handelt es sich.
+36;leute;hallo;"hallo leute, ;   "
+37;leute;leute;"hallo leute, ;   "
+38;leute;hallo leute;"hallo leute, ;   "
+39;müsste;unlackierten teile;bei meinem audi 80 müsste ich mal dringend die unlackierten teile aufhübschen.
+40;müsste;teile;bei meinem audi 80 müsste ich mal dringend die unlackierten teile aufhübschen.
+41;müsste;audi;bei meinem audi 80 müsste ich mal dringend die unlackierten teile aufhübschen.
+42;müsste;müsste;bei meinem audi 80 müsste ich mal dringend die unlackierten teile aufhübschen.
+43;bekommen;schraubenziehern;durch den einbau von neuen scheinwerfern sind ziemlich hässliche spuren von den schraubenziehern da geblieben und würde die gerne raus bzw. überdeckt bekommen.
+44;bekommen;einbau;durch den einbau von neuen scheinwerfern sind ziemlich hässliche spuren von den schraubenziehern da geblieben und würde die gerne raus bzw. überdeckt bekommen.
+45;bekommen;spuren;durch den einbau von neuen scheinwerfern sind ziemlich hässliche spuren von den schraubenziehern da geblieben und würde die gerne raus bzw. überdeckt bekommen.
+46;bekommen;scheinwerfern;durch den einbau von neuen scheinwerfern sind ziemlich hässliche spuren von den schraubenziehern da geblieben und würde die gerne raus bzw. überdeckt bekommen.
+47;machbar sein;mitteln;mit welchen mitteln ist das gut machbar?
+48;verschieben;threat;falls es dazu schon einen threat gibt gerne verschieben.
+49;geschickt sein;bilder;"am geschicktesten wäre es, wenn du mal bilder hier postest. ;"
+50;können;bild;"dann kann man sich ein ""bild davon machen"" und dir besser helfen. ;   "
+51;arrgyle;"; grüße";"; grüße arrgyle ;"
+52;arrgyle;arrgyle;"; grüße arrgyle ;"
+53;arrgyle;grüße;"; grüße arrgyle ;"
+54;bilder;bilder;hier ein paar bilder.
+55;gehen;super;klar die etwas ramponierteren stellen da geht nix, aber die schlieren wären super, wenn man die entfernen könnte.
+56;gehen;klar ramponierteren stellen;klar die etwas ramponierteren stellen da geht nix, aber die schlieren wären super, wenn man die entfernen könnte.
+57;gehen;schlieren;klar die etwas ramponierteren stellen da geht nix, aber die schlieren wären super, wenn man die entfernen könnte.
+58;gehen;stellen;klar die etwas ramponierteren stellen da geht nix, aber die schlieren wären super, wenn man die entfernen könnte.
+59;schleifen;schleifen;"schleifen, strukturlack drauf und dann noch schwarz in matt oder seidenmatt lackieren ;"
+60;helfen;kunststoffgel;also sowas wie sonax kunststoffgel würde da nicht helfen, um wenigstens diese spuren zu beseitigen?  
+61;helfen;spuren;also sowas wie sonax kunststoffgel würde da nicht helfen, um wenigstens diese spuren zu beseitigen?  
+62;helfen;sonax;also sowas wie sonax kunststoffgel würde da nicht helfen, um wenigstens diese spuren zu beseitigen?  
+63;zitat;zitat;zitat:
+64;schreiben;uhr;@a6 2,7t schrieb am 1. juni 2020 um 22:25:41 uhr:
+65;schreiben;2,7 t;@a6 2,7t schrieb am 1. juni 2020 um 22:25:41 uhr:
+66;schreiben;juni;@a6 2,7t schrieb am 1. juni 2020 um 22:25:41 uhr:
+67;schreiben;t;@a6 2,7t schrieb am 1. juni 2020 um 22:25:41 uhr:
+68;schleifen;schleifen;"; schleifen, strukturlack drauf und dann noch schwarz in matt oder seidenmatt lackieren ;"
+69;schleifen;"; schleifen";"; schleifen, strukturlack drauf und dann noch schwarz in matt oder seidenmatt lackieren ;"
+70;arrgyle;arrgyle;grüße arrgyle  
+71;arrgyle;grüße;grüße arrgyle  
+72;können;heissluftföhn;unlackierten kunststoff kann man recht gut mit einem heissluftföhn wieder auf hochglanz bringen.
+73;können;hochglanz;unlackierten kunststoff kann man recht gut mit einem heissluftföhn wieder auf hochglanz bringen.
+74;können;kunststoff;unlackierten kunststoff kann man recht gut mit einem heissluftföhn wieder auf hochglanz bringen.
+75;können;unlackierten kunststoff;unlackierten kunststoff kann man recht gut mit einem heissluftföhn wieder auf hochglanz bringen.
+76;muss;muss;muss aber vorsichtig gemacht werden.  
+77;bringen;plastik;zu wenig temperatur bringt nichts, zu viel und das plastik schmilzt.
+78;bringen;temperatur;zu wenig temperatur bringt nichts, zu viel und das plastik schmilzt.
+79;bringen;schmilzt;zu wenig temperatur bringt nichts, zu viel und das plastik schmilzt.
+80;komplett;hallo;hallo, suche schwarze rückleuchten komplett mit leiste.
+81;komplett;hallo , suche schwarze rückleuchten;hallo, suche schwarze rückleuchten komplett mit leiste.
+82;komplett;rückleuchten;hallo, suche schwarze rückleuchten komplett mit leiste.
+83;komplett;leiste;hallo, suche schwarze rückleuchten komplett mit leiste.
+84;version;us;oder us version.
+85;version;version;oder us version.
+86;danke;danke;danke
+87;freunde;hallo;hallo freunde.
+88;normal sein;auto;ist es normal daß das servoöl absackt wenn das auto läuft?
+89;normal sein;servoöl;ist es normal daß das servoöl absackt wenn das auto läuft?
+90;stehen;zustand;"in kaltem zustand steht es auf max. ; ja."
+91;stehen;kaltem zustand;"in kaltem zustand steht es auf max. ; ja."
+92;hallo;hallo;hallo zusammen!
+93;können;verteiler;"; kann mir bitte jemand verraten wie man den verteiler abschraubt."
+94;liegen;bilder;die mutter liegt so ungünstig (siehe bilder), dass ich mir nicht zu helfen weiß.  
+95;liegen;mutter;die mutter liegt so ungünstig (siehe bilder), dass ich mir nicht zu helfen weiß.  
+96;sehen;verteilers;"; beim ersten bild sieht man die angenietete verdeckung des verteilers."
+97;sehen;bild;"; beim ersten bild sieht man die angenietete verdeckung des verteilers."
+98;sehen;verdeckung;"; beim ersten bild sieht man die angenietete verdeckung des verteilers."
+99;sein;schraube;"unter dieser verdeckung ist die schraube. ;"
+100;sein;verdeckung;"unter dieser verdeckung ist die schraube. ;"
+101;sehen;bild;im zweiten bild ist die schraube zu sehen.
+102;sehen;schraube;im zweiten bild ist die schraube zu sehen.
+103;halten;spiegel;ich habe einen spiegel unter die abdeckung gehalten.
+104;halten;abdeckung;ich habe einen spiegel unter die abdeckung gehalten.
+105;sitzen;verteiler finger bombenfest;"; außerdem sitzt der verteiler finger bombenfest."
+106;sitzen;bombenfest;"; außerdem sitzt der verteiler finger bombenfest."
+107;sitzen;verteiler;"; außerdem sitzt der verteiler finger bombenfest."
+108;haben;tipp;"; habt ihr da auch einen tipp  ;   "
+109;danke;pfingsten;"; danke im voraus und schöne pfingsten ;"
+110;danke;"; danke";"; danke im voraus und schöne pfingsten ;"
+111;danke;danke;"; danke im voraus und schöne pfingsten ;"
+112;nicht befestigung sein;ng;das ist nicht die befestigung für den ng!
+113;nicht befestigung sein;befestigung;das ist nicht die befestigung für den ng!
+114;nicht hören;schraube;die schraube gehört da nicht hin.
+115;scheinen;originalteil;"; scheint kein originalteil zu sein,,,versuch"
+116;scheinen;sein,,,versuch;"; scheint kein originalteil zu sein,,,versuch"
+117;abflexen;blech;irgendwie das blech zu lösen.niet abflexen mit
+118;abflexen;abflexen;irgendwie das blech zu lösen.niet abflexen mit
+119;abflexen;lösen.niet;irgendwie das blech zu lösen.niet abflexen mit
+120;drehen;fester;dremel,,etc.dann die mutter lösen.finger fester drehen  
+121;drehen;mutter;dremel,,etc.dann die mutter lösen.finger fester drehen  
+122;nicht re-links,,ha;dranbleiben,,zuerst;"; re-links,,ha ich auch noch nicht erlebt,,einfach dranbleiben,,zuerst den ganzen verteiler"
+123;nicht re-links,,ha;verteiler;"; re-links,,ha ich auch noch nicht erlebt,,einfach dranbleiben,,zuerst den ganzen verteiler"
+124;finger;raus,,danach;raus,,danach den finger  
+125;finger;finger;raus,,danach den finger  
+126;finger;raus,,danach finger;raus,,danach den finger  
+127;micha;micha;"mfg micha ;"
+128;micha;mfg;"mfg micha ;"
+129;micha;mfg micha;"mfg micha ;"
+130;dienen;versehen;das dient zur sicherung damit keiner aus versehen die befestigungsmutter am verteiler löst.
+131;dienen;verteiler;das dient zur sicherung damit keiner aus versehen die befestigungsmutter am verteiler löst.
+132;dienen;sicherung;das dient zur sicherung damit keiner aus versehen die befestigungsmutter am verteiler löst.
+133;dienen;befestigungsmutter;das dient zur sicherung damit keiner aus versehen die befestigungsmutter am verteiler löst.
+134;dienen;dient;das dient zur sicherung damit keiner aus versehen die befestigungsmutter am verteiler löst.
+135;befestigen sein;blech;das blech ist mit einer abreißschraube befestigt.
+136;befestigen sein;abreißschraube;das blech ist mit einer abreißschraube befestigt.
+137;lösen;schraubendreher meißel;"mit einem schraubendreher oder kleinen meißel die schraube lösen und rausdrehen. ;"
+138;lösen;rausdrehen;"mit einem schraubendreher oder kleinen meißel die schraube lösen und rausdrehen. ;"
+139;lösen;schraube;"mit einem schraubendreher oder kleinen meißel die schraube lösen und rausdrehen. ;"
+140;lösen;meißel;"mit einem schraubendreher oder kleinen meißel die schraube lösen und rausdrehen. ;"
+141;bekommen;abrisschraube;oder mitm dremel einen schlitz reinflexen, dann bekommst die abrisschraube auch ab.
+142;bekommen;reinflexen;oder mitm dremel einen schlitz reinflexen, dann bekommst die abrisschraube auch ab.
+143;bekommen;mitm;oder mitm dremel einen schlitz reinflexen, dann bekommst die abrisschraube auch ab.
+144;bekommen;schlitz reinflexen;oder mitm dremel einen schlitz reinflexen, dann bekommst die abrisschraube auch ab.
+145;bekommen;dremel;oder mitm dremel einen schlitz reinflexen, dann bekommst die abrisschraube auch ab.
+146;würd;blech;das blech würd ich danach weglassen, braucht kein mensch.
+147;würd;mensch;das blech würd ich danach weglassen, braucht kein mensch.
+148;reimport sein;reimport;"; ist deiner zufällig ein reimport?"
+149;kennen;ländern;"ich kenne das sicherungsblech aus importen, in manchen ländern war das wohl vorschrift das da niemand unautorisiert am zündzeitpunkt fummelt ;"
+150;kennen;zündzeitpunkt;"ich kenne das sicherungsblech aus importen, in manchen ländern war das wohl vorschrift das da niemand unautorisiert am zündzeitpunkt fummelt ;"
+151;mfg;mfg;mfg
+152;geben;deutschen zulassungen;"so ein sicherungsblech gab es bei deutschen zulassungen auch. ;"
+153;geben;zulassungen;"so ein sicherungsblech gab es bei deutschen zulassungen auch. ;"
+154;danken;infos;"vielen dank für eure infos. ;   "
+155;danken;dank;"vielen dank für eure infos. ;   "
+156;abreissen;abrissschraube;"; dann werde ich die abrissschraube wohl mal ""abreissen"" ;   "
+157;abreissen;abreissen;"; dann werde ich die abrissschraube wohl mal ""abreissen"" ;   "
+158;brauchen;mensch;"; braucht kein mensch..."
+159;reimport sein;reimport;"; es ist kein reimport."
+160;autohaus sein;nähe;"der erstbesitzer war ein audi autohaus bei uns in der nähe. ;   "
+161;autohaus sein;autohaus;"der erstbesitzer war ein audi autohaus bei uns in der nähe. ;   "
+162;autohaus sein;erstbesitzer;"der erstbesitzer war ein audi autohaus bei uns in der nähe. ;   "
+163;zerstören;idee;"; habt ihr denn auch eine idee wie ich den verteilerfinger abbekomme ohne diesen zu zerstören... ;   "
+164;zerstören;verteilerfinger;"; habt ihr denn auch eine idee wie ich den verteilerfinger abbekomme ohne diesen zu zerstören... ;   "
+165;zerstören;abbekomme;"; habt ihr denn auch eine idee wie ich den verteilerfinger abbekomme ohne diesen zu zerstören... ;   "
+166;grüße;abend;"; viele grüße und einen schönen abend  ;"
+167;grüße;"; grüße";"; viele grüße und einen schönen abend  ;"
+168;grüße;grüße;"; viele grüße und einen schönen abend  ;"
+169;können;schraube;die schraube kann man ganz normal rausdrehen da muß man nichts abreißen.
+170;abdrehen;bügel;die mutter abdrehen und den bügel abnehmen.
+171;abdrehen;mutter;die mutter abdrehen und den bügel abnehmen.
+172;können;verteiler;wenn der verteiler nicht festgegammelt ist kann man ihn nach oben raus nehmen.
+173;nicht vergessen;motor;nicht zu vergessen den motor vorher auf ot stellen.
+174;nicht vergessen;ot;nicht zu vergessen den motor vorher auf ot stellen.
+175;zeigen;verteilerfinger;am verteiler ist eine markierung für den ersten zylinder dort muß der verteilerfinger hin zeigen.
+176;zeigen;markierung;am verteiler ist eine markierung für den ersten zylinder dort muß der verteilerfinger hin zeigen.
+177;zeigen;zylinder;am verteiler ist eine markierung für den ersten zylinder dort muß der verteilerfinger hin zeigen.
+178;zeigen;verteiler;am verteiler ist eine markierung für den ersten zylinder dort muß der verteilerfinger hin zeigen.
+179;hallo;hallo;"hallo, ;"
+180;draufgesteckt abnehmen;verteilerkappe;den verteilerfinger (wenn die verteilerkappe abgenommen hast) kannst einfach abzeiehn, der ist nur draufgesteckt und mit einer nase verdrehsicher arretiert.
+181;draufgesteckt abnehmen;verteilerfinger;den verteilerfinger (wenn die verteilerkappe abgenommen hast) kannst einfach abzeiehn, der ist nur draufgesteckt und mit einer nase verdrehsicher arretiert.
+182;draufgesteckt abnehmen;kannst;den verteilerfinger (wenn die verteilerkappe abgenommen hast) kannst einfach abzeiehn, der ist nur draufgesteckt und mit einer nase verdrehsicher arretiert.
+183;draufgesteckt abnehmen;nase;den verteilerfinger (wenn die verteilerkappe abgenommen hast) kannst einfach abzeiehn, der ist nur draufgesteckt und mit einer nase verdrehsicher arretiert.
+184;zur;abrisschraube;zur abrisschraube
+185;meinen;rausdrehen;: ich hatte gemeint einen schlitz reinflexen, und dann mitm schlitzschraubendreher rausdrehen.
+186;meinen;mitm;: ich hatte gemeint einen schlitz reinflexen, und dann mitm schlitzschraubendreher rausdrehen.
+187;meinen;reinflexen;: ich hatte gemeint einen schlitz reinflexen, und dann mitm schlitzschraubendreher rausdrehen.
+188;nicht heißen;abreissen;die heißt nicht abrisschraube, weil man die abreissen soll.
+189;sechskant sein;schraubenkopf;wenn die neu ist, dann ist oben auf dem runden schraubenkopf ein sechskant.
+190;sechskant sein;sechskant;wenn die neu ist, dann ist oben auf dem runden schraubenkopf ein sechskant.
+191;reißen;kopf;wenn man die schraube reindreht reißt dieser sechskant ab, es bleibt nur der runde kopf (den du jetzt noch siehst) übrig.
+192;reißen;sechskant;wenn man die schraube reindreht reißt dieser sechskant ab, es bleibt nur der runde kopf (den du jetzt noch siehst) übrig.
+193;reißen;schraube;wenn man die schraube reindreht reißt dieser sechskant ab, es bleibt nur der runde kopf (den du jetzt noch siehst) übrig.
+194;abrisschraube;name;daher der name abrisschraube.
+195;?;https://www.ost-moped.de/abreisschraube-m6x14-af-172.html;https://www.ost-moped.de/abreisschraube-m6x14-af-172.html?
+196;mfg;mfg;mfg  
+197;danke;infos;danke euch für die infos.
+198;nehmen;woche;"; werde das projekt ende der woche wieder in angriff nehmen."
+199;nehmen;ende;"; werde das projekt ende der woche wieder in angriff nehmen."
+200;nehmen;angriff;"; werde das projekt ende der woche wieder in angriff nehmen."
+201;nehmen;projekt;"; werde das projekt ende der woche wieder in angriff nehmen."
+202;gruß;gruß;gruß aus essen
+203;gruß;essen;gruß aus essen
+204;retten;audi 80 1.8s sport edition;moin jungs, habe vor einige monaten ja einen audi 80 1.8s sport edition gerettet.
+205;retten;audi;moin jungs, habe vor einige monaten ja einen audi 80 1.8s sport edition gerettet.
+206;retten;moin;moin jungs, habe vor einige monaten ja einen audi 80 1.8s sport edition gerettet.
+207;retten;edition;moin jungs, habe vor einige monaten ja einen audi 80 1.8s sport edition gerettet.
+208;retten;jungs;moin jungs, habe vor einige monaten ja einen audi 80 1.8s sport edition gerettet.
+209;retten;sport;moin jungs, habe vor einige monaten ja einen audi 80 1.8s sport edition gerettet.
+210;retten;1.8s;moin jungs, habe vor einige monaten ja einen audi 80 1.8s sport edition gerettet.
+211;retten;monaten;moin jungs, habe vor einige monaten ja einen audi 80 1.8s sport edition gerettet.
+212;druck auffallen;kupplung;"; nun ist mir aufgefallen das die kupplung ganz unten hängt, und anscheinend ""kein"" druck mehr im system ist."
+213;druck auffallen;druck;"; nun ist mir aufgefallen das die kupplung ganz unten hängt, und anscheinend ""kein"" druck mehr im system ist."
+214;druck auffallen;system;"; nun ist mir aufgefallen das die kupplung ganz unten hängt, und anscheinend ""kein"" druck mehr im system ist."
+215;ordern;geber;ich habe daraufhin jetzt einen geber und einen nehmer zylinder geordert.
+216;ordern;zylinder;ich habe daraufhin jetzt einen geber und einen nehmer zylinder geordert.
+217;wollen;thema;"; so, da ich mich selbst aber nie mit dem thema auseinandergesetzt habe, wollte ich mal fragen oder mich erkundigen ob das bereits einer getan hat."
+218;gehen;erfolg;da der audi lange stand, ging ich davon aus das die kupplung nur entlüftet werden muss, dies habe ich probiert aber ohne nennenswerten erfolg.
+219;gehen;kupplung;da der audi lange stand, ging ich davon aus das die kupplung nur entlüftet werden muss, dies habe ich probiert aber ohne nennenswerten erfolg.
+220;gehen;audi;da der audi lange stand, ging ich davon aus das die kupplung nur entlüftet werden muss, dies habe ich probiert aber ohne nennenswerten erfolg.
+221;habe;auffahrrampen;"; ich habe keine hebebühne zur verfügung und auch keine grube, ich schraube nur mit zwei auffahrrampen."
+222;habe;hebebühne;"; ich habe keine hebebühne zur verfügung und auch keine grube, ich schraube nur mit zwei auffahrrampen."
+223;habe;grube;"; ich habe keine hebebühne zur verfügung und auch keine grube, ich schraube nur mit zwei auffahrrampen."
+224;habe;verfügung;"; ich habe keine hebebühne zur verfügung und auch keine grube, ich schraube nur mit zwei auffahrrampen."
+225;grüße;"; liebe grüße";"; liebe grüße.  "
+226;grüße;grüße;"; liebe grüße.  "
+227;hallo;hallo;"hallo, ;   "
+228;erkennen;frage;"; ich erkenne keine frage ehrlich gesagt.. ;   "
+229;lösen;kupplungssystem;"; ja, ich hatte mit dem kupplungssystem auch schon stress, konnte bisher aber das problem immer durch entlüften lösen."
+230;lösen;entlüften;"; ja, ich hatte mit dem kupplungssystem auch schon stress, konnte bisher aber das problem immer durch entlüften lösen."
+231;lösen;stress;"; ja, ich hatte mit dem kupplungssystem auch schon stress, konnte bisher aber das problem immer durch entlüften lösen."
+232;lösen;problem;"; ja, ich hatte mit dem kupplungssystem auch schon stress, konnte bisher aber das problem immer durch entlüften lösen."
+233;nicht funktionieren;musst;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+234;nicht funktionieren;bremsflüssigkeitsbehälter;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+235;nicht funktionieren;1bar;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+236;nicht funktionieren;entlüften;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+237;nicht funktionieren;getriebe;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+238;nicht funktionieren;bremse;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+239;nicht funktionieren;adapter;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+240;nicht funktionieren;luft;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+241;nicht funktionieren;nehmerzylinder;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+242;nicht funktionieren;nippel;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+243;nicht funktionieren;kompressor;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+244;nicht funktionieren;druck;"entlüften funktioniert aber nicht wie bei der bremse, du musst druck auf den bremsflüssigkeitsbehälter bringen(ich hab mir einen adapter für den kompressor gebastelt, 1bar) und am nippel am nehmerzylinder am getriebe die luft rauslassen. ;   "
+245;wissen;möchtest;was möchtest du wissen?
+246;mfg;"; mfg";"; mfg ;"
+247;mfg;mfg;"; mfg ;"
+248;bremse;konntest;"die alten dinger konntest du nie normal entlüften wie ne bremse da der geber nicht über eine automatische nachfüllung ;"
+249;bremse;ne;"die alten dinger konntest du nie normal entlüften wie ne bremse da der geber nicht über eine automatische nachfüllung ;"
+250;bremse;geber;"die alten dinger konntest du nie normal entlüften wie ne bremse da der geber nicht über eine automatische nachfüllung ;"
+251;bremse;nachfüllung;"die alten dinger konntest du nie normal entlüften wie ne bremse da der geber nicht über eine automatische nachfüllung ;"
+252;bremse;alten dinger konntest;"die alten dinger konntest du nie normal entlüften wie ne bremse da der geber nicht über eine automatische nachfüllung ;"
+253;versehen sein;audianweisung;"versehen ist wie der hauptbremszylinder- ; audianweisung ;"
+254;versehen sein;"hauptbremszylinder- ; audianweisung";"versehen ist wie der hauptbremszylinder- ; audianweisung ;"
+255;vom;li vorderen radzyl;vom li vorderen radzyl.
+256;vom;li;vom li vorderen radzyl.
+257;vom;radzyl;vom li vorderen radzyl.
+258;schlauch;nehmerzyl.verlegen;"einen schlauch zum nehmerzyl.verlegen. ;"
+259;schlauch;schlauch;"einen schlauch zum nehmerzyl.verlegen. ;"
+260;entlüfterventil;entlüfterventil;also von entlüfterventil zu entlüfterventil.
+261;öffnen;mal;ventil vom radzylinder und nehmerzyl öffnen und ca 10 mal die bremse betätigen.
+262;öffnen;bremse;ventil vom radzylinder und nehmerzyl öffnen und ca 10 mal die bremse betätigen.
+263;öffnen;ventil;ventil vom radzylinder und nehmerzyl öffnen und ca 10 mal die bremse betätigen.
+264;öffnen;ca;ventil vom radzylinder und nehmerzyl öffnen und ca 10 mal die bremse betätigen.
+265;öffnen;radzylinder;ventil vom radzylinder und nehmerzyl öffnen und ca 10 mal die bremse betätigen.
+266;öffnen;nehmerzyl;ventil vom radzylinder und nehmerzyl öffnen und ca 10 mal die bremse betätigen.
+267;ventile;schliessen;danach ventile schliessen.
+268;nicht betätigen;kupplung;wichtig ,nicht beim entlüften die kupplung betätigen.
+269;nicht betätigen;entlüften;wichtig ,nicht beim entlüften die kupplung betätigen.
+270;zitat;zitat;zitat:
+271;schreiben;uhr;@stef1992 schrieb am 30. mai 2020 um 18:09:39 uhr:
+272;schreiben;mai;@stef1992 schrieb am 30. mai 2020 um 18:09:39 uhr:
+273;schreiben;@stef1992;@stef1992 schrieb am 30. mai 2020 um 18:09:39 uhr:
+274;hallo;hallo;"; hallo, ;"
+275;hallo;"; hallo";"; hallo, ;"
+276;wissen;möchtest;was möchtest du wissen?
+277;mfg;mfg;mfg
+278;tausch machen;komponenten;wie leicht oder schwierig der tausch der beiden komponenten ist, und ob das bereits jemand gemacht hat .
+279;tausch machen;tausch;wie leicht oder schwierig der tausch der beiden komponenten ist, und ob das bereits jemand gemacht hat .
+280;hallo;hallo;"hallo zusammen, ;"
+281;benötigen;gebrauch;ich benötige ab juni ein auto für den alltäglichen gebrauch.
+282;benötigen;auto;ich benötige ab juni ein auto für den alltäglichen gebrauch.
+283;benötigen;juni;ich benötige ab juni ein auto für den alltäglichen gebrauch.
+284;täglich;familie;täglich zur uni und zurück (10 bzw. 20km) sowie am wochenende richtung familie und freunde (insgesamt 200 km).  
+285;täglich;wochenende;täglich zur uni und zurück (10 bzw. 20km) sowie am wochenende richtung familie und freunde (insgesamt 200 km).  
+286;täglich;freunde;täglich zur uni und zurück (10 bzw. 20km) sowie am wochenende richtung familie und freunde (insgesamt 200 km).  
+287;täglich;richtung;täglich zur uni und zurück (10 bzw. 20km) sowie am wochenende richtung familie und freunde (insgesamt 200 km).  
+288;täglich;km;täglich zur uni und zurück (10 bzw. 20km) sowie am wochenende richtung familie und freunde (insgesamt 200 km).  
+289;täglich;uni;täglich zur uni und zurück (10 bzw. 20km) sowie am wochenende richtung familie und freunde (insgesamt 200 km).  
+290;kommen;recherche;nach einiger recherche bin ich auf den audi 80 1.8s mit 90ps und baujahr zwischen 1986 und 1991 gekommen.
+291;kommen;audi;nach einiger recherche bin ich auf den audi 80 1.8s mit 90ps und baujahr zwischen 1986 und 1991 gekommen.
+292;kommen;baujahr;nach einiger recherche bin ich auf den audi 80 1.8s mit 90ps und baujahr zwischen 1986 und 1991 gekommen.
+293;kommen;90ps;nach einiger recherche bin ich auf den audi 80 1.8s mit 90ps und baujahr zwischen 1986 und 1991 gekommen.
+294;kommen;1.8s;nach einiger recherche bin ich auf den audi 80 1.8s mit 90ps und baujahr zwischen 1986 und 1991 gekommen.
+295;angenehm sein;versicherungsbeiträge;vor allem wegen des niedrigen typklassen-werts wodurch die versicherungsbeiträge sehr angenehm sind.
+296;angenehm sein;typklassen-werts;vor allem wegen des niedrigen typklassen-werts wodurch die versicherungsbeiträge sehr angenehm sind.
+297;unterhaltskosten sein;unterhaltskosten;und da sind wir auch schon beim größten thema: unterhaltskosten.  
+298;unterhaltskosten sein;thema;und da sind wir auch schon beim größten thema: unterhaltskosten.  
+299;sparen;auto;ein auto ist leider unumgäglich jedoch möchte ich sparen wo ich kann.
+300;gründe;audi;gründe deshalb für den audi b3:
+301;gründe;b3;gründe deshalb für den audi b3:
+302;gründe;gründe;gründe deshalb für den audi b3:
+303;liegen;muss;"; -versicherung für mich (muss neu eingestuft werden) mit 20 jahren und 3 jahren führerscheinbesitz liegt bei 400-600€ teilkasko pro jahr ;"
+304;liegen;-versicherung;"; -versicherung für mich (muss neu eingestuft werden) mit 20 jahren und 3 jahren führerscheinbesitz liegt bei 400-600€ teilkasko pro jahr ;"
+305;liegen;€;"; -versicherung für mich (muss neu eingestuft werden) mit 20 jahren und 3 jahren führerscheinbesitz liegt bei 400-600€ teilkasko pro jahr ;"
+306;liegen;jahren;"; -versicherung für mich (muss neu eingestuft werden) mit 20 jahren und 3 jahren führerscheinbesitz liegt bei 400-600€ teilkasko pro jahr ;"
+307;liegen;jahr;"; -versicherung für mich (muss neu eingestuft werden) mit 20 jahren und 3 jahren führerscheinbesitz liegt bei 400-600€ teilkasko pro jahr ;"
+308;liegen;"; -versicherung";"; -versicherung für mich (muss neu eingestuft werden) mit 20 jahren und 3 jahren führerscheinbesitz liegt bei 400-600€ teilkasko pro jahr ;"
+309;liegen;führerscheinbesitz;"; -versicherung für mich (muss neu eingestuft werden) mit 20 jahren und 3 jahren führerscheinbesitz liegt bei 400-600€ teilkasko pro jahr ;"
+310;erfüllen;norm;-steuer (wenn bereits die euro 2 norm erfüllt wird -
+311;erfüllen;-steuer;-steuer (wenn bereits die euro 2 norm erfüllt wird -
+312;erfüllen;euro;-steuer (wenn bereits die euro 2 norm erfüllt wird -
+313;liegen;hauptkriterium;"ein hauptkriterium für einen potentiellen kauf) liegt bei ca. 130€ pro jahr ;"
+314;liegen;kauf;"ein hauptkriterium für einen potentiellen kauf) liegt bei ca. 130€ pro jahr ;"
+315;liegen;jahr;"ein hauptkriterium für einen potentiellen kauf) liegt bei ca. 130€ pro jahr ;"
+316;-vollverzinkte;-vollverzinkte;-vollverzinkte
+317;karosserie;karosserie;karosserie
+318;rost;rost;"wenig/kein rost, ein grund weniger durch den tüv zu fallen, gute substanz ;"
+319;rost;tüv;"wenig/kein rost, ein grund weniger durch den tüv zu fallen, gute substanz ;"
+320;rost;wenig/kein rost;"wenig/kein rost, ein grund weniger durch den tüv zu fallen, gute substanz ;"
+321;rost;substanz;"wenig/kein rost, ein grund weniger durch den tüv zu fallen, gute substanz ;"
+322;rost;grund;"wenig/kein rost, ein grund weniger durch den tüv zu fallen, gute substanz ;"
+323;soll;verbindung;-1.8s motor soll ja sehr langlebig sein (im moment peile ich den pm an, verbindung mit euro 2 und sparsamer als die anderen) und wartungen lassen sich größtenteils selbst machen.
+324;soll;moment;-1.8s motor soll ja sehr langlebig sein (im moment peile ich den pm an, verbindung mit euro 2 und sparsamer als die anderen) und wartungen lassen sich größtenteils selbst machen.
+325;soll;motor;-1.8s motor soll ja sehr langlebig sein (im moment peile ich den pm an, verbindung mit euro 2 und sparsamer als die anderen) und wartungen lassen sich größtenteils selbst machen.
+326;soll;-1.8s motor;-1.8s motor soll ja sehr langlebig sein (im moment peile ich den pm an, verbindung mit euro 2 und sparsamer als die anderen) und wartungen lassen sich größtenteils selbst machen.
+327;soll;euro;-1.8s motor soll ja sehr langlebig sein (im moment peile ich den pm an, verbindung mit euro 2 und sparsamer als die anderen) und wartungen lassen sich größtenteils selbst machen.
+328;soll;wartungen;-1.8s motor soll ja sehr langlebig sein (im moment peile ich den pm an, verbindung mit euro 2 und sparsamer als die anderen) und wartungen lassen sich größtenteils selbst machen.
+329;soll;pm;-1.8s motor soll ja sehr langlebig sein (im moment peile ich den pm an, verbindung mit euro 2 und sparsamer als die anderen) und wartungen lassen sich größtenteils selbst machen.
+330;soll;-1.8s;-1.8s motor soll ja sehr langlebig sein (im moment peile ich den pm an, verbindung mit euro 2 und sparsamer als die anderen) und wartungen lassen sich größtenteils selbst machen.
+331;wagen;-generell;"-generell ein sehr sparsamer wagen ;"
+332;finden;image;"-design und image finde ich persönlich passend, als ""fahranfänger"" mit einer ""rentnerkarre""."
+333;finden;-design;"-design und image finde ich persönlich passend, als ""fahranfänger"" mit einer ""rentnerkarre""."
+334;finden;fahranfänger;"-design und image finde ich persönlich passend, als ""fahranfänger"" mit einer ""rentnerkarre""."
+335;finden;rentnerkarre;"-design und image finde ich persönlich passend, als ""fahranfänger"" mit einer ""rentnerkarre""."
+336;sollen;-anschaffungspreis;"-anschaffungspreis sollte so zwischen 1000-2000€ liegen ;"
+337;habe;bisschen;ich habe kein problem damit, notwendige reparaturen selber zu machen und ein bisschen zu basteln.
+338;habe;problem;ich habe kein problem damit, notwendige reparaturen selber zu machen und ein bisschen zu basteln.
+339;habe;reparaturen;ich habe kein problem damit, notwendige reparaturen selber zu machen und ein bisschen zu basteln.
+340;insofern;dinge;jedenfalls insofern, dass das tägliche fahren nicht drunter leidet und die dinge ohne spezielles werkzeug/hebebühne gemacht werden können.
+341;insofern;spezielles;jedenfalls insofern, dass das tägliche fahren nicht drunter leidet und die dinge ohne spezielles werkzeug/hebebühne gemacht werden können.
+342;liegen;fokus;der fokus liegt wie schon erwähnt auf dem täglichen fahren und dabei gleichzeitig zu sparen.
+343;liegen;täglichen;der fokus liegt wie schon erwähnt auf dem täglichen fahren und dabei gleichzeitig zu sparen.
+344;fragen;frage;deshalb nun meine frage(n):
+345;-glaubt;auto;"; -glaubt ihr, dass der b3 in diesem fall das richtige auto ist?"
+346;-glaubt;b3;"; -glaubt ihr, dass der b3 in diesem fall das richtige auto ist?"
+347;-glaubt;"; -glaubt";"; -glaubt ihr, dass der b3 in diesem fall das richtige auto ist?"
+348;-glaubt;-glaubt;"; -glaubt ihr, dass der b3 in diesem fall das richtige auto ist?"
+349;-glaubt;fall;"; -glaubt ihr, dass der b3 in diesem fall das richtige auto ist?"
+350;sein;verbrauch;"; -wie sind eure erfahrungen mit dem verbrauch (kurzstrecke, langstrecke)?"
+351;sein;erfahrungen;"; -wie sind eure erfahrungen mit dem verbrauch (kurzstrecke, langstrecke)?"
+352;sein;langstrecke;"; -wie sind eure erfahrungen mit dem verbrauch (kurzstrecke, langstrecke)?"
+353;sein;kurzstrecke;"; -wie sind eure erfahrungen mit dem verbrauch (kurzstrecke, langstrecke)?"
+354;sein;-wie;"; -wie sind eure erfahrungen mit dem verbrauch (kurzstrecke, langstrecke)?"
+355;hoch sein;wartungsaufwand;-wie hoch ist der wartungsaufwand und was kommen da für kosten auf einen zu?
+356;hoch sein;kosten;-wie hoch ist der wartungsaufwand und was kommen da für kosten auf einen zu?
+357;sollen;sachen;es irgendwelche ganz typischen kinderkrankheiten o.ä. und sachen auf die man beim kauf unbedingt achten sollte?
+358;sollen;kauf;es irgendwelche ganz typischen kinderkrankheiten o.ä. und sachen auf die man beim kauf unbedingt achten sollte?
+359;sollen;o.ä.;es irgendwelche ganz typischen kinderkrankheiten o.ä. und sachen auf die man beim kauf unbedingt achten sollte?
+360;kennen;autos;-und zu guter letzt: kennt ihr alternative autos, die die gleichen bedingungen erfüllen?
+361;kennen;alternative autos;-und zu guter letzt: kennt ihr alternative autos, die die gleichen bedingungen erfüllen?
+362;kennen;bedingungen;-und zu guter letzt: kennt ihr alternative autos, die die gleichen bedingungen erfüllen?
+363;machen;lesen;das habe ich zu großen teilen auch schon gemacht, nur würde ich mir auf diese art und weise gerne einmal einen eignen überblick zu meiner persönlichen situation machen und nicht zwischen den zeilen lesen wenn es um 80/90er oder b4s oder 2.0er motoren geht.
+364;machen;art;das habe ich zu großen teilen auch schon gemacht, nur würde ich mir auf diese art und weise gerne einmal einen eignen überblick zu meiner persönlichen situation machen und nicht zwischen den zeilen lesen wenn es um 80/90er oder b4s oder 2.0er motoren geht.
+365;machen;weise;das habe ich zu großen teilen auch schon gemacht, nur würde ich mir auf diese art und weise gerne einmal einen eignen überblick zu meiner persönlichen situation machen und nicht zwischen den zeilen lesen wenn es um 80/90er oder b4s oder 2.0er motoren geht.
+366;machen;b4s;das habe ich zu großen teilen auch schon gemacht, nur würde ich mir auf diese art und weise gerne einmal einen eignen überblick zu meiner persönlichen situation machen und nicht zwischen den zeilen lesen wenn es um 80/90er oder b4s oder 2.0er motoren geht.
+367;machen;überblick;das habe ich zu großen teilen auch schon gemacht, nur würde ich mir auf diese art und weise gerne einmal einen eignen überblick zu meiner persönlichen situation machen und nicht zwischen den zeilen lesen wenn es um 80/90er oder b4s oder 2.0er motoren geht.
+368;machen;motoren;das habe ich zu großen teilen auch schon gemacht, nur würde ich mir auf diese art und weise gerne einmal einen eignen überblick zu meiner persönlichen situation machen und nicht zwischen den zeilen lesen wenn es um 80/90er oder b4s oder 2.0er motoren geht.
+369;machen;situation;das habe ich zu großen teilen auch schon gemacht, nur würde ich mir auf diese art und weise gerne einmal einen eignen überblick zu meiner persönlichen situation machen und nicht zwischen den zeilen lesen wenn es um 80/90er oder b4s oder 2.0er motoren geht.
+370;machen;teilen;das habe ich zu großen teilen auch schon gemacht, nur würde ich mir auf diese art und weise gerne einmal einen eignen überblick zu meiner persönlichen situation machen und nicht zwischen den zeilen lesen wenn es um 80/90er oder b4s oder 2.0er motoren geht.
+371;machen;80/90er;das habe ich zu großen teilen auch schon gemacht, nur würde ich mir auf diese art und weise gerne einmal einen eignen überblick zu meiner persönlichen situation machen und nicht zwischen den zeilen lesen wenn es um 80/90er oder b4s oder 2.0er motoren geht.
+372;hoffen;verständnis;ich hoffe ihr habt verständnis und habt ein paar kluge antworten.
+373;hoffen;kluge;ich hoffe ihr habt verständnis und habt ein paar kluge antworten.
+374;gut sein;idee;"die idee mit dem audi 80 ist schon mal gut. ;"
+375;gut sein;audi;"die idee mit dem audi 80 ist schon mal gut. ;"
+376;sich;unterstützung;such dir einen aus, bei dem du im netz gute unterstützung hast.  
+377;sich;netz;such dir einen aus, bei dem du im netz gute unterstützung hast.  
+378;mach;b.;"z. b. www.audi-80-scene ; mach so weiter"
+379;mach;www.audi-80-scene;"z. b. www.audi-80-scene ; mach so weiter"
+380;vorschlagen;b5;".... ; als alternative würde ich den wesentlichen jüngeren, moderneren a4 b5 vorschlagen."
+381;vorschlagen;jüngeren;".... ; als alternative würde ich den wesentlichen jüngeren, moderneren a4 b5 vorschlagen."
+382;vorschlagen;a4;".... ; als alternative würde ich den wesentlichen jüngeren, moderneren a4 b5 vorschlagen."
+383;vorschlagen;alternative;".... ; als alternative würde ich den wesentlichen jüngeren, moderneren a4 b5 vorschlagen."
+384;fahren;typ;der fährt sich auch deutlich besser als der hölzerne typ 89.
+385;musst;wahl;du musst dir bei der wahl dieses audi
+386;musst;audi;du musst dir bei der wahl dieses audi
+387;fahren mein;fährst;80 schon im klaren sein, dass du praktisch einen oldtimer fährst.
+388;nicht gehen;erhaltene exemplare;"gut erhaltene exemplare sind nicht so leicht zu finden sollten eher in liebhaberhände gehen. ;"
+389;nicht gehen;exemplare;"gut erhaltene exemplare sind nicht so leicht zu finden sollten eher in liebhaberhände gehen. ;"
+390;schau;schau;schau
+391;nen;nen;dir nen
+392;iv;golf;golf iv an.
+393;günstig;karosse;relativ günstig, gute karosse, abs, airbag und klima drinnen.
+394;günstig;airbag;relativ günstig, gute karosse, abs, airbag und klima drinnen.
+395;günstig;abs;relativ günstig, gute karosse, abs, airbag und klima drinnen.
+396;günstig;klima;relativ günstig, gute karosse, abs, airbag und klima drinnen.
+397;.;b4;b4.
+398;haben;klima;"der hat zumindest immer abs und mit etwas glück auch airbag und klima. ;   "
+399;haben;airbag;"der hat zumindest immer abs und mit etwas glück auch airbag und klima. ;   "
+400;haben;glück;"der hat zumindest immer abs und mit etwas glück auch airbag und klima. ;   "
+401;";";b5;";   ; b5 würde ich aufgrund der teuren mehrlenkerachse nicht nehmen."
+402;";";mehrlenkerachse;";   ; b5 würde ich aufgrund der teuren mehrlenkerachse nicht nehmen."
+403;kosten;spurvermessung;die teile ohne einbau kosten knapp 500€. beim selber einbauen kommt dann mindestens noch die spurvermessung mit etwa 120€ hinzu.
+404;kosten;teile;die teile ohne einbau kosten knapp 500€. beim selber einbauen kommt dann mindestens noch die spurvermessung mit etwa 120€ hinzu.
+405;kosten;einbau;die teile ohne einbau kosten knapp 500€. beim selber einbauen kommt dann mindestens noch die spurvermessung mit etwa 120€ hinzu.
+406;kosten;500€.;die teile ohne einbau kosten knapp 500€. beim selber einbauen kommt dann mindestens noch die spurvermessung mit etwa 120€ hinzu.
+407;selten mein;vw;"; wobei fraglich ist, ob man aus dem vw konzern für 2k was brauchbares bekommt, wenn reparaturen usw. selten sein sollen."
+408;selten mein;brauchbares;"; wobei fraglich ist, ob man aus dem vw konzern für 2k was brauchbares bekommt, wenn reparaturen usw. selten sein sollen."
+409;selten mein;konzern;"; wobei fraglich ist, ob man aus dem vw konzern für 2k was brauchbares bekommt, wenn reparaturen usw. selten sein sollen."
+410;selten mein;reparaturen;"; wobei fraglich ist, ob man aus dem vw konzern für 2k was brauchbares bekommt, wenn reparaturen usw. selten sein sollen."
+411;seltenheit sein;teilen;"und 2k an reparaturen bei nem alten auto sind jetzt selbst in teilen gerechnet keine seltenheit. ;   "
+412;seltenheit sein;auto;"und 2k an reparaturen bei nem alten auto sind jetzt selbst in teilen gerechnet keine seltenheit. ;   "
+413;seltenheit sein;seltenheit;"und 2k an reparaturen bei nem alten auto sind jetzt selbst in teilen gerechnet keine seltenheit. ;   "
+414;seltenheit sein;reparaturen;"und 2k an reparaturen bei nem alten auto sind jetzt selbst in teilen gerechnet keine seltenheit. ;   "
+415;sollen;japanern;"; ggf. solltest du dich mal bei den japanern (mazda, subaru, toyota) umschauen."
+416;sollen;mazda;"; ggf. solltest du dich mal bei den japanern (mazda, subaru, toyota) umschauen."
+417;sollen;toyota;"; ggf. solltest du dich mal bei den japanern (mazda, subaru, toyota) umschauen."
+418;sollen;subaru;"; ggf. solltest du dich mal bei den japanern (mazda, subaru, toyota) umschauen."
+419;empfehlen;golf;"ich würde als ""daily"" auch einen golf 4 empfehlen."
+420;empfehlen;daily;"ich würde als ""daily"" auch einen golf 4 empfehlen."
+421;schaden erhalten;b3;"einen b3 eigentlich nur als oldtimer, wenn er gut erhalten oder restauriert ist, ist er für ""daily"" zu schade... ;"
+422;schaden erhalten;oldtimer;"einen b3 eigentlich nur als oldtimer, wenn er gut erhalten oder restauriert ist, ist er für ""daily"" zu schade... ;"
+423;schaden erhalten;daily;"einen b3 eigentlich nur als oldtimer, wenn er gut erhalten oder restauriert ist, ist er für ""daily"" zu schade... ;"
+424;bekommen;wartungsstau;guterhaltene rentnerautos ohne wartungsstau bekommt man sicher auch von anderen herstellern, aber da fehlt es mir an kenntnissen und erfahrungen.
+425;bekommen;erfahrungen;guterhaltene rentnerautos ohne wartungsstau bekommt man sicher auch von anderen herstellern, aber da fehlt es mir an kenntnissen und erfahrungen.
+426;bekommen;rentnerautos;guterhaltene rentnerautos ohne wartungsstau bekommt man sicher auch von anderen herstellern, aber da fehlt es mir an kenntnissen und erfahrungen.
+427;bekommen;guterhaltene rentnerautos;guterhaltene rentnerautos ohne wartungsstau bekommt man sicher auch von anderen herstellern, aber da fehlt es mir an kenntnissen und erfahrungen.
+428;bekommen;kenntnissen;guterhaltene rentnerautos ohne wartungsstau bekommt man sicher auch von anderen herstellern, aber da fehlt es mir an kenntnissen und erfahrungen.
+429;geb;senf;"ich geb hier auch mal meinen senf dazu  ;"
+430;finden;t89;"vom fahrverhalten her finde ich die typ89 schön, habe mir jetzt für den winter zu meinem t89 noch einen a3 8l von 99 geholt und finde den vom fahrwerk her geradezu rumpelig/unkomfortabel gegen meinen 90er  ;"
+431;finden;a3;"vom fahrverhalten her finde ich die typ89 schön, habe mir jetzt für den winter zu meinem t89 noch einen a3 8l von 99 geholt und finde den vom fahrwerk her geradezu rumpelig/unkomfortabel gegen meinen 90er  ;"
+432;finden;fahrwerk;"vom fahrverhalten her finde ich die typ89 schön, habe mir jetzt für den winter zu meinem t89 noch einen a3 8l von 99 geholt und finde den vom fahrwerk her geradezu rumpelig/unkomfortabel gegen meinen 90er  ;"
+433;finden;fahrverhalten;"vom fahrverhalten her finde ich die typ89 schön, habe mir jetzt für den winter zu meinem t89 noch einen a3 8l von 99 geholt und finde den vom fahrwerk her geradezu rumpelig/unkomfortabel gegen meinen 90er  ;"
+434;finden;8l;"vom fahrverhalten her finde ich die typ89 schön, habe mir jetzt für den winter zu meinem t89 noch einen a3 8l von 99 geholt und finde den vom fahrwerk her geradezu rumpelig/unkomfortabel gegen meinen 90er  ;"
+435;finden;winter;"vom fahrverhalten her finde ich die typ89 schön, habe mir jetzt für den winter zu meinem t89 noch einen a3 8l von 99 geholt und finde den vom fahrwerk her geradezu rumpelig/unkomfortabel gegen meinen 90er  ;"
+436;finden;typ89;"vom fahrverhalten her finde ich die typ89 schön, habe mir jetzt für den winter zu meinem t89 noch einen a3 8l von 99 geholt und finde den vom fahrwerk her geradezu rumpelig/unkomfortabel gegen meinen 90er  ;"
+437;wagen;schöner wagen;ein schöner wagen.
+438;wagen;wagen;ein schöner wagen.
+439;freuen;sommer;"ich freue mich auf den sommer  ;"
+440;muss;vorrednern;in einem punkt muss ich meinen vorrednern allerdings recht geben:
+441;muss;punkt;in einem punkt muss ich meinen vorrednern allerdings recht geben:
+442;muss;recht;in einem punkt muss ich meinen vorrednern allerdings recht geben:
+443;jahre sein;anfängerauto;der 80er war ein super günstiges anfängerauto, das ist jetzt aber 10 jahre her.
+444;jahre sein;80er;der 80er war ein super günstiges anfängerauto, das ist jetzt aber 10 jahre her.
+445;jahre sein;jahre;der 80er war ein super günstiges anfängerauto, das ist jetzt aber 10 jahre her.
+446;jahre sein;super;der 80er war ein super günstiges anfängerauto, das ist jetzt aber 10 jahre her.
+447;verheizen;zeit;"zu dieser zeit wurden leider auch einige schönen exemplare ""verheizt"" ;"
+448;verheizen;schönen;"zu dieser zeit wurden leider auch einige schönen exemplare ""verheizt"" ;"
+449;verheizen;verheizt;"zu dieser zeit wurden leider auch einige schönen exemplare ""verheizt"" ;"
+450;verheizen;exemplare;"zu dieser zeit wurden leider auch einige schönen exemplare ""verheizt"" ;"
+451;kaufen;auto;"bedenke, du willst hier ein auto kaufen was bis 91 gebaut wurde, d.h. der wagen ist mindestens 29 jahre alt! ;"
+452;kaufen;jahre;"bedenke, du willst hier ein auto kaufen was bis 91 gebaut wurde, d.h. der wagen ist mindestens 29 jahre alt! ;"
+453;kaufen;d.h.;"bedenke, du willst hier ein auto kaufen was bis 91 gebaut wurde, d.h. der wagen ist mindestens 29 jahre alt! ;"
+454;kaufen;bedenke;"bedenke, du willst hier ein auto kaufen was bis 91 gebaut wurde, d.h. der wagen ist mindestens 29 jahre alt! ;"
+455;kaufen;wagen;"bedenke, du willst hier ein auto kaufen was bis 91 gebaut wurde, d.h. der wagen ist mindestens 29 jahre alt! ;"
+456;wertarbeit haben;tolle;trotz das die audis echt solide tolle wertarbeit waren wird dein oldie probleme haben und liebe benötigen.
+457;wertarbeit haben;oldie;trotz das die audis echt solide tolle wertarbeit waren wird dein oldie probleme haben und liebe benötigen.
+458;wertarbeit haben;liebe;trotz das die audis echt solide tolle wertarbeit waren wird dein oldie probleme haben und liebe benötigen.
+459;wertarbeit haben;probleme;trotz das die audis echt solide tolle wertarbeit waren wird dein oldie probleme haben und liebe benötigen.
+460;wertarbeit haben;audis;trotz das die audis echt solide tolle wertarbeit waren wird dein oldie probleme haben und liebe benötigen.
+461;finden;anständiges geld;"ein unverbasteltes/schönes exemplar für anständiges geld zu finden ;"
+462;finden;geld;"ein unverbasteltes/schönes exemplar für anständiges geld zu finden ;"
+463;teuer mein;tradition;ersatzteile werden rar und können bei audi tradition echt teuer sein.
+464;teuer mein;audi;ersatzteile werden rar und können bei audi tradition echt teuer sein.
+465;teuer mein;ersatzteile;ersatzteile werden rar und können bei audi tradition echt teuer sein.
+466;müssen;rost;du wirst viel zeit investieren müssen, das geht los von hier fällt ´ne zierleiste ab, über schaumstoff der sich im innenraum löst, über rost, über aufwendige teilebeschaffung bis hin zu motor-, und getriebeproblemen.
+467;müssen;schaumstoff;du wirst viel zeit investieren müssen, das geht los von hier fällt ´ne zierleiste ab, über schaumstoff der sich im innenraum löst, über rost, über aufwendige teilebeschaffung bis hin zu motor-, und getriebeproblemen.
+468;müssen;zeit;du wirst viel zeit investieren müssen, das geht los von hier fällt ´ne zierleiste ab, über schaumstoff der sich im innenraum löst, über rost, über aufwendige teilebeschaffung bis hin zu motor-, und getriebeproblemen.
+469;müssen;innenraum;du wirst viel zeit investieren müssen, das geht los von hier fällt ´ne zierleiste ab, über schaumstoff der sich im innenraum löst, über rost, über aufwendige teilebeschaffung bis hin zu motor-, und getriebeproblemen.
+470;müssen;teilebeschaffung;du wirst viel zeit investieren müssen, das geht los von hier fällt ´ne zierleiste ab, über schaumstoff der sich im innenraum löst, über rost, über aufwendige teilebeschaffung bis hin zu motor-, und getriebeproblemen.
+471;müssen;´;du wirst viel zeit investieren müssen, das geht los von hier fällt ´ne zierleiste ab, über schaumstoff der sich im innenraum löst, über rost, über aufwendige teilebeschaffung bis hin zu motor-, und getriebeproblemen.
+472;können;schraubendreher;"das können schon dinge sein die sich nicht mit nem schraubendreher und ´nem hammer lösen lassen, sondern auch echt ins geld gehen. ;"
+473;können;hammer;"das können schon dinge sein die sich nicht mit nem schraubendreher und ´nem hammer lösen lassen, sondern auch echt ins geld gehen. ;"
+474;können;dinge;"das können schon dinge sein die sich nicht mit nem schraubendreher und ´nem hammer lösen lassen, sondern auch echt ins geld gehen. ;"
+475;können;´;"das können schon dinge sein die sich nicht mit nem schraubendreher und ´nem hammer lösen lassen, sondern auch echt ins geld gehen. ;"
+476;können;geld;"das können schon dinge sein die sich nicht mit nem schraubendreher und ´nem hammer lösen lassen, sondern auch echt ins geld gehen. ;"
+477;nicht machen;metall;auch zink macht metall nicht unsterblich.
+478;nicht machen;zink;auch zink macht metall nicht unsterblich.
+479;wollen;wahl;wenn du das auf dich nehmen willst: tolle wahl!!
+480;kaufen;bj1988;ich habe meinen 90er bj1988 2013 super günstig aus erster rentnerhand gekauft, und fahre ihn bis heute als daily-driver.
+481;kaufen;super;ich habe meinen 90er bj1988 2013 super günstig aus erster rentnerhand gekauft, und fahre ihn bis heute als daily-driver.
+482;kaufen;daily-driver;ich habe meinen 90er bj1988 2013 super günstig aus erster rentnerhand gekauft, und fahre ihn bis heute als daily-driver.
+483;kaufen;rentnerhand;ich habe meinen 90er bj1988 2013 super günstig aus erster rentnerhand gekauft, und fahre ihn bis heute als daily-driver.
+484;gefahren;geschäftsreisen;auch auf geschäftsreisen usw bin ich den audi gefahren.
+485;gefahren;audi;auch auf geschäftsreisen usw bin ich den audi gefahren.
+486;kaufen;100.000 km;"gekauft mit 100.000km, jetzt hat er 290.000km ;"
+487;kaufen;km;"gekauft mit 100.000km, jetzt hat er 290.000km ;"
+488;erste sein;winter;der winter ist der erste, in dem ich was anderes fahre.
+489;stehen;garage;wegen rost steht der 90er in der garage.
+490;stehen;90er;wegen rost steht der 90er in der garage.
+491;stehen;rost;wegen rost steht der 90er in der garage.
+492;bezahlen;780 euro;"; habe damals 780 euro bezahlt."
+493;bezahlen;euro;"; habe damals 780 euro bezahlt."
+494;investieren;instandhaltung/wartung/reparaturen;"; habe bis heute in instandhaltung/wartung/reparaturen sicher 5000 euro investiert."
+495;investieren;euro;"; habe bis heute in instandhaltung/wartung/reparaturen sicher 5000 euro investiert."
+496;als;vergleich;"nur so als vergleich.. ;"
+497;fahren;a;wenns nur fahren und sicher von a nach b sein soll:  
+498;kaufen;neueres;"; würde eher was neueres kaufen ;"
+499;erfolg;wilkommen;"ansonsten: viel erfolg bei der suche, ich hoffe du findest einen anständigen 80er und wilkommen in der gemeinde  ;"
+500;erfolg;80er;"ansonsten: viel erfolg bei der suche, ich hoffe du findest einen anständigen 80er und wilkommen in der gemeinde  ;"
+501;erfolg;erfolg;"ansonsten: viel erfolg bei der suche, ich hoffe du findest einen anständigen 80er und wilkommen in der gemeinde  ;"
+502;erfolg;ansonsten : erfolg;"ansonsten: viel erfolg bei der suche, ich hoffe du findest einen anständigen 80er und wilkommen in der gemeinde  ;"
+503;erfolg;gemeinde;"ansonsten: viel erfolg bei der suche, ich hoffe du findest einen anständigen 80er und wilkommen in der gemeinde  ;"
+504;erfolg;suche;"ansonsten: viel erfolg bei der suche, ich hoffe du findest einen anständigen 80er und wilkommen in der gemeinde  ;"
+505;mfg;mfg;mfg  
+506;denken;zeiten;"ich denke auch das die zeiten vorbei sind wo ein 80er ein günstiges anfänger auto war. ;   "
+507;denken;80er;"ich denke auch das die zeiten vorbei sind wo ein 80er ein günstiges anfänger auto war. ;   "
+508;denken;auto;"ich denke auch das die zeiten vorbei sind wo ein 80er ein günstiges anfänger auto war. ;   "
+509;haben;garagenwagen;"; da musst du schon glück haben und noch einen gepflegten garagenwagen für wenig geld finden."
+510;haben;geld;"; da musst du schon glück haben und noch einen gepflegten garagenwagen für wenig geld finden."
+511;haben;glück;"; da musst du schon glück haben und noch einen gepflegten garagenwagen für wenig geld finden."
+512;problem sein;alter;"; ansonsten ist das hohe alter inzwischen ein problem,  ;"
+513;problem sein;hohe alter;"; ansonsten ist das hohe alter inzwischen ein problem,  ;"
+514;problem sein;problem;"; ansonsten ist das hohe alter inzwischen ein problem,  ;"
+515;rosten;usw;kraftstoffleitungen rosten durch, der aggregateträger der vorderachse fault weg, federbeinrohre vorne rosten durch, alle möglichen kunststoffe und schaumstoffe im innenraum werden porös oder lösen sich auf usw...
+516;rosten;kraftstoffleitungen rosten;kraftstoffleitungen rosten durch, der aggregateträger der vorderachse fault weg, federbeinrohre vorne rosten durch, alle möglichen kunststoffe und schaumstoffe im innenraum werden porös oder lösen sich auf usw...
+517;rosten;fault;kraftstoffleitungen rosten durch, der aggregateträger der vorderachse fault weg, federbeinrohre vorne rosten durch, alle möglichen kunststoffe und schaumstoffe im innenraum werden porös oder lösen sich auf usw...
+518;rosten;aggregateträger;kraftstoffleitungen rosten durch, der aggregateträger der vorderachse fault weg, federbeinrohre vorne rosten durch, alle möglichen kunststoffe und schaumstoffe im innenraum werden porös oder lösen sich auf usw...
+519;rosten;rosten;kraftstoffleitungen rosten durch, der aggregateträger der vorderachse fault weg, federbeinrohre vorne rosten durch, alle möglichen kunststoffe und schaumstoffe im innenraum werden porös oder lösen sich auf usw...
+520;rosten;schaumstoffe;kraftstoffleitungen rosten durch, der aggregateträger der vorderachse fault weg, federbeinrohre vorne rosten durch, alle möglichen kunststoffe und schaumstoffe im innenraum werden porös oder lösen sich auf usw...
+521;rosten;porös;kraftstoffleitungen rosten durch, der aggregateträger der vorderachse fault weg, federbeinrohre vorne rosten durch, alle möglichen kunststoffe und schaumstoffe im innenraum werden porös oder lösen sich auf usw...
+522;rosten;innenraum;kraftstoffleitungen rosten durch, der aggregateträger der vorderachse fault weg, federbeinrohre vorne rosten durch, alle möglichen kunststoffe und schaumstoffe im innenraum werden porös oder lösen sich auf usw...
+523;rosten;kunststoffe;kraftstoffleitungen rosten durch, der aggregateträger der vorderachse fault weg, federbeinrohre vorne rosten durch, alle möglichen kunststoffe und schaumstoffe im innenraum werden porös oder lösen sich auf usw...
+524;rosten;vorderachse;kraftstoffleitungen rosten durch, der aggregateträger der vorderachse fault weg, federbeinrohre vorne rosten durch, alle möglichen kunststoffe und schaumstoffe im innenraum werden porös oder lösen sich auf usw...
+525;tun;eoe;"; und dann die übliche auskunft beim vag teiledealer ""tut mir leid, ist alles eoe"" ... ;"
+526;tun;auskunft;"; und dann die übliche auskunft beim vag teiledealer ""tut mir leid, ist alles eoe"" ... ;"
+527;tun;vag;"; und dann die übliche auskunft beim vag teiledealer ""tut mir leid, ist alles eoe"" ... ;"
+528;tun;teiledealer;"; und dann die übliche auskunft beim vag teiledealer ""tut mir leid, ist alles eoe"" ... ;"
+529;tun;"; übliche auskunft";"; und dann die übliche auskunft beim vag teiledealer ""tut mir leid, ist alles eoe"" ... ;"
+530;antworten;antworten;vielen dank für die ganzen antworten.
+531;antworten;dank;vielen dank für die ganzen antworten.
+532;steigen;b5;nun meine frage: inwiefern steigen denn die kosten wenn man jetzt z.b. einen b4 oder a4 b5 nimmt?
+533;steigen;a4;nun meine frage: inwiefern steigen denn die kosten wenn man jetzt z.b. einen b4 oder a4 b5 nimmt?
+534;steigen;frage;nun meine frage: inwiefern steigen denn die kosten wenn man jetzt z.b. einen b4 oder a4 b5 nimmt?
+535;steigen;z.b.;nun meine frage: inwiefern steigen denn die kosten wenn man jetzt z.b. einen b4 oder a4 b5 nimmt?
+536;steigen;inwiefern;nun meine frage: inwiefern steigen denn die kosten wenn man jetzt z.b. einen b4 oder a4 b5 nimmt?
+537;steigen;kosten;nun meine frage: inwiefern steigen denn die kosten wenn man jetzt z.b. einen b4 oder a4 b5 nimmt?
+538;steigen;b4;nun meine frage: inwiefern steigen denn die kosten wenn man jetzt z.b. einen b4 oder a4 b5 nimmt?
+539;teuer werden;klar versicherung;klar versicherung wird teurer (aber runtergerechnet auf die kosten pro monat nicht viel im vergleich zum sprit).
+540;teuer werden;vergleich;klar versicherung wird teurer (aber runtergerechnet auf die kosten pro monat nicht viel im vergleich zum sprit).
+541;teuer werden;sprit;klar versicherung wird teurer (aber runtergerechnet auf die kosten pro monat nicht viel im vergleich zum sprit).
+542;teuer werden;kosten;klar versicherung wird teurer (aber runtergerechnet auf die kosten pro monat nicht viel im vergleich zum sprit).
+543;teuer werden;monat;klar versicherung wird teurer (aber runtergerechnet auf die kosten pro monat nicht viel im vergleich zum sprit).
+544;teuer werden;versicherung;klar versicherung wird teurer (aber runtergerechnet auf die kosten pro monat nicht viel im vergleich zum sprit).
+545;sehen;verbrauch;wie sieht's in dem sinne mit dem verbrauch aus?
+546;sehen;sinne;wie sieht's in dem sinne mit dem verbrauch aus?
+547;weiß;motorisierung;soweit ich weiß verbrauchen beide bei ähnlicher motorisierung mehr.
+548;können;a4;und kann man bei einem a4 noch was selber machen?  
+549;nicht halte;muss;"ich halte nämlich nicht allzu viel davon, wenn man wegen jeder kleinigkeit in die werkstatt muss weil man zum einen nichts mehr sieht und nirgendwo rankommt und zum anderen fehlermeldungen ausgelesen werden müssen und sowas...  ; und in dem sinne auch eine (vielleicht) ganz blöde frage: was ist gerade beim a4 mit diesel?"
+550;nicht halte;a4;"ich halte nämlich nicht allzu viel davon, wenn man wegen jeder kleinigkeit in die werkstatt muss weil man zum einen nichts mehr sieht und nirgendwo rankommt und zum anderen fehlermeldungen ausgelesen werden müssen und sowas...  ; und in dem sinne auch eine (vielleicht) ganz blöde frage: was ist gerade beim a4 mit diesel?"
+551;nicht halte;werkstatt;"ich halte nämlich nicht allzu viel davon, wenn man wegen jeder kleinigkeit in die werkstatt muss weil man zum einen nichts mehr sieht und nirgendwo rankommt und zum anderen fehlermeldungen ausgelesen werden müssen und sowas...  ; und in dem sinne auch eine (vielleicht) ganz blöde frage: was ist gerade beim a4 mit diesel?"
+552;nicht halte;sinne;"ich halte nämlich nicht allzu viel davon, wenn man wegen jeder kleinigkeit in die werkstatt muss weil man zum einen nichts mehr sieht und nirgendwo rankommt und zum anderen fehlermeldungen ausgelesen werden müssen und sowas...  ; und in dem sinne auch eine (vielleicht) ganz blöde frage: was ist gerade beim a4 mit diesel?"
+553;nicht halte;frage;"ich halte nämlich nicht allzu viel davon, wenn man wegen jeder kleinigkeit in die werkstatt muss weil man zum einen nichts mehr sieht und nirgendwo rankommt und zum anderen fehlermeldungen ausgelesen werden müssen und sowas...  ; und in dem sinne auch eine (vielleicht) ganz blöde frage: was ist gerade beim a4 mit diesel?"
+554;nicht halte;diesel;"ich halte nämlich nicht allzu viel davon, wenn man wegen jeder kleinigkeit in die werkstatt muss weil man zum einen nichts mehr sieht und nirgendwo rankommt und zum anderen fehlermeldungen ausgelesen werden müssen und sowas...  ; und in dem sinne auch eine (vielleicht) ganz blöde frage: was ist gerade beim a4 mit diesel?"
+555;nicht halte;fehlermeldungen;"ich halte nämlich nicht allzu viel davon, wenn man wegen jeder kleinigkeit in die werkstatt muss weil man zum einen nichts mehr sieht und nirgendwo rankommt und zum anderen fehlermeldungen ausgelesen werden müssen und sowas...  ; und in dem sinne auch eine (vielleicht) ganz blöde frage: was ist gerade beim a4 mit diesel?"
+556;nicht halte;sowas;"ich halte nämlich nicht allzu viel davon, wenn man wegen jeder kleinigkeit in die werkstatt muss weil man zum einen nichts mehr sieht und nirgendwo rankommt und zum anderen fehlermeldungen ausgelesen werden müssen und sowas...  ; und in dem sinne auch eine (vielleicht) ganz blöde frage: was ist gerade beim a4 mit diesel?"
+557;nicht halte;kleinigkeit;"ich halte nämlich nicht allzu viel davon, wenn man wegen jeder kleinigkeit in die werkstatt muss weil man zum einen nichts mehr sieht und nirgendwo rankommt und zum anderen fehlermeldungen ausgelesen werden müssen und sowas...  ; und in dem sinne auch eine (vielleicht) ganz blöde frage: was ist gerade beim a4 mit diesel?"
+558;verbrauch;verbrauch;verbrauch geringer und (wahrscheinlich nicht mehr lange) günstigerer literpreis.
+559;verbrauch;literpreis;verbrauch geringer und (wahrscheinlich nicht mehr lange) günstigerer literpreis.
+560;auslegen sein;b4;"der b4 ist etwas schwerer und der antrieb ist auch nicht mehr so sparsam ausgelegt  ;"
+561;auslegen sein;antrieb;"der b4 ist etwas schwerer und der antrieb ist auch nicht mehr so sparsam ausgelegt  ;"
+562;geben;frühe;"es gibt frühe 2.0 mit 90ps und lang übersetzten getriebe,das kommt dem 1.8s recht nah ;"
+563;geben;recht;"es gibt frühe 2.0 mit 90ps und lang übersetzten getriebe,das kommt dem 1.8s recht nah ;"
+564;geben;90ps;"es gibt frühe 2.0 mit 90ps und lang übersetzten getriebe,das kommt dem 1.8s recht nah ;"
+565;geben;getriebe;"es gibt frühe 2.0 mit 90ps und lang übersetzten getriebe,das kommt dem 1.8s recht nah ;"
+566;geben;1.8s;"es gibt frühe 2.0 mit 90ps und lang übersetzten getriebe,das kommt dem 1.8s recht nah ;"
+567;aussehen;b5;"mit viel überland liegst auch bisschen unter 8l/100km,in der stadt auch schon 9,5l rum ; wird aber auch beim b5 nicht viel anders aussehen  ;"
+568;aussehen;8l/100km;"mit viel überland liegst auch bisschen unter 8l/100km,in der stadt auch schon 9,5l rum ; wird aber auch beim b5 nicht viel anders aussehen  ;"
+569;aussehen;rum;"mit viel überland liegst auch bisschen unter 8l/100km,in der stadt auch schon 9,5l rum ; wird aber auch beim b5 nicht viel anders aussehen  ;"
+570;aussehen;überland;"mit viel überland liegst auch bisschen unter 8l/100km,in der stadt auch schon 9,5l rum ; wird aber auch beim b5 nicht viel anders aussehen  ;"
+571;aussehen;stadt;"mit viel überland liegst auch bisschen unter 8l/100km,in der stadt auch schon 9,5l rum ; wird aber auch beim b5 nicht viel anders aussehen  ;"
+572;is;vorteil;"da is der b3 mit ner knappen tonne gewicht im vorteil ;"
+573;is;b3;"da is der b3 mit ner knappen tonne gewicht im vorteil ;"
+574;is;gewicht;"da is der b3 mit ner knappen tonne gewicht im vorteil ;"
+575;is;tonne;"da is der b3 mit ner knappen tonne gewicht im vorteil ;"
+576;is;is;"da is der b3 mit ner knappen tonne gewicht im vorteil ;"
+577;sollen;solltest;"abs solltest vielleicht schon haben,gbs auch im b3,aber eher selten ;"
+578;sollen;abs solltest;"abs solltest vielleicht schon haben,gbs auch im b3,aber eher selten ;"
+579;sollen;b3,aber;"abs solltest vielleicht schon haben,gbs auch im b3,aber eher selten ;"
+580;teuer haben;b4;"nicht jeder b4 hat abs,das war bis sommer 1993 auch ein teures extra ;"
+581;teuer haben;sommer;"nicht jeder b4 hat abs,das war bis sommer 1993 auch ein teures extra ;"
+582;ab;b4;"ab da dann serie,b4 findest du aber schon wesentlich häufiger mit ;"
+583;finden;radstand;"qualitativ finde ich den b3 bisschen wertiger,dafür ist der b4 mit längeren radstand,breiterer spur und grösseren rädern aber schon komfortabler und wirkt ausgereifter ;"
+584;finden;b3;"qualitativ finde ich den b3 bisschen wertiger,dafür ist der b4 mit längeren radstand,breiterer spur und grösseren rädern aber schon komfortabler und wirkt ausgereifter ;"
+585;finden;spur;"qualitativ finde ich den b3 bisschen wertiger,dafür ist der b4 mit längeren radstand,breiterer spur und grösseren rädern aber schon komfortabler und wirkt ausgereifter ;"
+586;finden;rädern;"qualitativ finde ich den b3 bisschen wertiger,dafür ist der b4 mit längeren radstand,breiterer spur und grösseren rädern aber schon komfortabler und wirkt ausgereifter ;"
+587;finden;b4;"qualitativ finde ich den b3 bisschen wertiger,dafür ist der b4 mit längeren radstand,breiterer spur und grösseren rädern aber schon komfortabler und wirkt ausgereifter ;"
+588;finden;wertiger;"qualitativ finde ich den b3 bisschen wertiger,dafür ist der b4 mit längeren radstand,breiterer spur und grösseren rädern aber schon komfortabler und wirkt ausgereifter ;"
+589;sein;sache;"rost ist so ne sache  ;"
+590;sein;rost;"rost ist so ne sache  ;"
+591;hyben;vollverzinkte;"die autos hyben vollverzinkte karosserien,was schon mal sehr gut is ;"
+592;hyben;karosserien;"die autos hyben vollverzinkte karosserien,was schon mal sehr gut is ;"
+593;hyben;autos;"die autos hyben vollverzinkte karosserien,was schon mal sehr gut is ;"
+594;haben;buckel;"die autos haben aber auch schon gut 25 jahre und mehr aufm buckel,den meisten sieht man das mittlerweile auch schon an ;"
+595;haben;autos;"die autos haben aber auch schon gut 25 jahre und mehr aufm buckel,den meisten sieht man das mittlerweile auch schon an ;"
+596;haben;aufm;"die autos haben aber auch schon gut 25 jahre und mehr aufm buckel,den meisten sieht man das mittlerweile auch schon an ;"
+597;haben;jahre;"die autos haben aber auch schon gut 25 jahre und mehr aufm buckel,den meisten sieht man das mittlerweile auch schon an ;"
+598;zitat;zitat;zitat:
+599;schreiben;februar;@emil2267 schrieb am 7. februar 2020 um 00:38:04 uhr:
+600;schreiben;00:38:04;@emil2267 schrieb am 7. februar 2020 um 00:38:04 uhr:
+601;schreiben;@emil2267;@emil2267 schrieb am 7. februar 2020 um 00:38:04 uhr:
+602;schreiben;uhr;@emil2267 schrieb am 7. februar 2020 um 00:38:04 uhr:
+603;auslegen sein;b4;"; der b4 ist etwas schwerer und der antrieb ist auch nicht mehr so sparsam ausgelegt  ;"
+604;auslegen sein;antrieb;"; der b4 ist etwas schwerer und der antrieb ist auch nicht mehr so sparsam ausgelegt  ;"
+605;geben;frühe;"es gibt frühe 2.0 mit 90ps und lang übersetzten getriebe,das kommt dem 1.8s recht nah ;"
+606;geben;recht;"es gibt frühe 2.0 mit 90ps und lang übersetzten getriebe,das kommt dem 1.8s recht nah ;"
+607;geben;90ps;"es gibt frühe 2.0 mit 90ps und lang übersetzten getriebe,das kommt dem 1.8s recht nah ;"
+608;geben;getriebe;"es gibt frühe 2.0 mit 90ps und lang übersetzten getriebe,das kommt dem 1.8s recht nah ;"
+609;geben;1.8s;"es gibt frühe 2.0 mit 90ps und lang übersetzten getriebe,das kommt dem 1.8s recht nah ;"
+610;erkennen;gang;woran erkennt man die mit länger übersetzten 5. gang?
+611;fahren sein;muss;wenn die plakette kein muss ist und du wenig kurzstrecke fährst ist ein 1.9 tdi sicher ne gute wahl.
+612;fahren sein;kurzstrecke;wenn die plakette kein muss ist und du wenig kurzstrecke fährst ist ein 1.9 tdi sicher ne gute wahl.
+613;fahren sein;plakette;wenn die plakette kein muss ist und du wenig kurzstrecke fährst ist ein 1.9 tdi sicher ne gute wahl.
+614;fahren sein;tdi;wenn die plakette kein muss ist und du wenig kurzstrecke fährst ist ein 1.9 tdi sicher ne gute wahl.
+615;fahren sein;sicher;wenn die plakette kein muss ist und du wenig kurzstrecke fährst ist ein 1.9 tdi sicher ne gute wahl.
+616;fahren sein;wahl;wenn die plakette kein muss ist und du wenig kurzstrecke fährst ist ein 1.9 tdi sicher ne gute wahl.
+617;als;pd;ganz egal ob als vep oder pd motor.
+618;als;vep;ganz egal ob als vep oder pd motor.
+619;langlebig verbauen;audi;"; wurden audi 80, als auch im a4 und golf verbaut und sind relativ langlebig und bei vernünftiger fahrweise bei ca 6l auf 100km relativ genügsam."
+620;langlebig verbauen;a4;"; wurden audi 80, als auch im a4 und golf verbaut und sind relativ langlebig und bei vernünftiger fahrweise bei ca 6l auf 100km relativ genügsam."
+621;langlebig verbauen;fahrweise;"; wurden audi 80, als auch im a4 und golf verbaut und sind relativ langlebig und bei vernünftiger fahrweise bei ca 6l auf 100km relativ genügsam."
+622;langlebig verbauen;golf;"; wurden audi 80, als auch im a4 und golf verbaut und sind relativ langlebig und bei vernünftiger fahrweise bei ca 6l auf 100km relativ genügsam."
+623;langlebig verbauen;ca;"; wurden audi 80, als auch im a4 und golf verbaut und sind relativ langlebig und bei vernünftiger fahrweise bei ca 6l auf 100km relativ genügsam."
+624;langlebig verbauen;km;"; wurden audi 80, als auch im a4 und golf verbaut und sind relativ langlebig und bei vernünftiger fahrweise bei ca 6l auf 100km relativ genügsam."
+625;problem machen;a4 b7;"; selber machen ist bis hin zum a4 b7 bei den meisten motoren kein problem."
+626;problem machen;a4;"; selber machen ist bis hin zum a4 b7 bei den meisten motoren kein problem."
+627;problem machen;motoren;"; selber machen ist bis hin zum a4 b7 bei den meisten motoren kein problem."
+628;problem machen;b7;"; selber machen ist bis hin zum a4 b7 bei den meisten motoren kein problem."
+629;problem machen;problem;"; selber machen ist bis hin zum a4 b7 bei den meisten motoren kein problem."
+630;sollen;a4;für die neueren fahrzeuge wie a4 oder golf sollte man sich aber ein diagnosegerät besorgen.
+631;sollen;neueren fahrzeuge;für die neueren fahrzeuge wie a4 oder golf sollte man sich aber ein diagnosegerät besorgen.
+632;sollen;diagnosegerät;für die neueren fahrzeuge wie a4 oder golf sollte man sich aber ein diagnosegerät besorgen.
+633;sollen;fahrzeuge;für die neueren fahrzeuge wie a4 oder golf sollte man sich aber ein diagnosegerät besorgen.
+634;sollen;golf;für die neueren fahrzeuge wie a4 oder golf sollte man sich aber ein diagnosegerät besorgen.
+635;glauben;kostenstellen;"; du kannst mir aber glauben, wenn ich dir sage, dass kraftstoff eine der kleinsten kostenstellen beim fahrzeug ist."
+636;glauben;fahrzeug;"; du kannst mir aber glauben, wenn ich dir sage, dass kraftstoff eine der kleinsten kostenstellen beim fahrzeug ist."
+637;glauben;kraftstoff;"; du kannst mir aber glauben, wenn ich dir sage, dass kraftstoff eine der kleinsten kostenstellen beim fahrzeug ist."
+638;werden;verbrauch;"das wird erst ab nem verbrauch von 15l oder mehr interessant. ;   "
+639;werden;15l;"das wird erst ab nem verbrauch von 15l oder mehr interessant. ;   "
+640;musst;einkalkulieren;"; bei allen a4 modellen musst du definitiv die mehrlenkerachse mit einkalkulieren."
+641;musst;modellen;"; bei allen a4 modellen musst du definitiv die mehrlenkerachse mit einkalkulieren."
+642;musst;a4;"; bei allen a4 modellen musst du definitiv die mehrlenkerachse mit einkalkulieren."
+643;musst;mehrlenkerachse;"; bei allen a4 modellen musst du definitiv die mehrlenkerachse mit einkalkulieren."
+644;thema sein;kühler;"; bei den alten fahrzeugen so sachen wie auspuff, sich auflösende verkleidungen,verlegte oder leckende kühler,federn&dämpfer,... die vollverzinkung ist gut, aber bei knapp 30 jahren ist rost ein thema."
+645;thema sein;rost;"; bei den alten fahrzeugen so sachen wie auspuff, sich auflösende verkleidungen,verlegte oder leckende kühler,federn&dämpfer,... die vollverzinkung ist gut, aber bei knapp 30 jahren ist rost ein thema."
+646;thema sein;vollverzinkung;"; bei den alten fahrzeugen so sachen wie auspuff, sich auflösende verkleidungen,verlegte oder leckende kühler,federn&dämpfer,... die vollverzinkung ist gut, aber bei knapp 30 jahren ist rost ein thema."
+647;thema sein;auspuff;"; bei den alten fahrzeugen so sachen wie auspuff, sich auflösende verkleidungen,verlegte oder leckende kühler,federn&dämpfer,... die vollverzinkung ist gut, aber bei knapp 30 jahren ist rost ein thema."
+648;thema sein;alten fahrzeugen;"; bei den alten fahrzeugen so sachen wie auspuff, sich auflösende verkleidungen,verlegte oder leckende kühler,federn&dämpfer,... die vollverzinkung ist gut, aber bei knapp 30 jahren ist rost ein thema."
+649;thema sein;sachen;"; bei den alten fahrzeugen so sachen wie auspuff, sich auflösende verkleidungen,verlegte oder leckende kühler,federn&dämpfer,... die vollverzinkung ist gut, aber bei knapp 30 jahren ist rost ein thema."
+650;thema sein;federn&dämpfer;"; bei den alten fahrzeugen so sachen wie auspuff, sich auflösende verkleidungen,verlegte oder leckende kühler,federn&dämpfer,... die vollverzinkung ist gut, aber bei knapp 30 jahren ist rost ein thema."
+651;thema sein;jahren;"; bei den alten fahrzeugen so sachen wie auspuff, sich auflösende verkleidungen,verlegte oder leckende kühler,federn&dämpfer,... die vollverzinkung ist gut, aber bei knapp 30 jahren ist rost ein thema."
+652;thema sein;fahrzeugen;"; bei den alten fahrzeugen so sachen wie auspuff, sich auflösende verkleidungen,verlegte oder leckende kühler,federn&dämpfer,... die vollverzinkung ist gut, aber bei knapp 30 jahren ist rost ein thema."
+653;thema sein;thema;"; bei den alten fahrzeugen so sachen wie auspuff, sich auflösende verkleidungen,verlegte oder leckende kühler,federn&dämpfer,... die vollverzinkung ist gut, aber bei knapp 30 jahren ist rost ein thema."
+654;kombi;baujahr;"; wir hatten als familienkutsche mal einen scoda octavia 1 baujahr 2004, 1.9 tdi kombi ;   "
+655;kombi;scoda;"; wir hatten als familienkutsche mal einen scoda octavia 1 baujahr 2004, 1.9 tdi kombi ;   "
+656;kombi;mal;"; wir hatten als familienkutsche mal einen scoda octavia 1 baujahr 2004, 1.9 tdi kombi ;   "
+657;kombi;tdi;"; wir hatten als familienkutsche mal einen scoda octavia 1 baujahr 2004, 1.9 tdi kombi ;   "
+658;kombi;kombi;"; wir hatten als familienkutsche mal einen scoda octavia 1 baujahr 2004, 1.9 tdi kombi ;   "
+659;kombi;octavia;"; wir hatten als familienkutsche mal einen scoda octavia 1 baujahr 2004, 1.9 tdi kombi ;   "
+660;unkaputtbar verbrauchen;fahrwerk;"; der hatte zwar echt wenig ausstattung, aber ein tolles fahrwerk, hat nur 5einhalb liter diesel verbraucht und war praktisch unkaputtbar.  "
+661;unkaputtbar verbrauchen;liter;"; der hatte zwar echt wenig ausstattung, aber ein tolles fahrwerk, hat nur 5einhalb liter diesel verbraucht und war praktisch unkaputtbar.  "
+662;unkaputtbar verbrauchen;ausstattung;"; der hatte zwar echt wenig ausstattung, aber ein tolles fahrwerk, hat nur 5einhalb liter diesel verbraucht und war praktisch unkaputtbar.  "
+663;unkaputtbar verbrauchen;diesel;"; der hatte zwar echt wenig ausstattung, aber ein tolles fahrwerk, hat nur 5einhalb liter diesel verbraucht und war praktisch unkaputtbar.  "
+664;groß draufgefahren;großes;wir haben über 250.000 km draufgefahren, war nie was großes.
+665;groß draufgefahren;km;wir haben über 250.000 km draufgefahren, war nie was großes.
+666;standard sein;standard;"klimaanlage, boadcomputer, servolenkung/abs war standard ;   "
+667;standard sein;boadcomputer;"klimaanlage, boadcomputer, servolenkung/abs war standard ;   "
+668;standard sein;servolenkung/abs;"klimaanlage, boadcomputer, servolenkung/abs war standard ;   "
+669;standard sein;klimaanlage;"klimaanlage, boadcomputer, servolenkung/abs war standard ;   "
+670;";";anregung;"; nur mal so als anregung."
+671;halten;ausschau;"wenn ich mir was billiges zun easy fahren suchen würde würd ich vielleicht wieder nach sowas ausschau halten ;   "
+672;halten;billiges;"wenn ich mir was billiges zun easy fahren suchen würde würd ich vielleicht wieder nach sowas ausschau halten ;   "
+673;halten;würd;"wenn ich mir was billiges zun easy fahren suchen würde würd ich vielleicht wieder nach sowas ausschau halten ;   "
+674;halten;easy;"wenn ich mir was billiges zun easy fahren suchen würde würd ich vielleicht wieder nach sowas ausschau halten ;   "
+675;halten;sowas;"wenn ich mir was billiges zun easy fahren suchen würde würd ich vielleicht wieder nach sowas ausschau halten ;   "
+676;bedenken;bedenke;"; bedenke:"
+677;bedenken;"; bedenke";"; bedenke:"
+678;teuer sein;ersatzteilregal;"das ersatzteilregal ist bei audi egal welches modell immer etwas teurer ;"
+679;teuer sein;audi;"das ersatzteilregal ist bei audi egal welches modell immer etwas teurer ;"
+680;teuer sein;modell;"das ersatzteilregal ist bei audi egal welches modell immer etwas teurer ;"
+681;schauen;motor;ja wenn's wirklich nur ums geld geht würde ich auch eher nach sowas schauen oder einen golf iv mit dem 1.8er motor.
+682;schauen;golf;ja wenn's wirklich nur ums geld geht würde ich auch eher nach sowas schauen oder einen golf iv mit dem 1.8er motor.
+683;schauen;geld;ja wenn's wirklich nur ums geld geht würde ich auch eher nach sowas schauen oder einen golf iv mit dem 1.8er motor.
+684;schauen;sowas;ja wenn's wirklich nur ums geld geht würde ich auch eher nach sowas schauen oder einen golf iv mit dem 1.8er motor.
+685;ausschließen;golf 4 audi a4;also golf 4 und audi a4 habe ich gleich mal ausgeschlossen!!
+686;ausschließen;golf;also golf 4 und audi a4 habe ich gleich mal ausgeschlossen!!
+687;ausschließen;audi;also golf 4 und audi a4 habe ich gleich mal ausgeschlossen!!
+688;ausschließen;a4;also golf 4 und audi a4 habe ich gleich mal ausgeschlossen!!
+689;denn;kosten;"denn: doppelte kosten für die versicherung! ;   "
+690;denn;versicherung;"denn: doppelte kosten für die versicherung! ;   "
+691;kaufen;hand;"; habe mit letzte woche einen audi 80 b3 aus erster hand für 1600€ gekauft."
+692;kaufen;audi;"; habe mit letzte woche einen audi 80 b3 aus erster hand für 1600€ gekauft."
+693;kaufen;b3;"; habe mit letzte woche einen audi 80 b3 aus erster hand für 1600€ gekauft."
+694;kaufen;woche;"; habe mit letzte woche einen audi 80 b3 aus erster hand für 1600€ gekauft."
+695;kaufen;letzte woche;"; habe mit letzte woche einen audi 80 b3 aus erster hand für 1600€ gekauft."
+696;begeistern machen;einwandfrei;läuft einwandfrei und mein sohn, der seine ersten fahrversuche damit machen soll ist begeistert.
+697;begeistern machen;fahrversuche;läuft einwandfrei und mein sohn, der seine ersten fahrversuche damit machen soll ist begeistert.
+698;begeistern machen;sohn;läuft einwandfrei und mein sohn, der seine ersten fahrversuche damit machen soll ist begeistert.
+699;kennzeichen;fahrverbote;zusätzlich habe ich h kennzeichen, also keinerlei fahrverbote.  
+700;sehen;fein;der sieht aber fein aus!
+701;machen;zustand;das foto macht einiges gut glaube ich ... aber er ist in gutem zustand.
+702;machen;foto;das foto macht einiges gut glaube ich ... aber er ist in gutem zustand.
+703;polieren;fordermann;"im frühjahr wird poliert und die kunststoffe auf fordermann gebracht. ;"
+704;polieren;kunststoffe;"im frühjahr wird poliert und die kunststoffe auf fordermann gebracht. ;"
+705;polieren;frühjahr;"im frühjahr wird poliert und die kunststoffe auf fordermann gebracht. ;"
+706;müssen;kotflügel;zwei kotflügel müssen mal hin.
+707;rostfrei;ansonsten rostfrei;ansonsten rostfrei.  
+708;rostfrei;rostfrei;ansonsten rostfrei.  
+709;finden;s.martin nen wagen;s.martin schon nen wagen gefunden oder dich entschieden?
+710;finden;s.martin;s.martin schon nen wagen gefunden oder dich entschieden?
+711;finden;wagen;s.martin schon nen wagen gefunden oder dich entschieden?
+712;entscheiden dauern;deutschland;tatsächlich ist nichts direkt entschieden und das wird auch noch ein bisschen dauern, da ich erst im juni wieder in deutschland bin.  
+713;entscheiden dauern;juni;tatsächlich ist nichts direkt entschieden und das wird auch noch ein bisschen dauern, da ich erst im juni wieder in deutschland bin.  
+714;angeboten;86c;vor ein paar tagen hat mir jedoch ein bekannter einen polo 86c angeboten.
+715;angeboten;tagen;vor ein paar tagen hat mir jedoch ein bekannter einen polo 86c angeboten.
+716;angeboten;polo;vor ein paar tagen hat mir jedoch ein bekannter einen polo 86c angeboten.
+717;angeboten;bekannter;vor ein paar tagen hat mir jedoch ein bekannter einen polo 86c angeboten.
+718;verkaufen;audi;ist zwar kein 80er audi aber er hat selbst einen und macht den, den er jetzt verkaufen will, fit.
+719;verkaufen;80er audi;ist zwar kein 80er audi aber er hat selbst einen und macht den, den er jetzt verkaufen will, fit.
+720;heißen;felgen;heißt alles von riemen bis felgen und reifen.
+721;heißen;reifen;heißt alles von riemen bis felgen und reifen.
+722;heißen;riemen;heißt alles von riemen bis felgen und reifen.
+723;1000 mein;tüv;preis wird um die 1000 sein und er macht noch neuen tüv.
+724;1000 mein;preis;preis wird um die 1000 sein und er macht noch neuen tüv.
+725;nicht unkompliziert sein;auto;dem bin ich gar nicht so abgeneigt, einfach weil es unkompliziert wäre (und das auto schon was hat).
+726;uralt haben;86c;"; hatte ich auch schonmal, ein 86c ist aber auch schon uralt."
+727;uralt haben;uralt;"; hatte ich auch schonmal, ein 86c ist aber auch schon uralt."
+728;musste;prinzip;da musste du im prinzip nach den selben problemstellen wie beim 80er schauen.
+729;musste;problemstellen;da musste du im prinzip nach den selben problemstellen wie beim 80er schauen.
+730;zum;bsp;zum bsp.
+731;rosten;hinterachse;"kraftstoff- und bremsleitungen rosten gerne im bereich der hinterachse durch... ;"
+732;rosten;bereich;"kraftstoff- und bremsleitungen rosten gerne im bereich der hinterachse durch... ;"
+733;lässt;recht;lässt sich bei dem aber auch alles recht leicht reparieren.
+734;zitat;zitat;zitat:
+735;schreiben;februar;@bodenblech_78 schrieb am 12. februar 2020 um 18:53:12 uhr:
+736;schreiben;18:53:12;@bodenblech_78 schrieb am 12. februar 2020 um 18:53:12 uhr:
+737;schreiben;uhr;@bodenblech_78 schrieb am 12. februar 2020 um 18:53:12 uhr:
+738;schreiben;@bodenblech_78;@bodenblech_78 schrieb am 12. februar 2020 um 18:53:12 uhr:
+739;hören;m.m.n;"; hört sich m.m.n."
+740;zettel;fragen+problemen;"1 großer zettel für einen frisch aufbereiteten 86c mit neuer plakette von einem befreundeten schrauber, der dir bei zukünftigen fragen+problemen weiterhelfen kann/wird! ; zugreifen, wenn dir die kleine kiste gefällt... ;"
+741;zettel;plakette;"1 großer zettel für einen frisch aufbereiteten 86c mit neuer plakette von einem befreundeten schrauber, der dir bei zukünftigen fragen+problemen weiterhelfen kann/wird! ; zugreifen, wenn dir die kleine kiste gefällt... ;"
+742;zettel;1 zettel;"1 großer zettel für einen frisch aufbereiteten 86c mit neuer plakette von einem befreundeten schrauber, der dir bei zukünftigen fragen+problemen weiterhelfen kann/wird! ; zugreifen, wenn dir die kleine kiste gefällt... ;"
+743;zettel;zettel;"1 großer zettel für einen frisch aufbereiteten 86c mit neuer plakette von einem befreundeten schrauber, der dir bei zukünftigen fragen+problemen weiterhelfen kann/wird! ; zugreifen, wenn dir die kleine kiste gefällt... ;"
+744;zettel;schrauber;"1 großer zettel für einen frisch aufbereiteten 86c mit neuer plakette von einem befreundeten schrauber, der dir bei zukünftigen fragen+problemen weiterhelfen kann/wird! ; zugreifen, wenn dir die kleine kiste gefällt... ;"
+745;zettel;kiste;"1 großer zettel für einen frisch aufbereiteten 86c mit neuer plakette von einem befreundeten schrauber, der dir bei zukünftigen fragen+problemen weiterhelfen kann/wird! ; zugreifen, wenn dir die kleine kiste gefällt... ;"
+746;fahren;stadtverkehr;ich persönlich würde allerdings einen b4 bevorzugen - speziell, wenn du nicht nur kurzstrecke bzw. stadtverkehr fahren willst.
+747;fahren;b4;ich persönlich würde allerdings einen b4 bevorzugen - speziell, wenn du nicht nur kurzstrecke bzw. stadtverkehr fahren willst.
+748;fahren;kurzstrecke;ich persönlich würde allerdings einen b4 bevorzugen - speziell, wenn du nicht nur kurzstrecke bzw. stadtverkehr fahren willst.
+749;sehen;eyecatcher;"vor allem voll der eyecatcher !! sieht man ja garnicht mehr. ;"
+750;habe;anfängerauto;habe einen b4 mit 2.0e aus 94 als anfängerauto.
+751;habe;b4;habe einen b4 mit 2.0e aus 94 als anfängerauto.
+752;habe;2.0e;habe einen b4 mit 2.0e aus 94 als anfängerauto.
+753;verbrauch;verbrauch;verbrauch im sommer
+754;verbrauch;sommer;verbrauch im sommer
+755;winter;winter;-im winter
+756;winter;-im;-im winter
+757;winter;-im winter;-im winter
+758;steuer;steuer;steuer im jahr
+759;steuer;jahr;steuer im jahr
+760;vorteile;135€. versicherung;135€. versicherung etwa 600€. vorteile zum b3: viel größerer kofferraum und bei den späten modellen bessere sicherheitskomponenten und (oft) bessere ausstattung.
+761;vorteile;modellen;135€. versicherung etwa 600€. vorteile zum b3: viel größerer kofferraum und bei den späten modellen bessere sicherheitskomponenten und (oft) bessere ausstattung.
+762;vorteile;b3;135€. versicherung etwa 600€. vorteile zum b3: viel größerer kofferraum und bei den späten modellen bessere sicherheitskomponenten und (oft) bessere ausstattung.
+763;vorteile;ausstattung;135€. versicherung etwa 600€. vorteile zum b3: viel größerer kofferraum und bei den späten modellen bessere sicherheitskomponenten und (oft) bessere ausstattung.
+764;vorteile;kofferraum;135€. versicherung etwa 600€. vorteile zum b3: viel größerer kofferraum und bei den späten modellen bessere sicherheitskomponenten und (oft) bessere ausstattung.
+765;vorteile;vorteile;135€. versicherung etwa 600€. vorteile zum b3: viel größerer kofferraum und bei den späten modellen bessere sicherheitskomponenten und (oft) bessere ausstattung.
+766;vorteile;sicherheitskomponenten;135€. versicherung etwa 600€. vorteile zum b3: viel größerer kofferraum und bei den späten modellen bessere sicherheitskomponenten und (oft) bessere ausstattung.
+767;vorteile;versicherung;135€. versicherung etwa 600€. vorteile zum b3: viel größerer kofferraum und bei den späten modellen bessere sicherheitskomponenten und (oft) bessere ausstattung.
+768;nachteile;verbrauch;nachteile: größer, schwerer (wie schon genannt) und je nach dem höherer verbrauch.
+769;nachteile;nachteile;nachteile: größer, schwerer (wie schon genannt) und je nach dem höherer verbrauch.
+770;fahren;hallo;hallo, audi 80 fährt man nur noch aus leidenschaft.
+771;fahren;leidenschaft;hallo, audi 80 fährt man nur noch aus leidenschaft.
+772;fahren;audi;hallo, audi 80 fährt man nur noch aus leidenschaft.
+773;auto können;super;wenn man viel selber machen kann ist das ein super auto.
+774;auto können;auto;wenn man viel selber machen kann ist das ein super auto.
+775;geben;muss;es gibt kein audi mit 26+ jahren wo man nicht praktisch alles ertüchtigen muss.
+776;geben;audi;es gibt kein audi mit 26+ jahren wo man nicht praktisch alles ertüchtigen muss.
+777;geben;jahren;es gibt kein audi mit 26+ jahren wo man nicht praktisch alles ertüchtigen muss.
+778;laufen;km;egal mit wieviel km gelaufen.
+779;nicht zeitgemäß sein;verbrauch;verbrauch und leistung sind nicht mehr zeitgemäß.
+780;nicht zeitgemäß sein;leistung;verbrauch und leistung sind nicht mehr zeitgemäß.
+781;finden;autoampel;über autoampel findest du günstige typenklassen.  
+782;finden;typenklassen;über autoampel findest du günstige typenklassen.  
+783;modern sein;autos;vielleicht sind ja autos dabei die wesentlich moderner sind.
+784;danke;antworten;danke für all die antworten
+785;danke;danke;danke für all die antworten
+786;rande;mal rande;mal am rande:
+787;rande;rande;mal am rande:
+788;werden;jahr;meiner wird nächstes jahr 30 und das h interessiert mich überhaupt nicht!
+789;werden;h;meiner wird nächstes jahr 30 und das h interessiert mich überhaupt nicht!
+790;lagebernd;super;super lagebernd
+791;wissen;fahren;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+792;wissen;€;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+793;wissen;steuer;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+794;wissen;hab;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+795;wissen;senf;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+796;wissen;jahr;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+797;wissen;sf26;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+798;wissen;b4;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+799;wissen;versicherung;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+800;wissen;sodele;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+801;wissen;fahr;".... jetzt wissen wir es ; sodele, jetzt geb ich auch mal noch meinen senf dazu, ich fahr seit nem jahr nen 2.0 80er b4 avant, sehr entspannt zum fahren und mega günstig von steuer und versicherung her (hab nur haftpflicht und sf26, bin bei 450€ für steuer + versicherung)."
+802;machen;stelle;würde an deiner stelle auch nur ne haftpflicht machen, alles andere zu teuer und macht keinen sinn.  
+803;machen;sinn;würde an deiner stelle auch nur ne haftpflicht machen, alles andere zu teuer und macht keinen sinn.  
+804;machen;haftpflicht;würde an deiner stelle auch nur ne haftpflicht machen, alles andere zu teuer und macht keinen sinn.  
+805;verbrauchen;90ps;mein audi verbraucht außerdem echt viel für 90ps(innerorts mind. 10, außerorts 7,5 wenn du extrem sparsam fährst).  
+806;verbrauchen;mind.;mein audi verbraucht außerdem echt viel für 90ps(innerorts mind. 10, außerorts 7,5 wenn du extrem sparsam fährst).  
+807;verbrauchen;audi;mein audi verbraucht außerdem echt viel für 90ps(innerorts mind. 10, außerorts 7,5 wenn du extrem sparsam fährst).  
+808;verbrauchen;innerorts;mein audi verbraucht außerdem echt viel für 90ps(innerorts mind. 10, außerorts 7,5 wenn du extrem sparsam fährst).  
+809;nehmen;stelle;"; würde allerdings an deiner stelle auf jeden fall den polo nehmen!"
+810;nehmen;fall;"; würde allerdings an deiner stelle auf jeden fall den polo nehmen!"
+811;nehmen;polo;"; würde allerdings an deiner stelle auf jeden fall den polo nehmen!"
+812;kennen;bescheid;du kennst den vorbesitzer & schrauber, der dir sicher gern mal beim schrauben hilft, du weißt über die probleme bescheid und der preis wird fair sein.
+813;kennen;preis;du kennst den vorbesitzer & schrauber, der dir sicher gern mal beim schrauben hilft, du weißt über die probleme bescheid und der preis wird fair sein.
+814;kennen;schrauber;du kennst den vorbesitzer & schrauber, der dir sicher gern mal beim schrauben hilft, du weißt über die probleme bescheid und der preis wird fair sein.
+815;kennen;vorbesitzer;du kennst den vorbesitzer & schrauber, der dir sicher gern mal beim schrauben hilft, du weißt über die probleme bescheid und der preis wird fair sein.
+816;kennen;schrauben;du kennst den vorbesitzer & schrauber, der dir sicher gern mal beim schrauben hilft, du weißt über die probleme bescheid und der preis wird fair sein.
+817;kennen;probleme;du kennst den vorbesitzer & schrauber, der dir sicher gern mal beim schrauben hilft, du weißt über die probleme bescheid und der preis wird fair sein.
+818;haben;budget;außerdem, du hast dann noch puffer im budget für anstehende reperaturen.
+819;haben;puffer;außerdem, du hast dann noch puffer im budget für anstehende reperaturen.
+820;können;karre;und wenn man sich zurück hält, kann man so ne karre relativ sparsam fahren.
+821;hey;risiko;"besser als ein risiko meiner ansicht nach  ; hey zusammen, ;   "
+822;hey;ansicht;"besser als ein risiko meiner ansicht nach  ; hey zusammen, ;   "
+823;entscheiden;zeit;"; ein bisschen zeit ist ins land gegangen und ich habe mich letztendlich für den polo entschieden."
+824;entscheiden;polo;"; ein bisschen zeit ist ins land gegangen und ich habe mich letztendlich für den polo entschieden."
+825;entscheiden;land;"; ein bisschen zeit ist ins land gegangen und ich habe mich letztendlich für den polo entschieden."
+826;klein;gewicht;klein, sparsam aber trotzdem sehr lustig zu fahren bei dem geringen gewicht.
+827;klein;klein;klein, sparsam aber trotzdem sehr lustig zu fahren bei dem geringen gewicht.
+828;überraschen;langstreckentauglichkeit;ich bin echt überrascht - vor allem von der langstreckentauglichkeit.
+829;gefahren;mal 600 km;mal eben 600km gefahren ohne probleme.
+830;gefahren;km;mal eben 600km gefahren ohne probleme.
+831;gefahren;probleme;mal eben 600km gefahren ohne probleme.
+832;gefahren;gefahren;mal eben 600km gefahren ohne probleme.
+833;machen;hammer;schon einiges gemacht und die informationsvielfalt und teilesituation ist der hammer.
+834;machen;teilesituation;schon einiges gemacht und die informationsvielfalt und teilesituation ist der hammer.
+835;machen;informationsvielfalt;schon einiges gemacht und die informationsvielfalt und teilesituation ist der hammer.
+836;lesen;situation;also falls irgendwer das hier liest und sich in einer gleichen situation befindet wie ich sie anfangs beschrieben habe:
+837;können;startauto;mit einem polo 86c kann man glaube ich als günstiges startauto nicht viel falsch machen.
+838;können;polo;mit einem polo 86c kann man glaube ich als günstiges startauto nicht viel falsch machen.
+839;is;lieblingsauto;"der 86c is das lieblingsauto meiner besseren hälfte,vor allem als steilheck ;"
+840;is;86c;"der 86c is das lieblingsauto meiner besseren hälfte,vor allem als steilheck ;"
+841;is;steilheck;"der 86c is das lieblingsauto meiner besseren hälfte,vor allem als steilheck ;"
+842;is;hälfte;"der 86c is das lieblingsauto meiner besseren hälfte,vor allem als steilheck ;"
+843;wollen;anfängerauto;"den wollte sie auch als anfängerauto,zumals auch nen kleiner kombi sein sollte ;"
+844;wollen;kombi;"den wollte sie auch als anfängerauto,zumals auch nen kleiner kombi sein sollte ;"
+845;wollen;nen;"den wollte sie auch als anfängerauto,zumals auch nen kleiner kombi sein sollte ;"
+846;nicht haben;avant;"sie hatte allerdings nicht so viel glück,sie bekam nur nen 80 avant 2.6  ;   "
+847;nicht haben;glück;"sie hatte allerdings nicht so viel glück,sie bekam nur nen 80 avant 2.6  ;   "
+848;find;erfahrungen;"ich find deine fahrzeugwahl aber auch ganz cool,ich wünsche dir viel spaß und allzeit gute fahrt damit  ; und auch wenn es hier leider ins ot fallen wird,meinetwegen kannst dich hier auch gern noch mal mit erfahrungen melden ;"
+849;find;fahrzeugwahl;"ich find deine fahrzeugwahl aber auch ganz cool,ich wünsche dir viel spaß und allzeit gute fahrt damit  ; und auch wenn es hier leider ins ot fallen wird,meinetwegen kannst dich hier auch gern noch mal mit erfahrungen melden ;"
+850;find;fahrt;"ich find deine fahrzeugwahl aber auch ganz cool,ich wünsche dir viel spaß und allzeit gute fahrt damit  ; und auch wenn es hier leider ins ot fallen wird,meinetwegen kannst dich hier auch gern noch mal mit erfahrungen melden ;"
+851;find;cool;"ich find deine fahrzeugwahl aber auch ganz cool,ich wünsche dir viel spaß und allzeit gute fahrt damit  ; und auch wenn es hier leider ins ot fallen wird,meinetwegen kannst dich hier auch gern noch mal mit erfahrungen melden ;"
+852;find;spaß;"ich find deine fahrzeugwahl aber auch ganz cool,ich wünsche dir viel spaß und allzeit gute fahrt damit  ; und auch wenn es hier leider ins ot fallen wird,meinetwegen kannst dich hier auch gern noch mal mit erfahrungen melden ;"
+853;find;allzeit;"ich find deine fahrzeugwahl aber auch ganz cool,ich wünsche dir viel spaß und allzeit gute fahrt damit  ; und auch wenn es hier leider ins ot fallen wird,meinetwegen kannst dich hier auch gern noch mal mit erfahrungen melden ;"
+854;find;ot;"ich find deine fahrzeugwahl aber auch ganz cool,ich wünsche dir viel spaß und allzeit gute fahrt damit  ; und auch wenn es hier leider ins ot fallen wird,meinetwegen kannst dich hier auch gern noch mal mit erfahrungen melden ;"
+855;sehen;bilder;"bilder sehen wir hier sowieso alle gern  ;   "
+856;gruss;"; gruss";"; gruss"
+857;gruss;gruss;"; gruss"
+858;thomas;thomas;thomas
+859;restauriere;audi;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+860;restauriere;hinterseite;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+861;restauriere;standard federn;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+862;restauriere;freundlichen grüßen lukas;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+863;restauriere;b3;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+864;restauriere;erfahrung;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+865;restauriere;coupe;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+866;restauriere;federn;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+867;restauriere;quattro;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+868;restauriere;grüßen;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+869;restauriere;audi coupe b3 quattro;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+870;restauriere;lukas;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+871;restauriere;standard;"ich restauriere gerade meinen audi coupe b3 quattro aber ich kann keine standard federn für die hinterseite finden und will ihn nicht tieferlegen vielleicht hat jemand von euch schon erfahrung gemacht  ; mit freundlichen grüßen lukas ;"
+872;zum Beispiel;z.b.;z.b. hier mal suchen ...
+873;?;https://www.ebay.de/.../i.html;https://www.ebay.de/.../i.html?
+874;brechen;vorhandenen;"... ; sind die vorhandenen gebrochen ?"
+875;geben;https://www.euautoteile.de/teil/spidan/8197449;"von spidan gibt's welche https://www.euautoteile.de/teil/spidan/8197449 ;"
+876;geben;spidan;"von spidan gibt's welche https://www.euautoteile.de/teil/spidan/8197449 ;"
+877;sportfahrwerk sein;vorherigen;"nein die vorherigen sind ein tieferes sportfahrwerk und ich muss ihn typisieren weil er aus deutschland kommt ;"
+878;sportfahrwerk sein;deutschland;"nein die vorherigen sind ein tieferes sportfahrwerk und ich muss ihn typisieren weil er aus deutschland kommt ;"
+879;sportfahrwerk sein;sportfahrwerk;"nein die vorherigen sind ein tieferes sportfahrwerk und ich muss ihn typisieren weil er aus deutschland kommt ;"
+880;lieferbar werden;federn;"und die federn die passen würden sind nie lieferbar ;"
+881;lieferbar werden;passen;"und die federn die passen würden sind nie lieferbar ;"
+882;zitat;zitat;zitat:
+883;schreiben;uhr;"; @lukashaas schrieb am 3. juni 2020 um 18:15:32 uhr: ;"
+884;schreiben;@lukashaas;"; @lukashaas schrieb am 3. juni 2020 um 18:15:32 uhr: ;"
+885;schreiben;juni;"; @lukashaas schrieb am 3. juni 2020 um 18:15:32 uhr: ;"
+886;schreiben;18:15:32;"; @lukashaas schrieb am 3. juni 2020 um 18:15:32 uhr: ;"
+887;lieferbar passen;federn;"und die federn die passen würden sind nie lieferbar ;"
+888;lieferbar passen;passen;"und die federn die passen würden sind nie lieferbar ;"
+889;finden;s2;"frag mal beim hersteller nach...irgendwo wird sich schon was finden ; oder schau mal ebäh-kleinanzeigen oder hier gäbs die federn vom s2 ;"
+890;finden;schau;"frag mal beim hersteller nach...irgendwo wird sich schon was finden ; oder schau mal ebäh-kleinanzeigen oder hier gäbs die federn vom s2 ;"
+891;finden;federn;"frag mal beim hersteller nach...irgendwo wird sich schon was finden ; oder schau mal ebäh-kleinanzeigen oder hier gäbs die federn vom s2 ;"
+892;finden;hersteller;"frag mal beim hersteller nach...irgendwo wird sich schon was finden ; oder schau mal ebäh-kleinanzeigen oder hier gäbs die federn vom s2 ;"
+893;finden;frag;"frag mal beim hersteller nach...irgendwo wird sich schon was finden ; oder schau mal ebäh-kleinanzeigen oder hier gäbs die federn vom s2 ;"
+894;https://www.ebay.at/itm/143468827014;https://www.ebay.at/itm/143468827014;"https://www.ebay.at/itm/143468827014 ;"
+895;ok;ok;"ok danke ;"
+896;btw;tradition;btw: die von audi tradition sollten passen ?
+897;btw;btw;btw: die von audi tradition sollten passen ?
+898;btw;audi;btw: die von audi tradition sollten passen ?
+899;?;https://shops.audi.com/.../schraubenfeder-893511115f-10;https://shops.audi.com/.../schraubenfeder-893511115f-10?
+900;schneidern;sitze;hat auch schon jemand die sitze neu geschneidert
+901;sitze;schriftzug;weil ich habe nur die normalen satain sitze ohne quattro schriftzug
+902;sitze;sitze;weil ich habe nur die normalen satain sitze ohne quattro schriftzug
+903;sitze;quattro;weil ich habe nur die normalen satain sitze ohne quattro schriftzug
+904;sitze;satain;weil ich habe nur die normalen satain sitze ohne quattro schriftzug
+905;blockieren;go verkehr;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+906;blockieren;stop;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+907;blockieren;rd .;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+908;blockieren;.;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+909;blockieren;hohen umgebungstemperaturen;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+910;blockieren;go;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+911;blockieren;verkehr;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+912;blockieren;rd . 2;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+913;blockieren;c3;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+914;blockieren;jahren;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+915;blockieren;rd;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+916;blockieren;bremsen;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+917;blockieren;schrullige angewohnheit;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+918;blockieren;umgebungstemperaturen;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+919;blockieren;stadt;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+920;blockieren;angewohnheit;mein c3 hat seit rd. 2 jahren die schrullige angewohnheit, dass insb. bei hohen umgebungstemperaturen und bei stop an go verkehr wie etwa in der stadt die bremsen blockieren.
+921;bockelhard werden;bockelhard;das pedal wird dann bockelhard und irgendwann geht dann nix mehr.
+922;bockelhard werden;pedal;das pedal wird dann bockelhard und irgendwann geht dann nix mehr.
+923;möglich sein;weiterfahrt;erst nach einer längeren standzeit bzw. abkühlung ist die weiterfahrt dann möglich.
+924;möglich sein;längeren standzeit;erst nach einer längeren standzeit bzw. abkühlung ist die weiterfahrt dann möglich.
+925;möglich sein;abkühlung;erst nach einer längeren standzeit bzw. abkühlung ist die weiterfahrt dann möglich.
+926;möglich sein;standzeit;erst nach einer längeren standzeit bzw. abkühlung ist die weiterfahrt dann möglich.
+927;erneuern;bremssättel;zwischenzeitlich wurden sämtliche bremsschläuche und bremssättel erneuert.
+928;erneuern;bremsschläuche;zwischenzeitlich wurden sämtliche bremsschläuche und bremssättel erneuert.
+929;können;bremskraftverstärker;kann das am bremskraftverstärker liegen?
+930;müsstest;abfall;möglich ist das schon, dann müsstest du aber auch einen massiven abfall im behälter haben.  
+931;müsstest;behälter;möglich ist das schon, dann müsstest du aber auch einen massiven abfall im behälter haben.  
+932;ral;ral;moin ral 6014
+933;ral;moin;moin ral 6014
+934;ral;moin ral;moin ral 6014
+935;defekt sein;belüftungs;es wäre auch möglich, das dass belüftungs bzw entlüftungsrohr am bremskraftverstärker defekt ist.
+936;defekt sein;entlüftungsrohr;es wäre auch möglich, das dass belüftungs bzw entlüftungsrohr am bremskraftverstärker defekt ist.
+937;defekt sein;bremskraftverstärker;es wäre auch möglich, das dass belüftungs bzw entlüftungsrohr am bremskraftverstärker defekt ist.
+938;stefan;gruß stefan;"gruß stefan ;"
+939;stefan;stefan;"gruß stefan ;"
+940;stefan;gruß;"gruß stefan ;"
+941;drucklos zurückfliessen;system;"der ist dafür verantwortlich, dass bei gelöster bremse die flüssigkeit ungehindert in den vorratsbehälter zurückfliessen kann und das system dadurch drucklos wird ;"
+942;drucklos zurückfliessen;vorratsbehälter;"der ist dafür verantwortlich, dass bei gelöster bremse die flüssigkeit ungehindert in den vorratsbehälter zurückfliessen kann und das system dadurch drucklos wird ;"
+943;drucklos zurückfliessen;gelöster;"der ist dafür verantwortlich, dass bei gelöster bremse die flüssigkeit ungehindert in den vorratsbehälter zurückfliessen kann und das system dadurch drucklos wird ;"
+944;drucklos zurückfliessen;flüssigkeit;"der ist dafür verantwortlich, dass bei gelöster bremse die flüssigkeit ungehindert in den vorratsbehälter zurückfliessen kann und das system dadurch drucklos wird ;"
+945;können;steuerblock;"das kann solche probleme auch verursachen, der steuerblock ;"
+946;können;probleme;"das kann solche probleme auch verursachen, der steuerblock ;"
+947;können;alters;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+948;können;ausgleichsventil;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+949;können;korrosion;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+950;können;flüssigkeit;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+951;können;ect;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+952;können;leitungssystem;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+953;können;aufrund;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+954;zitat;zitat;zitat:
+955;schreiben;uhr;@macspeed schrieb am 22. april 2020 um 09:53:29 uhr:
+956;schreiben;april;@macspeed schrieb am 22. april 2020 um 09:53:29 uhr:
+957;schreiben;@macspeed;@macspeed schrieb am 22. april 2020 um 09:53:29 uhr:
+958;tauschen;hauptbremszylinder;"; hauptbremszylinder schon getauscht ?"
+959;drucklos zurückfliessen;system;"der ist dafür verantwortlich, dass bei gelöster bremse die flüssigkeit ungehindert in den vorratsbehälter zurückfliessen kann und das system dadurch drucklos wird ;"
+960;drucklos zurückfliessen;vorratsbehälter;"der ist dafür verantwortlich, dass bei gelöster bremse die flüssigkeit ungehindert in den vorratsbehälter zurückfliessen kann und das system dadurch drucklos wird ;"
+961;drucklos zurückfliessen;gelöster;"der ist dafür verantwortlich, dass bei gelöster bremse die flüssigkeit ungehindert in den vorratsbehälter zurückfliessen kann und das system dadurch drucklos wird ;"
+962;drucklos zurückfliessen;flüssigkeit;"der ist dafür verantwortlich, dass bei gelöster bremse die flüssigkeit ungehindert in den vorratsbehälter zurückfliessen kann und das system dadurch drucklos wird ;"
+963;können;steuerblock;"das kann solche probleme auch verursachen, der steuerblock ;"
+964;können;probleme;"das kann solche probleme auch verursachen, der steuerblock ;"
+965;können;alters;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+966;können;ausgleichsventil;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+967;können;korrosion;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+968;können;flüssigkeit;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+969;können;ect;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+970;können;leitungssystem;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+971;können;aufrund;"aufrund des alters kann es auch an der korrosion liegen, im leitungssystem, dass die flüssigkeit nicht mehr richtig zirkulieren kann, beim ausgleichsventil ect ;"
+972;ausgleichsventil;ausgleichsventil;welches ausgleichsventil?
+973;mfg;"; mfg";"; mfg"
+974;mfg;mfg;"; mfg"
+975;verbauen;ventil;"manche versionen haben unter dem hauptbremszylinder ein ventil in der leitung verbaut ;"
+976;verbauen;leitung;"manche versionen haben unter dem hauptbremszylinder ein ventil in der leitung verbaut ;"
+977;verbauen;hauptbremszylinder;"manche versionen haben unter dem hauptbremszylinder ein ventil in der leitung verbaut ;"
+978;verbauen;versionen;"manche versionen haben unter dem hauptbremszylinder ein ventil in der leitung verbaut ;"
+979;fehlerhaft mein;hiachse;"hat aber mit dem regelventil der hiachse nichts zu tun, dass könnte auch fehlerhaft sein ;"
+980;fehlerhaft mein;regelventil;"hat aber mit dem regelventil der hiachse nichts zu tun, dass könnte auch fehlerhaft sein ;"
+981;prüfen;/;"ich würde als erstes den hbz tauschen / prüfen ;"
+982;prüfen;hbz;"ich würde als erstes den hbz tauschen / prüfen ;"
+983;moin;moin;moin  
+984;sein;hauptbremszylinder;"; ist 100 pro der hauptbremszylinder , ; hatte ich auch schon . ;"
+985;fest zukühlen;bremsen;"versuch mal wenn die bremsen wieder fest sind mit ner selterflasche das teil zukühlen . ;"
+986;fest zukühlen;versuch;"versuch mal wenn die bremsen wieder fest sind mit ner selterflasche das teil zukühlen . ;"
+987;fest zukühlen;teil;"versuch mal wenn die bremsen wieder fest sind mit ner selterflasche das teil zukühlen . ;"
+988;gruss;gruss;"gruss ;"
+989;bekennen sein;modellreihe;das problem mit dem hauptbremszylinder ist sogar recht bekannt bei dieser modellreihe...
+990;bekennen sein;problem;das problem mit dem hauptbremszylinder ist sogar recht bekannt bei dieser modellreihe...
+991;bekennen sein;hauptbremszylinder;das problem mit dem hauptbremszylinder ist sogar recht bekannt bei dieser modellreihe...
+992;haben;kühler;"besonders die 5-zylinder mit dem kühler seitlich haben das problem, bedingt durch die temperatur am und um den hauptbremszylinder ;"
+993;haben;hauptbremszylinder;"besonders die 5-zylinder mit dem kühler seitlich haben das problem, bedingt durch die temperatur am und um den hauptbremszylinder ;"
+994;haben;5-zylinder;"besonders die 5-zylinder mit dem kühler seitlich haben das problem, bedingt durch die temperatur am und um den hauptbremszylinder ;"
+995;haben;temperatur;"besonders die 5-zylinder mit dem kühler seitlich haben das problem, bedingt durch die temperatur am und um den hauptbremszylinder ;"
+996;haben;problem;"besonders die 5-zylinder mit dem kühler seitlich haben das problem, bedingt durch die temperatur am und um den hauptbremszylinder ;"
+997;danke;hinweise;danke für die hinweise.
+998;danke;danke;danke für die hinweise.
+999;klingen;hbz;das mit dem hbz klingt plausibel und
+1000;machen;suche;dann werde ich mich mal auf die suche machen
+1001;haben;hallo;".... ; hallo, hatte dieses problem bis vor kurzem auch."
+1002;haben;problem;".... ; hallo, hatte dieses problem bis vor kurzem auch."
+1003;zeigen;schrauber;mein schrauber zeigte gleich auf den hbz der noch von 1988 war.
+1004;zeigen;hbz;mein schrauber zeigte gleich auf den hbz der noch von 1988 war.
+1005;problem geben;einzige problem;das einzige problem ist, das es von einigen modellen wie meiner, bj 88 ohne abs und 22,2 kolben nicht mehr viele hersteller gibt.
+1006;problem geben;modellen;das einzige problem ist, das es von einigen modellen wie meiner, bj 88 ohne abs und 22,2 kolben nicht mehr viele hersteller gibt.
+1007;problem geben;abs;das einzige problem ist, das es von einigen modellen wie meiner, bj 88 ohne abs und 22,2 kolben nicht mehr viele hersteller gibt.
+1008;problem geben;hersteller;das einzige problem ist, das es von einigen modellen wie meiner, bj 88 ohne abs und 22,2 kolben nicht mehr viele hersteller gibt.
+1009;problem geben;problem;das einzige problem ist, das es von einigen modellen wie meiner, bj 88 ohne abs und 22,2 kolben nicht mehr viele hersteller gibt.
+1010;tradition;tradition;audi tradition ca
+1011;tradition;audi;audi tradition ca
+1012;euro;ca;450 euro, bosch ca 360 euro.
+1013;euro;450 euro;450 euro, bosch ca 360 euro.
+1014;euro;euro;450 euro, bosch ca 360 euro.
+1015;bekommen;zubehör;habe dann ndoch noch einen vom zubehör bekommen und das für 25 euro.
+1016;bekommen;euro;habe dann ndoch noch einen vom zubehör bekommen und das für 25 euro.
+1017;wechseln;hbz;"; habe nunmehr den hbz gewechselt."
+1018;bleiben;abs-einheit;hoffe es bleibt so, denn als nächstes wäre wohl die abs-einheit dran und das ist dann sicher deutlich kostspieliger.
+1019;danke;tipps;bis dahin nochmal danke für die tipps.
+1020;danke;nochmal danke;bis dahin nochmal danke für die tipps.
+1021;danke;danke;bis dahin nochmal danke für die tipps.
+1022;hallo;hallo;halli hallo zusammen,  
+1023;hallo;halli;halli hallo zusammen,  
+1024;hallo;halli hallo;halli hallo zusammen,  
+1025;sein;foren;"; mittlerweile bin ich nach etlichen seiten in verschiedensten foren auch mit probieren und nachdenken am ende."
+1026;sein;nachdenken;"; mittlerweile bin ich nach etlichen seiten in verschiedensten foren auch mit probieren und nachdenken am ende."
+1027;sein;seiten;"; mittlerweile bin ich nach etlichen seiten in verschiedensten foren auch mit probieren und nachdenken am ende."
+1028;sein;ende;"; mittlerweile bin ich nach etlichen seiten in verschiedensten foren auch mit probieren und nachdenken am ende."
+1029;sein;probieren;"; mittlerweile bin ich nach etlichen seiten in verschiedensten foren auch mit probieren und nachdenken am ende."
+1030;halten;moment;mein motor hat folgendes problem, wenn ich im leerlauf einen gasstoß gebe, egal bei welcher drehzahl und egal ob warm oder kalt, hält der motor die drehzahl für einen kurzen moment bei bsw.
+1031;halten;drehzahl;mein motor hat folgendes problem, wenn ich im leerlauf einen gasstoß gebe, egal bei welcher drehzahl und egal ob warm oder kalt, hält der motor die drehzahl für einen kurzen moment bei bsw.
+1032;halten;motor;mein motor hat folgendes problem, wenn ich im leerlauf einen gasstoß gebe, egal bei welcher drehzahl und egal ob warm oder kalt, hält der motor die drehzahl für einen kurzen moment bei bsw.
+1033;halten;leerlauf;mein motor hat folgendes problem, wenn ich im leerlauf einen gasstoß gebe, egal bei welcher drehzahl und egal ob warm oder kalt, hält der motor die drehzahl für einen kurzen moment bei bsw.
+1034;halten;gasstoß;mein motor hat folgendes problem, wenn ich im leerlauf einen gasstoß gebe, egal bei welcher drehzahl und egal ob warm oder kalt, hält der motor die drehzahl für einen kurzen moment bei bsw.
+1035;halten;bsw;mein motor hat folgendes problem, wenn ich im leerlauf einen gasstoß gebe, egal bei welcher drehzahl und egal ob warm oder kalt, hält der motor die drehzahl für einen kurzen moment bei bsw.
+1036;halten;problem;mein motor hat folgendes problem, wenn ich im leerlauf einen gasstoß gebe, egal bei welcher drehzahl und egal ob warm oder kalt, hält der motor die drehzahl für einen kurzen moment bei bsw.
+1037;2000u/min;2000u/min;2000u/min und gibt nocheinmal von allein ca. 500u/min mehr.
+1038;2000u/min;500u/min;2000u/min und gibt nocheinmal von allein ca. 500u/min mehr.
+1039;sterben;normbereich;wenn er dann von der drehzahl wieder ins standgas fällt (liegt im normbereich bei ca. 850u/min) stirbt er fast ab, schüttelt sich und fängt sich wieder.
+1040;sterben;standgas;wenn er dann von der drehzahl wieder ins standgas fällt (liegt im normbereich bei ca. 850u/min) stirbt er fast ab, schüttelt sich und fängt sich wieder.
+1041;sterben;850u/min;wenn er dann von der drehzahl wieder ins standgas fällt (liegt im normbereich bei ca. 850u/min) stirbt er fast ab, schüttelt sich und fängt sich wieder.
+1042;sterben;drehzahl;wenn er dann von der drehzahl wieder ins standgas fällt (liegt im normbereich bei ca. 850u/min) stirbt er fast ab, schüttelt sich und fängt sich wieder.
+1043;weiß;willen;ich weiß beim besten willen nicht was da los sein könnte.
+1044;grüße;"; beste grüße";"; beste grüße  "
+1045;grüße;grüße;"; beste grüße  "
+1046;motor;motor;welcher motor?
+1047;schau;schau;"110kw ; schau"
+1048;schau;"110kw ; schau";"110kw ; schau"
+1049;schau;110kw;"110kw ; schau"
+1050;";";http://www.volkspage.net/technik/ssp/ssp/ssp_150.pdf;"http://www.volkspage.net/technik/ssp/ssp/ssp_150.pdf ;"
+1051;teil;drosseklappenpoti;das teil, welches immer wieder ausfällt ist das drosseklappenpoti.
+1052;teil;teil;das teil, welches immer wieder ausfällt ist das drosseklappenpoti.
+1053;https://www.ebay.de/sch/i.html;https://www.ebay.de/sch/i.html;https://www.ebay.de/sch/i.html
+1054;probieren;tage;"ich werde morgen mal durchmessen was das poti bringt und mit den sollwerten abgleichen hab allerdings heute nochmal in der esi tronic geblättert und bin darauf gestoßen dass auch ein kaputter temperaturfühler so ein verhalten auslösen kann werde die tage mal rum probieren und dann mal meldung geben  ;"
+1055;probieren;tronic;"ich werde morgen mal durchmessen was das poti bringt und mit den sollwerten abgleichen hab allerdings heute nochmal in der esi tronic geblättert und bin darauf gestoßen dass auch ein kaputter temperaturfühler so ein verhalten auslösen kann werde die tage mal rum probieren und dann mal meldung geben  ;"
+1056;probieren;temperaturfühler;"ich werde morgen mal durchmessen was das poti bringt und mit den sollwerten abgleichen hab allerdings heute nochmal in der esi tronic geblättert und bin darauf gestoßen dass auch ein kaputter temperaturfühler so ein verhalten auslösen kann werde die tage mal rum probieren und dann mal meldung geben  ;"
+1057;probieren;meldung;"ich werde morgen mal durchmessen was das poti bringt und mit den sollwerten abgleichen hab allerdings heute nochmal in der esi tronic geblättert und bin darauf gestoßen dass auch ein kaputter temperaturfühler so ein verhalten auslösen kann werde die tage mal rum probieren und dann mal meldung geben  ;"
+1058;probieren;verhalten;"ich werde morgen mal durchmessen was das poti bringt und mit den sollwerten abgleichen hab allerdings heute nochmal in der esi tronic geblättert und bin darauf gestoßen dass auch ein kaputter temperaturfühler so ein verhalten auslösen kann werde die tage mal rum probieren und dann mal meldung geben  ;"
+1059;probieren;poti;"ich werde morgen mal durchmessen was das poti bringt und mit den sollwerten abgleichen hab allerdings heute nochmal in der esi tronic geblättert und bin darauf gestoßen dass auch ein kaputter temperaturfühler so ein verhalten auslösen kann werde die tage mal rum probieren und dann mal meldung geben  ;"
+1060;probieren;hab;"ich werde morgen mal durchmessen was das poti bringt und mit den sollwerten abgleichen hab allerdings heute nochmal in der esi tronic geblättert und bin darauf gestoßen dass auch ein kaputter temperaturfühler so ein verhalten auslösen kann werde die tage mal rum probieren und dann mal meldung geben  ;"
+1061;probieren;esi;"ich werde morgen mal durchmessen was das poti bringt und mit den sollwerten abgleichen hab allerdings heute nochmal in der esi tronic geblättert und bin darauf gestoßen dass auch ein kaputter temperaturfühler so ein verhalten auslösen kann werde die tage mal rum probieren und dann mal meldung geben  ;"
+1062;probieren;sollwerten;"ich werde morgen mal durchmessen was das poti bringt und mit den sollwerten abgleichen hab allerdings heute nochmal in der esi tronic geblättert und bin darauf gestoßen dass auch ein kaputter temperaturfühler so ein verhalten auslösen kann werde die tage mal rum probieren und dann mal meldung geben  ;"
+1063;hallo;hallo;"hallo ;"
+1064;nebenluft sein;gesehenes problem;ein gern gesehenes problem, wenn die drehzahl scheinbar unkontrolliert hoch geht und nur schleppend wieder runtergeht ist nebenluft.
+1065;nebenluft sein;problem;ein gern gesehenes problem, wenn die drehzahl scheinbar unkontrolliert hoch geht und nur schleppend wieder runtergeht ist nebenluft.
+1066;nebenluft sein;drehzahl;ein gern gesehenes problem, wenn die drehzahl scheinbar unkontrolliert hoch geht und nur schleppend wieder runtergeht ist nebenluft.
+1067;sägen;abtouren;so er hat jetzt am wochenende auch angefangen beim abtouren zu sägen.
+1068;sägen;angefangen;so er hat jetzt am wochenende auch angefangen beim abtouren zu sägen.
+1069;sägen;wochenende;so er hat jetzt am wochenende auch angefangen beim abtouren zu sägen.
+1070;prüfen;nebenluft;werde mal drosselklappe säubern, auf nebenluft prüfen und das poti mal durchmessen.  
+1071;prüfen;poti;werde mal drosselklappe säubern, auf nebenluft prüfen und das poti mal durchmessen.  
+1072;prüfen;drosselklappe;werde mal drosselklappe säubern, auf nebenluft prüfen und das poti mal durchmessen.  
+1073;nebenluft;nebenluft;nebenluft von der kw entlüftung.  
+1074;nebenluft;entlüftung;nebenluft von der kw entlüftung.  
+1075;nebenluft;kw;nebenluft von der kw entlüftung.  
+1076;membran;membran;oft die membran im ölabscheider.
+1077;membran;ölabscheider;oft die membran im ölabscheider.
+1078;abdrücken;nebel;"; und die ansaugseite mal mit nebel abdrücken.  "
+1079;haben;sägen;nebenluft hatte der motor bei einem schlauch vom klr das sägen ist somit schon mal
+1080;haben;klr;nebenluft hatte der motor bei einem schlauch vom klr das sägen ist somit schon mal
+1081;haben;motor;nebenluft hatte der motor bei einem schlauch vom klr das sägen ist somit schon mal
+1082;haben;nebenluft;nebenluft hatte der motor bei einem schlauch vom klr das sägen ist somit schon mal
+1083;haben;schlauch;nebenluft hatte der motor bei einem schlauch vom klr das sägen ist somit schon mal
+1084;abduschen;ansaugbrücke;weg bleibt noch da drehzahl halten ansaugbrücke ist dicht (alles mit bremsenreiniger abgeduscht und keine reaktion)
+1085;abduschen;reaktion;weg bleibt noch da drehzahl halten ansaugbrücke ist dicht (alles mit bremsenreiniger abgeduscht und keine reaktion)
+1086;abduschen;drehzahl;weg bleibt noch da drehzahl halten ansaugbrücke ist dicht (alles mit bremsenreiniger abgeduscht und keine reaktion)

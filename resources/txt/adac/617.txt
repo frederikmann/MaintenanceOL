@@ -1,0 +1,6 @@
+ISchutzabdeckung an Steuermodul ; Korrosion an Erdgas-Multiventil kann zu Fehlfunktionen der Druckentlastungsvorrichtung führen.
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Bei Feuchtigkeitseintritt kann es zum Kurzschluss und Ausfall des Lüfters kommen. Auch ein Brandschaden ist im Kurzschlussfall nicht auszuschliessen.
+Die Händler ergänzen einen Zusatzkabelstrang der die Spannungsversorgung zum Lüftermodul bei ausgeschalteter Zündung unterbricht (Sicherheitsschaltung).
+Zusätzlich wird um das Modul eine Schutzabdeckung angebracht, die vor Wassereintritt und Korrosion schützen soll. 
+Die Maßnahmen dauern etwa eine Stunde und sind für die Kunden kostenlos.  ; Einbau eines geänderten Dichtrings und einer Dichttülle, Dauer etwa eine Stunde ; Nach längerer Standzeit des Fahrzeuges kann beim ersten Kaltstart die Bremskraftunterstützung mit bis zu 20 Sekunden Verzögerung aufgebaut werden. Eine geänderte Programmierung des Motorsteuergerätes sorgt nun für Abhilfe durch  eine längere und höhere Kaltleerlaufdrehzahl. ; Im Hersteller-Werkstattsystem

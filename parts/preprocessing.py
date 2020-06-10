@@ -1,10 +1,11 @@
 import spacy
 import string
+import re
 from spacy.pipeline import Sentencizer
 from spacy.matcher import PhraseMatcher
 
 nlp = spacy.load("de_core_news_md")
-sentencizer = Sentencizer(punct_chars=[".", "?", "!", ",", ";"])
+sentencizer = Sentencizer(punct_chars=[".", "?", "!", ",", ";", ":"])
 nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
 
 
@@ -53,3 +54,52 @@ def clean(corpus, no_questions):
 
     return "; ".join(sents)
 
+
+def post_term_cleaning(terms, label = 0):
+    # clean zitate, datum, zeichen/ zahlen only terms, zeit, links
+    clean_terms = []
+    labels = []
+    time, date, link, zitat, ireg, abbr = 0, 0, 0, 0, 0, 0
+    abbreviations = get_abbr()
+
+    for doc in terms:
+        clean_doc = []
+        doc_labels = {}
+        for term in doc:
+            doc_labels[term] = 0
+            if len(term) < 2:
+                pass
+            elif re.search(r"\d\d:\d\d:\d\d", term):
+                time += 1
+            elif re.search(r"\d\d.\d\d.\d\d\d\d", term):
+                date += 1
+            elif re.search("www", term):
+                link += 1
+            elif re.search("@", term):
+                zitat += 1
+            elif term in abbreviations:
+                abbr += 1
+            elif re.search(r"\w", term):
+                clean_doc.append(term)
+                doc_labels[term] = 1
+            elif re.search(r"^\W", term):
+                ireg += 1
+            else:
+                print(term)
+                clean_doc.append(term)
+                doc_labels[term] = 1
+
+        clean_terms.append(clean_doc)
+        labels.append(doc_labels)
+
+    print("deleted time references:", time)
+    print("deleted date references:", date)
+    print("deleted links:", link)
+    print("deleted quotes:", zitat)
+    print("deleted ireg expressions:", ireg)
+    print("deleted abbreviations:", abbr)
+
+    if label:
+        return labels
+    else:
+        return clean_terms

@@ -1,0 +1,10 @@
+Vermerk des Aktionscodes "6030" im Herstellersystem  ; Im Servicesystem erfolgt Eintrag des Aktionscodes 5944.G  ; Wegen eines fehlerhaften Produktionsprozesses entfaltet sich der Fahrerairbag im Auslösefall (Frontalunfall) zu langsam. 
+Dann wäre die Schutzwirkung des Airbags nicht ausreichend ist und es besteht erhöhte Verletzungsgefahr für den Fahrer.
+Die Händler tauschen den Fahrerairbag aus. 
+Die Aktion wurde im Aug.2016 gestartet, dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Das Rückschlagventil in der Unterdruckpumpe des Bremssystems kann bei niedrigen Umgebungstemperaturen und kaltem Motor möglicherweise nicht öffnen und den Bremskraftverstärker dann nicht mit Unterdruck versorgen. 
+Die Bremsanlage bleibt in diesem Falll zwar funktionsfähig, es sind jedoch deutlich höhere Pedalkräfte erforderlich. 
+Das Rückschlagventil wird ersetzt:
+Die veranschlagte Arbeitszeit beträgt etwa eine halbe Stunde.und ist für den Kunden kostenlos. 
+ ; Laut Hersteller, kann es am beheizten Dieselfilterdeckel zum Austritt von Dieselkraftstoff kommen (Undichtigkeit) und dadurch zu Geruchs- Umweltbelastung kommen. Zusätzlich wird der Verbindungsstecker des Heizelements geprüft weil es zu Kontaktproblemen kommen kann. 
+Die Händler tauschen den Deckel des Dieselfilters und ggf auch den Verbindungsstecker des Heizelementes. 
+Die Aktion bis zu einer Stunde und ist für die Kunden kostenlos. ; Im Datenbestand des Herstellers und weisse Lackpunktmakierung auf der Unterdruckpumpe .Interne Aktionsnummern: 5365 (Ulysse), 5367(Scudo).
