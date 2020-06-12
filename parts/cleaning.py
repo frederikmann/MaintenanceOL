@@ -1,6 +1,7 @@
 import spacy
 import string
 import re
+from collections import Counter
 from spacy.pipeline import Sentencizer
 from spacy.matcher import PhraseMatcher
 
@@ -20,21 +21,7 @@ def get_abbr():
     return abbreviations
 
 
-def normalize(corpus, lowercase, remove_stopwords):
-    abbreviations = get_abbr()
-
-    if lowercase:
-        corpus = corpus.lower()
-    doc = nlp(corpus)
-    normalized = list()
-    for word in doc:
-        if not remove_stopwords or (remove_stopwords and not word.is_stop):
-            if word.text not in abbreviations:
-                normalized.append(word.text)
-    return " ".join(normalized)
-
-
-def clean(corpus, no_questions):
+def sentences(corpus, no_questions):
     # potentially add root form support
     terms = ["wohin", "wie", "woher", "was", "wieso", "warum", "wer", "welche", "wen", "wem", "wo", "?"]
     matcher = PhraseMatcher(nlp.vocab)
@@ -55,7 +42,20 @@ def clean(corpus, no_questions):
     return "; ".join(sents)
 
 
-def post_term_cleaning(terms, label = 0):
+def uniques(terms):
+    clean_terms = []
+    counter = 0
+    tf = Counter(terms)
+    for term in tf:
+        if tf[term] > 1:
+            clean_terms.append(term)
+        else:
+            counter += 1
+    print(counter,"terms removed due to uniques")
+    return clean_terms
+
+
+def terms(terms, label = 0):
     # clean zitate, datum, zeichen/ zahlen only terms, zeit, links
     clean_terms = []
     labels = []

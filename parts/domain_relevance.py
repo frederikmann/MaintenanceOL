@@ -4,33 +4,11 @@ from spacy.pipeline import Sentencizer
 from collections import Counter
 
 from .collect import get_text
-from .preprocessing import normalize
 from .oie import get_oie
 
 nlp = spacy.load("de_core_news_md")
 sentencizer = Sentencizer(punct_chars=[".", "?", "!", ",", ";", ":"])
 nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
-
-car_links = ["https://www.motor-talk.de/forum/123d-wie-oft-batterie-laden-t6833745.html",
-             "https://www.motor-talk.de/forum/fensterheber-defekt-tuerverkleidung-demontieren-t5183259.html",
-             "https://www.motor-talk.de/forum/fahrzeug-hat-keine-leistung-mehr-ab-2300-touren-t6861763.html"]
-
-cook_links = ["https://www.chefkoch.de/forum/2,27,549451/Kein-Glueck-mit-Salbei.html"
-              "https://www.chefkoch.de/forum/2,53,712593/Spargel-aus-dem-Ofen.html",
-              "https://www.chefkoch.de/forum/2,13,770061/Wie-schaelt-ihr-den-Spargel.html",
-              "https://www.chefkoch.de/forum/2,10,770039/Tiefkuehlspinat-knirscht-fuehlt-sich-sandig-im-Mund-an.html"]
-
-
-def get_words(terms):
-    # get dictionary of word frequency from corpus
-    words = {}
-    for term in terms:
-        if term not in words:
-            words[term] = 1
-        else:
-            words[term] += 1
-
-    return words
 
 
 def get_tf(terms):
@@ -55,8 +33,9 @@ def get_idf(terms):
 def get_tdf(terms):
     flat_terms = [item for sublist in terms for item in set(sublist)]
     tdf = Counter(flat_terms)
+    max_freq = Counter(flat_terms).most_common(1)[0][1]
     for t in tdf:
-        tdf[t] = tdf[t] / len(terms)
+        tdf[t] = tdf[t] / max_freq
 
     return tdf
 
@@ -72,50 +51,55 @@ def get_tf_idf(terms):
     return tf_idf
 
 
-def get_dr(dic_a, dic_b, term):
-    total_a, total_b = sum(dic_a.values()), sum(dic_b.values())
+def get_dr(target_domain, contrastive_domain, candidates):
+    # candidates should be part of the target domain
+    dr = {}
+    target_tf = get_tf(target_domain)
+    contrastive_tf = get_tf(contrastive_domain)
 
-    try:
-        freq_a = dic_a[term]
-    except KeyError:
-        return 0
-    try:
-        freq_b = dic_b[term]
-    except KeyError:
-        return 1
-
-    return (freq_a / total_a) / (freq_b / total_b)
-
-
-def get_dc(domain, term):
-    dc = 0
-    for link in domain:
-        words = get_words(link)
-
+    for term in candidates:
         try:
-            prob_d = words[term] / sum(words.values())
-            dc += prob_d * np.log(1 / prob_d)
-        except KeyError:
-            pass
+            dr[term] = target_tf[term] / contrastive_tf[term]
+        except ZeroDivisionError:
+            dr[term] = 0
+
+    return dr
+
+
+def get_dc(target_domain, candidates):
+    dc = {}
+    target_tdf = get_tdf(target_domain)
+
+    for term in candidates:
+        dc[term] = target_tdf[term]*np.log2(1/target_tdf[term])
 
     return dc
 
 
-def get_dw(dr, dc, alpha):
-    return alpha * dr + (1 - alpha) * dc
+def get_dw(target_domain, contrastive_domain, candidates, alpha):
+    dw = {}
+    dr = get_dr(target_domain, contrastive_domain, candidates)
+    dc = get_dc(target_domain, candidates)
+
+    for term in candidates:
+        dw[term] = alpha * dr[term] + (1 - alpha) * dc[term]
+
+    return dw
 
 
-def get_mean(domain, candidate):
-    prob_d = 0
-    for link in domain:
-        words = get_words(link)
+def get_llr(target_domain, contrastive_domain, candidates):
+    # candidates should be part of the target domain
+    llr = {}
+    target_tf = get_tf(target_domain)
+    contrastive_tf = get_tf(contrastive_domain)
 
-        try:
-            prob_d += words[candidate] / sum(words.values())
-        except KeyError:
-            pass
+    for term in candidates:
+        target_tf[term] = 0.1 if not target_tf[term] else target_tf[term]
+        contrastive_tf[term] = 0.1 if not contrastive_tf[term] else contrastive_tf[term]
 
-    return prob_d/len(domain)
+        llr[term] = np.log(target_tf[term]) - np.log(contrastive_tf[term])
+
+    return llr
 
 
 def main(target_link, target_terms, domain_relevance_measure):

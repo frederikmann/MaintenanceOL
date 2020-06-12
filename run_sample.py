@@ -6,7 +6,7 @@ from spacy.matcher import Matcher
 from spacy.matcher import PhraseMatcher
 from spacy.tokens import Span
 
-from parts import collect, preprocessing
+from parts import collect, cleaning
 
 print("loading spacy")
 nlp = spacy.load("de_core_news_md")
@@ -23,8 +23,8 @@ def run_sample():
 
     # normalizing, cleaning and pre-processing the corpus
     print("preprocessing")
-    normalized = preprocessing.normalize(car, "true", "false")
-    cleaned = preprocessing.clean(normalized, "true", "NOUN")
+    normalized = cleaning.normalize(car, "true", "false")
+    cleaned = cleaning.clean(normalized, "true", "NOUN")
 
     print(cleaned)
 

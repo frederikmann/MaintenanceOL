@@ -112,4 +112,4 @@ def get_text(link, domain):
             paragraphs += [div.text for div in soup.find_all("div", {"class": "forum-message-content"})]
             counter += 1
 
-    return paragraphs
+    return [x.strip() for x in paragraphs]
