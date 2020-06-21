@@ -133,7 +133,7 @@ def get_corpus(topic, domain, limit, export):
             if len(text) < 100000 and text:
                 corpus.append(text)
                 if export:
-                    with open(path+domain+"/"+str(counter)+".txt", "w") as file:
+                    with open(path+domain+"/"+str(counter)+".txt", "w", encoding="utf-8") as file:
                         file.write(text)
                     counter += 1
     return corpus
@@ -148,7 +148,7 @@ def load_domain_terms(domain, limit, clean=0):
     terms = []
     while counter < limit:
         try:
-            with open(path + domain + "/" + str(counter) + ".txt", "r") as file:
+            with open(path + domain + "/" + str(counter) + ".txt", "r", encoding="utf-8") as file:
                 corpus.append(file.read())
             counter += 1
         except:
@@ -161,3 +161,5 @@ def load_domain_terms(domain, limit, clean=0):
         terms = clean_terms(terms)
 
     return terms
+
+

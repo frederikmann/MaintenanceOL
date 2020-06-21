@@ -8,6 +8,7 @@ sentencizer = Sentencizer(punct_chars=[char for char in string.punctuation])
 nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
 
 
+
 def get_oie(corpus):
     # decision logic for extracting roots and terms - for better analysis sentences are passed as well
 

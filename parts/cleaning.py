@@ -14,7 +14,7 @@ def get_abbr():
     # load list of german abbreviations for normalizing
     # taken from https://de.wiktionary.org/wiki/Kategorie:Abk%C3%BCrzung_(Deutsch)
 
-    with open("resources/abbreviations_ger.txt", "r") as f:
+    with open("resources/abbreviations_ger.txt", "r", encoding="utf-8") as f:
         x = f.readlines()
     abbreviations = [item.rstrip('\n') for item in x]
 
