@@ -1,22 +1,26 @@
-import spacy
 import numpy as np
-from spacy.pipeline import Sentencizer
+import math
 from collections import Counter
+from tqdm import tqdm
 
 from .collect import get_text
 from .oie import get_oie
 
-nlp = spacy.load("de_core_news_md")
-sentencizer = Sentencizer(punct_chars=[".", "?", "!", ",", ";", ":"])
-nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
+
+'''
+definition of all metrics needed for evaluation of domain relevancy
+'''
 
 
-def get_tf(terms):
+def get_tf(terms, norm=0):
     flat_terms = [item for sublist in terms for item in sublist]
     tf = Counter(flat_terms)
     max_freq = Counter(flat_terms).most_common(1)[0][1]
     for t in tf:
-        tf[t] = (tf[t] / max_freq)
+        if norm:
+            tf[t] = (tf[t] / max_freq)
+        else:
+            pass
 
     return tf
 
@@ -102,32 +106,190 @@ def get_llr(target_domain, contrastive_domain, candidates):
     return llr
 
 
-def main(target_link, target_terms, domain_relevance_measure):
+def get_lor(target_domain, contrastive_domain, candidates):
+    # candidates should be part of the target domain
+    lor = {}
+    target_tf = get_tf(target_domain)
+    contrastive_tf = get_tf(contrastive_domain)
+
+    for term in candidates:
+        target_tf[term] = 0.0001 if not target_tf[term] else target_tf[term]
+        contrastive_tf[term] = 0.0001 if not contrastive_tf[term] else contrastive_tf[term]
+
+        lor[term] = np.log2(target_tf[term] / (1 - target_tf[term])) - np.log2(
+            contrastive_tf[term] / (1 - contrastive_tf[term]))
+
+    return lor
+
+
+def get_lor_bg(target_domain, contrastive_domain, candidates, normalized=0):
+    # candidates should be part of the target domain
+    lor_bg = {}
+
+    # get term frequency for each domain - combining both gives background knowledge
+    target_flat_terms = [item for sublist in target_domain for item in sublist]
+    target_tf = Counter(target_flat_terms)
+
+    contrastive_flat_terms = [item for sublist in contrastive_domain for item in sublist]
+    contrastive_tf = Counter(contrastive_flat_terms)
+
+    combine_flat_terms = target_flat_terms + contrastive_flat_terms
+    combine_tf = Counter(combine_flat_terms)
+
+    n_i = len(target_flat_terms)
+    n_j = len(contrastive_flat_terms)
+    a_0 = len(combine_flat_terms)
+
+    for term in candidates:
+        target_tf[term] = 0.1 if not target_tf[term] else target_tf[term]
+        contrastive_tf[term] = 0.1 if not contrastive_tf[term] else contrastive_tf[term]
+        combine_tf[term] = 0.1 if not combine_tf[term] else contrastive_tf[term]
+
+        lor_bg[term] = np.log2(
+            (target_tf[term] + combine_tf[term]) / n_i + a_0 - (target_tf[term] + combine_tf[term])) - np.log2(
+            (contrastive_tf[term] + combine_tf[term]) / n_i + a_0 - (contrastive_tf[term] + combine_tf[term]))
+        if normalized:
+            sigma = 1 / (target_tf[term] + combine_tf[term]) + 1 / (contrastive_tf[term] + combine_tf[term])
+            lor_bg[term] = lor_bg[term] / math.sqrt(sigma)
+    return lor_bg
+
+
+def get_relevance(terms, metric):
+    tf = get_tf(terms)
+    idf = get_idf(terms)
+    tdf = get_tdf(terms)
+    tf_tdf = {}
+    tf_idf = {}
+
+    if metric == "tf":
+        return tf
+    elif metric == "idf":
+        return idf
+    elif metric == "tdf":
+        return tdf
+    elif metric == "tf_tdf":
+        for term in set([item for sublist in terms for item in sublist]):
+            tf_tdf[term] = tf[term] * tdf[term]
+        return tf_tdf
+    elif metric == "tf_idf":
+        for term in set([item for sublist in terms for item in sublist]):
+            tf_idf[term] = tf[term] * idf[term]
+        return tf_idf
+    else:
+        return False
+
+
+'''
+definition of all functions needed to run the domain relevancy evaluation
+'''
+
+
+def get_shared_domain(domain_a, domain_b):
+    shared_domain_a = []
+    shared_domain_b = []
+
+    terms_a = set([item for sublist in domain_a for item in sublist])
+    terms_b = set([item for sublist in domain_b for item in sublist])
+
+    for docs in tqdm(domain_a):
+        doc = []
+        for term in docs:
+            if term in terms_b:
+                doc.append(term)
+        shared_domain_a.append(doc)
+
+    for docs in tqdm(domain_b):
+        doc = []
+        for term in docs:
+            if term in terms_a:
+                doc.append(term)
+        shared_domain_b.append(doc)
+
+    return shared_domain_a, shared_domain_b
+
+
+def get_metrics(target_domain, contrastive_domain, metric):
+    target_relevance = get_relevance(target_domain, metric)
+    contrast_relevance = get_relevance(contrastive_domain, metric)
+
+    alpha = 0.5
+    candidates = set([item for sublist in target_domain for item in sublist])
+    dw = get_dw(target_domain, contrastive_domain, candidates, alpha)
+
+    llr = get_llr(target_domain, contrastive_domain, candidates)
+
+    lor_bg = get_lor_bg(target_domain, contrastive_domain, candidates)
+
+    return target_relevance, contrast_relevance, dw, llr, lor_bg
+
+
+def label_shared_concepts(target_domain, contrastive_domain, method, threshold, metric):
+    label = {}
+    shared_target_domain, shared_contrastive_domain = get_shared_domain(target_domain, contrastive_domain)
+    tf_target, tf_contrast, dw, llr, lor_bg = get_metrics(shared_target_domain, shared_contrastive_domain, metric)
+
+    candidates = set([item for sublist in shared_target_domain for item in sublist])
+
+    for candidate in candidates:
+        label[candidate] = 0
+        if tf_target[candidate] > tf_contrast[candidate] and not method:
+            label[candidate] = 1
+        elif llr[candidate] > threshold and method == "llr":
+            label[candidate] = 1
+        elif lor_bg[candidate] > threshold and method == "lor_bg":
+            label[candidate] = 1
+        elif dw[candidate] > threshold and method == "dw":
+            label[candidate] = 1
+        elif method == "del":
+            pass
+
+    return label
+
+
+def label_concepts(target_domain, background_domain, contrastive_domain, method=0, threshold = 0, metric="tf"):
+    label = {}
+
+    target_tf = get_tf(target_domain)
+    candidates = set([item for sublist in target_domain for item in sublist])
+
+    background_relevance = get_relevance(background_domain, metric)
+    contrastive_relevance = get_relevance(contrastive_domain, metric)
+    shared_concept_labels = label_shared_concepts(target_domain, contrastive_domain, method, threshold, metric)
+
+    counter1 = 0
+    counter2 = 0
+    counter3 = 0
+
+    for candidate in candidates:
+        label[candidate] = 0
+        try:
+            background_relevance[candidate]
+        except KeyError:
+            background_relevance[candidate] = 0
+
+        try:
+            contrastive_relevance[candidate]
+        except KeyError:
+            contrastive_relevance[candidate] = 0
+
+        if background_relevance[candidate] > contrastive_relevance[candidate]:
+            label[candidate] = 1
+            counter1 += 1
+        elif contrastive_relevance[candidate]:
+            if shared_concept_labels[candidate]:
+                label[candidate] = 1
+                counter2 += 1
+        elif target_tf[candidate] > 1:
+            label[candidate] = 1
+            counter3 += 1
+
+    print("Chosen via background domain:", counter1)
+    print("Chosen via metric:", counter2)
+    print("Chosen via tf > 1 limit:", counter3)
+    return label
+
+
+def main():
     domain_relevance = {}
-
-    # get terms from both domains for each link
-    car_links.append(target_link)
-    car_terms = get_car_terms(car_links)
-    cook_terms = get_cook_terms(cook_links)
-
-    flat_car_terms = [item for sublist in car_terms for item in sublist]
-    flat_cook_terms = [item for sublist in cook_terms for item in sublist]
-
-    candidates = set([item for sublist in target_terms for item in sublist])
-    target_domain = get_words(flat_car_terms)
-    contrastive_domain = get_words(flat_cook_terms)
-
-    if domain_relevance_measure == "DR_DC":
-        for candidate in candidates:
-            dr = get_dr(target_domain, contrastive_domain, candidate)
-            dc = get_dc(car_terms, candidate)
-            domain_relevance[candidate] = get_dw(dr, dc, 0.5)
-
-    if domain_relevance_measure == "LOR":
-        # IMPLEMENT LOR
-        for candidate in candidates:
-            p_i = get_mean(car_terms, candidate)
-            p_j = get_mean(cook_terms, candidate)
-            domain_relevance[candidate] = get_log(p_i) - get_log(p_j)
 
     return domain_relevance

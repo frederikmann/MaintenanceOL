@@ -42,17 +42,28 @@ def sentences(corpus, no_questions):
     return "; ".join(sents)
 
 
-def uniques(terms):
+def uniques(terms, label = 0):
     clean_terms = []
+    labels = []
     counter = 0
-    tf = Counter(terms)
-    for term in tf:
-        if tf[term] > 1:
-            clean_terms.append(term)
-        else:
-            counter += 1
-    print(counter,"terms removed due to uniques")
-    return clean_terms
+    tf = Counter([item for sublist in terms for item in sublist])
+    for doc in terms:
+        clean_doc = []
+        doc_labels = {}
+        for term in doc:
+            doc_labels[term] = 0
+            if tf[term] > 1:
+                clean_doc.append(term)
+                doc_labels[term] = 1
+            else:
+                counter += 1
+        clean_terms.append(clean_doc)
+        labels.append(doc_labels)
+    print(counter, "terms removed due to uniques")
+    if label:
+        return labels
+    else:
+        return clean_terms
 
 
 def terms(terms, label = 0):
@@ -66,6 +77,7 @@ def terms(terms, label = 0):
         clean_doc = []
         doc_labels = {}
         for term in doc:
+            term = term.strip()
             doc_labels[term] = 0
             if len(term) < 2:
                 pass

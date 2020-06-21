@@ -1,12 +1,14 @@
-import spacy
 import requests as req
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-nlp = spacy.load("de_core_news_md")
+from .oie import get_terms
+from .cleaning import terms as clean_terms
 
 
 def get_links(topic, domain, limit):
+    # get links from topic pages - give topic link and specify domain and limit of pages to be scraped
+
     counter = 0
     links = []
 
@@ -69,6 +71,8 @@ def get_links(topic, domain, limit):
 
 
 def get_text(link, domain):
+    # get text elements from page and return combined string - give link of page and specify domain
+
     counter = 0
     try:
         r = req.get(link)
@@ -113,3 +117,47 @@ def get_text(link, domain):
             counter += 1
 
     return [x.strip() for x in paragraphs]
+
+
+def get_corpus(topic, domain, limit, export):
+    # get text from several links listed in topic page and return list string elements (one entry per link) - give
+    # topic link and specify domain + limit of link pages to be scraped, also wether text should be exported
+
+    corpus = []
+    path = "resources/txt/"
+    counter = 0
+    links = get_links(topic, domain, limit)
+    for link in tqdm(links):
+        if get_text(link, domain):
+            text = " ; ".join(get_text(link, domain))
+            if len(text) < 100000 and text:
+                corpus.append(text)
+                if export:
+                    with open(path+domain+"/"+str(counter)+".txt", "w") as file:
+                        file.write(text)
+                    counter += 1
+    return corpus
+
+
+def load_domain_terms(domain, limit, clean=0):
+    # load previously exported text for each domain - give domain and limit of text files to load
+
+    counter = 0
+    path = "resources/txt/"
+    corpus = []
+    terms = []
+    while counter < limit:
+        try:
+            with open(path + domain + "/" + str(counter) + ".txt", "r") as file:
+                corpus.append(file.read())
+            counter += 1
+        except:
+            break
+
+    for doc in tqdm(corpus):
+        doc_terms = get_terms(doc)
+        terms.append(doc_terms)
+    if clean:
+        terms = clean_terms(terms)
+
+    return terms
