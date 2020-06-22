@@ -3,10 +3,6 @@ import math
 from collections import Counter
 from tqdm import tqdm
 
-from .collect import get_text
-from .oie import get_oie
-
-
 '''
 definition of all metrics needed for evaluation of domain relevancy
 '''
@@ -154,6 +150,32 @@ def get_lor_bg(target_domain, contrastive_domain, candidates, normalized=0):
     return lor_bg
 
 
+def get_lambda(target_domain, contrastive_domain, candidates):
+    ### depreciated version (does not work) from CRCTOL paper
+    lambda_metric = {}
+
+    target_tf = get_tf(target_domain, 1)
+    contrast_tf = get_tf(contrastive_domain, 1)
+
+    target_len = len([item for sublist in target_domain for item in sublist])
+    contrast_len = len([item for sublist in contrastive_domain for item in sublist])
+
+    for term in candidates:
+        a = target_tf[term]
+        b = contrast_tf[term]
+
+        n1 = target_len
+        n2 = contrast_len
+
+        p = (a + b) / (n1 + n2)
+        p1 = a / n1
+        p2 = a / n2
+
+        lambda_metric[term] = (p ** a * (1 - p) ** (n1 - a) * p ** b * (1 - p) ** (n2 - b)) / (
+                    p1 ** a * (1 - p1) ** (n1 - a) * p2 ** b * (1 - p2) ** (n2 - b))
+
+    return lambda_metric
+
 def get_relevance(terms, metric):
     tf = get_tf(terms)
     idf = get_idf(terms)
@@ -210,7 +232,6 @@ def get_shared_domain(domain_a, domain_b):
 
 def get_metrics(target_domain, contrastive_domain, metric):
     target_relevance = get_relevance(target_domain, metric)
-    contrast_relevance = get_relevance(contrastive_domain, metric)
 
     alpha = 0.5
     candidates = set([item for sublist in target_domain for item in sublist])
@@ -220,25 +241,25 @@ def get_metrics(target_domain, contrastive_domain, metric):
 
     lor_bg = get_lor_bg(target_domain, contrastive_domain, candidates)
 
-    return target_relevance, contrast_relevance, dw, llr, lor_bg
+    return target_relevance, dw, llr, lor_bg
 
 
-def label_shared_concepts(target_domain, contrastive_domain, method, threshold, metric):
+def label_shared_concepts(target_domain, contrastive_domain, method, metric):
     label = {}
     shared_target_domain, shared_contrastive_domain = get_shared_domain(target_domain, contrastive_domain)
-    tf_target, tf_contrast, dw, llr, lor_bg = get_metrics(shared_target_domain, shared_contrastive_domain, metric)
-
+    target_relevance, target_dw, target_llr, target_lor_bg = get_metrics(shared_target_domain, shared_contrastive_domain, metric)
+    contrast_relevance, contrast_dw, contrast_llr, contrast_lor_bg = get_metrics(shared_contrastive_domain, shared_target_domain, metric)
     candidates = set([item for sublist in shared_target_domain for item in sublist])
 
     for candidate in candidates:
         label[candidate] = 0
-        if tf_target[candidate] > tf_contrast[candidate] and not method:
+        if target_relevance[candidate] > contrast_relevance[candidate] and not method:
             label[candidate] = 1
-        elif llr[candidate] > threshold and method == "llr":
+        elif target_dw[candidate] > contrast_dw[candidate] and method == "dw":
             label[candidate] = 1
-        elif lor_bg[candidate] > threshold and method == "lor_bg":
+        elif target_llr[candidate] > contrast_llr[candidate] and method == "llr":
             label[candidate] = 1
-        elif dw[candidate] > threshold and method == "dw":
+        elif target_lor_bg[candidate] > contrast_lor_bg[candidate] and method == "lor_ bg":
             label[candidate] = 1
         elif method == "del":
             pass
@@ -246,15 +267,17 @@ def label_shared_concepts(target_domain, contrastive_domain, method, threshold, 
     return label
 
 
-def label_concepts(target_domain, background_domain, contrastive_domain, method=0, threshold = 0, metric="tf"):
+def label_concepts(target_domain, background_domain, contrastive_domain, method=0, metric="tf"):
     label = {}
 
+    # get term frequency for last stage decision making
     target_tf = get_tf(target_domain)
     candidates = set([item for sublist in target_domain for item in sublist])
 
+    # get all relevant metrics
     background_relevance = get_relevance(background_domain, metric)
     contrastive_relevance = get_relevance(contrastive_domain, metric)
-    shared_concept_labels = label_shared_concepts(target_domain, contrastive_domain, method, threshold, metric)
+    shared_concept_labels = label_shared_concepts(target_domain, contrastive_domain, method, metric)
 
     counter1 = 0
     counter2 = 0

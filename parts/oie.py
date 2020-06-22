@@ -2,11 +2,9 @@ import spacy
 import string
 from spacy.pipeline import Sentencizer
 
-nlp = spacy.load("de_core_news_md")
-# sentencizer = Sentencizer(punct_chars=[".", "?", "!", ",", ";", ":"])
+nlp = spacy.load("de_core_news_sm")
 sentencizer = Sentencizer(punct_chars=[char for char in string.punctuation])
 nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
-
 
 
 def get_oie(corpus):
