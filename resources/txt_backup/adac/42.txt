@@ -1,0 +1,3 @@
+Ein Kommunikationsfehler zwischen der Software des Motorsteuergeräts (ECM, Engine Control Module) und dem Getriebesteuergerät (TCM, Transmission Control Module) kann dazu führen, dass sich die Parksperrenklinke des Getriebes nicht bewegt. Wenn sich die Parksperrenklinke des Getriebes nicht bewegt, kann es dazu kommen, dass das Fahrzeug aus der Parkposition heraus wegrollen kann.
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem

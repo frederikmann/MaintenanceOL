@@ -1,0 +1,2 @@
+Das Steuergerät für die Insassen Rückhaltesysteme (Occupant Restraint Controller) könnte möglichweise aufgrund eines ungünstigen Potentialausgleiches, verursacht durch die Aufprallsensoren, im Falle eines Unfalles die Auslösung der Airbags und Gurtstraffer nicht korrekt initiieren. Dies könnte das Verletzungsrisiko der Insassen erhöhen oder gar zum Tod führen. Als Abhilfe muss das Steuergerät getauscht weden.
+Die Aktion ist für den Kunden kostenlos. ; im Datenbestand ; Im Hersteller-Werkstattsystem (Interner Code S61)

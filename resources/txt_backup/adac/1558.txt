@@ -1,0 +1,4 @@
+Wegen eines Softwarefehlers kann es zum Abschalten des Hinterachsantriebes kommen. 
+Die Antriebskräfte werden dann nur noch über die Vorderachse übertragen und je nach Fahrsituation kann es möglicherweise zu einer Beeinträchtigung der Fahrstabilität führen. Laut Hersteller wird im Display aber eine Fehlermeldung "Allradantrieb aus" angezeigt.
+Die Händler führen ein Softwareupdate durch. Die Aktion läuft seit Mai 2014, dauert etwa halbe Stunde und ist für die Kunden kostenlos. ; Bei den betroffenen Fahrzeugen wurden Airbag-Module installiert, welche mit einer fehlerhaften Zündchemikalie ausgestattet wurden, was zu einem inkorrekten und/oder unvollständigen Zünden des entsprechenden Airbag-Moduls führen kann. In der Werkstatt wird das Airbag-Modul ausgetauscht.
+Die Aktion läuft bereits und ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Im Fahrzeugdiagnosesystem vermerkt.

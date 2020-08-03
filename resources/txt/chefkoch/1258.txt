@@ -1,0 +1,145 @@
+Hallo an die gesamte Comunity, wir haben uns für unsere Essecke LED Strahler in die Decke eingebaut, laut Beschreibung sollen die LED Lampen dimmbar sein, wir haben einen Dimmer extra für LED gekauft nun lassen sich die Lampen zwar dimmen, aber die Lampen brummen. Wir haben schon gegooglet aber nichts passendes finden können, nun meine Frage: Gibt es jemand der das gleiche Problem hat und es gelöst hat.    Typ der Lampen steht schon im Titel, Danke für jede Info. LG Hobbyko    (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Hallo,normalerweise brummen aber nicht die Leuchtmittel, sondern der Trafo/Spannungsregler im Dimmer. LG, eumex209										
+
+
+
+Zitieren & Antworten ; Dann ist dieser Dimmtrafo schlecht eigebaut! Setze ihn mal auf Gummifüßchen. Oder das "Brummen" kommt als elektromagnetische Störung aus einem Radio, Verstärker, Fernseher. Da hilft nur suchen..oder hier gucken: http://fastvoice.net/2013/03/05/surrende-led-lampen-der-zufall-spielt-mit/ LGakelus										
+
+
+
+Zitieren & Antworten ; Hobbyko,sind dann  die  LEDs und das Vorschaltgerät  ebenfalls  dafür geeignet, also dimmbar ?Sind   einfach  nicht alle . Warum willst du den LEDs dimmen, neugierig gefragt. katir										
+
+
+
+Zitieren & Antworten ; Hallo Ihr Lieben, zuerst einmal vielen Dank das Ihr Euch über mein Problem Gedanken gemacht habt. @Eumex, leider ist es nicht so, ich habe andere LED Lampen eingesetzt, die lassen sich zwar nicht so gut dimmen als die gelieferten LED Lampen, aber da brummt nichts. @ akelus, wie soll ich denn den Dimmer der in einer Schalter-Steckdosen-Kombination in der Wand verbaut ist auf Gummifüße setzen und nein es ist auch kein Radio oder TV in Betrieb und es brummt trotzdem. @ Katir, Vorschaltgerät braucht man bei Hochvolt-Lampen nicht die werden direkt mit 240 V betrieben und uns ist es einfach zu hell. LG Klaus (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Hallo Klaus,brummt / summt es denn direkt in der Steckdosenkombination mit dem Dimmer oder kommt das Brummen direkt von den Leuchtmitteln? In meinem Link ist ja beides angesprochen. Und Mittel dagegen. Da andere Lampen einen anderen Strom ziehen, kann es sowohl der Dimmer aber auch die Lampe sein. Die genaue Verortung des Brummgeräusches ist der einzige Weg, dem "Störer" auf die Schliche zu kommen. Dann sehen oder basteln wir weiter.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo akelus, das Brummen kommt definitiv von den Lampen, denn wenn ich die anderen Hochvolt LED einsetze kann ich zwar in einem bestimmten Bereich noch dimmen, aber alles wie gesagt ist ruhig. Ich habe mir auch Deinen Link angeschaut, das was man da liest klingt ja nicht sehr viel versprechend, ich habe nun auch noch den Dimmerlieferanten angeschrieben, der natürlich mir keine positive Antwort geliefert hat, das lasse ich mir aber nicht gefallen, denn gerade ein Dimmerhersteller sollte doch eigentlich wissen mit welchen LED Lampen sein gebautes Teil am besten zusammenarbeitet. Leider verstehe ich es immer noch nicht das man da kleine Trafos einsetzt und nicht eine brummfreie elektronische Lösung. Ein Trafo hat nun mal die Neigung mit der Wechselspannung zu brummen. LG Hobbyko (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Hallo hobbyko,da bist Du in der Faschings- / Karnevalzeit ja gut beschäftigt. Und es kann sein, dass einige Hotlines oder Firmen schlicht und ergreifend nur noch feiern... bis sum Abwinken  Da darfts Du dann waaaarten.  Zur Sache: Trafo oder Elektronik ist wie Henne oder Ei. Mit der Elektronik treibst Du den Teufel mit dem Beelzebub aus. Diese Phasenanschnittsteuerungen - wenn sie billig gebaut und schlecht entsört sind - sind dann die reinsten "Dreckschleudern.". Sowohl hinschtlich der Störung von Geräten und auch gesundheitlich. Wie in dem guten, informativen Beitrag erklärt, hilft nur eine aufeinander abgestimmte Lösung. Du wirst es schon schaffen. "WIR" schaffen das" - grins - notfalls auch mit Kerzen. Die brummen nicht.   LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo akelus,  Danke für Dein Mitgefühl, immerhin hat sich die Herstellerfirma gemeldet und hat mir einen Link geschickt den ich aber noch durchforsten muß, wenn ich genaues weis melde ich mich wieder. LG Hobbyko    (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Hallo akelus, wenn Du möchtest schau mal bitte hier hinein: jung.de/3923/service/dimm-assistent/  Drücke den Button "akzeptieren" und gebe dann "Licht-Management" und den Dimmer "LED- und NV Drehdimmer", dann bekommst du verschiedene Lampen angezeigt, schau bitte nur nach den GU 10 Lampen und sage mir welche Du probieren würdest, Danke. LG Hobbyko    (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; "Gut Wurschtel" + LG Hobbyko    (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Ich habe nur den gefunden:https://www.jung.de/de/online-katalog/62514369/Das Modell 225 NVDE. Mehr haben die nicht für HV-LED. Da steht jedoch, dass Deine HV-LEDs dimmbar sein müssen!!. Sind sie das denn? Die Seite mit den GU 10-Lampen habe ich nicht gefunden! LGakelus										
+
+
+
+Zitieren & Antworten ; Hast Das gesehen / gelesen? https://www.elv.de/ratgeber/wir-testen-jede-dimmbare-hochvolt-led-lampe-aus-unserem-sortiment-auf-dimmbarkeit.html										
+
+
+
+Zitieren & Antworten ; Hallo akelus,  einfach mal meine rot markierte Zeile kopieren und in die Adresszeile im Browser einfügen, dann bist Du doch auf der Seite die ich meine.Danke Für Deinen Link, ich kämpfe mich durch. LG Hobbyko(Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Das bring nix! Da kommt immer nur der 225 NVDE raus. Über den Sockel geht das auch nicht, da der für LED und Halogen gilt. Da bleibt Dir nichts anderes übrig, als in ein gutes Lampen- / Leuchtengeschäft zu gehen. Und die Farbtemperatur ist dann auch noch wichtig. Die kann ich für Dich nicht aussuchen. Zu allen Varianten passt immer der 225 NVDE. LGakelus										
+
+
+
+Zitieren & Antworten ; Na dann gebe ich halt mal den vollen Link, es kann doch nicht sein das Du das nicht findest: https://www.jung.de/3923/service/dimm-assistent/?ajax=1&scope=dimmer&system=Licht-Management&article=225NVDE  Du solltest allerdings vorher einmal auf Akzeptieren geklickt haben, dann mußt Du nur noch runterscrollen. LG Hobbyko  (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Guten Morgen.Sporry, da war ich überall schon! Nur, was hilt es euch, wenn ich ein für mich angenehmes und passendes Leuchtmittel aussuche? Alles was "grün" ist, sollte technisch passen. Sollte.... Ich bin kein Innenarchitekt und auch kein Wohnberater. Den letzten Schritt zum brummfreien Wohlfühlen müßt ihr schon selber tun. Ansonsten hilft nur zurück zur Kerze und zum Kaminfeuer (duck und weg..  .) LGakelus.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus,ich bedanke mich für Deine Hilfe ich werde ins Kaminfeuer schauen. LG Hobbyko    (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Hallo an die gesamte Comunity, wir haben uns für unsere Essecke LED Strahler in die Decke eingebaut, laut Beschreibung sollen die LED Lampen dimmbar sein, wir haben einen Dimmer extra für LED gekauft nun lassen sich die Lampen zwar dimmen, aber die Lampen brummen. Wir haben schon gegooglet aber nichts passendes finden können, nun meine Frage: Gibt es jemand der das gleiche Problem hat und es gelöst hat.    Typ der Lampen steht schon im Titel, Danke für jede Info. LG Hobbyko    (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Hallo,normalerweise brummen aber nicht die Leuchtmittel, sondern der Trafo/Spannungsregler im Dimmer. LG, eumex209										
+
+
+
+Zitieren & Antworten ; Dann ist dieser Dimmtrafo schlecht eigebaut! Setze ihn mal auf Gummifüßchen. Oder das "Brummen" kommt als elektromagnetische Störung aus einem Radio, Verstärker, Fernseher. Da hilft nur suchen..oder hier gucken: http://fastvoice.net/2013/03/05/surrende-led-lampen-der-zufall-spielt-mit/ LGakelus										
+
+
+
+Zitieren & Antworten ; Hobbyko,sind dann  die  LEDs und das Vorschaltgerät  ebenfalls  dafür geeignet, also dimmbar ?Sind   einfach  nicht alle . Warum willst du den LEDs dimmen, neugierig gefragt. katir										
+
+
+
+Zitieren & Antworten ; Hallo Ihr Lieben, zuerst einmal vielen Dank das Ihr Euch über mein Problem Gedanken gemacht habt. @Eumex, leider ist es nicht so, ich habe andere LED Lampen eingesetzt, die lassen sich zwar nicht so gut dimmen als die gelieferten LED Lampen, aber da brummt nichts. @ akelus, wie soll ich denn den Dimmer der in einer Schalter-Steckdosen-Kombination in der Wand verbaut ist auf Gummifüße setzen und nein es ist auch kein Radio oder TV in Betrieb und es brummt trotzdem. @ Katir, Vorschaltgerät braucht man bei Hochvolt-Lampen nicht die werden direkt mit 240 V betrieben und uns ist es einfach zu hell. LG Klaus (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Hallo Klaus,brummt / summt es denn direkt in der Steckdosenkombination mit dem Dimmer oder kommt das Brummen direkt von den Leuchtmitteln? In meinem Link ist ja beides angesprochen. Und Mittel dagegen. Da andere Lampen einen anderen Strom ziehen, kann es sowohl der Dimmer aber auch die Lampe sein. Die genaue Verortung des Brummgeräusches ist der einzige Weg, dem "Störer" auf die Schliche zu kommen. Dann sehen oder basteln wir weiter.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo akelus, das Brummen kommt definitiv von den Lampen, denn wenn ich die anderen Hochvolt LED einsetze kann ich zwar in einem bestimmten Bereich noch dimmen, aber alles wie gesagt ist ruhig. Ich habe mir auch Deinen Link angeschaut, das was man da liest klingt ja nicht sehr viel versprechend, ich habe nun auch noch den Dimmerlieferanten angeschrieben, der natürlich mir keine positive Antwort geliefert hat, das lasse ich mir aber nicht gefallen, denn gerade ein Dimmerhersteller sollte doch eigentlich wissen mit welchen LED Lampen sein gebautes Teil am besten zusammenarbeitet. Leider verstehe ich es immer noch nicht das man da kleine Trafos einsetzt und nicht eine brummfreie elektronische Lösung. Ein Trafo hat nun mal die Neigung mit der Wechselspannung zu brummen. LG Hobbyko (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Hallo hobbyko,da bist Du in der Faschings- / Karnevalzeit ja gut beschäftigt. Und es kann sein, dass einige Hotlines oder Firmen schlicht und ergreifend nur noch feiern... bis sum Abwinken  Da darfts Du dann waaaarten.  Zur Sache: Trafo oder Elektronik ist wie Henne oder Ei. Mit der Elektronik treibst Du den Teufel mit dem Beelzebub aus. Diese Phasenanschnittsteuerungen - wenn sie billig gebaut und schlecht entsört sind - sind dann die reinsten "Dreckschleudern.". Sowohl hinschtlich der Störung von Geräten und auch gesundheitlich. Wie in dem guten, informativen Beitrag erklärt, hilft nur eine aufeinander abgestimmte Lösung. Du wirst es schon schaffen. "WIR" schaffen das" - grins - notfalls auch mit Kerzen. Die brummen nicht.   LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo akelus,  Danke für Dein Mitgefühl, immerhin hat sich die Herstellerfirma gemeldet und hat mir einen Link geschickt den ich aber noch durchforsten muß, wenn ich genaues weis melde ich mich wieder. LG Hobbyko    (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Hallo akelus, wenn Du möchtest schau mal bitte hier hinein: jung.de/3923/service/dimm-assistent/  Drücke den Button "akzeptieren" und gebe dann "Licht-Management" und den Dimmer "LED- und NV Drehdimmer", dann bekommst du verschiedene Lampen angezeigt, schau bitte nur nach den GU 10 Lampen und sage mir welche Du probieren würdest, Danke. LG Hobbyko    (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; "Gut Wurschtel" + LG Hobbyko    (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Ich habe nur den gefunden:https://www.jung.de/de/online-katalog/62514369/Das Modell 225 NVDE. Mehr haben die nicht für HV-LED. Da steht jedoch, dass Deine HV-LEDs dimmbar sein müssen!!. Sind sie das denn? Die Seite mit den GU 10-Lampen habe ich nicht gefunden! LGakelus										
+
+
+
+Zitieren & Antworten ; Hast Das gesehen / gelesen? https://www.elv.de/ratgeber/wir-testen-jede-dimmbare-hochvolt-led-lampe-aus-unserem-sortiment-auf-dimmbarkeit.html										
+
+
+
+Zitieren & Antworten ; Hallo akelus,  einfach mal meine rot markierte Zeile kopieren und in die Adresszeile im Browser einfügen, dann bist Du doch auf der Seite die ich meine.Danke Für Deinen Link, ich kämpfe mich durch. LG Hobbyko(Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Das bring nix! Da kommt immer nur der 225 NVDE raus. Über den Sockel geht das auch nicht, da der für LED und Halogen gilt. Da bleibt Dir nichts anderes übrig, als in ein gutes Lampen- / Leuchtengeschäft zu gehen. Und die Farbtemperatur ist dann auch noch wichtig. Die kann ich für Dich nicht aussuchen. Zu allen Varianten passt immer der 225 NVDE. LGakelus										
+
+
+
+Zitieren & Antworten ; Na dann gebe ich halt mal den vollen Link, es kann doch nicht sein das Du das nicht findest: https://www.jung.de/3923/service/dimm-assistent/?ajax=1&scope=dimmer&system=Licht-Management&article=225NVDE  Du solltest allerdings vorher einmal auf Akzeptieren geklickt haben, dann mußt Du nur noch runterscrollen. LG Hobbyko  (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten ; Guten Morgen.Sporry, da war ich überall schon! Nur, was hilt es euch, wenn ich ein für mich angenehmes und passendes Leuchtmittel aussuche? Alles was "grün" ist, sollte technisch passen. Sollte.... Ich bin kein Innenarchitekt und auch kein Wohnberater. Den letzten Schritt zum brummfreien Wohlfühlen müßt ihr schon selber tun. Ansonsten hilft nur zurück zur Kerze und zum Kaminfeuer (duck und weg..  .) LGakelus.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus,ich bedanke mich für Deine Hilfe ich werde ins Kaminfeuer schauen. LG Hobbyko    (Gefundene Dreckfuhler dürft Ihr verkaufen)  Plane Deine Zeit, aber lasse Freiräume für Überraschungen. (Von einem irischen Kalender, Verfasser unbekannt) 
+
+
+
+Zitieren & Antworten

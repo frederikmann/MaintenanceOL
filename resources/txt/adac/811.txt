@@ -1,1 +1,1 @@
-Eine fehlerhafte Programmierung des AirbagsteuergerÃ¤tes kann zu einer fehlerhaften Funktion des Airbags fÃ¼hren. MÃ¶glich ist, dass der Airbag unkontrolliert auslÃ¶st. Abhilfe: In der Werkstatt wird das SteuergerÃ¤t umprogrammiert. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; Eine fehlerhafte Programmierung des Airbagsteuergerätes kann zu einer fehlerhaften Funktion des Airbags führen. Möglich ist, dass der Airbag unkontrolliert auslöst. Abhilfe: In der Werkstatt wird das Steuergerät umprogrammiert.

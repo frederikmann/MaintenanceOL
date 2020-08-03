@@ -1,9 +1,9 @@
-ZÃ¼ndpillen fÃ¼r Airbags und Gurtstraffer wurden nicht richtig befÃ¼llt und kÃ¶nnten daher beim AuslÃ¶sen nicht richtig zÃ¼nden, was die Verletzungsgefahr bei einem Unfall erhÃ¶ht. Die betroffenen Airbags und Gurtstraffer werden ausgetauscht.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Im Zuge der Untersuchung von 850.000 Fahrzeugen mit V6/V8 TDI Motoren mit Euro5/6 Abgasnorm wurde festgestellt, dass die betroffenen Fahrzeuge eine unzulÃ¤ssige Abgas-Abschalteinrichtung haben. Diese wird in einem Softwareupdate entfernt. 
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Die ZusatzkÃ¼hlmittelpumpe kann durch FremdkÃ¶rper im KÃ¼hlmittel blockieren und dadurch Ã¼berhitzen. Eine Software-Update im MotorsteuergerÃ¤t sorgt dafÃ¼r, dass die Blockade erkannt und die Pumpe dauerhaft abgeschaltet wird.
-Die Aktion lÃ¤uft bereits und ist fÃ¼r den Kunden kostenlos. ; In den Fahrzeugen befindet sich eine Steuerungs-Software, die von den ZulassungsbehÃ¶rden als unzulÃ¤ssig bewertet wird. An allen betroffenen Fahrzeugen wird eine neue Software auf das MotorsteuergerÃ¤t aufgespielt. Bei diversen Modellen bekommt auch das GetriebesteuergerÃ¤t eine neue Software zur Anpassung der Schaltpunkte. Bei einzelnen Modellvarianten wird zusÃ¤tzlich der NOx-Sensor bzw. die Lambdasonde ersetzt.
-Die Aktion ist fÃ¼r die Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Aktionscode 23X6) ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzufÃ¼hren. 
-
-
-Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
-Die Aktion ist fÃ¼r den Kunden kostenlos.
+Die Zusatzkühlmittelpumpe kann durch Fremdkörper im Kühlmittel blockieren und dadurch überhitzen. Eine Software-Update im Motorsteuergerät sorgt dafür, dass die Blockade erkannt und die Pumpe dauerhaft abgeschaltet wird.
+Die Aktion läuft bereits und ist für den Kunden kostenlos. ; In den Fahrzeugen befindet sich eine Steuerungs-Software, die von den Zulassungsbehörden als unzulässig bewertet wird. An allen betroffenen Fahrzeugen wird eine neue Software auf das Motorsteuergerät aufgespielt. Bei diversen Modellen bekommt auch das Getriebesteuergerät eine neue Software zur Anpassung der Schaltpunkte. Bei einzelnen Modellvarianten wird zusätzlich der NOx-Sensor bzw. die Lambdasonde ersetzt.
+Die Aktion ist für die Kunden kostenlos. ; Zündpillen für Airbags und Gurtstraffer wurden nicht richtig befüllt und könnten daher beim Auslösen nicht richtig zünden, was die Verletzungsgefahr bei einem Unfall erhöht. Die betroffenen Airbags und Gurtstraffer werden ausgetauscht.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzuführen. 
+
+
+Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
+Die Aktion ist für den Kunden kostenlos. ; Im Zuge der Untersuchung von 850.000 Fahrzeugen mit V6/V8 TDI Motoren mit Euro5/6 Abgasnorm wurde festgestellt, dass die betroffenen Fahrzeuge eine unzulässige Abgas-Abschalteinrichtung haben. Diese wird in einem Softwareupdate entfernt. 
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Aktionscode 23X6)

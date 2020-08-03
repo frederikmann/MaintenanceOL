@@ -1,3 +1,3 @@
-Im Fall eines Kurzschlusses kann der hintere Sauerstoffsensor der On-Board-Diagnose (OBD) ausfallen. Es erfolgt dabei allerdings keinerlei Fehlereintrag und auch die Motorwarnleuchte wird nicht aktiviert. Dadurch sind die zulassungsrechtlichen Vorgaben der OBD nicht erfÃ¼llt.
-Die HÃ¤ndler fÃ¼hren einen Softwareupdate des MotorsteuergerÃ¤tes durch.
-Die Aktion wurde im August 2016 gestartet, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Im Servicesystem des Importeurs hinterlegt. 
+Im Servicesystem des Importeurs hinterlegt.  ; Im Fall eines Kurzschlusses kann der hintere Sauerstoffsensor der On-Board-Diagnose (OBD) ausfallen. Es erfolgt dabei allerdings keinerlei Fehlereintrag und auch die Motorwarnleuchte wird nicht aktiviert. Dadurch sind die zulassungsrechtlichen Vorgaben der OBD nicht erfüllt.
+Die Händler führen einen Softwareupdate des Motorsteuergerätes durch.
+Die Aktion wurde im August 2016 gestartet, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.

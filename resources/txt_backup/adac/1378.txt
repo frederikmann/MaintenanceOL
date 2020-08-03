@@ -1,0 +1,1 @@
+Die Fahrzeuge verfügen möglicherweise über ein fehlerhaftes Auto Stop & Go-System (AS&G). Das Steuergerät erkennt nicht mehr zuverlässig den Ladezustand der Batterie. So könnte trotz leerem Stromspeicher der Motor bei Halt des Fahrzeugs ausgehen und dann nicht mehr anspringen. Abhilfe: Softwareupdate ; Im Hersteller-Werkstattsystem

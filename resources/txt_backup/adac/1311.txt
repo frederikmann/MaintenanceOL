@@ -1,0 +1,13 @@
+Die Dieselkraftstofffilter mit integrierter Heizung können im oberen Verschlussbereich der Entwässerungsöffnung undicht werden und dadurch Dieselkraftstoff austreten. 
+Die Händler tauschen die Kraftstofffilter gegen eine modifizierte Version aus.
+Die Aktion läuft seit  Nov. 2010 dauert etwa  eine Stunde und ist für die Kunden kostenlos. ; Wegen möglicher Risse im Kolben kann es zum Motorschaden kommen. Dabei kann dann auch Motoröl auf heisse Bauteile gelangen. 
+Der Händler spielen eine modifizierte Motorsteuergeräte-Software auf, so dass auch bei hohen Lastzuständen die Spitzenbrennraumdrücke reduziert werden.
+Die Aktion ist für die Kunden kostenlos und dauert etwa eine halbe Stunde.
+  ; Bei einem Bruch einer Gewindebuchse am Nachsteller der Feststellbremse könnte abhängig vom Bruchverlauf die Einstellschraube herausfallen. In diesem Fall würde die Haltewirkung der gesamten Feststellbremse verloren gehen. Die betroffenen Fahrzeuge erhalten eine neue Nachstellereinheit der Feststellbremse. Vom Rückruf betroffen sind auch Modelle des VW Crafter. ; Die Isofixhalter der Sitzbank wurden fehlerhaft verschweißt, so dass sich bei hoher Belastung (Unfall) der damit gesicherte Kindersitz lösen könnte.
+Die Händler prüfen die Schweißnähte und ersetzen ggf. die Sitzbank. 
+Die Aktion ist  im Aug.2011 angelaufen, dauert etwa eine Stunde (Sitzbanktausch) und ist für die Kunden kostenlos. ; Vermerk im internen Mercedes-Benz-Werkstattsystem. ; In der zentralen Softwarebereitstellung für die Serviceorganisation "Zentrale Business Logik" sowie "Dialog"  wurde Servicesoftware mit falscher Kalibrierungsnummer für das Steuergerät (SNC-Codierung) versehen.
+Die falschen SNC-Codierungen können Auswirkungen auf auf die Steuerung der Motorabschaltung imCrashfall, die Onboard-Diagnose und das Tank- und Tachosignal haben.
+Der kostenlose Softwareupdate dauert etwa eine halbe Stunde.
+ ; An der Trennstelle des Motoröleinfüllstutzens, der am Motor verclipst ist, kann es durch Spannungsverlust oder Bruch des Vorspannfederblatts zu Undichtigkeiten kommen. Dies kann zum Motorschaden wegen Schmierölmangels und auch Ölverschmutzung nach aussen auf die Fahrbahn führen.
+Die Händler tauschen dien kompletten Öleinfüllstutzen aus.
+ Die Aktion läuft seit etwa Nov. 2010 dauert etwa  eine halbe Stunde und ist für die Kunden kostenlos. ; n.b ; Während des Serienanlaufs wurden irrtümlich Vorserienradflansche verbaut. Dies könnte unter ungünstigen Einsatzbedingungen zum Bruch der Radbolzenaufnahmen führen. Die Flansche werden in der Werkstatt durch serienkonforme Teile ersetzt. ; Im Garantiesystem des Herstellers vermerkt. ; Eintragung im Fahrzeugdiagnosesystem des Herstellers.  ; im Datenbestand des Herstellers ; Im Herstellersystem vermerkt. 

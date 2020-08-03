@@ -1,19 +1,19 @@
-Eintrag im Werkstattsystem ; Der RÃ¼ckruf (Code "4KET-991") wird im Garantiesystem des Hersteller vermerkt. ; Es kann zum Bruch der Ventilfedern und dann infolge auch zu MotorschÃ¤den (abgerissene Ventile) kommen. Derartige SchÃ¤den kÃ¶nnen sich durch unrunden Motorlauf und mechanische GerÃ¤usche ankÃ¼ndigen.
-Die exakten Arbeitsvorgaben fÃ¼r die HÃ¤ndler werden noch fertiggestellt. Bei erforderlichen Motorsanierungen ist aber mit einer Standzeit von einer Woche, bei V8-Motoren, zu rechnen. 
-Die Aktion wird am 1. Sept. 2010 gestartet, und ist fÃ¼r die Kunden kostenlos. ; Da das Kabelmaterial des AnschluÃŸsteckers der Intankkraftstoffpumpe zu sprÃ¶de ist, kann es zur Leitungsunterbrechung kommen. 
-Dann wÃ¼rde es zum Ausgehen des Motors und Stehenbleiben des Fahrzeuges kommen (Pannenfall). 
-Die HÃ¤ndler tauschen den elktrischen AnschluÃŸ gegen eine modifizierte Version. 
-Die Aktion lÃ¤uft seit Okt. 2010, dauert etwa drei Stunden und ist fÃ¼r die Kunden kostenlos. ; Der Einspritzventile der Benzin-Motoren verfÃ¼gen Ã¼ber eine gemeinsame Kraftstoffversorgungsleitung an der ein Drucksensor hÃ¤ngt. Da die DichtfÃ¤che des Sensors mit Beschichtung (Nickel,Phosphat) verunreinigt wurde, kann es an dieser Stelle zum Austritt von Kraftstoff kommen. 
-Laut Hersteller macht sich ausgetretender Kraftstoff durch Geruchsbildung auch im Innenraum bemerkbar.
-Die HÃ¤ndler Ã¼berprÃ¼fen die DichtflÃ¤che des Kraftstoffdrucksensors. Falls erforderlich wird diese nachgearbeitet und die Dichtringe des Sensors gleichzeitig erneuert.   
-Der RÃ¼ckruf startet im Dez. 2014,  dauert bis zu fÃ¼nf Stunden und ist fÃ¼r die Kunden kostenlos. ; Abhilfe: Austausch der betroffenen Kraftstoff-Leitungen; Dauer etwa drei Stunden ; Wegen Korrosion der hint. BremssÃ¤ttel und FÃ¼hrungsstifte kann es lt. Hersteller zum einseitigen Verschleiss der hinteren BremsbelÃ¤ge und GerÃ¤uschbildung kommen.
-Die HÃ¤ndler prÃ¼fen die BremssÃ¤ttel.
-Im Rahmen der Aktion werden diese entweder entrostet oder ggf. erneuert. 
-Die Aktion ist kostenlos und dauert knapp zwei Stunden.   ; Im HÃ¤ndlersystem hinterlegt. ; Fahrzeuge werden Ã¼ber Toyota-Garantiesystem als "modifiziert" gekennzeichnet. ; Wegen einer verdrehten SekundÃ¤rmanschette kÃ¶nnen,lt. Hersteller, geringe Mengen BremsflÃ¼ssigkeit nach auÃŸen in den BremskraftverstÃ¤rker austreten.
-Dadurch kann es Ã¼ber einen lÃ¤ngeren Zeitraum zum FlÃ¼ssigektisabfall im AusgleichsbehÃ¤lter kommen.
-Dies wird dann allerdings Ã¼ber die Bremswarnleuchte angezeigt. 
-Die HÃ¤ndler tauschen die Abdichtmanschette gegen eine modifizierte Version. 
-Die Aktion lÃ¤uft seit Okt. 2010, dauert etwa zwei Stunden und ist fÃ¼r die Kunden kostenlos. ; Wegen eines Fertigungsfehlers im Elektromotor der Lenkungssteuerung kÃ¡nn es zum ausfall der LenkungsunterstÃ¼tzung kommen. 
-Damit sind schlagartig deutlich hÃ¶here LenkkrÃ¤fte erforderlich, die dem Fahrer das GefÃ¼hl geben kÃ¶nnten, die Lenkung wÃ¼rde blockieren, was aber nicht der Fall ist. 
-Wegen diesem Ãœberraschungseffekt kann es zu Fahrproblemen kommen. Insbesondere bei niedrigen Geschwindigkeiten und Einparsituationen, wo die hÃ¶chste LenkkrÃ¤fte auftreten.
-Die elektromechanische Lenkung wir durch den HÃ¤ndler kostenlos komplett ersetzt.  ; Vermerk im internen Servicesystem. ; Im Servicesystem des Herstellers gespeichert. 
+Wegen einer verdrehten Sekundärmanschette können,lt. Hersteller, geringe Mengen Bremsflüssigkeit nach außen in den Bremskraftverstärker austreten.
+Dadurch kann es über einen längeren Zeitraum zum Flüssigektisabfall im Ausgleichsbehälter kommen.
+Dies wird dann allerdings über die Bremswarnleuchte angezeigt. 
+Die Händler tauschen die Abdichtmanschette gegen eine modifizierte Version. 
+Die Aktion läuft seit Okt. 2010, dauert etwa zwei Stunden und ist für die Kunden kostenlos. ; Fahrzeuge werden über Toyota-Garantiesystem als "modifiziert" gekennzeichnet. ; Der Einspritzventile der Benzin-Motoren verfügen über eine gemeinsame Kraftstoffversorgungsleitung an der ein Drucksensor hängt. Da die Dichtfäche des Sensors mit Beschichtung (Nickel,Phosphat) verunreinigt wurde, kann es an dieser Stelle zum Austritt von Kraftstoff kommen. 
+Laut Hersteller macht sich ausgetretender Kraftstoff durch Geruchsbildung auch im Innenraum bemerkbar.
+Die Händler überprüfen die Dichtfläche des Kraftstoffdrucksensors. Falls erforderlich wird diese nachgearbeitet und die Dichtringe des Sensors gleichzeitig erneuert.   
+Der Rückruf startet im Dez. 2014,  dauert bis zu fünf Stunden und ist für die Kunden kostenlos. ; Der Rückruf (Code "4KET-991") wird im Garantiesystem des Hersteller vermerkt. ; Abhilfe: Austausch der betroffenen Kraftstoff-Leitungen; Dauer etwa drei Stunden ; Wegen Korrosion der hint. Bremssättel und Führungsstifte kann es lt. Hersteller zum einseitigen Verschleiss der hinteren Bremsbeläge und Geräuschbildung kommen.
+Die Händler prüfen die Bremssättel.
+Im Rahmen der Aktion werden diese entweder entrostet oder ggf. erneuert. 
+Die Aktion ist kostenlos und dauert knapp zwei Stunden.   ; Wegen eines Fertigungsfehlers im Elektromotor der Lenkungssteuerung kánn es zum ausfall der Lenkungsunterstützung kommen. 
+Damit sind schlagartig deutlich höhere Lenkkräfte erforderlich, die dem Fahrer das Gefühl geben könnten, die Lenkung würde blockieren, was aber nicht der Fall ist. 
+Wegen diesem Überraschungseffekt kann es zu Fahrproblemen kommen. Insbesondere bei niedrigen Geschwindigkeiten und Einparsituationen, wo die höchste Lenkkräfte auftreten.
+Die elektromechanische Lenkung wir durch den Händler kostenlos komplett ersetzt.  ; Vermerk im internen Servicesystem. ; Da das Kabelmaterial des Anschlußsteckers der Intankkraftstoffpumpe zu spröde ist, kann es zur Leitungsunterbrechung kommen. 
+Dann würde es zum Ausgehen des Motors und Stehenbleiben des Fahrzeuges kommen (Pannenfall). 
+Die Händler tauschen den elktrischen Anschluß gegen eine modifizierte Version. 
+Die Aktion läuft seit Okt. 2010, dauert etwa drei Stunden und ist für die Kunden kostenlos. ; Im Händlersystem hinterlegt. ; Im Servicesystem des Herstellers gespeichert.  ; Eintrag im Werkstattsystem ; Es kann zum Bruch der Ventilfedern und dann infolge auch zu Motorschäden (abgerissene Ventile) kommen. Derartige Schäden können sich durch unrunden Motorlauf und mechanische Geräusche ankündigen.
+Die exakten Arbeitsvorgaben für die Händler werden noch fertiggestellt. Bei erforderlichen Motorsanierungen ist aber mit einer Standzeit von einer Woche, bei V8-Motoren, zu rechnen. 
+Die Aktion wird am 1. Sept. 2010 gestartet, und ist für die Kunden kostenlos.

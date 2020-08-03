@@ -1,1 +1,1 @@
-noch nicht bekannt ; Durch einen Fehler innerhalb des Sensors kÃ¶nnten fehlerhafte Signale an das ESP-SteuergerÃ¤t geliefert werden. UnregelmÃ¤ÃŸige und unerwartete Eingriffe in das Bremssystem kÃ¶nnten die Folge sein. Betroffene Sensoren werden kostenlos ersetzt.
+noch nicht bekannt ; Durch einen Fehler innerhalb des Sensors könnten fehlerhafte Signale an das ESP-Steuergerät geliefert werden. Unregelmäßige und unerwartete Eingriffe in das Bremssystem könnten die Folge sein. Betroffene Sensoren werden kostenlos ersetzt.

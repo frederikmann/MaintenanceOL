@@ -1,10 +1,10 @@
-Aktionscode im Serviceheft und Herstellersystem vermerkt ; Im Hersteller-Werkstattsystem ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzufÃ¼hren. 
-
-
-Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; In bestimmten Situationen wird der NOx-Grenzwert um das doppelte Ã¼berschritten. Grund ist, dass die Motordrehzahl in manchen Bereichen ungÃ¼nstig von der Getriebesoftware beeinflusst wird. Dadurch kÃ¶nnen sich die Emissionen verschlechtern. Abhilfe schafft ein Softwareupdate.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; In die Membran des UnterdruckbremskraftverstÃ¤rkers kÃ¶nnen Ã–ldÃ¤mpfe eindringen und diese schÃ¤digen. 
-In Folge kann es dann zum Ausfall der BremskraftverstÃ¤rkung kommen. Die Bremsleistung bleibt dann zwar auch voll erhalten, die erforderliche Bremspedalkraft fÃ¼r den Autofahrer steigt aber stark an (hartes Bremspedal!).
-Je nach Fahrsituation kann dies zu einem erhÃ¶hten Anhalteweg fÃ¼hren. 
-Die HÃ¤ndler prÃ¼fen die UnterdruckverstÃ¤rker und  bauen eine Unterdruckleitung mit RÃ¼ckschlagventil ein.
-Der RÃ¼ckruf ist im Aug. 2014 angelaufen, dauert eine halbe Stunde und ist fÃ¼r die Kunden kostenlos.
+In bestimmten Situationen wird der NOx-Grenzwert um das doppelte überschritten. Grund ist, dass die Motordrehzahl in manchen Bereichen ungünstig von der Getriebesoftware beeinflusst wird. Dadurch können sich die Emissionen verschlechtern. Abhilfe schafft ein Softwareupdate.
+Die Aktion ist für den Kunden kostenlos. ; Aktionscode im Serviceheft und Herstellersystem vermerkt ; In die Membran des Unterdruckbremskraftverstärkers können Öldämpfe eindringen und diese schädigen. 
+In Folge kann es dann zum Ausfall der Bremskraftverstärkung kommen. Die Bremsleistung bleibt dann zwar auch voll erhalten, die erforderliche Bremspedalkraft für den Autofahrer steigt aber stark an (hartes Bremspedal!).
+Je nach Fahrsituation kann dies zu einem erhöhten Anhalteweg führen. 
+Die Händler prüfen die Unterdruckverstärker und  bauen eine Unterdruckleitung mit Rückschlagventil ein.
+Der Rückruf ist im Aug. 2014 angelaufen, dauert eine halbe Stunde und ist für die Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzuführen. 
+
+
+Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
+Die Aktion ist für den Kunden kostenlos.

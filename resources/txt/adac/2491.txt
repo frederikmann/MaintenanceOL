@@ -1,1 +1,1 @@
-Den Fahrzeugen ist eine falsche Bedienungsanleitung beigelegt worden. Die zu beachtenden Sicherheitshinweise sind mÃ¶glicherweise unvollstÃ¤ndig. Abhilfe: In der Werkstatt wird die Anleitung ausgetauscht. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; Den Fahrzeugen ist eine falsche Bedienungsanleitung beigelegt worden. Die zu beachtenden Sicherheitshinweise sind möglicherweise unvollständig. Abhilfe: In der Werkstatt wird die Anleitung ausgetauscht.

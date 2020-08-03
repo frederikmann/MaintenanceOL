@@ -1,8 +1,8 @@
-Wegen einer fehlerhaften TankentlÃ¼ftungsleitung gelangt Kraftstoff in den Aktivkohlefilter. 
-Wenn dieser Ã¼berfÃ¼llt ist, kommt es zum Ãœberlauf von Kraftstoff nach auÃŸen. 
-Die HÃ¤ndler Ã¼berprÃ¼fen den Kraftstofftank und tauschen diesen ggf. aus. 
-Die Aktion lÃ¤uft seit Sept. 2010, dauert etwa zwei Stunden (Tanktausch) und ist fÃ¼r die Kunden kostenlos. ; Im internen Daimler-HÃ¤ndler-System vermerkt. ; Im HÃ¤ndlersystem abrufbar. ; Bei hoher Belastung (Unfall) kÃ¶nnte es zum Bruch der Sperrklinken der GurtschlÃ¶sser kommen..
-Die HÃ¤ndler prÃ¼fen und erneuern ggf. die GurtschlÃ¶sser. 
-Die Aktion ist fÃ¼r die Kunden kostenlos.. ; Eintragung im Fahrzeugdiagnosesystem des Herstellers.  ; In der zentralen Softwarebereitstellung fÃ¼r die Serviceorganisation "Zentrale Business Logik" sowie "Dialog"  wurde Servicesoftware mit falscher Kalibrierungsnummer fÃ¼r das SteuergerÃ¤t (SNC-Codierung) versehen.
-Die falschen SNC-Codierungen kÃ¶nnen Auswirkungen auf die Steuerung der Motorabschaltung imCrashfall, die Onboard-Diagnose und das Tank- und Tachosignal haben.
+Wegen einer fehlerhaften Tankentlüftungsleitung gelangt Kraftstoff in den Aktivkohlefilter. 
+Wenn dieser überfüllt ist, kommt es zum Überlauf von Kraftstoff nach außen. 
+Die Händler überprüfen den Kraftstofftank und tauschen diesen ggf. aus. 
+Die Aktion läuft seit Sept. 2010, dauert etwa zwei Stunden (Tanktausch) und ist für die Kunden kostenlos. ; Eintragung im Fahrzeugdiagnosesystem des Herstellers.  ; Bei hoher Belastung (Unfall) könnte es zum Bruch der Sperrklinken der Gurtschlösser kommen..
+Die Händler prüfen und erneuern ggf. die Gurtschlösser. 
+Die Aktion ist für die Kunden kostenlos.. ; Im internen Daimler-Händler-System vermerkt. ; Im Händlersystem abrufbar. ; In der zentralen Softwarebereitstellung für die Serviceorganisation "Zentrale Business Logik" sowie "Dialog"  wurde Servicesoftware mit falscher Kalibrierungsnummer für das Steuergerät (SNC-Codierung) versehen.
+Die falschen SNC-Codierungen können Auswirkungen auf die Steuerung der Motorabschaltung imCrashfall, die Onboard-Diagnose und das Tank- und Tachosignal haben.
 Das kostenlose Softwareupdate dauert etwa eine halbe Stunde.

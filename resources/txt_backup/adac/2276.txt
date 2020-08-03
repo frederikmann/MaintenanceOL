@@ -1,0 +1,1 @@
+Aufgrund eines Herstellungsfehlers kann der Gleichspannungswandler ausfallen. In der Folge besteht die Möglichkeit, dass die Zwölf-Volt-Batterie nicht mehr geladen wird. Bei einer Weiterfahrt könnte sich aufgrund dessen das Hybridsystem abschalten. Abhilfe: Das Bauteil wird in der Werkstatt überprüft und ggf. gewechselt. ; Im Hersteller-Werkstattsystem, Code 19SMD-062

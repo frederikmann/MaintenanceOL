@@ -1,6 +1,6 @@
-Ein Vollzug ist anhand des Eintrags "39E5" im Serviceheft erkennbar. ; Ein Softwareupdate vergrÃ¶ÃŸert das Temperaturfenster, in dem die NOx-Abgasreinigung funktioniert. Dadurch steigt der Verbrauch der HarnstofflÃ¶sung (AdBlueÂ®)
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem und im Serviceheft (Code 76A4) ; Resonanzschwingungen kÃ¶nnen bei hohen Geschwindigkeiten zu SchÃ¤den an der Kardanwelle fÃ¼hren. Im ungÃ¼nstigsten Fall kann diese brechen und umliegende Bauteile beschÃ¤digen, auch ist ein Ausfall des Antriebstrangs mÃ¶glich. Es besteht Unfallgefahr.
-
-Fahrzeughalter sollen die HÃ¶chstgeschwindigkeit vorsorglich auf 130 km/h begrenzt. ; 
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem
+Ein Vollzug ist anhand des Eintrags "39E5" im Serviceheft erkennbar. ; Ein Softwareupdate vergrößert das Temperaturfenster, in dem die NOx-Abgasreinigung funktioniert. Dadurch steigt der Verbrauch der Harnstofflösung (AdBlue®)
+Die Aktion ist für den Kunden kostenlos. ; 
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem und im Serviceheft (Code 76A4) ; Im Hersteller-Werkstattsystem ; Resonanzschwingungen können bei hohen Geschwindigkeiten zu Schäden an der Kardanwelle führen. Im ungünstigsten Fall kann diese brechen und umliegende Bauteile beschädigen, auch ist ein Ausfall des Antriebstrangs möglich. Es besteht Unfallgefahr.
+
+Fahrzeughalter sollen die Höchstgeschwindigkeit vorsorglich auf 130 km/h begrenzt.

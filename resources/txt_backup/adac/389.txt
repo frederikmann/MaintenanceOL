@@ -1,0 +1,2 @@
+Der Fahrerairbag-Gasgenerator kann während einer Airbag-Auslösung unter normalen Umständen aufgrund übermäßigen Innendrucks bersten. Das Bersten des Gasgenerators beim Auslösen des Airbags könnte dazu führen, dass Metallsplitter Fahrzeuginsassen treffen und schwer verletzen oder töten. Bei betroffenen Fahrzeugen wird der Gasgenerator getroffen. In Deutschland sind nur Grauimporte betroffen, Fiat hat keine Fahrzeuge davon verkauft.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code S15)

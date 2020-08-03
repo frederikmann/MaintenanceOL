@@ -1,0 +1,881 @@
+Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1 ; Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1 ; Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1 ; Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1 ; Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1 ; Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1 ; Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1 ; Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1 ; Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1 ; Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1 ; Es geht bei der Autokorrektur um den Buchstaben ç  des Namens François. Diesen Namen muss ich bei einem Text vielfach benutzen und habe ihn daher in der Autokorrektur eingegeben. Aber wie bekomme ich das ç da hinein? Wenn ich es jedesmal schreiben würde dann geht es ja über:  > Einfügen, >  Symbol und dann kann ich es anklicken. " f " kommen, sowie ohne dieses Sonderzeichen es bei allen anderen Bezeichnungen geht.   Hat da jemand einen Tipp für mich? Danke schon mal im Voraus und einen sonnigen Sonntag  Lieber Gruß aus NordhessenUrsula1 ; Dein  ç hat die Zeichenfolge "ALT+135" . Wenn Du an der Stelle, an der Du das ç haben möchtest die ALT-Taste drückst und gedrückt hältst und dann 135 eingibst und alles wieder loslässt, hast Du das ç in Deinem Text. Du kannst aber auch in den Autokorrekturoptionen das ç einfügen" Zurzeit ist das c in Klammern mit dem Copyrightzeichen besetzt.Zumindet bei mir.  Gib doch mal "c" in Klammern ein, was dann passiert und berichte.  LGakelus										
+
+
+
+Zitieren & Antworten ; Hallo Ursula, kannst Du nicht den kompletten Namen einfach in das Textfeld in der Autokorrektur von wo anders her hineinkopieren ?  Viele Grüße - Allegro										
+
+
+
+Zitieren & Antworten ; Natürlich kann man auch Francois dorch François  ersetzen. Dann kann sie jedoch nie mehr Fracnois ohne das ç schreiben!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, Tippfehler?alt 0231 GrußPeter										
+
+
+
+Zitieren & Antworten ; Und wie oft im Leben braucht man den Francois ohne den Accent ?  Und wenn doch, dann kann man die Autokorrektur ja auch einfach ausschalten oder den Namen dort wieder entnehmen ....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,das ALT 135 gilt für Windows und Word 2010. Wenn Ursula1 einen anderen PC hat, dann kann das auch eine andere Kombination sein!! Bei mir ist es defi9nitiv ALT 135 = ç  Und bei Dir hier auf dieser Seite??										
+
+
+
+Zitieren & Antworten ; ç = alt 0231! Tatsächlich auch bei mir!! Bingo.										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, interessant. Vor Jahren brauchte ich das öfter, hatte aber privat nie Word. Bei alt 0135 kommt hier im Forum und in Notepad ‡ GrußPeter										
+
+
+
+Zitieren & Antworten ; und bei alt135 ohne die Null? Was hast Du denn für einen PC?										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, alt 135 = ç Das ist jetzt mir neu. Mein PC ist ganz normal (Windows 10 Pro, Notebook mit Ziffernblock). GrußPeter										
+
+
+
+Zitieren & Antworten ; Das doppelte Plus finde ich in keinem Zeichensatz!!										
+
+
+
+Zitieren & Antworten ; Hallo Akelus, es ist das Lothringerkreuz. GrußPeter https://de.wikipedia.org/wiki/Lothringerkreuz 
+
+
+
+Zitieren & Antworten ; p.s., nicht, dass da eine Verschwörung hinter steckt....										
+
+
+
+Zitieren & Antworten ; Hallo Peter,dieses Zeichen kann ich in meinen Tabellen nicht finden. Nur den Gartenzaun: # . Da muss es wohl doch eine Verschwörung geben. LGakelus										
+
+
+
+Zitieren & Antworten ; Vielen Dank für eure Infos. Wieder was gelernt, sogar über das Lothringer Kreuz .Bei Autokorrektur habe ich es mit alt135 eingegeben und ... juppheidiiiii... es hat geklappt.  @ akalusJa, mit alt und 135 klappt es im normalen TextMit alt 0231 geht es auch @ AllegroJa, das würde auch funktionieren. Aber das wäre aufwendiger, als wenn ich nur ein  „f“ eingeben würde und die Technik könnte so von selbst… @ peter-k alt 231 gibt ein anderes Zeichen, dieses: þAber wie erwähnt: alt 0135 klappt. ich habe mich sehr darüber gefreut---  Allen einen sonnigen Sonntag   Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula,  vielleicht solltest Du Dich mal mit Deiner Autokorrektur unterhalten, ich persönlich schalte sie überall aus.  > ​mit alt und 135 klappt es <> ​alt 0135 klappt <  GrußPeter										
+
+
+
+Zitieren & Antworten ; Nochn Tipp: Europatastatur. das ist ein kostenloser Tastaturtreiber für Windows, der die Eingabe von Akzenten und Sonderzeichen massiv erleichtert.										
+
+
+
+Zitieren & Antworten ; Hallo Erzett, ich habe sogar einen Brexit-Tastaturtreiber. Egal, welche Taste Du drückst, es kommt immer "no". GrußPeter										
+
+
+
+Zitieren & Antworten ; Zitieren & Antworten ; @ Peter-k da müsste ich diesem System das Gegenteil sagen: ich nutze es sehr gern, wenn ich etwas scheibe, lang und mit bestimmten immer wieder kehrenden Worten...Ich nutze gern etwas, allein um es nicht zu vergessen und immer mal was Neues zu entdecken...Irgendwie muss ich mein Hirn ja noch ein bisschen fit halten und dann mit etwas was mir auch noch Spass macht.  Lieber Gruß aus NordhessenUrsula1 ; Hallo Ursula, > ​ich nutze es sehr gern, wenn ich etwas scheibe <  Du solltest mal ein ernsthaftes Wörtchen mit Deiner Autokorrektur reden    GrußPeter										
+
+
+
+Zitieren & Antworten ; ,,,ähemmm... was meinst Du damit?... Lieber Gruß aus NordhessenUrsula1 ; ​wenn ich etwas scheibe										
+
+
+
+Zitieren & Antworten ; hmmm... ich glaube, dann rede ich wohl zu undeutlich, oder die Korrektur braucht ein Hörgerät Lieber Gruß aus NordhessenUrsula1 ; ich denke mal Peter wollte damit andeuten dass die Autokorrektur doch eh  nur beim Schreiben funktioniert - die Betonung dass du sie gerne benutzt wenn du schreibst ist also etwas zum Schmunzeln...  aber es macht wirklich Sinn sie zumindest dann wenn der zu schreibende Texte viele Begriffe/Eigennamen aus anderen Sprachen enthält rauszunehmen - das erspart ne Menge Korrektur der Autokorrektur. Vergessen kann man bei der Autokorrektur doch eh nur wie man sie zuschaltet - was trainiert sie denn darüber hinaus ??? Erzetts Tastaturtipp  würde ich mir übrigens merken wenn du ihn noch nicht kanntest - sehr hilfreich - nicht nur für das cédille in François ...										
+
+
+
+Zitieren & Antworten ; Danke grisou.Den Hinweis für den Tastaturtreiber habe ich mir schon notiert und werde meine EDV-Fee fragen, wenn sie wieder aus dem Urlaub kommt.  Aber ehrlich... ich verstehe das noch nicht: wenn Du schreibst, dass die Autokorrektur nur beimSchreiben funktioniert... ähemmm... ich glaube mein Hirn ist auch im Urlaub (kommt aber hoffentlich wieder) Aber egal... Hauptsache es hat nach Befolgung der Tipps geklappt. Leider stehe ich zu oft auf den Leitungen, korrekt: ich klebe drauf fest.   Lieber Gruß aus NordhessenUrsula1

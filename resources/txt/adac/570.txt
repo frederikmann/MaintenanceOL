@@ -1,2 +1,2 @@
-Im Hersteller-Werkstattsystem (Code 6097) ; Eine potenzielle NichtkonformitÃ¤t der ZÃ¼ndung der Sprengladung kann im Falle eines Unfalls zu erhÃ¶htem Verletzungsrisiko fÃ¼hren. Bei den betroffenen Fahrzeugen wird das Seitenairbag-Modul getauscht.
-Die Aktion ist fÃ¼r den Kunden kostenlos.
+Eine potenzielle Nichtkonformität der Zündung der Sprengladung kann im Falle eines Unfalls zu erhöhtem Verletzungsrisiko führen. Bei den betroffenen Fahrzeugen wird das Seitenairbag-Modul getauscht.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 6097)

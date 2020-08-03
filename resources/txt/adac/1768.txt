@@ -1,5 +1,5 @@
-Wegen ungenauer Ausrichtung der Kardanwelle zum Hinterachsgetriebe kann sich die Verschraubung am Achsgetriebe lÃ¶sen und in Folge zum Verlust des Antriebs (Trennung der Kardanwelle vom Achsgetriebe) kommen. 
-Das Fahrzeug bleibt dann stehen. 
-Die HÃ¤ndler prÃ¼fen das Anzugsmoment der Verschraubung und korrigerien es ggf. auf den korrekten Wert von 115 Nm. Falls bereits eine Schraube fehlt, werden alle vier Schrauben getauscht. 
-Die Aktion startet im April 2014, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Aufkleber mit Markierung "N5" am vord. StoÃŸdÃ¤mpferdom Fahrerseite. ; Seilzug an den hinteren BremssÃ¤tteln kann sich aus der FÃ¼hrung lÃ¶sen, mÃ¶gliche Folge: Ausfall der Handbremse. 
-Kontrolle bzw. Austausch des betroffenen Bremssattels (je nach Ergebnis der PrÃ¼fung), Dauer 0,5 bis 2,75 Stunden ; nur in Renault-Datenbank
+Seilzug an den hinteren Bremssätteln kann sich aus der Führung lösen, mögliche Folge: Ausfall der Handbremse. 
+Kontrolle bzw. Austausch des betroffenen Bremssattels (je nach Ergebnis der Prüfung), Dauer 0,5 bis 2,75 Stunden ; Wegen ungenauer Ausrichtung der Kardanwelle zum Hinterachsgetriebe kann sich die Verschraubung am Achsgetriebe lösen und in Folge zum Verlust des Antriebs (Trennung der Kardanwelle vom Achsgetriebe) kommen. 
+Das Fahrzeug bleibt dann stehen. 
+Die Händler prüfen das Anzugsmoment der Verschraubung und korrigerien es ggf. auf den korrekten Wert von 115 Nm. Falls bereits eine Schraube fehlt, werden alle vier Schrauben getauscht. 
+Die Aktion startet im April 2014, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; nur in Renault-Datenbank ; Aufkleber mit Markierung "N5" am vord. Stoßdämpferdom Fahrerseite.

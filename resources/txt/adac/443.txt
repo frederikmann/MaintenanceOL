@@ -1,3 +1,3 @@
-Eine fehlende Ballastvorrichtung im Heckbereich der Fahrzeuge kann unter UmstÃ¤nden zu einer eingeschrÃ¤nkten SpurstabilitÃ¤t fÃ¼hren.
-Abhilfe:
-In der Werkstatt wird die FahrzeugkonformitÃ¤t Ã¼berprÃ¼ft. Sofern erforderlich erfolgt der Einbau der fehlenden Ballastvorrichtung entsprechend der Montageanleitung. ; Im Hersteller-Werkstattsystem. Der interne Code fÃ¼r die vom KBA Ã¼berwachten Aktion lautet "GYW"
+Eine fehlende Ballastvorrichtung im Heckbereich der Fahrzeuge kann unter Umständen zu einer eingeschränkten Spurstabilität führen.
+Abhilfe:
+In der Werkstatt wird die Fahrzeugkonformität überprüft. Sofern erforderlich erfolgt der Einbau der fehlenden Ballastvorrichtung entsprechend der Montageanleitung. ; Im Hersteller-Werkstattsystem. Der interne Code für die vom KBA überwachten Aktion lautet "GYW"

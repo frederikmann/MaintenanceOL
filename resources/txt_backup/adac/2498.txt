@@ -1,0 +1,7 @@
+Bei schlagartiger Drehzahlerhöhung nach Kaltstart, kann es zum Ausfall der Ölpumpe kommen. Als Abhilfemaßnahme wird ein Motorsoftwareupdate durchgeführt, der bei niedriger Motoröltemperatur die Maximaldrehzahl des Motors begrenzt.
+Die Aktion ist kostenlos und dauert etwa eine Stunde. Der Hersteller weist die Kunden auf Updateprobleme bei chipgetunten Fahrzeugen hin. ; Eintrag "24L8 ausgeführt" im Serviceplan und Aufkleber "24L8 Datum/Stempel" im Bereich der Reserveradwanne. ; Wegen zu dünn bemessener Befestigungsstege des Heckspoilers, kann es zum Bruch an den Halterungen kommen und sich der Heckspoiler dann ggf. vollständig vom Fahrzeug ablösen.
+In diesem Fall ist der nachfolgende Verkehr durch den abfliegenden Spoiler gefährdet. 
+Zusätzlich kann es bei Modellen mit V6 TDI Motor zum Aufleuchten der Motorcheck-Lampe nach dem Starten kommen. 
+An den drei Befestigungsstellen am Spoiler werden zusätzliche Verstärkungen mit 2-Kleber angebracht. Um das Aufleuchten zu vermeiden, wird eine Adapterleitung zwischen die Verbindung vor die Zusatzkraftstoffpumpe eingebaut. 
+Die Aktion dauert für Heckspoiler ca. 45 Min. und bei zusätzl. Leitungssatz Kraftstoffpumpe ca. eine Stunde und ist für die Kunden kostenlos. 
+ ; Aktionsaufkleber "66D6" in Reserveradwanne 

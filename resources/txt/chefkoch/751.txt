@@ -1,0 +1,47 @@
+Momentan ist es wie verhext. Zu erst geht der Trockner nicht mehr, also neuen gekauft und liefern lassen. Der stand erst mal ein paar Tage verpackt im Keller, da wir weg waren und heute stelle ich fest, dass die Waschmaschine nicht mehr gehen will. Der Trockner, weil nicht angeschlossen gewesen, geht. Also bei der Waschmaschine den Deckel auf gemacht (20 Jahre alt, also eh keine Garantie mehr) und rein geschaut.(Habe zwar keine Ausbildung darin, kann aber schon einiges selber machen) Dort ist dann direkt aufgefallen, dass auf der Platine ein paar ICs und andere Teile entweder verbrannt oder durch Messung mit dem Multi belegt nicht mehr in Ordnung sind. Jetzt geht es darum, ob es ein Versicherungsfall ist (gab ein Gewitter während Abwesenheit), oder einfach das Alter Schuld war.Und ob sich das überhaupt noch lohnt, weil die ist ja auch schon mindestens 20 Jahre alt. Die Stecker der restlichen Haushaltsgeräte haben wir alle vor Abreise gezogen bzw. ausgestellt. Kann man irgendwie glaubhaft belegen, dass da ein Blitz rein gezwiebelt ist und die deshalb durch ist? Die Reparatur der Heizungsanlage konnten wir schon durch die Versicherung zum Glück abdecken lassen. Lohnt sich der Gutachter oder lieber direkt neu kaufen und damit leben?										
+
+
+
+Zitieren & Antworten ; Hallo Mario, verstehe ich Dich richtig? Ihr seid aus dem Urlaub zurückgekommen und habt festgestellt, dass die Heizung nicht funktioniert, weil der Blitz eingeschlagen hat. Dann hat sich die Versicherung den Schaden angesehen und gezahlt. Und nun ist die Waschmaschine defekt, Platine verkokelt. Du fragst nun, ob es einen technischen Zusammenhang mit dem Blitzschaden geben kann. Nun habe ich eine blöde Frage. Wenn man aus dem Urlaub kommt, wäscht man als Erstes, d.h. Dir wäre sofort aufgefallen, dass die Waschmaschine kaputt ist. Hast Du eine Erklärung dafür, dass Dir der Schaden erst jetzt auffällt? GrußPeter										
+
+
+
+Zitieren & Antworten ; Hallo, was würde die Versicherung denn zahlen, falls es ein Versicherungsfall wäre? Vermutlich die Wiederbeschaffungskosten einer vergleichbaren 20-Jahre-alten Waschmaschine. Vielleicht übernimmt die Versicherung ja den Entsorgungsaufwand.  lG Modena										
+
+
+
+Zitieren & Antworten ; Hallo,ein Gutachter lohnt sich sicher nicht. Selbst wenn ein Schaden durch Gewitter möglich wäre (was aber erst festgestellt werden muss) würdest du nur den Zeitwert ersetzt bekommen und der ist bei einer 20 Jahre alten Maschine gleich Null. Lg abra										
+
+
+
+Zitieren & Antworten ; Zitat von Gelöschter Benutzer am 22.04.2018 um 19:10 Uhr
+                    
+
+                        „Hallo Mario, verstehe ich Dich richtig? Ihr seid aus dem Urlaub zurückgekommen und habt festgestellt, dass die Heizung nicht funktioniert, weil der Blitz eingeschlagen hat. Dann hat sich die Versicherung den Schaden angesehen und gezahlt. Und nun ist die Waschmaschine defekt, Platine verkokelt. Du fragst nun, ob es einen technischen Zusammenhang mit dem Blitzschaden geben kann. Nun habe ich eine blöde Frage. Wenn man aus dem Urlaub kommt, wäscht man als Erstes, d.h. Dir wäre sofort aufgefallen, dass die Waschmaschine kaputt ist. Hast Du eine Erklärung dafür, dass Dir der Schaden erst jetzt auffällt? GrußPeter“
+                    
+  Wir hatten noch genug saubere Sachen im Schrank und deshalb fiel es erst etwas später auf. Klar habe ich de direkte Verbindung zwischen Gewitter und Schaden gezogen. Aber wie ich hier nun mehrfach gelesen habe, lohnt sich der Aufwand eh nicht mehr.										
+
+
+
+Zitieren & Antworten ; Klar habe ich de direkte Verbindung zwischen Gewitter und Schaden gezogen.  Der Grundgedanke ist ja erstmal nicht verkehrt. Aber wenn man einem Versicherungsvertreter nicht wertvolle Lebenszeit stehlen möchte (und sich selbst auch nicht), versucht man, an die Sache logisch heranzugehen. lG Modena										
+
+
+
+Zitieren & Antworten ; Zitat von Modena77 am 22.04.2018 um 20:54 Uhr
+                    
+
+                        „Klar habe ich de direkte Verbindung zwischen Gewitter und Schaden gezogen.  Der Grundgedanke ist ja erstmal nicht verkehrt. Aber wenn man einem Versicherungsvertreter nicht wertvolle Lebenszeit stehlen möchte (und sich selbst auch nicht), versucht man, an die Sache logisch heranzugehen. lG Modena“
+                    
+  Tja dann müssen wir die gute Miele wohl ersetzen.										
+
+
+
+Zitieren & Antworten ; Hallo Marino, Du hast doch ein Multimeter, vielleicht lohnt sich eine neue Platine. GrußPeter										
+
+
+
+Zitieren & Antworten ; Gibt es die denn für so alte noch?										
+
+
+
+Zitieren & Antworten

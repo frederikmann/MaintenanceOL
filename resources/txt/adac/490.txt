@@ -1,2 +1,2 @@
-Im Hersteller-Werkstattsystem (Code 0CGH) ; MÃ¶gliches AbreiÃŸen des Bremssattels vorne rechts, hervorgerufen durch einen platzenden Zylinder. Grund hierfÃ¼r ist nicht konformes Material, welches durch Unterbrechung/Aufnahme des GieÃŸvorgangs entstanden ist und nicht entsorgt wurde. Dies kann bei Vollbremsungen zu schwÃ¤cherer Bremsleistung fÃ¼hren.
-Die Aktion lÃ¤uft seit dem 10.01.2017 und ist fÃ¼r den Kunden kostenlos.
+Mögliches Abreißen des Bremssattels vorne rechts, hervorgerufen durch einen platzenden Zylinder. Grund hierfür ist nicht konformes Material, welches durch Unterbrechung/Aufnahme des Gießvorgangs entstanden ist und nicht entsorgt wurde. Dies kann bei Vollbremsungen zu schwächerer Bremsleistung führen.
+Die Aktion läuft seit dem 10.01.2017 und ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 0CGH)

@@ -7,7 +7,7 @@ sentencizer = Sentencizer(punct_chars=[char for char in string.punctuation])
 nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
 
 
-def get_oie(corpus):
+def get_oie(corpus, nk=1, w_sents=0):
     # decision logic for extracting roots and terms - for better analysis sentences are passed as well
 
     roots = []
@@ -31,17 +31,18 @@ def get_oie(corpus):
             if token.dep_ == "ng" and token.head.dep_ == "ROOT":
                 ng = token.lemma_
             if token.pos_ == "NOUN":
-                t.add(token.text)
+                t.add(token.lemma_)
             if token.pos_ == "PROPN":
-                t.add(token.text)
+                t.add(token.lemma_)
 
-        for chunk in sent.noun_chunks:
-            c = []
-            for token in chunk:
-                if not token.is_stop and not token.pos_ == "DET":
-                    c.append(token.text)
-            if len(c)>1:
-                t.add(" ".join(c))
+        if nk == 1:
+            for chunk in sent.noun_chunks:
+                c = []
+                for token in chunk:
+                    if not token.is_stop and not token.pos_ == "DET":
+                        c.append(token.lemma_)
+                if len(c) > 1:
+                    t.add(" ".join(c))
 
         # get roots / predicate depending on sentence structure
         r = []
@@ -49,7 +50,7 @@ def get_oie(corpus):
             r.append(ng)
         if sent.root.pos_ == "AUX" and pd:
             r.append(pd)
-        if sent.root.pos_ == "AUX" and oc:
+        elif sent.root.pos_ == "AUX" and oc:
             r.append(oc)
         else:
             r.append(sent.root.lemma_)
@@ -57,10 +58,13 @@ def get_oie(corpus):
         roots.append(' '.join(r))
         terms.append(t)
 
-    return roots, terms, sents
+    if w_sents:
+        return roots, terms, sents
+    else:
+        return roots, terms
 
 
-def get_terms(corpus):
+def get_terms(corpus, nk=1):
 
     terms = []
 
@@ -70,12 +74,13 @@ def get_terms(corpus):
         if token.pos_ in ["NOUN", "PROPN"] and not token.is_stop:
             terms.append(token.lemma_)
 
-    for chunk in doc.noun_chunks:
-        c = []
-        for token in chunk:
-            if not token.is_stop and not token.pos_ == "DET":
-                c.append(token.text)
-        if len(c) > 1:
-            terms.append(" ".join(c))
+    if nk == 1:
+        for chunk in doc.noun_chunks:
+            c = []
+            for token in chunk:
+                if not token.is_stop and not token.pos_ == "DET":
+                    c.append(token.text)
+            if len(c) > 1:
+                terms.append(" ".join(c))
 
     return terms

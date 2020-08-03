@@ -1,0 +1,7 @@
+Eintragung im Fahrzeugdiagnosesystem des Herstellers.  ; In der zentralen Softwarebereitstellung für die Serviceorganisation "Zentrale Business Logik" sowie "Dialog"  wurde Servicesoftware mit falscher Kalibrierungsnummer für das Steuergerät (SNC-Codierung) versehen.
+Die falschen SNC-Codierungen können Auswirkungen auf auf die Steuerung der Motorabschaltung imCrashfall, die Onboard-Diagnose und das Tank- und Tachosignal haben.
+Der kostenlose Softwareupdate dauert etwa eine halbe Stunde.
+ ; Vermerk im internen Mercedes-Benz-Werkstattsystem. ; Wegen möglicher Risse im Kolben kann es zum Motorschaden kommen. Dabei kann dann auch Motoröl auf heisse Bauteile gelangen. 
+Der Händler spielen eine modifizierte Motorsteuergeräte-Software auf, so dass auch bei hohen Lastzuständen die Spitzenbrennraumdrücke reduziert werden.
+Die Aktion ist für die Kunden kostenlos und dauert etwa eine halbe Stunde.
+ 

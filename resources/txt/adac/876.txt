@@ -1,5 +1,5 @@
-Ein Polsterelement unter dem Armaturenbrett Fahrerseite (Knieschutz) kann sich lÃ¶sen. Es wird ein mit Haken versehenes Polster eingehÃ¤ngt. ; im Datenbestand des Importeurs ; Originaltext Importeur: ...Es besteht die geringe Wahrscheinlichkeit
-einer Fehlfunktion, die bei einem Crashtest mit Frontalaufprall
-auftrat. Bei diesem Test wurde ein Kabel des Airbagsystems von einer Halterung durchgescheuert. Dieser Umstand fÃ¼hrte mÃ¶glicherweise dazu, dass der Airbag spÃ¤ter als vorgesehen aufgeblasen wurde. Das verzÃ¶gerte Aufblasen von Airbags kann die Verletzungsgefahr fÃ¼r die vorderen Insassen in bestimmten Unfallsituationen erhÃ¶hen.
-
-Instandsetzung: Der Airbag-Kabelstrang neben der Halterung des Druckschlauchs der Servolenkung muss mit einer Schutzabdeckung versehen werden. ; nur im Datenbestand
+Ein Polsterelement unter dem Armaturenbrett Fahrerseite (Knieschutz) kann sich lösen. Es wird ein mit Haken versehenes Polster eingehängt. ; nur im Datenbestand ; Originaltext Importeur: ...Es besteht die geringe Wahrscheinlichkeit
+einer Fehlfunktion, die bei einem Crashtest mit Frontalaufprall
+auftrat. Bei diesem Test wurde ein Kabel des Airbagsystems von einer Halterung durchgescheuert. Dieser Umstand führte möglicherweise dazu, dass der Airbag später als vorgesehen aufgeblasen wurde. Das verzögerte Aufblasen von Airbags kann die Verletzungsgefahr für die vorderen Insassen in bestimmten Unfallsituationen erhöhen.
+
+Instandsetzung: Der Airbag-Kabelstrang neben der Halterung des Druckschlauchs der Servolenkung muss mit einer Schutzabdeckung versehen werden. ; im Datenbestand des Importeurs

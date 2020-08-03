@@ -1,0 +1,3 @@
+Vermerk des Aktionscodes "R71" im Herstellersystem.  ; An der Verkabelung der Schminkspiegelleuchte kann es zum Ausfall und Kurzschluß mit Brandgefahr kommen. Die Gefahr besteht laut Hersteller in erster Linie dann, wenn im Bereich des Dachhimmels bzw. Schminkspiegel gearbeitet wurde. 
+Die Händler überprüfen die Verkabelung des Schminkspiegels/Sonnenblende. Beschädigte Kabel und Sonnenblenden müssen getauscht, das Durchführblech modifiziert und Kabelführungen als Scheuerschutz eingesetzt werden.  
+Die Aktion wurde im Okt.2016 gestartet, dauert knapp drei Stunden und ist für die Kunden kostenlos.

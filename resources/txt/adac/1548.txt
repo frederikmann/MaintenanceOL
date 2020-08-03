@@ -1,8 +1,8 @@
-Ein verstopfter EntlÃ¼ftungsschlauch am Ausgleichsgetriebe der Hinterachse fÃ¼hrt zur Verunreinigung und damit schnelleren Alterung der HA-GetriebeÃ¶ls.
-In Folge kÃ¶nnen dadurch die Kupplungslamellen der Lamellenkupplung vorzeitig verschleiÃŸen. 
-Die HÃ¤ndler tauschen den EntlÃ¼ftungsschlauch nach vorheriger PrÃ¼fung.
-Die Aktion ist kostenlos und dauert etwa eine halbe Stunde. ; Wegen eines Softwarefehlers im MotorsteuergerÃ¤t kann es bei den genannten Motorisierungen zum Motorruckeln, GerÃ¤usche an der Abgasanlage und in ungÃ¼nstigen FÃ¤llen, lt. Hersteller, auch zur Ãœberhitzung des Dieselpartikelfilters (DPF) kommen. Die betroffenen Fahrzeuge erhalten ein Softwareupdate des MotorsteuergerÃ¤tes.
-Die Aktion lÃ¤uft seit 47.kW 2009, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Ein Softwarefehler im MotorsteuergerÃ¤t kann zu Leistungsabfall und im ungÃ¼nstigsten Fall auch zu MotorschÃ¤den fÃ¼hren. 
-Lt. Hersteller wird die StÃ¶rung auch von der Motorkontrollleuchte angezeigt. 
-Die HÃ¤ndler aktualisieren den Softwarestand des MotorsteuergerÃ¤tes. 
-Die Aktion lÃ¤uft ab Juli 2013, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; GrÃ¼ner Lackpunkt am GehÃ¤use des Motorsteuer-gerÃ¤tes. ; Aktueller Softwarestand im MotorsteuergerÃ¤t aufgespielt. ; Silberner Farbpunkt auf dem Scharnier der Tankklappe.
+Ein verstopfter Entlüftungsschlauch am Ausgleichsgetriebe der Hinterachse führt zur Verunreinigung und damit schnelleren Alterung der HA-Getriebeöls.
+In Folge können dadurch die Kupplungslamellen der Lamellenkupplung vorzeitig verschleißen. 
+Die Händler tauschen den Entlüftungsschlauch nach vorheriger Prüfung.
+Die Aktion ist kostenlos und dauert etwa eine halbe Stunde. ; Wegen eines Softwarefehlers im Motorsteuergerät kann es bei den genannten Motorisierungen zum Motorruckeln, Geräusche an der Abgasanlage und in ungünstigen Fällen, lt. Hersteller, auch zur Überhitzung des Dieselpartikelfilters (DPF) kommen. Die betroffenen Fahrzeuge erhalten ein Softwareupdate des Motorsteuergerätes.
+Die Aktion läuft seit 47.kW 2009, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Silberner Farbpunkt auf dem Scharnier der Tankklappe. ; Grüner Lackpunkt am Gehäuse des Motorsteuer-gerätes. ; Ein Softwarefehler im Motorsteuergerät kann zu Leistungsabfall und im ungünstigsten Fall auch zu Motorschäden führen. 
+Lt. Hersteller wird die Störung auch von der Motorkontrollleuchte angezeigt. 
+Die Händler aktualisieren den Softwarestand des Motorsteuergerätes. 
+Die Aktion läuft ab Juli 2013, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Aktueller Softwarestand im Motorsteuergerät aufgespielt.

@@ -1,0 +1,3 @@
+Die scharfkantigen Enden der Haltefedern des Fahrerairbag-Moduls können die Verkabelung des Lenkradkabelsatzes anscheuern und dabei einen Kurzschluss und/oder ein unbeabsichtigtes Auslösen des Fahrerairbags verursachen. Je nach Fahrsituation kann daraus auch ein Unfall bzw. erhöhtes Verletzungsrisiko entstehen. 
+Die Händler überprüfen den Kabelsatz auf richtige Positionierung und Befestigung und korrigieren das ggf. Zudem werden die Enden der Airbag-Haltefedern mit Schutzkappen versehen. Bei Vorschädigung wird der kpl. Kabelsatz erneuert.  
+Die Aktion wurde im Dez.2015 gestartet, dauert etwa zweieinhalb Stunden und ist für die Kunden kostenlos. ; Im FCA-Diagnosesystem ist der Eintrag des  Aktionscodes "R36" vermerkt.

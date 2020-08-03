@@ -1,0 +1,61 @@
+Hallo an alle, wir haben dieses Jahr eine Wohnung gekauft mit Nachtspeicherheizung. Der Vorbesitzer hat uns die Bedienung erklärt und wir dachten auch, dass wir alles verstanden hätten. Bis jetzt hat sie auch ganz toll funktioniert. Als die Tage so kühl waren, hat sie in der Nacht schön aufgeheizt und tagsüber hatten wir angenehme Temperaturen. Nur als es jetzt so warm wurde, wollten wir sie wieder abstellen. Aber obwohl wir den Temperaturenregler auf Null stellten, hat sie weiter geheizt....und das nicht nur einen Tag, sondern weitere 5 Tage. Wir haben jetzt gestern die Sicherung rausgedreht (es war wirklich sehr sehr warm in dem Raum... ) und jetzt wird es langsam angenehm. Aber das kann es ja nicht sein...Wisst ihr woran das liegen kann ?? Ich wollte schon den Elektriker anrufen, dachte aber, erst mal hören, war ihr dazu sagen könnt. Vielleicht ist es ja was ganz einfaches und ich weiss es nur nicht, weil wir vorher noch nie Nachtspeicherheizung hatten. Danke schonmal und LGKatie										
+
+
+
+Zitieren & Antworten ; Hallo Katie!  Wir haben auch Nachtspeicheröfen. Noch. Nächstes Jahr bauen wir um und dann werden die Öfen das erste sein, was raus kommt. Die sind eigentlich zu teuer. So viel dazu  Nun zu eurem Problem:An den Nachtspeicheröfen selbst ist ein Drehschalter, wo die Stufe eingestellt werden kann. höchste Stufe: voll aufladen und wärmenniedrigste Stufe: nicht laden, Heizung ist kalt. Wenn du diesen Drehschalter auf \"0\" stellst, sollte die Heizung also wirklich nicht laden. Sollte dies doch der Fall sein, dann könnt ihr 1. an dem Schalter, an dem das Heizgebläse gestartet wird, einen weiteren Knopf betätigen. Dadurch wird der jeweilige Heizkörper ebenfalls nochmals komplett ausgeschaltet. Solltet ihr diesen Schalter nicht haben, scheint es eine sehr alte Heizung zu sein. Oder 2. ist anzunehmen, dass eure Heizung kaputt ist. Dann sollte ihr euch mal mit dem Vermieter in Verbindung setzen bezüglich der Kostenübernahme etc. Oh je. Ich hoffe, ich habe es verständlich beschreiben. Ansonsten nochmal nachfragen  Grüße										
+
+
+
+Zitieren & Antworten ; Hallo Tallo, ich dache, ich würde alles über den Temperaturregler einstellen, der an der Wand angebracht ist. Und ich bin mir auch sicher, dass wir an den Heizungen keinen Knopf gedrückt haben, der das ganze gestartet hätte. Ich merke schon, ich komme um den Elektriker nicht herum. Aber danke für Deine Mühe. LGKatie										
+
+
+
+Zitieren & Antworten ; Nein, der Temperaturregler an der Wand startet das Gebläse. Damit die Heizung sich aufläd muss der Schalter (zum drehen) an der Heizung betätigt werden. Gucke doch einfach, ob ihr sowas an der Heizung habt. Dann dreht den herunter. und den an der Wand auch. Dann sollte weder die Heizung laden, noch sollte das Gebläse angehen.										
+
+
+
+Zitieren & Antworten ; Hallo, es gibt noch eine 3. Möglichkeit: Im Sicherungskasten ist eine Zeitschaltuhr, mit der man die Anzahl der Ladestunden während der Nacht einstellen kann. (bei mir jedenfalls). Also: 3 Stunden in der Übergangszeit, 5 Stunden Normalkalt, 7 Stunden Sibirien, usw.) Wenn man diese Zeit auf null stellt, ist die Heizung komplett aus.  Für den Sommer hatte ich sicherheitshalber beides angewandt: Tallos Methode und meine. Freundliche Grüsse Kochminister    
+
+
+
+Zitieren & Antworten ; Hallo, Katie!  Sorry, ihr scheint das Prinzip einer Speicherheizung nicht verstanden zu haben! Die Wärme wird g e s p e i c h e r t .  In dem Heizkörper befinden sich Schamottsteine (deshalb sind die Geräte auch so s.....chrecklich schwer!!!), die die Wärme während der Aufladezeiten speichern und nach und nach angeben. Ob ihr\'s nun wollt oder nicht! Es nutzt euch nix, wenn ihr die Heizköprer ausschaltet - die gespeicherte Wärme ist nun mal vorhanden und  wird abgegeben. Deshalb ist das Heizen auf diese Art in den Übergangszeiten ja so irre schwierig: entweder frierste oder du schwitzt.Da hilft nur: Wettervorhersage beobachten und entsprechend agieren. GrußBrigitte     
+
+
+
+Zitieren & Antworten ; Hallo Brigitte, das war ja auch mein erster Gedanke. Die Geräte sind zwar abgeschaltet, geben aber die noch gespeicherte Wärme ab. Aber das wir Dienstags abschalten und Sonntags heizt das Teil immer noch ?? Und Du hast recht - so richtig habe ich das Prinzip der Nachtspeicherheizung nicht verstanden. Ich dachte, solange der Temperaturregler auf Null steht, passiert auch nix. Und wenn ich die Temperatur abends einstelle, dann heizt es in der Nacht auf und gibt die Wärme tagsüber ab - und zwar so, dass die von mir gewünschte Temperatur erreicht wird. Dann stellt es sich wieder ab und wenn es drunter geht, heizt es erneut. So hab ich es mir vorgestellt..muss ja nicht stimmen. Wie gesagt, ich habe null Ahnung. Leider haben wir es versäumt, die Vorbesitzer zu fragen (sah ja auch alles so easy aus).Aber definitiv haben wir keine Zeitschaltuhr und auch keine Knöpfe an der Heizung (obwohl ich mir da jetzt auch unsicher geworden bin und heute abend noch mal nachschaue.. ). Danke auf jeden Fall für die Info Grü0leKatie										
+
+
+
+Zitieren & Antworten ; Katie, ihr habt \'ne Zeitschaltuhr am Zähler! Ihr müsstet eine  Zähler für den sonstigen Strom im Haus(halt) haben und einen zweiten, der, getrennt nach Hochtarif (HT) und Niedrigtarif (NT), für die Heizung gilt.Darain befindet sich eine Schaltuhr, die ihr aber nur von dem Energieversorgungsunternehmen eingestellt werden darf. Im Sicherungskasten befindet sich auch ein Hauptschalter für die gesamte Heizung.Den kannst du im Sonner auf \"Aus\" stellen, ohne dass du die Schalten an den einzelnen Heizkörpen verstellen muss.Es wird dann nicht aufgeladen. An den Heizkörpern selbst ist ein Regler, der die Höhe der Aufladung bestimmt. An manchen Modellen stehen Zahlen. Hier kannst du individuell die Aufladung für die einzelnen Räume regeln. Der Schalter an der Wand ist für den Lüfter der Heizung, die sich im entsprechenden Raum befindet.Ist er eingeschaltet, wird warme Luft in den Raum geblasen, bis die eingestellte Temperatur erreicht ist. Dann schaltet der Lüfter ab und ggf. später wieder an, wenn die Raumwärme gesunken ist.   Der Nachteil der Speicherheizung ist halt, dass sie schrecklich träge zu regulieren ist.  Deshalb habe ich im Bad einen Konvektor. Der arbeitet zwar mit dem teurern Haushaltsstrom, aber ich habe in der Frühe ruckzuck den Raum warm. Als sehr nachteilig empfinge ich Nachtspeicherheizungen im Kinderzimmer.Das ist nun mal ein Raum, in dem geschlafen und sich tagsüber aufgehalten wird. Also wird nachts die Heizung aufgeladen.....Fenster ist gekippt, damit frische Luft zum Schlaf in den Raum dringen kann.Heißt: im Winter wird der Garten geheizt! (Oleander an die Hauswand schieben!!!!!)  Hab\' ich noch was vergessen?  GrußBrigitte   
+
+
+
+Zitieren & Antworten ; Bitte, die kleinen div. Tippfehlerchen zu übersehen!  
+
+
+
+Zitieren & Antworten ; Okay Brigitte, ich mach mich heute abend mal auf die Suche nach all den Schaltern...aber eines weiss ich definitiv: Wir haben keinen separaten Zähler für die Heizung. Wir wurden nämlich extra vom Stromversorger darauf hingewiesen, dass wir die Wasch-und Geschirrspülmaschine am besten nach 22.00 Uhr einschalten sollten, weil da liefe es auf den günstigen NT. Drückt mir die Daumen, dass ich alles finde. Vielen Dank noch einmalKatie P.S. Du hast mir so viel erklärt - da wirst Du ja wohl das eine oder andere Tippfehlerchen machen dürfen. Gesehen habe ich sowieso keines...  
+
+
+
+Zitieren & Antworten ; Kann ja auchnochmal sagen wie wir damit umgehen.Also wie hier schon gesagt wurde muss natürlich der Timer eingestellt werden von wann bis wann die Heizungen geladen werden sollen.Irgendwo müsst ihr sowas auch haben.Wir benutzen das Gebläse garnicht.Ausser es kommen sibirische Zustände.Ich stelle zuerst an den Heizungen alle auf 1(an der Heizung einstellbar)Wenn das dann nicht mehr reicht stelle ich stück für stück die Heizungen auf 2 und im tiefsten Winter halt auf 3.Das Gebläse benutzen wir nicht da die Heizungen ja am tag so oder so die Wärme abgeben und durch das Gebläse verbrauchen sie ja sehr schnell die gespeicherte Energie.Und das bedeutet ja auch wieder höhere Kosten wenn mehr geladen werden muss.Wichtig ist das man die Heizungen halt nicht mehr ausstellt weil man meint heute ist es mal ein wenig zu warm denn wenn sie 2 tage aussind müssen sie ja wieder vollkommen neu geladen werden und das verbraucht ja wieder viel Strom bzw Geld.Wenn es natürlich auch bei auf 3 gestellte Heizungen nicht warm genug wird dann kommt man um das Gebläse ja nicht drumherum aber haben wir zum Glück noch nicht gebrauchen müssen da das Haus gut isoliert ist.Aber auf 3 kochen die Heizungen schon fast da kann mann dann auch nix mehr raufstellen da es sonst verköselt.MfGCarp										
+
+
+
+Zitieren & Antworten ; @ Brigitte 1. Posting  > Sorry, ihr scheint das Prinzip einer Speicherheizung nicht verstanden zu haben!  Ich glaube, du hattest die Eingangsfrage nicht verstanden. Es ging darum, wie man die Heizung ausschalten kann. Und nicht darum, wie sie funktioniert.  @ Brigitte 2. Posting  > Darain befindet sich eine Schaltuhr, die ihr aber nur von dem Energieversorgungsunternehmen eingestellt werden darf.  Mein Energieversorger hat mich sogar ausdrücklich darauf hingewiesen, die Uhr je nach Jahreszeit zu verstellen.  Die Tippfehler habe ich übersehen   Freundliche Grüsse Kochminister  
+
+
+
+Zitieren & Antworten ; Hallo zusammen, nun krame ich diesen alten Thread wieder nach oben. Wir sind auch neu in eine Wohnung mit Nachtspeicherheizung gezogen.Vielleicht könnt ihr mir helfen, ich möchte mich wegen der Bedienung nochmal vergewissern. 1. Der Regler an der Wand ist nur für den Lüfter, d.h. ich kann ihn auch AUSSCHALTEN und die Heizung speichert trotzdem?2. An der Heizung stelle ich abends den Regler auf die gewünschte Stufe, dann speichert die Heizung und ich muss dann nichts mehr tun? Gibt sie dann automatisch die Wärme am Tag ab?3. Lasse ich dann die Heizung einfach immer auf der gewünschten Stufe stehen und es funktioniert alles automatisch? D.h. nachts speichern, tagsüber heizen?4. Wie kann ich die Heizung komplett abschalten? Indem ich sie eifnach auf Stufe 0 Stelle?5. Wann wird denn der Strom überhaupt gezogen? Eigentlich nur nachts, wenn sie speichert, oder? Tagsüber kostet mich das keinen Strom, oder? Sorry für die vielen Fragen. Vielleicht habt ihr auch noch Tipps, wie man die Kosten so gering wie möglich halten kann. Vielen, vielen, vielen Dank!!!    Gruß Trinity										
+
+
+
+Zitieren & Antworten ; Hallo Trinity, wann eine Nachtspeicherheizung lädt, erfährst Du bei Deinem Stromversorger!Bei uns speichert sie auch am Tag, deshalb haben wir uns eine Zeitschaltuhr einbauen lassen, daß sie nur zu dem billigeren Nachttarif lädt! Das ist eine enorme Ersparniss, ich spare im Gegensatz zu unseren Nachbarn gut 50% der Kosten! LGmurri P.S.: Du darfst mir gerne eine KM schreiben, falls Du noch Fragen hast!  
+
+
+
+Zitieren & Antworten ; Hallo zusammen, da es vom Thema ganz gut passt, schreibe ich einfach in diesem aelteren Post weiter. Ich habe ebenfalls eine Wohnung/Ferienapartment mit Nachtspeicherheizung gekauft. Der Wohnraum ist gleichzeitig auch Schlafraum, und ich bin auf der Suche nach einer Loesung, dass die Heizung nachts keine Waerme abgibt.Bislang dachte ich, das sei ueber den Regler an der Wand zu schaffen, aber lt. Euren vorigen Beitraegen ist dieser ja nur fuer die Lueftung. Ist es tatsaechlich so, dass die Waermeabgabe nicht gestoppt werden kann nachts? Das Raedchen am Heizkoerper selbst habe ich immer so zwichen 1 und 2 gestellt, das hat bislang gut funktioniert. Ich habe tagsueber um die 20 Grad in der Wohnung. Aber nachts eben auch nicht viel weniger.... Hat jemand einen Tipp? Danke vorab und viele Gruesse,Lyn										
+
+
+
+Zitieren & Antworten

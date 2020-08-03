@@ -1,3 +1,3 @@
-Bei dem oben genannten Modell kÃ¶nnte es aufgrund einer mÃ¶glichen NichtkonformitÃ¤t im Produktionsprozess der Lenkgetriebe zur Bildung von MikrobrÃ¼chen im Bauteil gekommen sein. Deshalb mÃ¼ssen diese Ã¼berprÃ¼ft und eventuell ausgetauscht werden.
-Die Aktion ist fÃ¼r die Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 6114) ; Aufgrund einer potenziellen NichtkonformitÃ¤t hinsichtlich der ZÃ¼ndung der Sprengladung, muss das Airbag-Modul an der Fahrerseite ausgetauscht werden. 
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; Aufgrund einer potenziellen Nichtkonformität hinsichtlich der Zündung der Sprengladung, muss das Airbag-Modul an der Fahrerseite ausgetauscht werden. 
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 6114) ; Bei dem oben genannten Modell könnte es aufgrund einer möglichen Nichtkonformität im Produktionsprozess der Lenkgetriebe zur Bildung von Mikrobrüchen im Bauteil gekommen sein. Deshalb müssen diese überprüft und eventuell ausgetauscht werden.
+Die Aktion ist für die Kunden kostenlos.

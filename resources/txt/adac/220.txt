@@ -1,7 +1,7 @@
-Bei den Fahrzeugen kann ein Totalausfall der Elektrik auftreten. Dies wÃ¼rde im Schadensfall auch den Motor lahmlegen. Abhilfe: Die Vertragswerkstatt ersetzt daher den Steckkontakt an der Batterieplusleitung durch ein Reparaturkabel mit verbessertem Stecker. ; Im HÃ¤ndlersystem hinterlegt. ; Wegen mÃ¶glicher Softwareprobleme der Motorsteuerung kann es zu Startproblemen bzw. LeistungseinbuÃŸen kommen. In extremeren FÃ¤llen kann auch der Tausch der Hochdruckeinspritzpumpe erforderlich sein. 
-In Deutschland scheint es, lt. Hersteller nur vereinzelte FÃ¤lle zu geben.
-Es wird ein Motorsoftwareupdate durchgefÃ¼hrt und ggf die Hochdruckeinspritzpumpe getauscht. Wann ein Tausch fÃ¤llig ist, hat uns der Hersteller allerdings nicht mitgeteilt. 
-Auch bei betroffenen, reimportierten Fahrzeugen aus Ãœbersee kÃ¶nnen die HÃ¤ndler auch hier prÃ¼fen und die erforderlichen MaÃŸnahmen durchfÃ¼hren. 
-Die Aktion lÃ¤uft seit Okt. 2010 und ist fÃ¼r die Kunden kostenlos. ; Eintragung im Fahrzeugdiagnosesystem des Herstellers.  ; Durch einen Softwarefehler kann es bei starker VerzÃ¶gerung und kaltem Motor zu einer Fehlsteuerung des Doppelkupplungsgetriebes (beide Kupplungen gleichzeitig offen) kommen.
-Der Motor stirbt dann ab.
-Die betroffenen Fahrzeuge erhalten einen kostenlosen Softwareupdate der Motor- und Getriebesteuerung. ; Im Hersteller-Werkstattsystem
+Bei den Fahrzeugen kann ein Totalausfall der Elektrik auftreten. Dies würde im Schadensfall auch den Motor lahmlegen. Abhilfe: Die Vertragswerkstatt ersetzt daher den Steckkontakt an der Batterieplusleitung durch ein Reparaturkabel mit verbessertem Stecker. ; Im Hersteller-Werkstattsystem ; Eintragung im Fahrzeugdiagnosesystem des Herstellers.  ; Wegen möglicher Softwareprobleme der Motorsteuerung kann es zu Startproblemen bzw. Leistungseinbußen kommen. In extremeren Fällen kann auch der Tausch der Hochdruckeinspritzpumpe erforderlich sein. 
+In Deutschland scheint es, lt. Hersteller nur vereinzelte Fälle zu geben.
+Es wird ein Motorsoftwareupdate durchgeführt und ggf die Hochdruckeinspritzpumpe getauscht. Wann ein Tausch fällig ist, hat uns der Hersteller allerdings nicht mitgeteilt. 
+Auch bei betroffenen, reimportierten Fahrzeugen aus Übersee können die Händler auch hier prüfen und die erforderlichen Maßnahmen durchführen. 
+Die Aktion läuft seit Okt. 2010 und ist für die Kunden kostenlos. ; Im Händlersystem hinterlegt. ; Durch einen Softwarefehler kann es bei starker Verzögerung und kaltem Motor zu einer Fehlsteuerung des Doppelkupplungsgetriebes (beide Kupplungen gleichzeitig offen) kommen.
+Der Motor stirbt dann ab.
+Die betroffenen Fahrzeuge erhalten einen kostenlosen Softwareupdate der Motor- und Getriebesteuerung.

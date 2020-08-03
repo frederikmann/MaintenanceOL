@@ -1,2 +1,2 @@
-Im Hersteller-Werkstattsystem (Code 71C118) ; Betroffene Fahrzeuge lassen sich bei nicht getretener Kupplung und eingelegtem Gang starten. Hierdurch besteht fÃ¼r den Fahrer und Dritte ein Verletzungsrisiko. Der Hersteller ruft betroffene Fahrzeuge daher in die Werkstatt, um den Kupplungsschalter zu tauschen. 
-Die Aktion lÃ¤uft seit dem 17.01.2018 und ist fÃ¼r den Kunden kostenlos.
+Betroffene Fahrzeuge lassen sich bei nicht getretener Kupplung und eingelegtem Gang starten. Hierdurch besteht für den Fahrer und Dritte ein Verletzungsrisiko. Der Hersteller ruft betroffene Fahrzeuge daher in die Werkstatt, um den Kupplungsschalter zu tauschen. 
+Die Aktion läuft seit dem 17.01.2018 und ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 71C118)

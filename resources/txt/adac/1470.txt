@@ -1,2 +1,2 @@
-keine Angaben ; Wegen Kontaktproblemen der Batterieplusklemme kann es Startproblemen und auch plÃ¶tzlichem Ausgehen des Motors kommen.
-Abhilfe: Austausch der Batterieplusklemme
+Wegen Kontaktproblemen der Batterieplusklemme kann es Startproblemen und auch plötzlichem Ausgehen des Motors kommen.
+Abhilfe: Austausch der Batterieplusklemme ; keine Angaben

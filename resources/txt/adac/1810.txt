@@ -1,4 +1,4 @@
-Durch einen L√∂tstellenfehler auf der Platine des Steuerger√§tes kann die Lenkhilfewirkung beim Fahren ausfallen und es dann zu Fahrproblemen kommen. Dies wird gleichzeitig durch das Aufleuchten der STOP-Warnlampe in der Instrumententafel angezeigt.
-Die H√§ndler tauschen das Lenkhilfe-Steuerger√§t  aus. ; Die Sicherungsmutter der Verbindungsschraube zwischen Lenkspindel und Lenkgetriebeeingang kann sich l√∂sen. Dadurch kann es zum Ausfall der Lenkung kommen. 
-Die H√§ndler bringen einen zus√§tzlichen Halteflansch an die √úberwurfmutter der Verbindung an, um eine dauerhafte Sicherung zu gew√§hrleisten. 
-Die Aktion wurde im November gestartet und dauert   etwa eine halbe Stunde.   ; Aufkleber ("C1") am rechten, vorderen Sto√üd√§mpfer. ; Kontrollaufkleber im Motorraum mit Vermerk "B6".
+Aufkleber ("C1") am rechten, vorderen Stoﬂd‰mpfer. ; Die Sicherungsmutter der Verbindungsschraube zwischen Lenkspindel und Lenkgetriebeeingang kann sich lˆsen. Dadurch kann es zum Ausfall der Lenkung kommen. 
+Die H‰ndler bringen einen zus‰tzlichen Halteflansch an die ‹berwurfmutter der Verbindung an, um eine dauerhafte Sicherung zu gew‰hrleisten. 
+Die Aktion wurde im November gestartet und dauert   etwa eine halbe Stunde.   ; Durch einen Lˆtstellenfehler auf der Platine des Steuerger‰tes kann die Lenkhilfewirkung beim Fahren ausfallen und es dann zu Fahrproblemen kommen. Dies wird gleichzeitig durch das Aufleuchten der STOP-Warnlampe in der Instrumententafel angezeigt.
+Die H‰ndler tauschen das Lenkhilfe-Steuerger‰t  aus. ; Kontrollaufkleber im Motorraum mit Vermerk "B6".

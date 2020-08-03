@@ -1,2 +1,2 @@
-Eintrag im elektron. Wartungsnachweis. ; Wegen unzureichender Abdichtung des ServosteuergerÃ¤tes kann es zum Ausfall der LenkkraftunterstÃ¼tzung kommen. Dies fÃ¼hrt zu erhÃ¶hten LenkkrÃ¤ften.
-Die HÃ¤ndler dichten das SteuergerÃ¤t zusÃ¤tzlich ab. Die Aktion lÃ¤uft seit April und dauert in der Werkstatt bei kostenloser DurchfÃ¼hrung etwa 2,5 Stunden.
+Eintrag im elektron. Wartungsnachweis. ; Wegen unzureichender Abdichtung des Servosteuergerätes kann es zum Ausfall der Lenkkraftunterstützung kommen. Dies führt zu erhöhten Lenkkräften.
+Die Händler dichten das Steuergerät zusätzlich ab. Die Aktion läuft seit April und dauert in der Werkstatt bei kostenloser Durchführung etwa 2,5 Stunden.

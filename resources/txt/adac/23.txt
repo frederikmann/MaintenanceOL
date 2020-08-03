@@ -1,2 +1,2 @@
-Erkennungsmerkmal ist eine Unterdruckpumpe, die im Motorraum in Fahrtrichtung vor der Batterie verbaut wird ; Zu geringe BremskraftunterstÃ¼tzung bei kaltem Motor in HÃ¶hen von 1000 Meter Ã¼ber N.N. Dadurch bedingt kann ein grÃ¶ÃŸerer Kraftaufwand zur BetÃ¤tigung der Bremse nÃ¶tig werden. 
-Abhilfe ist der Einbau einer elektrischen Unterdruckpumpe; Dauer etwa 1.20 Std. (Linkslenker) oder 1.80 Std. (Rechtslenker) 
+Zu geringe Bremskraftunterstützung bei kaltem Motor in Höhen von 1000 Meter über N.N. Dadurch bedingt kann ein größerer Kraftaufwand zur Betätigung der Bremse nötig werden. 
+Abhilfe ist der Einbau einer elektrischen Unterdruckpumpe; Dauer etwa 1.20 Std. (Linkslenker) oder 1.80 Std. (Rechtslenker)  ; Erkennungsmerkmal ist eine Unterdruckpumpe, die im Motorraum in Fahrtrichtung vor der Batterie verbaut wird

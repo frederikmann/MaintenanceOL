@@ -1,0 +1,1 @@
+noch nicht bekannt ; Durch einen Fehler innerhalb des Sensors könnten fehlerhafte Signale an das ESP-Steuergerät geliefert werden. Unregelmäßige und unerwartete Eingriffe in das Bremssystem könnten die Folge sein. Betroffene Sensoren werden kostenlos ersetzt.

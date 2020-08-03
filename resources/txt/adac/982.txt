@@ -1,7 +1,7 @@
-Wegen eines Softwarefehlers zur Steuerung des TÃ¼rschloÃŸmoduls, kann es zu verschiedenen StÃ¶rungen kommen.
-Die FahrzeugtÃ¼r lÃ¤sst sich nicht verriegeln. Geschlossene TÃ¼ren lassen sich nicht verriegeln. Nicht verriegelte TÃ¼ren kÃ¶nnen sich unter UmstÃ¤nden wÃ¤hrend der Fahrt Ã¶ffnen.
-Die HÃ¤ndler fÃ¼hren einen Software-Update fÃ¼r das  TÃ¼rschlossmodul durch.
-Die Aktion startet im Aug. 2015, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. ; Im Jaguar LandRover-Werkstatt-System unter Aktionscode PO68 vermerkt. ; im Jaguar LandRover-Werkstatt-System unter Aktionscode PO54 vermerkt. ; Die vorderen BremsschlÃ¤uche kÃ¶nnen Risse aufweisen. Dadurch kann BremsflÃ¼ssigkeit aus den Bremsleitungen austreten und die Bremsleistung verringert sich; schlimmstenfalls bis zum Ausfall des vorderen Bremskreises.
-Dann besteht unmittelbare Unfallgefahr.
-Die HÃ¤ndler tauschen die vorderen BremsschlÃ¤uche bei den betroffenen Fahrzeugen aus.
-Die Aktion startet im Aug.2015, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. 
+Im Jaguar LandRover-Werkstatt-System unter Aktionscode PO68 vermerkt. ; im Jaguar LandRover-Werkstatt-System unter Aktionscode PO54 vermerkt. ; Die vorderen Bremsschläuche können Risse aufweisen. Dadurch kann Bremsflüssigkeit aus den Bremsleitungen austreten und die Bremsleistung verringert sich; schlimmstenfalls bis zum Ausfall des vorderen Bremskreises.
+Dann besteht unmittelbare Unfallgefahr.
+Die Händler tauschen die vorderen Bremsschläuche bei den betroffenen Fahrzeugen aus.
+Die Aktion startet im Aug.2015, dauert etwa eine Stunde und ist für die Kunden kostenlos.  ; Wegen eines Softwarefehlers zur Steuerung des Türschloßmoduls, kann es zu verschiedenen Störungen kommen.
+Die Fahrzeugtür lässt sich nicht verriegeln. Geschlossene Türen lassen sich nicht verriegeln. Nicht verriegelte Türen können sich unter Umständen während der Fahrt öffnen.
+Die Händler führen einen Software-Update für das  Türschlossmodul durch.
+Die Aktion startet im Aug. 2015, dauert etwa eine Stunde und ist für die Kunden kostenlos.

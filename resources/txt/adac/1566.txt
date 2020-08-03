@@ -1,2 +1,2 @@
-WeiÃŸer Farbpunkt am ABS-SteuergerÃ¤t ; Bei Bremsung im ABS-Regelbereich kann es zum VerhÃ¤rten des Bremspedales wegen RÃ¼ckwirkung der elektron. Bremsverteilung (System reduziert Bremsdruck an HA zur Fahrzeugstabilisierung) kommen.
-Die Werkstatt ersetzt kostenlos das ABS-SteuergerÃ¤t gegen eine modifizierte Version.
+Weißer Farbpunkt am ABS-Steuergerät ; Bei Bremsung im ABS-Regelbereich kann es zum Verhärten des Bremspedales wegen Rückwirkung der elektron. Bremsverteilung (System reduziert Bremsdruck an HA zur Fahrzeugstabilisierung) kommen.
+Die Werkstatt ersetzt kostenlos das ABS-Steuergerät gegen eine modifizierte Version.

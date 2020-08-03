@@ -1,0 +1,1 @@
+Status jedes Fahrzeuges kann im Peugeot-EDV-System abgefragt werden. ; An der Fahrer-Sonnenblende wird ein Warnhinweis angebracht, dass vor Nutzung einer Waschanlage das Fahrzeug verschlossen werden soll. 

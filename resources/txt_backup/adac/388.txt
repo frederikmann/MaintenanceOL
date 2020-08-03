@@ -1,0 +1,2 @@
+Im Hersteller-Werkstattsystem (Interner Code S92) ; Der Fahrerairbag-Gasgenerator kann während einer Airbag-Auslösung unter normalen Umständen aufgrund übermäßigen Innendrucks bersten. Das Bersten des Gasgenerators beim Auslösen des Airbags könnte dazu führen, dass Metallsplitter Fahrzeuginsassen treffen und schwer verletzen oder töten. Als Abhilfe muss der Fahrerairbag gegen ein konformes Ersatzteil getauscht werden.
+Die Aktion ist für den Kunden kostenlos.

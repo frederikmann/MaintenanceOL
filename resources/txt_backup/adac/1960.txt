@@ -1,0 +1,3 @@
+Im Hersteller-Werkstattsystem. Code 15H1 ; Im Hersteller-Werkstattsystem. Code „94M1 ; 
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Die ursprüngliche Software kann unter Umständen einen defekten LED-Blinker nicht erfassen. Abhilfe: Eine neue Software soll das Problem beheben.

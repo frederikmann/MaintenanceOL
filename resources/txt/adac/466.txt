@@ -1,11 +1,11 @@
-wei√üer Lackpunkt auf Motorsteuerger√§t, Injektoren mit Wachsauftrag ; Lenkgetriebe: Wegen zu geringer Fettf√ºllung kann es zu vorzeitigem Verschlei√ü an der Zahnstange des Lenkgetriebes kommen. Das notwendige Fett wird durch die Werkstatt erg√§nzt.
-Scheibenwischermotor: Wegen unzureichender Abdeckung des Scheibenwischermotors kann es bei Eindringen von Feuchtigkeit zum Ausfall des Wischermotors kommen. Abhilfe bringt eine zus√§tzliche Abdeckung oberhalb des Wischermotors.
-Die Aktionen sind kostenlos und dauern etwa eine Stunde. ; Aktion: 5247: Wegen diverser sporadischer Fehler im Fehlerspeicher ein Softwareupdate f√ºr das Motorsteuerger√§t
-Aktion: 5221: Wegen unzureichender Abdeckung sammelt sich Ablaufwasser im Bereich der Einspritzinjektoren und f√ºhrt dort zu
-Oberfl√§chenkorrosion. Die H√§ndler behandeln die
-Injektoren mit Rostumwandler und versiegeln diese
-anschl. mit einem Wachsschutz.
-Die Aktionen sind kostenlos und dauern zusammen
-etwa eine Stunde. ; Aktion 5220: Wegen fehlender Abdeckung kann es zum Ausfall des Anlassers kommen.
-Aktion 5222: Wegen unzureichender Abdeckung kann es zum Feuchtigkeitseintritt im ABS-Steuerger√§t kommen. Die H√§ndler bringen an beiden Bauteilen zus√§tzliche Abdeckungen an. Die Aktionen sind kostenlos und dauern zusammen etwa eine Stunde. ; Abdeckung an Anlasser und ABS-Steuerger√§t vorhanden ; Lenkgetriebe: wei√üer Lackpunkt an der linken Staubmanschette des Lenkgetriebes
-Abdeckung am Scheibenwischermotor vorhanden
+Lenkgetriebe: weiﬂer Lackpunkt an der linken Staubmanschette des Lenkgetriebes
+Abdeckung am Scheibenwischermotor vorhanden ; Lenkgetriebe: Wegen zu geringer Fettf¸llung kann es zu vorzeitigem Verschleiﬂ an der Zahnstange des Lenkgetriebes kommen. Das notwendige Fett wird durch die Werkstatt erg‰nzt.
+Scheibenwischermotor: Wegen unzureichender Abdeckung des Scheibenwischermotors kann es bei Eindringen von Feuchtigkeit zum Ausfall des Wischermotors kommen. Abhilfe bringt eine zus‰tzliche Abdeckung oberhalb des Wischermotors.
+Die Aktionen sind kostenlos und dauern etwa eine Stunde. ; Abdeckung an Anlasser und ABS-Steuerger‰t vorhanden ; Aktion 5220: Wegen fehlender Abdeckung kann es zum Ausfall des Anlassers kommen.
+Aktion 5222: Wegen unzureichender Abdeckung kann es zum Feuchtigkeitseintritt im ABS-Steuerger‰t kommen. Die H‰ndler bringen an beiden Bauteilen zus‰tzliche Abdeckungen an. Die Aktionen sind kostenlos und dauern zusammen etwa eine Stunde. ; weiﬂer Lackpunkt auf Motorsteuerger‰t, Injektoren mit Wachsauftrag ; Aktion: 5247: Wegen diverser sporadischer Fehler im Fehlerspeicher ein Softwareupdate f¸r das Motorsteuerger‰t
+Aktion: 5221: Wegen unzureichender Abdeckung sammelt sich Ablaufwasser im Bereich der Einspritzinjektoren und f¸hrt dort zu
+Oberfl‰chenkorrosion. Die H‰ndler behandeln die
+Injektoren mit Rostumwandler und versiegeln diese
+anschl. mit einem Wachsschutz.
+Die Aktionen sind kostenlos und dauern zusammen
+etwa eine Stunde.

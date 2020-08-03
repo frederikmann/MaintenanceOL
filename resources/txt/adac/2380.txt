@@ -1,2 +1,2 @@
-Durch einen Bruch oder eine Schiefstellung der RÃ¼ckstellfeder im Magnetschalter kann es zu einer Dauerbestromung kommen. Eine Dauerbestromung kann zu einer BauteilÃ¼berhitzung fÃ¼hren. Es besteht Brandgefahr. Abhilfe schafft ein Austausch des Magnetschalters.
-Die Aktion startet im Februar 2018 und ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 27F9), Aufkleber in Reserveradmulde und im Servicebuch
+Durch einen Bruch oder eine Schiefstellung der Rückstellfeder im Magnetschalter kann es zu einer Dauerbestromung kommen. Eine Dauerbestromung kann zu einer Bauteilüberhitzung führen. Es besteht Brandgefahr. Abhilfe schafft ein Austausch des Magnetschalters.
+Die Aktion startet im Februar 2018 und ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 27F9), Aufkleber in Reserveradmulde und im Servicebuch

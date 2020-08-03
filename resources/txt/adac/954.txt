@@ -1,5 +1,5 @@
-Ein Fehler des Gasgenerator des Beifahrer-Airbags kann unkontrollierte Inflation verursachen, wenn der Airbag aktiviert ist, hierbei kÃ¶nnen kleine Metallpartikel absplittern. Als Abhilfe wird der Airbag ausgetauscht.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Weisser Lackpunkt an der inneren Sitzstruktur der Vordersitze und Vermerk im HÃ¤ndlersystem des Herstellers hinterlegt (Aktionscode: 5732) ; Im Hersteller-Werkstattsystem ; Wegen nicht fehlerhafter Steckverbindungen an den Vordersitzen zur Ansteuerung der Seiten-/Thoraxairbags kann es zum LÃ¶sen der Steckerverbindung kommen. 
-Dies wird dann durch Aufleuchten der Airbagkontrolle im Kombiinstrument angezeigt und die Airbags sind deaktiviert.
-Die HÃ¤ndler prÃ¼fen den Anschluss des Airbag-Kabels an den Vordersitzen und erneuern ggf. die Airbag-Kabel. 
-Die Aktion lÃ¤uft seit Juli.2013, dauert von etwa einer halben (PrÃ¼fung) bis zu einer Stunde (Tausch Verkabelung) und ist fÃ¼r die Kunden kostenlos.
+Wegen nicht fehlerhafter Steckverbindungen an den Vordersitzen zur Ansteuerung der Seiten-/Thoraxairbags kann es zum Lösen der Steckerverbindung kommen. 
+Dies wird dann durch Aufleuchten der Airbagkontrolle im Kombiinstrument angezeigt und die Airbags sind deaktiviert.
+Die Händler prüfen den Anschluss des Airbag-Kabels an den Vordersitzen und erneuern ggf. die Airbag-Kabel. 
+Die Aktion läuft seit Juli.2013, dauert von etwa einer halben (Prüfung) bis zu einer Stunde (Tausch Verkabelung) und ist für die Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Ein Fehler des Gasgenerator des Beifahrer-Airbags kann unkontrollierte Inflation verursachen, wenn der Airbag aktiviert ist, hierbei können kleine Metallpartikel absplittern. Als Abhilfe wird der Airbag ausgetauscht.
+Die Aktion ist für den Kunden kostenlos. ; Weisser Lackpunkt an der inneren Sitzstruktur der Vordersitze und Vermerk im Händlersystem des Herstellers hinterlegt (Aktionscode: 5732)

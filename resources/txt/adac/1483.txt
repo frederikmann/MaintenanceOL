@@ -1,14 +1,14 @@
-Laut Hersteller kann es bei Volllastfahrten auf rutschiger oder schlechter FahrbahnoberflÃ¤che zum Durchrutschen des Schubgliederbandes des CVT-Getriebes kommen. 
-Dies fÃ¼hrt zu erhÃ¶htem VerschleiÃŸ und kann auf Dauer bis zum Verlust des Antriebs (Fahrzeug bleibt stehen- Motorkontrollleuchte an) fÃ¼hren. 
-Die HÃ¤ndler fÃ¼hren ein Programmupdate am CVT-SteuergerÃ¤t durch. 
-Die Aktion lÃ¤uft seit  Jun. 2013, dauert etwa eine viertel Stunde und ist fÃ¼r die Kunden kostenlos. ; Im HÃ¤ndlersystem des Herstellers hinterlegt. 
- ; Laut Hersteller kann es bedingt durch den Fertigungsprozess der Treibladung des Gasgenerators fÃ¼r den Beifahrerairbag zu AuslÃ¶eproblemen kommen. Durch den zu hohen Druck kommt es zur BeschÃ¤digung des AirbaggehÃ¤uses,  das dann den Airbag an der Entfaltung hindert. 
-Die HÃ¤ndler tauschen  nach ÃœberprÃ¼fung der Seriennummer die betroffenen Beifahrer Airbag Module des Zulieferers Takata aus. 
-Die Aktion startet Mitte Mai 2013 .
-Die DurchfÃ¼hrung dauert je nach Modell eine bis mehrere Stunden und ist fÃ¼r die Kunden kostenlos. ; Laut Hersteller kann es bedingt durch fehlerhaften Fertigungsprozess der Treibladung des Gasgenerators fÃ¼r den Beifahrerairbag zu AuslÃ¶seproblemen kommen. Durch den zu hohen Druck kommt es zur BeschÃ¤digung des AirbaggehÃ¤uses, das dann den Airbag an der Entfaltung hindert. 
-Die HÃ¤ndler prÃ¼fen bei den Modellen Almera und Tino die Seriennummern der Beifahrerairbags und tauschen diese ggf.
-Bei den anderen Modellen werden die Beifahrer Airbag Module des Zulieferers Takata generell getauscht. 
-Die DurchfÃ¼hrung dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. ; Die Sicherungsmutter der Verbindungsschraube zwischen Lenkspindel und Lenkgetriebeeingang kann sich lÃ¶sen. Dadurch kann es zum Ausfall der Lenkung kommen. 
-Die HÃ¤ndler bringen einen zusÃ¤tzlichen Halteflansch an die Ãœberwurfmutter der Verbindung an, um eine dauerhafte Sicherung zu gewÃ¤hrleisten. 
-Die Aktion wurde im November gestartet und dauert   etwa eine halbe Stunde.   ; Im internen Herstellersystem vermerkt. ; Der Druck kann bei der Airbag-Entfaltung zu hoch werden. Dadurch kann es zu BeschÃ¤digungen des Airbag-GehÃ¤uses kommen und zu Verletzungen kommen. Als Abhilfe wird der Airbag geprÃ¼ft und gegebenenfalls der Airbag-Gasgenerator getauscht.
-Die Aktion lÃ¤uft bereits und ist fÃ¼r den Kunden kostenlos. ; Im Herstellersystem vermerkt.  ; Im Hersteller-Werkstattsystem
+Laut Hersteller kann es bei Volllastfahrten auf rutschiger oder schlechter Fahrbahnoberfläche zum Durchrutschen des Schubgliederbandes des CVT-Getriebes kommen. 
+Dies führt zu erhöhtem Verschleiß und kann auf Dauer bis zum Verlust des Antriebs (Fahrzeug bleibt stehen- Motorkontrollleuchte an) führen. 
+Die Händler führen ein Programmupdate am CVT-Steuergerät durch. 
+Die Aktion läuft seit  Jun. 2013, dauert etwa eine viertel Stunde und ist für die Kunden kostenlos. ; Der Druck kann bei der Airbag-Entfaltung zu hoch werden. Dadurch kann es zu Beschädigungen des Airbag-Gehäuses kommen und zu Verletzungen kommen. Als Abhilfe wird der Airbag geprüft und gegebenenfalls der Airbag-Gasgenerator getauscht.
+Die Aktion läuft bereits und ist für den Kunden kostenlos. ; Laut Hersteller kann es bedingt durch den Fertigungsprozess der Treibladung des Gasgenerators für den Beifahrerairbag zu Auslöeproblemen kommen. Durch den zu hohen Druck kommt es zur Beschädigung des Airbaggehäuses,  das dann den Airbag an der Entfaltung hindert. 
+Die Händler tauschen  nach Überprüfung der Seriennummer die betroffenen Beifahrer Airbag Module des Zulieferers Takata aus. 
+Die Aktion startet Mitte Mai 2013 .
+Die Durchführung dauert je nach Modell eine bis mehrere Stunden und ist für die Kunden kostenlos. ; Im internen Herstellersystem vermerkt. ; Im Herstellersystem vermerkt.  ; Im Hersteller-Werkstattsystem ; Die Sicherungsmutter der Verbindungsschraube zwischen Lenkspindel und Lenkgetriebeeingang kann sich lösen. Dadurch kann es zum Ausfall der Lenkung kommen. 
+Die Händler bringen einen zusätzlichen Halteflansch an die Überwurfmutter der Verbindung an, um eine dauerhafte Sicherung zu gewährleisten. 
+Die Aktion wurde im November gestartet und dauert   etwa eine halbe Stunde.   ; Laut Hersteller kann es bedingt durch fehlerhaften Fertigungsprozess der Treibladung des Gasgenerators für den Beifahrerairbag zu Auslöseproblemen kommen. Durch den zu hohen Druck kommt es zur Beschädigung des Airbaggehäuses, das dann den Airbag an der Entfaltung hindert. 
+Die Händler prüfen bei den Modellen Almera und Tino die Seriennummern der Beifahrerairbags und tauschen diese ggf.
+Bei den anderen Modellen werden die Beifahrer Airbag Module des Zulieferers Takata generell getauscht. 
+Die Durchführung dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Im Händlersystem des Herstellers hinterlegt. 
+

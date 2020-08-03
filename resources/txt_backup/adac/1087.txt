@@ -1,0 +1,5 @@
+Durch einen korrosionsbedingten Bruch der Endkappen der Gasdruckdämpfer könnte die Heckklappe betroffener Fahrzeuge herunterfallen und Personen verletzen. Der Hersteller ruft die Fahrzeuge daher zu einem Austausch in die Werkstatt.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code AH008H) ; Im Hersteller-Werkstattsystem ; 1) Aufgrund eines unzureichenden Anzugsmoments der Injektorbefestigung kann es zu Undichtigkeiten und somit zum Austritt von Verbrennungsgasen kommen. Dadurch können Ölkohleablagerungen entstehen, die sich im Ölsieb ablagern und zu Öldruckabfällen führen können.
+2) Aufgrund ungeeigneter Maßnahmen gegen Störsignale von den Injektoren kann es durch Spannungsspitzen zu Kurzschlüssen im Injektorschaltkreis kommen. Dies führt zum Ausfall einer Sicherung und evtl. auch des Motorsteuergeräts (PCM)
+Abhilfe für das erste Problem schafft eine Prüfung des Anzugsmoment der Injektoren, das zweite Problem wird durch ein Softwareupdate behoben.
+Die Aktion startet voraussichtlich im Mai 2018 und ist für den Kunden kostenlos.

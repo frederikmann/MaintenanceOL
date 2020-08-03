@@ -1,3 +1,3 @@
-Bei den oben genannten Baureihen der Modelljahre 2017-2019 kÃ¶nnen mÃ¶glicherweise eine Softwareabweichung im Kommunikationsmodul Auswirkungen auf verbundene Dienste wie Volvo On Call haben. Dadurch kÃ¶nnen zum Beispiel bei einem Unfall keine GPS-Positionen Ã¼bermittelt werden. 
-Im Rahmen des RÃ¼ckrufs muss ein Software-Update durchgefÃ¼hrt werden. 
-Die Aktion lÃ¤uft seit 08.11.2018 und ist fÃ¼r die Kunden kostenlos. ; Der Notfallbremsassistent, der den Wagen im Notfall automatisch abbremst funktioniert nicht wie vorgesehen. Abhilfe: In der Werkstatt wird die Software aktualisiert. ; Im Hersteller-Werkstattsystem
+Der Notfallbremsassistent, der den Wagen im Notfall automatisch abbremst funktioniert nicht wie vorgesehen. Abhilfe: In der Werkstatt wird die Software aktualisiert. ; Bei den oben genannten Baureihen der Modelljahre 2017-2019 können möglicherweise eine Softwareabweichung im Kommunikationsmodul Auswirkungen auf verbundene Dienste wie Volvo On Call haben. Dadurch können zum Beispiel bei einem Unfall keine GPS-Positionen übermittelt werden. 
+Im Rahmen des Rückrufs muss ein Software-Update durchgeführt werden. 
+Die Aktion läuft seit 08.11.2018 und ist für die Kunden kostenlos. ; Im Hersteller-Werkstattsystem

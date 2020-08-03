@@ -1,13 +1,13 @@
-Diese Modelle sind mit einem BremsrÃ¼ckgewinnungssystem (i-ELOOP) ausgestattet. Dabei wird Bremsenergie des Motors Ã¼ber einen 24V Kondensator in elektr. Energie umgewandelt und Ã¼ber einen Gleichstromwandler in das 12V- Bordnetz eingespeist. 
-Das Substrat im Inneren des Gleichstromwandlers kann beschÃ¤digt sein, was dann zu einem Kurzschluss (Kontrollleuchte im Kombiinstrument an) und Rauchbildung fÃ¼hrt.  
-Die HÃ¤ndler tauschen den fehlerhaften Gleichstromwandler aus. 
-Die Aktion wurde im Jun.2016 gestartet, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Eintrag im Werkstattsystem nur bei noch offener Aktion (Code AJ042A), keine Kennzeichnung am Fahrzeug ; Im Hersteller-Werkstattsystem (Codes AJ004A & AJ004B) ; Bei den betroffenen Fahrzeugen kann ein Programmierfehler im MotorsteuergerÃ¤t zu SchÃ¤den am Gleichspannungswandler fÃ¼hren. Werden AuffÃ¤lligkeiten festgestellt werden die Motorsteuerungssoftware und der Gleichspannungswandler ausgetauscht.
-Der Hersteller ruft daher die Produkte zurÃ¼ck, kann jedoch auch auf Nachfrage momentan keine weiteren Informationen bereitstellen.
-Die Aktion ist fÃ¼r die Kunden kostenlos. ; Wird im Leerlauf das Gaspedal durchgetreten, ohne Last und die Schaltung in Position Leerlauf (N) oder Parkposition (P), kÃ¶nnte Ã¼ber den von den BrennrÃ¤umen flieÃŸende Volumenstrom (VerlustleistungsstrÃ¶me/Blowby-Gase) zusÃ¤tzlich Ã–l und Kraftstoff in flÃ¼ssigem oder gasfÃ¶rmigem Aggregatzustand in die BrennrÃ¤ume gelangen. Dies kann eine anomale Verbrennung erzeugen, welche zu einem Motorschaden fÃ¼hren kÃ¶nnte. Behoben wird das Problem in der Werkstatt per Softwareupdate.
-Die Aktion lÃ¤uft seit dem 30.03.2018 und ist fÃ¼r den Kunden kostenlos. ; Bei einigen Fahrzeugen kÃ¶nnte der Halter des EntlÃ¼ftungsmagnetventils die Kraftstoff-Hochdruckleitung berÃ¼hren.
-Als AbhilfemaÃŸnahme wird der Halter Ã¼berprÃ¼ft und ggf. gegen einen
-modifizierten Halter ausgetauscht.
-Die Aktion ist fÃ¼r die Kunden kostenlos. ; Dokumentation im Mazda-Portal zugÃ¤nglich. ; Im Hersteller-Werkstattsystem ; Die Dichtung zwischen Kraftstofffilter und Ablassstopfen kann verformt sein und dadurch Leckagen im Bereich des Ablassstopfens entstehen. 
-ZusÃ¤tzlich kann aufgrund von Fertigungsfehlern auch der Keilrippenriemen vorzeitig reiÃŸen. Dann werden Wasserpumpe und Generator nicht mehr angetrieben und die entsprechenden Kontrollleuchten gehen an. 
-Die HÃ¤ndler tauschen sowohl Dichtung wie auch Keilrippenriemen aus. 
-Die Aktion wurde im Jul.2016 gestartet, dauert knapp eine Stunde und ist fÃ¼r die Kunden kostenlos.
+Bei einigen Fahrzeugen könnte der Halter des Entlüftungsmagnetventils die Kraftstoff-Hochdruckleitung berühren.
+Als Abhilfemaßnahme wird der Halter überprüft und ggf. gegen einen
+modifizierten Halter ausgetauscht.
+Die Aktion ist für die Kunden kostenlos. ; Diese Modelle sind mit einem Bremsrückgewinnungssystem (i-ELOOP) ausgestattet. Dabei wird Bremsenergie des Motors über einen 24V Kondensator in elektr. Energie umgewandelt und über einen Gleichstromwandler in das 12V- Bordnetz eingespeist. 
+Das Substrat im Inneren des Gleichstromwandlers kann beschädigt sein, was dann zu einem Kurzschluss (Kontrollleuchte im Kombiinstrument an) und Rauchbildung führt.  
+Die Händler tauschen den fehlerhaften Gleichstromwandler aus. 
+Die Aktion wurde im Jun.2016 gestartet, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Dokumentation im Mazda-Portal zugänglich. ; Eintrag im Werkstattsystem nur bei noch offener Aktion (Code AJ042A), keine Kennzeichnung am Fahrzeug ; Im Hersteller-Werkstattsystem ; Im Hersteller-Werkstattsystem (Codes AJ004A & AJ004B) ; Wird im Leerlauf das Gaspedal durchgetreten, ohne Last und die Schaltung in Position Leerlauf (N) oder Parkposition (P), könnte über den von den Brennräumen fließende Volumenstrom (Verlustleistungsströme/Blowby-Gase) zusätzlich Öl und Kraftstoff in flüssigem oder gasförmigem Aggregatzustand in die Brennräume gelangen. Dies kann eine anomale Verbrennung erzeugen, welche zu einem Motorschaden führen könnte. Behoben wird das Problem in der Werkstatt per Softwareupdate.
+Die Aktion läuft seit dem 30.03.2018 und ist für den Kunden kostenlos. ; Die Dichtung zwischen Kraftstofffilter und Ablassstopfen kann verformt sein und dadurch Leckagen im Bereich des Ablassstopfens entstehen. 
+Zusätzlich kann aufgrund von Fertigungsfehlern auch der Keilrippenriemen vorzeitig reißen. Dann werden Wasserpumpe und Generator nicht mehr angetrieben und die entsprechenden Kontrollleuchten gehen an. 
+Die Händler tauschen sowohl Dichtung wie auch Keilrippenriemen aus. 
+Die Aktion wurde im Jul.2016 gestartet, dauert knapp eine Stunde und ist für die Kunden kostenlos. ; Bei den betroffenen Fahrzeugen kann ein Programmierfehler im Motorsteuergerät zu Schäden am Gleichspannungswandler führen. Werden Auffälligkeiten festgestellt werden die Motorsteuerungssoftware und der Gleichspannungswandler ausgetauscht.
+Der Hersteller ruft daher die Produkte zurück, kann jedoch auch auf Nachfrage momentan keine weiteren Informationen bereitstellen.
+Die Aktion ist für die Kunden kostenlos.

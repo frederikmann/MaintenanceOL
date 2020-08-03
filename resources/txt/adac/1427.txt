@@ -1,5 +1,5 @@
-Vermerk im internen HÃ¤ndlersystem ; Wegen eines Produktionsfehlers des Zulieferers Takata, kann im AuslÃ¶sefall (Unfall) der ZÃ¼nderdruck so hoch werden, dass sich aus dem Gasgenerator beim Entfalten des Airbags Metallsplitter lÃ¶sen die dann die Insassen verletzen kÃ¶nnen. 
-Die HÃ¤ndler tauschen das Fahrerairbagmodul aus. Der RÃ¼ckruf lÃ¤uft seit Nov.2014 an, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Im internen HÃ¤ndlersystem des Herstellers vermerkt. ; Das CVT-Schubgliederband Ã¼bertrÃ¤gt die AntriebskrÃ¤fte von der Eingangs- zur Antriebsachse. Wegen zu geringem Hydraulikdruck bei hÃ¤ufigem Wechsel zwischen den Fahrstufen L- und D, kann es zu erhÃ¶htem Schlupf des Gliederbands und damit Antriebsverlust mit vorzeitigem VerschleiÃŸ des Gliederbandes kommen. 
-Dies kann zu kritischen Verkehrssituationen fÃ¼hren.
-Die HÃ¤ndler fÃ¼hren ein Softwareupdate des GetriebesteuergerÃ¤tes durch.
-Der RÃ¼ckruf startet Mitte Okt. 2014, dauert eine knappe Stunde und ist fÃ¼r die Kunden kostenlos.
+Das CVT-Schubgliederband überträgt die Antriebskräfte von der Eingangs- zur Antriebsachse. Wegen zu geringem Hydraulikdruck bei häufigem Wechsel zwischen den Fahrstufen L- und D, kann es zu erhöhtem Schlupf des Gliederbands und damit Antriebsverlust mit vorzeitigem Verschleiß des Gliederbandes kommen. 
+Dies kann zu kritischen Verkehrssituationen führen.
+Die Händler führen ein Softwareupdate des Getriebesteuergerätes durch.
+Der Rückruf startet Mitte Okt. 2014, dauert eine knappe Stunde und ist für die Kunden kostenlos. ; Im internen Händlersystem des Herstellers vermerkt. ; Vermerk im internen Händlersystem ; Wegen eines Produktionsfehlers des Zulieferers Takata, kann im Auslösefall (Unfall) der Zünderdruck so hoch werden, dass sich aus dem Gasgenerator beim Entfalten des Airbags Metallsplitter lösen die dann die Insassen verletzen können. 
+Die Händler tauschen das Fahrerairbagmodul aus. Der Rückruf läuft seit Nov.2014 an, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.

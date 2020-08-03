@@ -1,12 +1,12 @@
-Wegen Rissbildungen in den Lenkradspeichen kann es zum Bruch der Lenkradspeichen kommen. 
-Dies kann dann zu Lenkproblemen fÃ¼hren.
-Die HÃ¤ndler tauschen die LenkrÃ¤der gegen eine verstÃ¤rkte Version kostenlos aus. 
-Die Aktion wurde im November gestartet und dauert   etwa eine Stunde.   ; Wegen unzureichender Abdichtung des ServosteuergerÃ¤tes kann es zum Ausfall der LenkkraftunterstÃ¼tzung kommen. Dies fÃ¼hrt zu erhÃ¶hten LenkkrÃ¤ften.
-Die HÃ¤ndler dichten das SteuergerÃ¤t zusÃ¤tzlich ab. Die Aktion lÃ¤uft seit April und dauert in der Werkstatt bei kostenloser DurchfÃ¼hrung etwa 2,5 Stunden. ; Vermerk im  Daihatsu-HÃ¤ndlersystem. ; Eintrag im elektron. Wartungsnachweis. ; Ein Fehler im Gasgenerator des Beifahrerairbags kann zu unkontrollierter Inflation und zum LÃ¶sen von Metallfragmenten fÃ¼hren, wenn der Airbag aktiviert wird, was zu Verletzungen der Fahrzeuginsassen fÃ¼hren kann.
-
-Abhilfe: In der Werkstatt erfolgt der Ersatz der Beifahrerairbageinheit. ; Eintrag im Elektronischen Wartungsystem des Herstellers. ; Eintrag im elektron. Wartungsnachweis und Einreichung des Garantieantrags. ; Laut Hersteller kann es bei ÃœberfÃ¼llung des KÃ¼hlkreislaufs am HeizungskÃ¼hler zum austritt von KÃ¼hlflÃ¼ssigkeit kommen. Die austretende KÃ¼hlflÃ¼ssigkeit kann dann in das darunter eingebaute AirbagsteuergerÃ¤t laufen und dort zum KurzschluÃŸ fÃ¼hren. 
-Dies wird laut Hersteller auch durch das Aufleuchten der Airbagkontrolle angezeigt. Wenn der Autofahrer darauf nicht reagiert kann es sogar zum plÃ¶tzlichen auslÃ¶sen des Beifahrerairbags kommen. 
-Die HÃ¤ndler prÃ¼fen, ob eine Undichtigkeit vorliegt und tauschen dann das komplette SteuergerÃ¤t aus. Ansonsten wird prÃ¤ventiv eine Schutzfolie am AirbagsteuergerÃ¤t angebracht.  
-Die Aktion ist im August 2012 angelaufen, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Bei defekten TankbelÃ¼ftungsventil, GehÃ¤useverklebung gerissen, kann es zum Austritt von KraftstoffdÃ¤mpfen in den Innenraum kommen.
-Die HÃ¤ndler ersetzen das TankbelÃ¼ftungsventil.
-Die Aktion wird im Mai gestartet und dauert in der Werkstatt bei kostenloser DurchfÃ¼hrung etwa eine Stunde. 
+Eintrag im elektron. Wartungsnachweis. ; Laut Hersteller kann es bei Überfüllung des Kühlkreislaufs am Heizungskühler zum austritt von Kühlflüssigkeit kommen. Die austretende Kühlflüssigkeit kann dann in das darunter eingebaute Airbagsteuergerät laufen und dort zum Kurzschluß führen. 
+Dies wird laut Hersteller auch durch das Aufleuchten der Airbagkontrolle angezeigt. Wenn der Autofahrer darauf nicht reagiert kann es sogar zum plötzlichen auslösen des Beifahrerairbags kommen. 
+Die Händler prüfen, ob eine Undichtigkeit vorliegt und tauschen dann das komplette Steuergerät aus. Ansonsten wird präventiv eine Schutzfolie am Airbagsteuergerät angebracht.  
+Die Aktion ist im August 2012 angelaufen, dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Bei defekten Tankbelüftungsventil, Gehäuseverklebung gerissen, kann es zum Austritt von Kraftstoffdämpfen in den Innenraum kommen.
+Die Händler ersetzen das Tankbelüftungsventil.
+Die Aktion wird im Mai gestartet und dauert in der Werkstatt bei kostenloser Durchführung etwa eine Stunde.  ; Eintrag im Elektronischen Wartungsystem des Herstellers. ; Vermerk im  Daihatsu-Händlersystem. ; Wegen unzureichender Abdichtung des Servosteuergerätes kann es zum Ausfall der Lenkkraftunterstützung kommen. Dies führt zu erhöhten Lenkkräften.
+Die Händler dichten das Steuergerät zusätzlich ab. Die Aktion läuft seit April und dauert in der Werkstatt bei kostenloser Durchführung etwa 2,5 Stunden. ; Im Hersteller-Werkstattsystem ; Eintrag im elektron. Wartungsnachweis und Einreichung des Garantieantrags. ; Ein Fehler im Gasgenerator des Beifahrerairbags kann zu unkontrollierter Inflation und zum Lösen von Metallfragmenten führen, wenn der Airbag aktiviert wird, was zu Verletzungen der Fahrzeuginsassen führen kann.
+
+Abhilfe: In der Werkstatt erfolgt der Ersatz der Beifahrerairbageinheit. ; Wegen Rissbildungen in den Lenkradspeichen kann es zum Bruch der Lenkradspeichen kommen. 
+Dies kann dann zu Lenkproblemen führen.
+Die Händler tauschen die Lenkräder gegen eine verstärkte Version kostenlos aus. 
+Die Aktion wurde im November gestartet und dauert   etwa eine Stunde.  

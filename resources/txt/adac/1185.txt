@@ -1,4 +1,4 @@
-Eintrag im Werkstattsystem ; Wegen der fehlerhafter Spannungssignale des Sensors kann es an der Vorderachse zu ungewÃ¶hnlichen Aufbaubewegungen kommen, wobei dies auch mit Warnmeldung im Kombiinstrument einhergehen kann.
-Lt. Hersteller handelt es sich nur um KomfortbeeintrÃ¤chtigungen.
-Die HÃ¤ndler prÃ¼fen und tauschen ggf. den Aufbaubeschleunigungssensor aus.
-Der MaÃŸnahme lÃ¤uft Ende 2008, dauert eine Stunde und ist kostenlos.
+Eintrag im Werkstattsystem ; Wegen der fehlerhafter Spannungssignale des Sensors kann es an der Vorderachse zu ungewöhnlichen Aufbaubewegungen kommen, wobei dies auch mit Warnmeldung im Kombiinstrument einhergehen kann.
+Lt. Hersteller handelt es sich nur um Komfortbeeinträchtigungen.
+Die Händler prüfen und tauschen ggf. den Aufbaubeschleunigungssensor aus.
+Der Maßnahme läuft Ende 2008, dauert eine Stunde und ist kostenlos.

@@ -1,2 +1,2 @@
-Vermerk im internen HÃ¤ndlersystem ; Am Tempomatschalter kann es zum FlÃ¼ssigkeitsaustritt kommen. Dies kann bei Ãœberhitzung zum Brandschaden fÃ¼hren. 
-Die HÃ¤ndler tauschen den anfÃ¤lligen Schalter aus. Die Aktion ist kostenlos und dauert etwa eine Stunde.
+Vermerk im internen Händlersystem ; Am Tempomatschalter kann es zum Flüssigkeitsaustritt kommen. Dies kann bei Überhitzung zum Brandschaden führen. 
+Die Händler tauschen den anfälligen Schalter aus. Die Aktion ist kostenlos und dauert etwa eine Stunde.

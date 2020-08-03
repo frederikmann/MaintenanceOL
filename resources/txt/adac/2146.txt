@@ -1,3 +1,3 @@
-Ein kleines Zahnrad kann brechen, sodass die Parkbremse nicht mehr gelÃ¶st werden kÃ¶nnte.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Bei einem Unfall kÃ¶nnten sich die Sitze der zweiten Sitzreihe lÃ¶sen. FÃ¼r Passagiere erhÃ¶ht sich dadurch das Unfallrisiko. Ein Ã¤hnliches Problem beim Model X bestand bereits fÃ¼r die dritte Sitzreihe.
-Die Aktion fÃ¼r den Kunden kostenlos.
+Ein kleines Zahnrad kann brechen, sodass die Parkbremse nicht mehr gelöst werden könnte.
+Die Aktion ist für den Kunden kostenlos. ; Bei einem Unfall könnten sich die Sitze der zweiten Sitzreihe lösen. Für Passagiere erhöht sich dadurch das Unfallrisiko. Ein ähnliches Problem beim Model X bestand bereits für die dritte Sitzreihe.
+Die Aktion für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem

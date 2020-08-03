@@ -1,2 +1,2 @@
-Bei den Fahrzeuge mit dem 2.0l- Dieselmotorisierung besteht die MÃ¶glichkeit, dass ein leichter Beschleunigungsvorgang von 100 km/h auf 120 km/h nicht im 6. Gang sondern im 7. Gang durchfahren wird. Dieser Vorgang kann wÃ¤hrend eines Abgastests zum Nichterreichen der NOx- Abgasgrenzwerte fÃ¼hren.
-Abhilfe: Die Neuprogrammierung des GetriebesteuergerÃ¤ts und teilweise des MotorsteuergerÃ¤ts. ; Im Hersteller-Werkstattsystem, Aktionscode â€37L8â€œ.
+Bei den Fahrzeuge mit dem 2.0l- Dieselmotorisierung besteht die Möglichkeit, dass ein leichter Beschleunigungsvorgang von 100 km/h auf 120 km/h nicht im 6. Gang sondern im 7. Gang durchfahren wird. Dieser Vorgang kann während eines Abgastests zum Nichterreichen der NOx- Abgasgrenzwerte führen.
+Abhilfe: Die Neuprogrammierung des Getriebesteuergeräts und teilweise des Motorsteuergeräts. ; Im Hersteller-Werkstattsystem, Aktionscode „37L8“.

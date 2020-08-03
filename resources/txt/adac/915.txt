@@ -1,3 +1,3 @@
-Dieser Mangel kann dazu fÃ¼hren, dass das Frontkollisionsassistenzsystem FCA (Forward Collision-Avoidance Assist) mÃ¶glicherweise Probleme beim Erkennen von vorausstehenden FuÃŸgÃ¤ngern hat. Hierdurch entsteht ein erhÃ¶htes Kollisionsrisiko, sofern nicht rechtzeitig eine Bremsung vom Fahrer erfolgt.
-Abhilfe:
-Ein Software-Update mit optimierter Regellogik fÃ¼r die Multifunktionskamera soll Abhilfe schaffen. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; Dieser Mangel kann dazu führen, dass das Frontkollisionsassistenzsystem FCA (Forward Collision-Avoidance Assist) möglicherweise Probleme beim Erkennen von vorausstehenden Fußgängern hat. Hierdurch entsteht ein erhöhtes Kollisionsrisiko, sofern nicht rechtzeitig eine Bremsung vom Fahrer erfolgt.
+Abhilfe:
+Ein Software-Update mit optimierter Regellogik für die Multifunktionskamera soll Abhilfe schaffen.

@@ -1,3 +1,3 @@
-Vermerk im Serviceheft und internen System des Herstellers. ; Die automatische Geschwindigkeitsregelung (Tempomat) lÃ¤ÃŸt sich entweder nicht mehr aktivieren oder - weitaus problematischer -  nicht mehr abschalten. Das wÃ¼rde bedeuten, dass sich der Tempomat weder durch BremspedalbetÃ¤tigung, Abbrechen-Taste oder BetÃ¤tigen des Kupplungspedales, abschaltet. Dadurch kÃ¶nnten kritische Verkehrssituationen fÃ¼r den Fahrer entstehen. Ursache ist ein Softwarefehler im Antriebsstrang-SteuergerÃ¤t.
-Die HÃ¤ndler konfigurieren das SteuergerÃ¤t neu und fÃ¼hren einen Software Update durch. 
-Die Aktion lÃ¤uft seit  Dez. 2011, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos .
+Vermerk im Serviceheft und internen System des Herstellers. ; Die automatische Geschwindigkeitsregelung (Tempomat) läßt sich entweder nicht mehr aktivieren oder - weitaus problematischer -  nicht mehr abschalten. Das würde bedeuten, dass sich der Tempomat weder durch Bremspedalbetätigung, Abbrechen-Taste oder Betätigen des Kupplungspedales, abschaltet. Dadurch könnten kritische Verkehrssituationen für den Fahrer entstehen. Ursache ist ein Softwarefehler im Antriebsstrang-Steuergerät.
+Die Händler konfigurieren das Steuergerät neu und führen einen Software Update durch. 
+Die Aktion läuft seit  Dez. 2011, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos .

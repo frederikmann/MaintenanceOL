@@ -1,3 +1,3 @@
-im Datenbestand des Herstellers ; Vermerk im internen System  ; Die Felgen, die nur bei dem Sondermodell verbaut wurden, kÃ¶nnen bei besonders hoher Beanspruchung Risse bekommen. In der Werkstatt wird das Produktionsdatum der Felgen Ã¼berprÃ¼ft und bei Bedarf die Felgen kostenlos ausgetauscht. ; Wegen zu geringem Anzugsmoment der Kugelgelenksverschraubung (Traggelenk) an den Querlenkern der Vorderachse, kÃ¶nnte es zum Bruch des Gelenkes kommen. 
-Bei allen betroffenen Fahrzeugen wurden die Gelenke nach Herstellervorschrift nachgezogen.. 
-Der RÃ¼ckruf ist lt. Hersteller bereits abgeschlossen.
+Die Felgen, die nur bei dem Sondermodell verbaut wurden, können bei besonders hoher Beanspruchung Risse bekommen. In der Werkstatt wird das Produktionsdatum der Felgen überprüft und bei Bedarf die Felgen kostenlos ausgetauscht. ; Vermerk im internen System  ; Wegen zu geringem Anzugsmoment der Kugelgelenksverschraubung (Traggelenk) an den Querlenkern der Vorderachse, könnte es zum Bruch des Gelenkes kommen. 
+Bei allen betroffenen Fahrzeugen wurden die Gelenke nach Herstellervorschrift nachgezogen.. 
+Der Rückruf ist lt. Hersteller bereits abgeschlossen. ; im Datenbestand des Herstellers

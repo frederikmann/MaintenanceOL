@@ -1,0 +1,2 @@
+Ford hat bei internen Qualitätskontrollen festgestellt, dass sich bei einer Anzahl von Motoren Antriebsriemen der Lenkhilfepumpe lösen können, was zu einem Ausfall der Servolenkung führen könnte. Bei den betroffenen Fahrzeugen ist eine Überprüfung des Herstell-Datumscodes auf dem/den Riemen und ggfs. eine Riemenerneuerung erforderlich.
+Die veranschlagte Arbeitszeit beträgt 0,2 bis 0,7 Stunden, je nach Ausstattung des Fahrzeuges. ; im Datenbestand des Herstellers

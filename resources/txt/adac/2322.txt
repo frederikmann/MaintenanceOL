@@ -1,8 +1,8 @@
-Bei den oben genannten Baureihen der Modelljahre 2017-2019 kÃ¶nnen mÃ¶glicherweise eine Softwareabweichung im Kommunikationsmodul Auswirkungen auf verbundene Dienste wie Volvo On Call haben. Dadurch kÃ¶nnen zum Beispiel bei einem Unfall keine GPS-Positionen Ã¼bermittelt werden. 
-Im Rahmen des RÃ¼ckrufs muss ein Software-Update durchgefÃ¼hrt werden. 
-Die Aktion lÃ¤uft seit 08.11.2018 und ist fÃ¼r die Kunden kostenlos. ; Bei einer limitierten Anzahl von Fahrzeugen der Baureihe Volvo XC40 des Modelljahres 2019, kann mÃ¶glicherweise eine Niete im Bremspedal nicht ordnungsgemÃ¤ÃŸ gestanzt sein, wodurch sich das Bremspedal verstellen kann. Dies kann dazu fÃ¼hren, dass das Fahrzeug eine verringerte Bremsleistung hat.
-Bei den betroffenen Fahrzeugen muss Ã¼berprÃ¼ft werden, ob die Bremspedalniete ordnungsgemÃ¤ÃŸ gestanzt ist. Fehlerhafte Bremspedale werden ausgetauscht.
-Die Aktion lÃ¤uft seit 22.08.2018 und ist fÃ¼r die Kunden kostenlos. ; Bei einer limitierten Anzahl von Fahrzeugen der Baureihe Volvo XC40 des Modelljahres 2019, kann mÃ¶glicherweise auf beiden Seiten die hinteren RÃ¼ckenlehnen-Sperrklinken fehlen, wodurch die RÃ¼ckenlehne nicht aufrecht stehen bleibt bzw. sich bei einer harten Bremsung oder bei einen Unfall 
-nach vorne bewegen kann und somit sich das Verletzungsrisiko erhÃ¶ht.
-Bei den betroffenen Fahrzeugen muss Ã¼berprÃ¼ft werden, ob die Sperrklinken montiert sind und fehlende Sperrklinken nachmontiert werden. 
-Die Aktion lÃ¤uft seit 15.08.2018 und ist fÃ¼r die Kunden kostenlos. ; Im Hersteller-Werkstattsystem
+Bei einer limitierten Anzahl von Fahrzeugen der Baureihe Volvo XC40 des Modelljahres 2019, kann möglicherweise eine Niete im Bremspedal nicht ordnungsgemäß gestanzt sein, wodurch sich das Bremspedal verstellen kann. Dies kann dazu führen, dass das Fahrzeug eine verringerte Bremsleistung hat.
+Bei den betroffenen Fahrzeugen muss überprüft werden, ob die Bremspedalniete ordnungsgemäß gestanzt ist. Fehlerhafte Bremspedale werden ausgetauscht.
+Die Aktion läuft seit 22.08.2018 und ist für die Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Bei den oben genannten Baureihen der Modelljahre 2017-2019 können möglicherweise eine Softwareabweichung im Kommunikationsmodul Auswirkungen auf verbundene Dienste wie Volvo On Call haben. Dadurch können zum Beispiel bei einem Unfall keine GPS-Positionen übermittelt werden. 
+Im Rahmen des Rückrufs muss ein Software-Update durchgeführt werden. 
+Die Aktion läuft seit 08.11.2018 und ist für die Kunden kostenlos. ; Bei einer limitierten Anzahl von Fahrzeugen der Baureihe Volvo XC40 des Modelljahres 2019, kann möglicherweise auf beiden Seiten die hinteren Rückenlehnen-Sperrklinken fehlen, wodurch die Rückenlehne nicht aufrecht stehen bleibt bzw. sich bei einer harten Bremsung oder bei einen Unfall 
+nach vorne bewegen kann und somit sich das Verletzungsrisiko erhöht.
+Bei den betroffenen Fahrzeugen muss überprüft werden, ob die Sperrklinken montiert sind und fehlende Sperrklinken nachmontiert werden. 
+Die Aktion läuft seit 15.08.2018 und ist für die Kunden kostenlos.

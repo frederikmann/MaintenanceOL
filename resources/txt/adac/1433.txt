@@ -1,9 +1,9 @@
-Im Herstellersystem hinterlegt.  ; Aufgrund einer Fehlfunktion des Abgastemperatursensors kann das MotorsteuergerÃ¤t die Motorleistung grundlos reduzieren, um vermeintliches Ãœberhitzen des Turboladers zu verhindern. Dann kommt es zum Leistungsabfall und die Motorkontrolle leuchtet. 
-Die HÃ¤ndler bauen einen verbesserten Sensor ein. Die Aktion lÃ¤uft seit Herbst 2013, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Im internen Herstellersystem vermerkt.  ; Laut Hersteller kann es bedingt durch fehlerhaften Fertigungsprozess der Treibladung des Gasgenerators fÃ¼r den Beifahrerairbag zu AuslÃ¶seproblemen kommen. Durch den zu hohen Druck kommt es zur BeschÃ¤digung des AirbaggehÃ¤uses, das dann den Airbag an der Entfaltung hindert. 
-Die HÃ¤ndler prÃ¼fen bei den Modellen Almera und Tino die Seriennummern der Beifahrerairbags und tauschen diese ggf.
-Bei den anderen Modellen werden die Beifahrer Airbag Module des Zulieferers Takata generell getauscht. 
-Die DurchfÃ¼hrung dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. ; Der Druck kann bei der Airbag-Entfaltung zu hoch werden. Dadurch kann es zu BeschÃ¤digungen des Airbag-GehÃ¤uses kommen und zu Verletzungen kommen. Als Abhilfe wird der Airbag geprÃ¼ft und gegebenenfalls der Airbag-Gasgenerator getauscht.
-Die Aktion lÃ¤uft bereits und ist fÃ¼r den Kunden kostenlos. ; Im Herstellersystem vermerkt.  ; Die vorderen Sicherheitsgurte von Fahrer- und Beifahrer kÃ¶nnen vertauscht sein. 
-Dadurch kann es im Ernstfall zur BeeintrÃ¤chtigung der RÃ¼ckhaltewirkung kommen. 
-Die HÃ¤ndler Ã¼berprÃ¼fen die Gurtausstattung und tauschen die beiden Gurte ggf. aus.
-Die Aktion lÃ¤uft seit Jan. 2014, dauert knapp zwei Stunden (bei Gurttausch) und ist fÃ¼r die Kunden kostenlos.  ; Im Hersteller-Werkstattsystem
+Im Herstellersystem hinterlegt.  ; Der Druck kann bei der Airbag-Entfaltung zu hoch werden. Dadurch kann es zu Beschädigungen des Airbag-Gehäuses kommen und zu Verletzungen kommen. Als Abhilfe wird der Airbag geprüft und gegebenenfalls der Airbag-Gasgenerator getauscht.
+Die Aktion läuft bereits und ist für den Kunden kostenlos. ; Im Herstellersystem vermerkt.  ; Im Hersteller-Werkstattsystem ; Aufgrund einer Fehlfunktion des Abgastemperatursensors kann das Motorsteuergerät die Motorleistung grundlos reduzieren, um vermeintliches Überhitzen des Turboladers zu verhindern. Dann kommt es zum Leistungsabfall und die Motorkontrolle leuchtet. 
+Die Händler bauen einen verbesserten Sensor ein. Die Aktion läuft seit Herbst 2013, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Laut Hersteller kann es bedingt durch fehlerhaften Fertigungsprozess der Treibladung des Gasgenerators für den Beifahrerairbag zu Auslöseproblemen kommen. Durch den zu hohen Druck kommt es zur Beschädigung des Airbaggehäuses, das dann den Airbag an der Entfaltung hindert. 
+Die Händler prüfen bei den Modellen Almera und Tino die Seriennummern der Beifahrerairbags und tauschen diese ggf.
+Bei den anderen Modellen werden die Beifahrer Airbag Module des Zulieferers Takata generell getauscht. 
+Die Durchführung dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Im internen Herstellersystem vermerkt.  ; Die vorderen Sicherheitsgurte von Fahrer- und Beifahrer können vertauscht sein. 
+Dadurch kann es im Ernstfall zur Beeinträchtigung der Rückhaltewirkung kommen. 
+Die Händler überprüfen die Gurtausstattung und tauschen die beiden Gurte ggf. aus.
+Die Aktion läuft seit Jan. 2014, dauert knapp zwei Stunden (bei Gurttausch) und ist für die Kunden kostenlos. 

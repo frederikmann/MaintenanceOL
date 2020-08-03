@@ -1,3 +1,3 @@
-Aufkleber N6 am StoÃŸdÃ¤mpferdom auf der Fahrerseite. ; Aufgrund unzureichenden Unterdrucks im EinlasskrÃ¼mmer, kann die BremskraftunterstÃ¼tzung ausfallen (hartes Bremspedal). Dann kann das Fahrzeug nur noch mit erheblich hÃ¶herem Pedaldruck gebremst werden. Dies tritt lt. Hersteller unter bestimmten Bedingungen (zunehmender geografischer HÃ¶he, Bergabfahrt oder Motor in Leerlauf mit eingeschalteten Verbrauchern) auf: 
-Die HÃ¤ndler programmieren das Einspritz-SteuergerÃ¤t neu und konfigurieren die Zentralelektronik neu.
-Die Aktion lÃ¤uft seit 10.10.2012, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos.
+Aufkleber N6 am Stoßdämpferdom auf der Fahrerseite. ; Aufgrund unzureichenden Unterdrucks im Einlasskrümmer, kann die Bremskraftunterstützung ausfallen (hartes Bremspedal). Dann kann das Fahrzeug nur noch mit erheblich höherem Pedaldruck gebremst werden. Dies tritt lt. Hersteller unter bestimmten Bedingungen (zunehmender geografischer Höhe, Bergabfahrt oder Motor in Leerlauf mit eingeschalteten Verbrauchern) auf: 
+Die Händler programmieren das Einspritz-Steuergerät neu und konfigurieren die Zentralelektronik neu.
+Die Aktion läuft seit 10.10.2012, dauert etwa eine Stunde und ist für die Kunden kostenlos.

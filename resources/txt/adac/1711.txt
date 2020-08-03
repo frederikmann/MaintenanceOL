@@ -1,3 +1,3 @@
-Wenn das Fahrzeug abgestellt, die ZÃ¼ndung aus, der Sicherheitsgurt gelÃ¶st und die FahrertÃ¼r geÃ¶ffnet ist, kann die Warnblinkfunktion ausfallen. Zudem muss nach einer Wartezeit von etwa 90 Sekunden der Taster zur Aktivierung der Warnblinkanlage betÃ¤tigt werden. Dieser leuchtet dann permanent auf, die Warnblinkanlage wird jedoch nicht aktiviert. Ein mÃ¶glicher Ausfall der Warnblinkanlage kann zu einem erhÃ¶hten Risiko fÃ¼hren, wenn das Fahrzeug von weiteren Verkehrsteilnehmern nicht als Hindernis wahrgenommen wird.
-
-Abhilfe: In der Werkstatt erfolgt eine Neuprogrammierung des SteuergerÃ¤ts der Bedieneinheit der vorderen Mittelkonsole. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; Wenn das Fahrzeug abgestellt, die Zündung aus, der Sicherheitsgurt gelöst und die Fahrertür geöffnet ist, kann die Warnblinkfunktion ausfallen. Zudem muss nach einer Wartezeit von etwa 90 Sekunden der Taster zur Aktivierung der Warnblinkanlage betätigt werden. Dieser leuchtet dann permanent auf, die Warnblinkanlage wird jedoch nicht aktiviert. Ein möglicher Ausfall der Warnblinkanlage kann zu einem erhöhten Risiko führen, wenn das Fahrzeug von weiteren Verkehrsteilnehmern nicht als Hindernis wahrgenommen wird.
+
+Abhilfe: In der Werkstatt erfolgt eine Neuprogrammierung des Steuergeräts der Bedieneinheit der vorderen Mittelkonsole.

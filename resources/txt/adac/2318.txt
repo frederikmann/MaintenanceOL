@@ -1,4 +1,4 @@
-Wegen eines Softwarefehlers des SteuergerÃ¤tes funktionieren die Scheibenwischer mÃ¶glicherweise beim Einschalten nicht oder schalten sich im ausgeschalteten Zustand unvermittelt ein.
-Die VertragshÃ¤ndler spielen eine aktualisierte Softwareversion auf. 
-Die Aktion ist fÃ¼r den Kunden kostenlos und dauert etwa eine halbe Stunde. 
-Die HÃ¤ndler sind seit 20.4.09 informiert.  ; im Datenbastand des Herstellers ; Vermerk im HÃ¤ndlersystem  ; Das Anzugsdrehmoment einer Befestigungsmutter des vorderen Querlenkers kÃ¶nnte nicht ausreichend hoch sein. Die Werkstatt zieht die Mutter mit dem Korrekten Drehmoment nach. Volvo verwendet den eigenen Adressbestand, das KBA ist Ã¼ber die Aktion informiert.
+Vermerk im Händlersystem  ; im Datenbastand des Herstellers ; Das Anzugsdrehmoment einer Befestigungsmutter des vorderen Querlenkers könnte nicht ausreichend hoch sein. Die Werkstatt zieht die Mutter mit dem Korrekten Drehmoment nach. Volvo verwendet den eigenen Adressbestand, das KBA ist über die Aktion informiert. ; Wegen eines Softwarefehlers des Steuergerätes funktionieren die Scheibenwischer möglicherweise beim Einschalten nicht oder schalten sich im ausgeschalteten Zustand unvermittelt ein.
+Die Vertragshändler spielen eine aktualisierte Softwareversion auf. 
+Die Aktion ist für den Kunden kostenlos und dauert etwa eine halbe Stunde. 
+Die Händler sind seit 20.4.09 informiert. 

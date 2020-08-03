@@ -1,9 +1,9 @@
-Kontrolle und - falls erforderlich - Austausch, der Positionierung und der Befestigung der UnterdruckschlÃ¤uche. ; im Peugeot EDV-System ; Im Datenbestand des Herstellers und RÃ¼ckfragen an Kundenbetreuung (Tel. 01801/111999). ; Die Aktion ist erstmals bereits in 2008 angelaufen. Bei dieser weiteren Aktion handelt es sich um eine Nachfassaktion der damals noch nicht erfassten Fahrzeuge.
-Das RÃ¼ckschlagventil in der Unterdruckpumpe des Bremssystems kann bei niedrigen Umgebungstemperaturen und kaltem Motor mÃ¶glicherweise nicht Ã¶ffnen und den BremskraftverstÃ¤rker dann nicht mit Unterdruck versorgen. 
-Die Bremsanlage bleibt in diesem Falll zwar funktionsfÃ¤hig, es sindi jedoch deutlich hÃ¶here PedalkrÃ¤fte erforderlich. 
-Das RÃ¼ckschlagventil wird ersetzt:
-Die veranschlagte Arbeitszeit betrÃ¤gt etwa eine Stunde.und ist fÃ¼r den Kunden kostenlos. ; Die Schalterposition des Lichtschalters wird vom SteuergerÃ¤t mÃ¶glicherweise nicht richtig erkannt. Das fÃ¼hrt zum zum Ausschalten der Beleuchtung  bzw. die Beleuchtung lÃ¤sst sich gar nicht erst anschalten.
-Die HÃ¤ndler aktualisieren die Software.
-Die DurchfÃ¼hrung dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. 
-Ob das eigene Fahrzeug betroffen ist, kann auch der HÃ¤ndler beantworten oder auch unter der Service-Nummer 01801 / 111 999 oderhttp://www.peugeot.de/dialog/
-kundenbetreuungscenter/ unter Angabe der Fahrgestellnummer abgefragt werden
+Kontrolle und - falls erforderlich - Austausch, der Positionierung und der Befestigung der Unterdruckschläuche. ; Im Datenbestand des Herstellers und Rückfragen an Kundenbetreuung (Tel. 01801/111999). ; Die Schalterposition des Lichtschalters wird vom Steuergerät möglicherweise nicht richtig erkannt. Das führt zum zum Ausschalten der Beleuchtung  bzw. die Beleuchtung lässt sich gar nicht erst anschalten.
+Die Händler aktualisieren die Software.
+Die Durchführung dauert etwa eine Stunde und ist für die Kunden kostenlos. 
+Ob das eigene Fahrzeug betroffen ist, kann auch der Händler beantworten oder auch unter der Service-Nummer 01801 / 111 999 oderhttp://www.peugeot.de/dialog/
+kundenbetreuungscenter/ unter Angabe der Fahrgestellnummer abgefragt werden ; im Peugeot EDV-System ; Die Aktion ist erstmals bereits in 2008 angelaufen. Bei dieser weiteren Aktion handelt es sich um eine Nachfassaktion der damals noch nicht erfassten Fahrzeuge.
+Das Rückschlagventil in der Unterdruckpumpe des Bremssystems kann bei niedrigen Umgebungstemperaturen und kaltem Motor möglicherweise nicht öffnen und den Bremskraftverstärker dann nicht mit Unterdruck versorgen. 
+Die Bremsanlage bleibt in diesem Falll zwar funktionsfähig, es sindi jedoch deutlich höhere Pedalkräfte erforderlich. 
+Das Rückschlagventil wird ersetzt:
+Die veranschlagte Arbeitszeit beträgt etwa eine Stunde.und ist für den Kunden kostenlos.

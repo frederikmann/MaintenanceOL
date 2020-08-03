@@ -1,0 +1,1 @@
+Die Steckverbindung am SBC-Steuergerät wird überprüft und ggf. ersetzt/instandgesetzt. Mögliche Defekte könnten zum Ausfall der elektrohydraulischen Hochdruckbremse führen. Verlängerter Pedalweg, höherer notwendiger Pedaldruck und verringerte Bremsleistung wären die Folge. ; nur im Datenbestand des Hersteller

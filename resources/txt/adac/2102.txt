@@ -1,4 +1,4 @@
-
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Aufgrund eines Softwarefehlers im MotorsteuergerÃ¤t kann es vorkommen, dass die Fahrzeugbatterie nicht mehr ordnungsgemÃ¤ÃŸ geladen wird. In diesem Fall wÃ¼rde die â€Eng-A-Stopp OFFâ€œ-Warnlampe (Start-Stopp-System deaktiviert) blinken. Wird das Fahrzeug in diesem Zustand kontinuierlich weiterbewegt, besteht die Gefahr, dass sich die Fahrzeugbatterie entlÃ¤dt und der Motor wÃ¤hrend des Fahrbetriebs gegebenenfalls abschaltet. In diesem Fall wÃ¼rde sich der Motor anschlieÃŸend nicht mehr starten lassen. 
-Die Aktion lÃ¤uft seit dem 23.03.2018 und ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 97 CM) ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; 
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Aufgrund eines Softwarefehlers im Motorsteuergerät kann es vorkommen, dass die Fahrzeugbatterie nicht mehr ordnungsgemäß geladen wird. In diesem Fall würde die „Eng-A-Stopp OFF“-Warnlampe (Start-Stopp-System deaktiviert) blinken. Wird das Fahrzeug in diesem Zustand kontinuierlich weiterbewegt, besteht die Gefahr, dass sich die Fahrzeugbatterie entlädt und der Motor während des Fahrbetriebs gegebenenfalls abschaltet. In diesem Fall würde sich der Motor anschließend nicht mehr starten lassen. 
+Die Aktion läuft seit dem 23.03.2018 und ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 97 CM)

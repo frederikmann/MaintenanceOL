@@ -1,3 +1,3 @@
-Den Fahrzeugen ist eine falsche Bedienungsanleitung beigelegt worden. Die zu beachtenden Sicherheitshinweise sind mÃ¶glicherweise unvollstÃ¤ndig. Abhilfe: In der Werkstatt wird die Anleitung ausgetauscht. ; 
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; Den Fahrzeugen ist eine falsche Bedienungsanleitung beigelegt worden. Die zu beachtenden Sicherheitshinweise sind möglicherweise unvollständig. Abhilfe: In der Werkstatt wird die Anleitung ausgetauscht. ; 
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos.

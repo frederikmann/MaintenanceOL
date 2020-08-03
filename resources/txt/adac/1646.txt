@@ -1,8 +1,8 @@
-Das Glasdach kann sich aufgrund von Vibrationen und/oder dem Winddruck wÃ¤hrend der Fahrt lÃ¶sen. Beim Servicepartner wird ein Austausch der Glasschiebedach-Gruppe vorgenommen. ; im Peugeot-EDV-System ; Peugeot dokumentiert intern die MaÃŸnahmen.  ; Update des Motor-SteuergerÃ¤tes; Dauer bis zu eine Stunde ; Wegen erhÃ¶htem Spiel der Kraftstoff-RÃ¼cklaufleitung am Einlassverteiler kann es zum Durchscheuern der Kraftstoff-Leitung und Kraftstoff austritt kommen. 
-Die Kraftstoff-RÃ¼cklaufleitung wird in der Werkstatt auf HÃ¶he der Befestigungen mit einer Schutzummantelung versehen. Sollten Reibungsspuren erkennbar sein, wird die Leitung ausgetauscht.
-Die DurchfÃ¼hrung der MaÃŸnahme dauert etwa  40 Minuten und ist fÃ¼r den Kunden kostenlos.. ; Durch Wasser oder Schnee auf dem Teppich kann Feuchtigkeit in die Stecker der Sitzheizung unter dem Bodenteppich eintreten und so Korrosion oder schlimmstenfalls sogar eine lokale Erhitzung erzeugen.
-Die HÃ¤ndler positionieren die Stecker neu damit ein Feuchtigkeitseintritt ausgeschlossen werden kann.
-Die Aktion dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos.
-Bei Fragen dazu steht das Peugeot Kundenbetreuungscenter unter www.peugeot.de/dialog/kundenbetreuungscenter/ oder Telefon 01801 / 111 999. zur VerfÃ¼gung.  ; Wasser kann in den Motor der Scheibenwaschanlage eindringen und zu deren Ausfall fÃ¼hren. Dadurch erhÃ¶ht sich die Unfallgefahr.
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; In der Peugeot Servicebox vermerkt -
+Durch Wasser oder Schnee auf dem Teppich kann Feuchtigkeit in die Stecker der Sitzheizung unter dem Bodenteppich eintreten und so Korrosion oder schlimmstenfalls sogar eine lokale Erhitzung erzeugen.
+Die Händler positionieren die Stecker neu damit ein Feuchtigkeitseintritt ausgeschlossen werden kann.
+Die Aktion dauert etwa eine Stunde und ist für die Kunden kostenlos.
+Bei Fragen dazu steht das Peugeot Kundenbetreuungscenter unter www.peugeot.de/dialog/kundenbetreuungscenter/ oder Telefon 01801 / 111 999. zur Verfügung.  ; Update des Motor-Steuergerätes; Dauer bis zu eine Stunde ; Wegen erhöhtem Spiel der Kraftstoff-Rücklaufleitung am Einlassverteiler kann es zum Durchscheuern der Kraftstoff-Leitung und Kraftstoff austritt kommen. 
+Die Kraftstoff-Rücklaufleitung wird in der Werkstatt auf Höhe der Befestigungen mit einer Schutzummantelung versehen. Sollten Reibungsspuren erkennbar sein, wird die Leitung ausgetauscht.
+Die Durchführung der Maßnahme dauert etwa  40 Minuten und ist für den Kunden kostenlos.. ; Peugeot dokumentiert intern die Maßnahmen.  ; im Peugeot-EDV-System ; Wasser kann in den Motor der Scheibenwaschanlage eindringen und zu deren Ausfall führen. Dadurch erhöht sich die Unfallgefahr.
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Das Glasdach kann sich aufgrund von Vibrationen und/oder dem Winddruck während der Fahrt lösen. Beim Servicepartner wird ein Austausch der Glasschiebedach-Gruppe vorgenommen. ; In der Peugeot Servicebox vermerkt -

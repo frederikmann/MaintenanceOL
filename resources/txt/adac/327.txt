@@ -1,2 +1,2 @@
-Fehler in der Steuerelektronik der elektromechanischen Servolenkung (EPS) fÃ¼hrt zu Ausfall der LenkkraftunterstÃ¼tzung. 
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; Fehler in der Steuerelektronik der elektromechanischen Servolenkung (EPS) führt zu Ausfall der Lenkkraftunterstützung. 
+Die Aktion ist für den Kunden kostenlos.

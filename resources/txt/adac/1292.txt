@@ -1,1 +1,1 @@
-Das KÃ¤ltemittel R134a wird gegen das umweltfreundlichere R1234yf getauscht. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; Das Kältemittel R134a wird gegen das umweltfreundlichere R1234yf getauscht.

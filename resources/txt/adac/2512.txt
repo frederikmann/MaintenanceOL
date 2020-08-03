@@ -1,1 +1,1 @@
-Der TandemlÃ¼ftermotor kann blockieren was zur BeeintrÃ¤chtigung der MotorkÃ¼hlung fÃ¼hrt. ; Wegen einer Fehlfunktion der Zentralverriegelung kann es zum Selbsteinsperren kommen ; Die Fensterheberverkabelung der hinteren TÃ¼ren kann sich abscheuern (Kurzschlussgefahr).
+Die Fensterheberverkabelung der hinteren Türen kann sich abscheuern (Kurzschlussgefahr). ; Der Tandemlüftermotor kann blockieren was zur Beeinträchtigung der Motorkühlung führt. ; Wegen einer Fehlfunktion der Zentralverriegelung kann es zum Selbsteinsperren kommen

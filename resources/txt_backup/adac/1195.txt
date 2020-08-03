@@ -1,0 +1,5 @@
+Im Daimler-Herstellersystem hinterlegt. ; Wegen einer defekten Dichtung am Steuerkettenspanner kann dieser ausfallen. Das führt zu einer gelockerten Steuerkette, die überspringen kann, was in Folge zum Motorschaden führen kann. Die Händler tauschen den fehlerhaften Dichtring gegen eine verbesserte Version aus. 
+Die Aktion ist im Jan. 2015 angelaufen und ist für die Kunden kostenlos. ; Wegen eines fehlerhaften Signals, das aufgrund von Toleranzabweichungen eines elektr. Bauteils im Steuergerät  (Positions-Sensor), erzeugt wird, wird die Lenkunterstützung deaktiviert und das System geht in das Notlaufprogramm (Rückfallebene).
+Dadurch muss der Fahrer deutlich höhere Lenkkräfte aufbringen, die mechanische Lenkfähigkeit des Fahrzeuges ist aber nicht beeinträchtigt. Der Fehler wird im Kombiinstrument gleichzeitig als Meldung "Lenkhilfe-Störung, siehe Betriebsanleitung" zusammen mit einem Warnton ausgegeben. 
+Die Händler tauschen das Lenkgetriebe aus.
+Der Rückruf läuft seit Sept. 2011, dauert etwa dreieinhalb Stunden und ist f. die Kunden kostenlos. ; nur im internen Garantiesystem des Herstellers vermerkt. 

@@ -1,11 +1,11 @@
-Das SteuergerÃ¤t fÃ¼r Elektrik (Batterie-Ladung, Beleuchtung, Scheibenwischer etc.) wird vom HÃ¤ndler nach Herstelleranweisung Ã¼berprÃ¼ft und ggf. ausgetauscht.
-Die Arbeiten dauern bis zu zwei Stunden und sind fÃ¼r den Kunden kostenlos.
- ; Aufgrund einer unzulÃ¤ssigen Befestigung mit falschem Drehmoment, kann es zur SchÃ¤digung des Sicherungskastens kommen
-Das kann in Folge zu erschwertem Motorstart und Ausfall der Diagnoseleuchten fÃ¼hren.
-Die HÃ¤ndler ersetzen den gesamten Sicherungskasten. 
-Die Aktion dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos.
- ; im Peugeot-EDV-System. ; Lichtmaschinen-Fehlfunktion kann zum Aufleuchten der Diagnoseleuchte/Ladekontrollleuchte fÃ¼hren. Die Werkstatt Ã¼berprÃ¼ft und tauscht ggf. die Lichtmaschine. Dauer 0,5 bis 1,5 Stunden ; Der Hersteller macht keine Angaben zur Kennzeichnung bearbeiteter Fahrzeuge ; Es kann zum Kabelbruch des Batteriemassekabels, zwischen Batterie und Getriebe, kommen. 
-Dies fÃ¼hrt dann zum plÃ¶tzlichen Ausgehen des Motors. zum Getriebe kann der Motor wÃ¤hrend der Fahrt ausgehen.
-Die HÃ¤ndler tauschen die Massekabel der betroffenen Fahrzeuge aus.
-Die DurchfÃ¼hrung dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. ; In der Servicebox des Herstellers abzufragen.
-Kunden kÃ¶nnen zur Aktion auch beim Peugeot Kundenbetreuungscenter unter http://www.peugeot.de/dialog/kundenbetreuungscenter/ oder Telefon 0 18 01/11 19 99 nachfragen.
+Es kann zum Kabelbruch des Batteriemassekabels, zwischen Batterie und Getriebe, kommen. 
+Dies führt dann zum plötzlichen Ausgehen des Motors. zum Getriebe kann der Motor während der Fahrt ausgehen.
+Die Händler tauschen die Massekabel der betroffenen Fahrzeuge aus.
+Die Durchführung dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Lichtmaschinen-Fehlfunktion kann zum Aufleuchten der Diagnoseleuchte/Ladekontrollleuchte führen. Die Werkstatt überprüft und tauscht ggf. die Lichtmaschine. Dauer 0,5 bis 1,5 Stunden ; Aufgrund einer unzulässigen Befestigung mit falschem Drehmoment, kann es zur Schädigung des Sicherungskastens kommen
+Das kann in Folge zu erschwertem Motorstart und Ausfall der Diagnoseleuchten führen.
+Die Händler ersetzen den gesamten Sicherungskasten. 
+Die Aktion dauert etwa eine Stunde und ist für die Kunden kostenlos.
+ ; im Peugeot-EDV-System. ; Das Steuergerät für Elektrik (Batterie-Ladung, Beleuchtung, Scheibenwischer etc.) wird vom Händler nach Herstelleranweisung überprüft und ggf. ausgetauscht.
+Die Arbeiten dauern bis zu zwei Stunden und sind für den Kunden kostenlos.
+ ; In der Servicebox des Herstellers abzufragen.
+Kunden können zur Aktion auch beim Peugeot Kundenbetreuungscenter unter http://www.peugeot.de/dialog/kundenbetreuungscenter/ oder Telefon 0 18 01/11 19 99 nachfragen. ; Der Hersteller macht keine Angaben zur Kennzeichnung bearbeiteter Fahrzeuge

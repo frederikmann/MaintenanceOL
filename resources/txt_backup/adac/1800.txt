@@ -1,0 +1,3 @@
+keine ; Durch Beschädigungen der Zusatzheizwiderstände unter dem Bodenblech kann es zu Schmorgeruch oder Rauchaustritt aus den Belüftungsöffnungen im Fahrgastraum kommen. Im Extremfall besteht Brandgefahr.
+Die Zusatzheizung wird durch eine Neu-Konfiguration des Klima-Steuergeräts deaktiviert. Die Fahrzeugheizung bleibt funktionsfähig.
+Sobald eine technische Lösung seitens des Herstellers vorliegt, sollen die Widerstände ersetzt und die Zusatzheizung wieder reaktiert werden.

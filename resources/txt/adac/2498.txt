@@ -1,7 +1,7 @@
-Bei schlagartiger DrehzahlerhÃ¶hung nach Kaltstart, kann es zum Ausfall der Ã–lpumpe kommen. Als AbhilfemaÃŸnahme wird ein Motorsoftwareupdate durchgefÃ¼hrt, der bei niedriger MotorÃ¶ltemperatur die Maximaldrehzahl des Motors begrenzt.
-Die Aktion ist kostenlos und dauert etwa eine Stunde. Der Hersteller weist die Kunden auf Updateprobleme bei chipgetunten Fahrzeugen hin. ; Eintrag "24L8 ausgefÃ¼hrt" im Serviceplan und Aufkleber "24L8 Datum/Stempel" im Bereich der Reserveradwanne. ; Wegen zu dÃ¼nn bemessener Befestigungsstege des Heckspoilers, kann es zum Bruch an den Halterungen kommen und sich der Heckspoiler dann ggf. vollstÃ¤ndig vom Fahrzeug ablÃ¶sen.
-In diesem Fall ist der nachfolgende Verkehr durch den abfliegenden Spoiler gefÃ¤hrdet. 
-ZusÃ¤tzlich kann es bei Modellen mit V6 TDI Motor zum Aufleuchten der Motorcheck-Lampe nach dem Starten kommen. 
-An den drei Befestigungsstellen am Spoiler werden zusÃ¤tzliche VerstÃ¤rkungen mit 2-Kleber angebracht. Um das Aufleuchten zu vermeiden, wird eine Adapterleitung zwischen die Verbindung vor die Zusatzkraftstoffpumpe eingebaut. 
-Die Aktion dauert fÃ¼r Heckspoiler ca. 45 Min. und bei zusÃ¤tzl. Leitungssatz Kraftstoffpumpe ca. eine Stunde und ist fÃ¼r die Kunden kostenlos. 
+Eintrag "24L8 ausgeführt" im Serviceplan und Aufkleber "24L8 Datum/Stempel" im Bereich der Reserveradwanne. ; Bei schlagartiger Drehzahlerhöhung nach Kaltstart, kann es zum Ausfall der Ölpumpe kommen. Als Abhilfemaßnahme wird ein Motorsoftwareupdate durchgeführt, der bei niedriger Motoröltemperatur die Maximaldrehzahl des Motors begrenzt.
+Die Aktion ist kostenlos und dauert etwa eine Stunde. Der Hersteller weist die Kunden auf Updateprobleme bei chipgetunten Fahrzeugen hin. ; Wegen zu dünn bemessener Befestigungsstege des Heckspoilers, kann es zum Bruch an den Halterungen kommen und sich der Heckspoiler dann ggf. vollständig vom Fahrzeug ablösen.
+In diesem Fall ist der nachfolgende Verkehr durch den abfliegenden Spoiler gefährdet. 
+Zusätzlich kann es bei Modellen mit V6 TDI Motor zum Aufleuchten der Motorcheck-Lampe nach dem Starten kommen. 
+An den drei Befestigungsstellen am Spoiler werden zusätzliche Verstärkungen mit 2-Kleber angebracht. Um das Aufleuchten zu vermeiden, wird eine Adapterleitung zwischen die Verbindung vor die Zusatzkraftstoffpumpe eingebaut. 
+Die Aktion dauert für Heckspoiler ca. 45 Min. und bei zusätzl. Leitungssatz Kraftstoffpumpe ca. eine Stunde und ist für die Kunden kostenlos. 
  ; Aktionsaufkleber "66D6" in Reserveradwanne 

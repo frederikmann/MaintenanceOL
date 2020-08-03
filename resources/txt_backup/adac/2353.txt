@@ -1,0 +1,3 @@
+An Caddy-Fahrzeugen des begrenzten Fertigungszeitraumes besteht die Möglichkeit, dass durch einen Fertigungsfehler das Vlies im Lehnenpolster seitenverkehrt verbaut wurde. 
+In diesem Fall wäre die Sollbruchstelle (Perforierung) im Polster bei einer möglichen Auslösung des Seitenairbags auf der falschen Seite. Der Seitenairbag könnte in dem Fall seine Schutzwirkung nicht entfalten.
+Abhilfe: An den betroffenen Fahrzeugen werden die Lehnenpolster an beiden Vordersitzen überprüft und im Falle des Falschverbaus wird das Lehnenpolster ersetzt. ; Im Hersteller-Werkstattsystem. Aktion „74D6“

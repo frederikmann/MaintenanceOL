@@ -1,12 +1,12 @@
-Eintrag im Serviceheft und Aufkleber in der Reserveradmulde.  ; Wegen ungÃ¼nstiger Spannungsverteilung beim HerstellungsprozeÃŸ der Glasscheibe, kann es zum plÃ¶tzlichen Bruch der Glasscheibe und Verletzungsrisiko durch herabfallende GlaskrÃ¼mel kommen.
-Die HÃ¤ndler ersetzen die Scheibe der Glasschiebedacheinheit. 
-Die Aktion lÃ¤uft seit Okt. 2013, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Wegen zu groÃŸer Toleranzen zwischen Einspritzleitungen und Leitungsrail kann es an den Dichtungsstellen zum Austritt von KraftstoffdÃ¤mpfen kommen. Die Insassen bemerken dies auch durch Kraftstoffgeruch im Innenraum. 
-Die HÃ¤ndler tauschen die Railleitungen aus und erneuern die doppelten Dichtungen.
-Die Aktion lÃ¤uft im MÃ¤rz 2015 an, dauert etwa fÃ¼nf Stunden und ist fÃ¼r die Kunden kostenlos. ; Die ZusatzkÃ¼hlmittelpumpe kann durch FremdkÃ¶rper im KÃ¼hlmittel blockieren und dadurch Ã¼berhitzen. Eine Software-Update im MotorsteuergerÃ¤t sorgt dafÃ¼r, dass die Blockade erkannt und die Pumpe dauerhaft abgeschaltet wird.
-Die Aktion lÃ¤uft bereits und ist fÃ¼r den Kunden kostenlos. ; In den Fahrzeugen befindet sich eine Steuerungs-Software, die von den ZulassungsbehÃ¶rden als unzulÃ¤ssig bewertet wird. An allen betroffenen Fahrzeugen wird eine neue Software auf das MotorsteuergerÃ¤t aufgespielt. Bei diversen Modellen bekommt auch das GetriebesteuergerÃ¤t eine neue Software zur Anpassung der Schaltpunkte. Bei einzelnen Modellvarianten wird zusÃ¤tzlich der NOx-Sensor bzw. die Lambdasonde ersetzt.
-Die Aktion ist fÃ¼r die Kunden kostenlos. ; In bestimmten Situationen wird der NOx-Grenzwert um das doppelte Ã¼berschritten. Grund ist, dass die Motordrehzahl in manchen Bereichen ungÃ¼nstig von der Getriebesoftware beeinflusst wird. Dadurch kÃ¶nnen sich die Emissionen verschlechtern. Abhilfe schafft ein Softwareupdate.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Aktionscode 23X6) ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzufÃ¼hren. 
-
-
-Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im internen Herstellersystem vermerkt und Eintragung des Aktionscodes "60B6" im Serviceheft.
+In bestimmten Situationen wird der NOx-Grenzwert um das doppelte überschritten. Grund ist, dass die Motordrehzahl in manchen Bereichen ungünstig von der Getriebesoftware beeinflusst wird. Dadurch können sich die Emissionen verschlechtern. Abhilfe schafft ein Softwareupdate.
+Die Aktion ist für den Kunden kostenlos. ; Die Zusatzkühlmittelpumpe kann durch Fremdkörper im Kühlmittel blockieren und dadurch überhitzen. Eine Software-Update im Motorsteuergerät sorgt dafür, dass die Blockade erkannt und die Pumpe dauerhaft abgeschaltet wird.
+Die Aktion läuft bereits und ist für den Kunden kostenlos. ; In den Fahrzeugen befindet sich eine Steuerungs-Software, die von den Zulassungsbehörden als unzulässig bewertet wird. An allen betroffenen Fahrzeugen wird eine neue Software auf das Motorsteuergerät aufgespielt. Bei diversen Modellen bekommt auch das Getriebesteuergerät eine neue Software zur Anpassung der Schaltpunkte. Bei einzelnen Modellvarianten wird zusätzlich der NOx-Sensor bzw. die Lambdasonde ersetzt.
+Die Aktion ist für die Kunden kostenlos. ; Wegen ungünstiger Spannungsverteilung beim Herstellungsprozeß der Glasscheibe, kann es zum plötzlichen Bruch der Glasscheibe und Verletzungsrisiko durch herabfallende Glaskrümel kommen.
+Die Händler ersetzen die Scheibe der Glasschiebedacheinheit. 
+Die Aktion läuft seit Okt. 2013, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Wegen zu großer Toleranzen zwischen Einspritzleitungen und Leitungsrail kann es an den Dichtungsstellen zum Austritt von Kraftstoffdämpfen kommen. Die Insassen bemerken dies auch durch Kraftstoffgeruch im Innenraum. 
+Die Händler tauschen die Railleitungen aus und erneuern die doppelten Dichtungen.
+Die Aktion läuft im März 2015 an, dauert etwa fünf Stunden und ist für die Kunden kostenlos. ; Eintrag im Serviceheft und Aufkleber in der Reserveradmulde.  ; Im Hersteller-Werkstattsystem ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzuführen. 
+
+
+Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
+Die Aktion ist für den Kunden kostenlos. ; Im internen Herstellersystem vermerkt und Eintragung des Aktionscodes "60B6" im Serviceheft. ; Im Hersteller-Werkstattsystem (Aktionscode 23X6)

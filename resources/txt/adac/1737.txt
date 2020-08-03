@@ -1,7 +1,7 @@
-Eintrag im Serviceheft und Aufkleber im Kofferraum ; Der Sicherungsring am Lagerbock des Fusshebelwerks kann sich lÃ¶sen. Dann ist die Funktion der Pedalerie nicht mehr gewÃ¤hrleistet und es kann zu gefÃ¤hrlichen Fahrsituationen fÃ¼hren.
-Die HÃ¤ndler prÃ¼fen den exakten Sitz des Sicherungsrings und ersetzen diesen ggf. 
-Die Aktion startet im Apr.2016, dauert etwa ein halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Eintrag Aktionscode "AF03" im Serviceheft  ; Wegen zu schwacher Feder kann sich die Verriegelungsplatte des Scheinwerfers verdrehen und lÃ¶sen. Dadurch kann es auch zur GefÃ¤hrdung anderer Verkehrsteilnehmer kommen.
-Die HÃ¤ndler verbauen geÃ¤nderte Scheinwerferverriegelungsplatten (verstÃ¤rkte Federn) und auch die Rastnasen der Platte wurden werden modifiziert .tauschen den Ladedrucksensor kostenlos aus.
-Die Aktion startete Ende Febr. 2012, dauert etwa eine Stunde.und ist fÃ¼r die Kunden kostenlos. ; Wegen zu grosser Toleranzen zwischen Einspritzleitungen und Leitungsrail kann es an den Dichtungsstellen zum Austritt von KraftstoffdÃ¤mpfen kommen. Die Insassen bemerken dies auch durch Kraftstoffgeruch im Innenraum. 
-Die HÃ¤ndler tauschen die Railleitungen aus und erneuern die doppelten Dichtungen.
-Die Aktion lÃ¤uft im MÃ¤rz 2015 an, dauert etwa fÃ¼nf Stunden und ist fÃ¼r die Kunden kostenlos. ; Im Wartungsheft dokumentiert, montageanleitung in der Betriebsanleitung geÃ¤ndert (Beilageblatt).
+Wegen zu grosser Toleranzen zwischen Einspritzleitungen und Leitungsrail kann es an den Dichtungsstellen zum Austritt von Kraftstoffdämpfen kommen. Die Insassen bemerken dies auch durch Kraftstoffgeruch im Innenraum. 
+Die Händler tauschen die Railleitungen aus und erneuern die doppelten Dichtungen.
+Die Aktion läuft im März 2015 an, dauert etwa fünf Stunden und ist für die Kunden kostenlos. ; Eintrag Aktionscode "AF03" im Serviceheft  ; Eintrag im Serviceheft und Aufkleber im Kofferraum ; Wegen zu schwacher Feder kann sich die Verriegelungsplatte des Scheinwerfers verdrehen und lösen. Dadurch kann es auch zur Gefährdung anderer Verkehrsteilnehmer kommen.
+Die Händler verbauen geänderte Scheinwerferverriegelungsplatten (verstärkte Federn) und auch die Rastnasen der Platte wurden werden modifiziert .tauschen den Ladedrucksensor kostenlos aus.
+Die Aktion startete Ende Febr. 2012, dauert etwa eine Stunde.und ist für die Kunden kostenlos. ; Der Sicherungsring am Lagerbock des Fusshebelwerks kann sich lösen. Dann ist die Funktion der Pedalerie nicht mehr gewährleistet und es kann zu gefährlichen Fahrsituationen führen.
+Die Händler prüfen den exakten Sitz des Sicherungsrings und ersetzen diesen ggf. 
+Die Aktion startet im Apr.2016, dauert etwa ein halbe Stunde und ist für die Kunden kostenlos. ; Im Wartungsheft dokumentiert, montageanleitung in der Betriebsanleitung geändert (Beilageblatt).

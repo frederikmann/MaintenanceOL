@@ -1,2 +1,2 @@
-Keine Angabe ; Bei allen Fahrzeugen, die den zuvor durchgefÃ¼hrten Drucktest bestanden haben, werden jetzt final die Gasgeneratoren ersetzt. Bei den Fahrzeugen wird abschlieÃŸend ein neuer Gasgeneratortyp eingebaut, dessen neues Treibmittel unempfindlich gegen eindringende Feuchtigkeit und Temperaturschwankungen ist. Dies geschieht, um unter allen Bedingungen eine ordnungsgemÃ¤ÃŸe AuslÃ¶sung zu gewÃ¤hrleisten.
-Die Aktion ist fÃ¼r die Kunden kostenlos.
+Bei allen Fahrzeugen, die den zuvor durchgeführten Drucktest bestanden haben, werden jetzt final die Gasgeneratoren ersetzt. Bei den Fahrzeugen wird abschließend ein neuer Gasgeneratortyp eingebaut, dessen neues Treibmittel unempfindlich gegen eindringende Feuchtigkeit und Temperaturschwankungen ist. Dies geschieht, um unter allen Bedingungen eine ordnungsgemäße Auslösung zu gewährleisten.
+Die Aktion ist für die Kunden kostenlos. ; Keine Angabe

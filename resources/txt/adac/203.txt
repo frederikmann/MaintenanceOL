@@ -1,4 +1,4 @@
-Eine defekte Steckverbindung am Stromverteiler kann zum Ausfall der Spannungsversorgung fÃ¼hren. 
-Das Fahrzeug kann dann nicht mehr geÃ¶ffnet werden oder der Motor startet nicht oder geht wÃ¤hrend der Fahrt aus.
-Laut Hersteller betrifft das nur Fahrzeuge die mit zwei LÃ¼ftern ausgestattet sind (hÃ¶here Stromaufnahme) fÃ¼r die MÃ¤rkte in USA, Japan, Kanada und SÃ¼dafrika. Der deutsche und europ. Markt ist davon lt. BMW nicht betroffen. 
-Die HÃ¤ndler tauschen die Steckverbindungen gegen stÃ¤rkere AusfÃ¼hrungen aus. ; Im BMW-Fahrzeugdiagnosesystem hinterlegt. 
+Im BMW-Fahrzeugdiagnosesystem hinterlegt.  ; Eine defekte Steckverbindung am Stromverteiler kann zum Ausfall der Spannungsversorgung führen. 
+Das Fahrzeug kann dann nicht mehr geöffnet werden oder der Motor startet nicht oder geht während der Fahrt aus.
+Laut Hersteller betrifft das nur Fahrzeuge die mit zwei Lüftern ausgestattet sind (höhere Stromaufnahme) für die Märkte in USA, Japan, Kanada und Südafrika. Der deutsche und europ. Markt ist davon lt. BMW nicht betroffen. 
+Die Händler tauschen die Steckverbindungen gegen stärkere Ausführungen aus.

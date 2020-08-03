@@ -1,3 +1,3 @@
-Im Hersteller-Werkstattsystem ; Ein Fehler im Gasgenerator des Beifahrerairbags kann zu unkontrollierter Inflation und zum LÃ¶sen von Metallfragmenten fÃ¼hren, wenn der Airbag aktiviert wird, was zu Verletzungen der Fahrzeuginsassen fÃ¼hren kann.
-
+Im Hersteller-Werkstattsystem ; Ein Fehler im Gasgenerator des Beifahrerairbags kann zu unkontrollierter Inflation und zum Lösen von Metallfragmenten führen, wenn der Airbag aktiviert wird, was zu Verletzungen der Fahrzeuginsassen führen kann.
+
 Abhilfe: In der Werkstatt erfolgt der Ersatz der Beifahrerairbageinheit.

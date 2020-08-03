@@ -1,7 +1,7 @@
-Eintrag im Werkstattsystem ; Wegen unzureichendem Anzugsmoment kann es zum LÃ¶sen der Befestigungsschrauben der hinteren  BremstrÃ¤ger kommen.
-Eine gelÃ¶ste Schraube kann in die Bremstrommel fallen und dort zu einer Blockade des Hinterrades fÃ¼hren, was eine unmittelbare BeeintrÃ¤chtigung der  Fahrsicherheit bedeutet.
-Die HÃ¤ndler prÃ¼fen und korrigieren das Anzugsmoment der Schrauben und die ReibflÃ¤chen der Bremstrommeln. 
-Die Aktion ist fÃ¼r den Kundenkostenlos und dauert eine knappe Stunde. ; Im Servicesystem des Herstellers vermerkt. ; Die obere Kreuzgelenkgabel ist durch zwei Einquetschungen mit der Lenkwelle gesichert. Wenn diese Quetschungen fehlen kann die Welle aus der Gabel rutschen. Dann ist das Fahrzeug nicht mehr lenkbar! 
-Die HÃ¤ndler bauen die Zwischenwelle aus und prÃ¼fen ob die Sicherungsstauchungen vorhanden sind. Wenn diese fehlen, wird die komplette Lenkzwischenwelle getauscht. 
-In D sind lt. Hersteller zum Anfang 2011 nur noch wenige Fahrzeuge betroffen.
-Die Aktion dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos.  
+Im Servicesystem des Herstellers vermerkt. ; Wegen unzureichendem Anzugsmoment kann es zum Lösen der Befestigungsschrauben der hinteren  Bremsträger kommen.
+Eine gelöste Schraube kann in die Bremstrommel fallen und dort zu einer Blockade des Hinterrades führen, was eine unmittelbare Beeinträchtigung der  Fahrsicherheit bedeutet.
+Die Händler prüfen und korrigieren das Anzugsmoment der Schrauben und die Reibflächen der Bremstrommeln. 
+Die Aktion ist für den Kundenkostenlos und dauert eine knappe Stunde. ; Eintrag im Werkstattsystem ; Die obere Kreuzgelenkgabel ist durch zwei Einquetschungen mit der Lenkwelle gesichert. Wenn diese Quetschungen fehlen kann die Welle aus der Gabel rutschen. Dann ist das Fahrzeug nicht mehr lenkbar! 
+Die Händler bauen die Zwischenwelle aus und prüfen ob die Sicherungsstauchungen vorhanden sind. Wenn diese fehlen, wird die komplette Lenkzwischenwelle getauscht. 
+In D sind lt. Hersteller zum Anfang 2011 nur noch wenige Fahrzeuge betroffen.
+Die Aktion dauert etwa eine Stunde und ist für die Kunden kostenlos.  

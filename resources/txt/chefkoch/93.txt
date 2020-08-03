@@ -1,173 +1,72 @@
+Liebe Leser, da meine Küche sehr klein ist, möchte ich gerne meine Mikrowelle über dem Backofen in einem Kombischrank unterbringen.Nun ist es aber leider so, dass sich an der Wand  nur eine Steckdose befindet. Also ist das Unternehmen jetzt gescheitert, oder gibt es doch eine Möglichkeit?Bin dankbar für einen Tipp, Gruss,Melanie										
 
 
 
+Zitieren & Antworten ; Hallo Melanie, Der Backofen sollte doch einen eigenen Starkstromanschluss haben, der sich direkt hinter dem Backofen an der Wand befindet.Ist das bei Dir nicht so? GrußJsigi										
 
 
 
-  
-
-											
-											Hallo Zusammen, gerne möchte ich Euch an meiner schlechten Erfahrung teilhaben lassen.Gerade jetzt, wo der Frühling sozusagen in den Startlöchern steht, kaufe ich mir ja immer gerne am Wochenende so einen Strauß Tulpen und andere Blumen, sofern vorhanden. Gestern nun habe ich einen Strauß Narzissen gekauft und dachte mir, die weißen Tulpen sehen bestimmt hübsch dazu aus. Aber leider nur für einen Tag. Heute morgen haben alle Tulpen die Köpfe hängen lassen. Erst dachte ich "oh da hat aber diesmal die Qualität überhaupt nicht gepasst".  Aber nein, die zwei Sorten mögen sich überhaupt nicht. Das wusste ich bisher nicht, dass die Narzisse so giftig ist, dass sie Tulpen innerhalb kürzester Zeit trotz Wasser verwelken.  Also macht nicht den gleichen Fehler und erfreut euch einzeln an den Frühlingsboten   LG Laurinili										
+Zitieren & Antworten ; Hallo Jsigi,  ich hatte es vergessen zu erwähnen, Backofen soll autark an "normaler" Steckdose angeschlossen werden. Hinter dem Kombischrank für die Mikro +Ofen befindet sich nur eine Dose :(  Ceranfeld (autark) dann an den Starkstromanschluss.   VG										
 
 
 
-Zitieren & Antworten
+Zitieren & Antworten ; Zitat von Jez98 am 20.03.2020 um 17:59 Uhr
+                    
+
+                        „Ceranfeld (autark) dann an den Starkstromanschluss. “
+                    
+  Der Backofen sollte mit an den Starkstromanschluss. Der Starkstromanschluss bietet drei Phasen, das Ceranfeld hat im Normalfall zwei, also bleibt die dritte für den Backofen frei. Ein Elektriker kann dir beides anschließen. Dann bleibt die Steckdose für die Mikrowelle.										
 
 
 
+Zitieren & Antworten ; Richtig, ich würde da auch nur einen Elektriker ranlassen und auf keinen Fall etwas selbst machen.										
 
 
 
- ; 
+Zitieren & Antworten ; Physinaut,die Backöfen brauchen keinen Starkstrom Anschluss, da reicht eine normale Steckdose.  Allerdings würde ich den  nicht unbedingt   mit der Mikrowelle an eine  Leiste hängen.    Backöfen  haben einen deutlich niedrigeren Stromverbrauch ( an die 2000 Watt )  als  die Kochfelder die an die 7000 Watt brauchen.   katir										
 
 
 
+Zitieren & Antworten ; Zitat von Jez98 am 20.03.2020 um 17:59 Uhr
+                    
 
-																						
-											Hallo Laurinili. Das gilt meines Wissens nicht nur für Tulpen sondern für alle anderen Schnittblumen auch. Narzissen „vergiften“ tatsächlich das Blumenwasser.Auch Narzissenzwiebeln sind giftig. Darum werden sie (zum Glück) von Wühlmäusen verschont. GrußDorit										
-
-
-
-Zitieren & Antworten
-
+                        „Hallo Jsigi, ich hatte es vergessen zu erwähnen, Backofen soll autark an "normaler" Steckdose angeschlossen werden.Hinter dem Kombischrank für die Mikro +Ofen befindet sich nur eine Dose :(  Ceranfeld (autark) dann an den Starkstromanschluss.  VG“
+                    
+  In dem Fall muss die Steckdose für den Backofen eine eigene(!) Sicherung  haben. Da sollte dann auch nichts anderes dran, nur der Backofen. Wenn die Steckdose keine eigene Sicherung hat, könntest Du dort höchstens die Mikrowelle anschließen, falls nicht zu viele andere Verbraucher in dem Stromkreis sind.Den Backofen kannst Du dann dort jedenfalls nicht anschließen, außer Du lässt den Elektriker eine Leitung für den Ofen vom Herdanschluss abzweigen, das hat Physinaut ja schon erklärt. Das geht, wenn die Herdanschlussdose über 3 Sicherungen gemeinsam abgesichert ist. Lass lieber einen Elektriker danach sehen. Den braucht Du für das Kochfeld doch sowieso. Am Starkstrom haben Laien nichts zu suchen.  Liebe Grüße Claudia										
 
 
 
-
-
- ; 
-
+Zitieren & Antworten ; @Katir: Ein Starkstromanschluss enthält drei Phasen. Das entspricht 3 einzeln abgesicherten Steckdosen a 16A (3x3680W). Zwei Phasen und damit eine Versorgung von max 7360W bekommt das Kochfeld. Es bleibt eine einzeln abgesicherte Leitung für den Backofen. Das entspricht einer exklusiven Steckdose für den Backofen. Ein autarker Einbaubackofen wie der Siemens HB478GUB0 hat 3600W und nicht nur 2000W. Er braucht also eine Steckdose für sich allein.										
 
 
 
-																						
-											Hallo Laurinili, Tulpen und Narzissen vertragen sich nicht zusammen in einer Vase weil Narzissen einen giftigen Schleim absondern. Ein guter Florist sagt einem das beim Kauf und auch wie man Abhilfe kann. Narzissen mit den Stielenden unter einen heißen Wasserstrahl halten. Dann verschließen sich die Stielenden und die Schleimstoffe können nicht mehr austreten.Dann vertragen sie sich auch mit den Tulpen oder anderen Blumen in einer Vase.  Hol dir ein par hübsche Zweige draußen und stelle sie zu deinen Narzissen in die Vase, dann sieht es wieder schön aus.  lg katir										
+Zitieren & Antworten ; Physinaut, mein, über Starkstrom abgesichertes, Induktionsceranfeld ist  mehrere Meter von meinem Einbau Backofen weg.Wie mittlerweile in ganz vielen   Küchen.  Mein Backofen ist an eine normale Steckdose angeschlossen.Natürlich  an  eine Steckdose alleine, da Hersteller den Anschluss an eine Mehrfach Steckdose generell verbieten.										
 
 
 
-Zitieren & Antworten
+Zitieren & Antworten ; Das will ich nicht in Abrede stellen. Dann wurde bei dir das schon bei der Einrichtung der Küche berücksichtigt. Ich habe in meiner Küche eine spezielle einzeln abgesicherte Steckdose für die Spülmaschine. Da könnte ich auch einen autarken Backofen anschließen. Nur was würde ich dann mit der Spülmaschine machen? Also würde ich einen Abzweig beim Starkstromanschluss machen.Denn eine Phase eines Starkstromanschlusses ist elektrisch identisch mit einer Steckdose. Wenn man keine Steckdose für den Backofen hat, kann ein Elektriker die fehlende Steckdose durch einen Abzweig am Starkstromanschluss zusätzlich zum Kochfeld vornehmen. Vielleicht ist sogar zulässig eine Steckdose für den Backofen durch einen Abzweig am Starkstromanschluss zu installieren. Mikrowelle und Backofen an einer Steckdose bzw. auch nur über eine Absicherung würde bei gleichzeitiger Nutzung zur Leitungsüberlastung führen. Deshalb sollte man das unbedingt vermeiden.										
 
 
 
+Zitieren & Antworten ; Danke erstmal an alle für Euer Input.VG bleibt gesund, Melanie										
 
 
 
- ; 
+Zitieren & Antworten ; Ein Starkstromanschluss enthält drei Phasen. Nur mal zur Richtigstellung: Die dreiphasige Herdanschlussdose ist KEIN "Starkstromanschluss".Es handelt sich um Drehstrom. Wenn die Steckdose hinter dem betreffenden Schrank nicht separat abgesichert ist, sollte man da keinen Großverbraucher, wie einen Backofen, einstecken da an diesem Stromkreis noch andere Verbraucher angeschlossen sind. Wie schon beschrieben, kann man aber vom dreifach abesicherten, dreiphasigen Drehstromanschluss mittels Powersplitter eine Leitung abzweigen und die dann zum Schrank verlegen um dort dann den Backofen anzuschließen.Das kann man per neu installierter Steckdose machen, aber es gibt auch geschlossene "Dosen" wo einfach die Kabel verbunden werden.Das sollte aber UNBEDINGT ein Elektriker machen.Die MW kann dann an die vorhandene Steckdose. VG										
 
 
 
-
-																						
-											Hallo, vielen Dank für die Info - vielleicht kann das Thema aber auch auf einen Thread reduziert werden. Es ist im selben Forum 3 Mal eröffnet worden: https://www.chefkoch.de/forum/3,1/aktuelle-beitraege.html  LG Cathy										
+Zitieren & Antworten ; Hallo Jez, Der Stromkreis, an dem der Backofen hängt, sollte auch eine normale Mikrowelle zusätzlich vertragen.Falls der gleichzeitige Betrieb allerdings doch zuviel werden sollte, wird die vorgeschaltete Sicherung auslösen.Von daher also kein Problem.Allerdings könnte dies der Anschluss über eine 3-fach Steckdosenleiste werden. Die meisten dieser Teile sind einer Dauerbelastung, wie sie von einem Backofen ausgeht nicht gewachsen und werden heiss.Von daher lass Dir entweder eine Steckdose direkt neben die vorhandene montieren oder die Steckdose gegen eine Doppelsteckdose auswechseln. Grußrentier1000										
 
 
 
-Zitieren & Antworten
+Zitieren & Antworten ; Zitat von rentier100 am 31.03.2020 um 22:26 Uhr
+                    
 
-
-
-
-
-
- ; 
-
-
-
-
-																						
-											'vielen Dank für die Erklärungen, hab ich ja heute bereits nachgelesen. Naja, ich sprach ja auch von den Supermarkt Wochenend-Sträußen und nicht von einem guten Blumenfachgeschäft.  Cathy, ich habe bereits darauf hingewiesen, dass auf Grund eines technischen Fehlers das Thema 3x - versehentlich - geöffnet wurde. LG Laurinili										
+                        „Hallo Jez, Der Stromkreis, an dem der Backofen hängt, sollte auch eine normale Mikrowelle zusätzlich vertragen.Falls der gleichzeitige Betrieb allerdings doch zuviel werden sollte, wird die vorgeschaltete Sicherung auslösen.Von daher also kein Problem. “
+                    
+ Ein Backofen hat 3500-3600W. Eine Mikrowelle 1000-1500W. Eine Mikrowelle ist kein Kleinverbraucher wie eine LED-Lampe oder ein Radio  Zumindest wenn der Bakofen aufheizt, wäre die Mikrowelle tabu, weil man deutlich über die 16A (=3680W) einer Sicherung kommt.										
 
 
 
 Zitieren & Antworten
-
-
-
-
-
-
- ; 
-
-
-
-
-																						
-											Hallo zusammen, danke, Cathy - die übrigen Threads sind entfernt.  Viele GrüßeSofia Schau dir unsere neue  SmartList an!										
-
-
-
-Zitieren & Antworten
-
-
-
-
-
-
- ; 
-
-
-
-
-																						
-											Laurinili, das war nicht böse gemeint von mir. Deinen Hinweis hatte ich irgendwie nicht gesehen. Ich wollte nur darauf hinweisen. LG Cathy										
-
-
-
-Zitieren & Antworten
-
-
-
-
-
-
- ; 
-
-
-
-
-																						
-											Cathy, das hab ich auch in keinster Weise so aufgefasst. Ich wollte auch nur darauf hinweisen, dass 2x zuviel ist  Danke fürs Entfernen.  Zurück zum Thema:Wie gesagt, mir war das tatsächlich neu und offensichtlich habe ich noch nie versucht, beide miteinander zu kombinieren. Ich wollte Euch ja nur vor Schaden bewahren. LG Laurinili										
-
-
-
-Zitieren & Antworten
-
-
-
-
-
-
- ; 
-
-
-
-
-																						
-											Laurinili,ich hatte einfach nicht an einen Kauf im Supermarkt gedacht,  sorry.    Floristen weisen einen seit ewigen Zeiten  darauf hin. Da dachte ich einfach,  die meisten wissen es.    Tulpen kann man manchmal retten, in dem man sie ein gutes Stück abschneidet und dann in eine kleinere Vase stellt.Zu denn Narzissen dann Zweige dazu, damit man trotzdem etwas schönes in der Wohnung stehen hat.										
-
-
-
-Zitieren & Antworten
-
-
-
-
-
-
- ; 
-
-
-
-
-																						
-											Katir, die Narzissen sehen auch solo schön aus. Für einen Spaziergang um ein paar Zweige zu holen, ist es mir eindeutig zu eklig heute draußen  
-
-
-
-Zitieren & Antworten
-
-
-
-
-
-

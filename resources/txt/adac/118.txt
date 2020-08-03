@@ -1,11 +1,11 @@
-Die elektrische Wasserpumpe kann Ã¼berhitzen und dann zu einem Kurzschluss fÃ¼hren, was wiederum einen Brand auslÃ¶sen kann. Abhilfe schafft ein Austausch der Pumpen in der Werkstatt. Ein erster RÃ¼ckruf aus Januar 2017, der das Problem mittels Softwareupdate beheben sollte, war nicht erfolgreich.
-Die Aktion lÃ¤uft weltweit und beginnt in den USA. Aktuell ist noch kein Start fÃ¼r Deutschland bekannt, fÃ¼r die Kunden wird die Aktion kostenlos sein. ; Aktionscode im Serviceheft und Herstellersystem vermerkt ; Im Hersteller-Werkstattsystem ; In die Membran des UnterdruckbremskraftverstÃ¤rkers kÃ¶nnen Ã–ldÃ¤mpfe eindringen und diese schÃ¤digen. 
-In Folge kann es dann zum Ausfall der BremskraftverstÃ¤rkung kommen. Die Bremsleistung bleibt dann zwar auch voll erhalten, die erforderliche Bremspedalkraft fÃ¼r den Autofahrer steigt aber stark an (hartes Bremspedal!).
-Je nach Fahrsituation kann dies zu einem erhÃ¶hten Anhalteweg fÃ¼hren. 
-Die HÃ¤ndler prÃ¼fen die UnterdruckverstÃ¤rker und  bauen eine Unterdruckleitung mit RÃ¼ckschlagventil ein.
-Der RÃ¼ckruf ist im Aug. 2014 angelaufen, dauert eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Die ZusatzkÃ¼hlmittelpumpe kann durch FremdkÃ¶rper im KÃ¼hlmittel blockieren und dadurch Ã¼berhitzen. Eine Software-Update im MotorsteuergerÃ¤t sorgt dafÃ¼r, dass die Blockade erkannt und die Pumpe dauerhaft abgeschaltet wird.
-Die Aktion lÃ¤uft bereits und ist fÃ¼r den Kunden kostenlos. ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzufÃ¼hren. 
-
-
-Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
-Die Aktion ist fÃ¼r den Kunden kostenlos.
+Die Zusatzkühlmittelpumpe kann durch Fremdkörper im Kühlmittel blockieren und dadurch überhitzen. Eine Software-Update im Motorsteuergerät sorgt dafür, dass die Blockade erkannt und die Pumpe dauerhaft abgeschaltet wird.
+Die Aktion läuft bereits und ist für den Kunden kostenlos. ; Aktionscode im Serviceheft und Herstellersystem vermerkt ; In die Membran des Unterdruckbremskraftverstärkers können Öldämpfe eindringen und diese schädigen. 
+In Folge kann es dann zum Ausfall der Bremskraftverstärkung kommen. Die Bremsleistung bleibt dann zwar auch voll erhalten, die erforderliche Bremspedalkraft für den Autofahrer steigt aber stark an (hartes Bremspedal!).
+Je nach Fahrsituation kann dies zu einem erhöhten Anhalteweg führen. 
+Die Händler prüfen die Unterdruckverstärker und  bauen eine Unterdruckleitung mit Rückschlagventil ein.
+Der Rückruf ist im Aug. 2014 angelaufen, dauert eine halbe Stunde und ist für die Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Die Abgasreinigung wird im Zug eines Softwareupdates verbessert. Daher werden betroffenen Fahrzeuge nach und nach in die Werkstatt gebeten, um ein Softwareupdate durchzuführen. 
+
+
+Weitere Infos hierzu auch auf www.adac.de/abgasupdate/
+Die Aktion ist für den Kunden kostenlos. ; Die elektrische Wasserpumpe kann überhitzen und dann zu einem Kurzschluss führen, was wiederum einen Brand auslösen kann. Abhilfe schafft ein Austausch der Pumpen in der Werkstatt. Ein erster Rückruf aus Januar 2017, der das Problem mittels Softwareupdate beheben sollte, war nicht erfolgreich.
+Die Aktion läuft weltweit und beginnt in den USA. Aktuell ist noch kein Start für Deutschland bekannt, für die Kunden wird die Aktion kostenlos sein.

@@ -1,1 +1,1 @@
-Die Tellerfeder des BremskraftverstÃ¤rkers kann verrutschen. Das Bremspedal geht dann nicht mehr ganz zurÃ¼ck, es bleibt Restsystemdruck erhalten. ; Die RÃ¼ckhaltefunktion der RÃ¼ckhalteautomaten im integrierten Kindersitz ist wegen Fertigungstoleranzen eingeschrÃ¤nkt.
+Die Tellerfeder des Bremskraftverstärkers kann verrutschen. Das Bremspedal geht dann nicht mehr ganz zurück, es bleibt Restsystemdruck erhalten. ; Die Rückhaltefunktion der Rückhalteautomaten im integrierten Kindersitz ist wegen Fertigungstoleranzen eingeschränkt.

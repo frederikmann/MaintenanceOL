@@ -1,105 +1,62 @@
+Hallo zusammen Ich brauch mal wieder euren Rat.Mir ist grad eine Glühbirne im Bad durchgebrannt. Beim Einschalten hat es einen kleinen Puff gegeben und es war dunkel.Das passiert schon ab und zu mal, hat mich also nicht sonderlich beunruhigt.Ich hole also eine neue Birne, schraub sie ein, drücke den Schalter, aber es bleibt dunkel. Hab eine zweite Birne geholt, hätt ja sein können, daß grad diese auch defekt wäre, aber auch die zweite Birne funktioniert nicht. Dann hebe ich - bei vorher abgestelltem Strom - die Zunge in der Fassung etwas an, weil ich mal gelesen hab, daß der Kontakt fehlen könnte, weil die Zunge zu weit nach unten gedrückt sein könnte. Das hat aber auch nichts gebracht. Dann habe ich mit dem Phasenprüfer die Fassung auf Strom untersucht und konnte festellen, daß Strom drauf ist. Nun bin ich ratlos. Warum bekomme ich kein Licht mehr? Habt ihr einen Tip für mich?										
 
 
 
+Zitieren & Antworten ; Schon die Sicherung nachgesehen? Manchmal fliegen die raus wenn eine Lampe knallt. Dass Strom auf der Fassung ist sollte zwar nicht sein aber es kann schon mal vorkommen, dass jemand die falsche Leitung abgesichert hat. Ansonsten kratze mal mit dem Phasenprüfer ein wenig auf der Lasche unten rum und wenn es dann noch nicht geht ruf einen Elektriker oder jemand der sich auskennt. Es kann nämlich gefährlich werden. Viele GrüßeManfred PS: Sollte sich herausstellen, dass da der Nulleiter statt der Phase abgesichert ist lasse das ganz schnell in Ordnung bringen.										
 
 
 
-  
-
-											
-											Leider ist es wieder soweit, dass die Silikonfugen meiner Badewanne und meiner Dusche erneuert werden müssen. Kann jemand einen guten Handwerker (Installateur, Fliesenleger oder wer auch immer das beruflich macht!) im Raum Wien dafür empfehlen? Danke, Mark										
+Zitieren & Antworten ; Hallo,   Mir ist grad eine Glühbirne im Bad durchgebrannt.   Kann es sein das die wegen Feuchtigkeit durchgebrannt ist?										
 
 
 
-Zitieren & Antworten
+Zitieren & Antworten ; PS: Sollte sich herausstellen, dass da der Nulleiter statt der Phase abgesichert ist lasse das ganz schnell in Ordnung bringen.  Hallo Fotomanni, was heißt das auf nichtfachmännisch?										
 
 
 
+Zitieren & Antworten ; Kann es sein das die wegen Feuchtigkeit durchgebrannt ist?  Hallo katir, ja, das ist sehr wahrscheinlich, im Bad brennt mir öfter die Glühlampe durch, ich nehme an, wegen der Feuchtigkeit.Wobei die Feuchtigkeit in meinem jetzigen Bad nicht sooo groß ist wie in früheren Wohnungen.Denn ich hab Fenster im Bad. Früher in fensterlosen Badezimmern war die Feuchtigkeit schon wesentlich größer.Da ist mir auch öfter die Birne durchgebrannt. Wie schon gesagt, das passiert bei mir öfter.Nur jetzt gibt's halt kein neues Licht mit einer neuen Birne. Und das wundert mich doch sehr.										
 
 
 
- ; 
+Zitieren & Antworten ; Also mit 'öfter' meine ich, daß mir in zwei Jahren etwa 1x oder 2x die Glühbirne durchbrennt.										
 
 
 
-
-																						
-											Hallo Mark, das kann man   sehr gut selber machen. Ob für so kleinen Arbeiten ein Fliesenleger ins Haus kommt glaube ich weniger.										
+Zitieren & Antworten ; Hallo Mincca, wenn in einem Stromkreis nicht das Ende abgesichert ist, aus dem der Strom kommt (Phase) sondern das Ende, das wieder in den Stromkasten führt (Null), weiß der Strom nicht wohin bzw. geht Durch Dich durch zurück in die Erde (mit allen Konsequenzen).  Die Antwort auf Deine Glühbirnenfrage kannst Du z.B. mit einem Spannungsprüfer bekommen (die roten Dinger mit zwei Griffen und einer Strippe dazwischen). Ein Ende hältst Du an den einen Pol in der Fassung und das andere Ende an den anderen Pol. Wenn alles in Ordnung ist, leuchtet eine LED, die die anliegende Spannung anzeigt. Oder Du drehst die neue Birne mal in eine andere Lampe, vielleicht ist sie ja auch kaputt. GrußPEter										
 
 
 
-Zitieren & Antworten
+Zitieren & Antworten ; p.s., > Sollte sich herausstellen, dass da der Nulleiter statt der Phase abgesichert ist lasse das ganz schnell in Ordnung bringen < Darauf bezog sich mein erster Satz.										
 
 
 
+Zitieren & Antworten ; Hallo ihr Lieben, ich wohne in einer 3 ZKB Wohnung leider funktioniert der Strom bzw das Licht im Flur nicht mehr ich dachte ich bräuchte vllt einfach nur eine neue Glühbirne aber Nein alle wurden getauscht und dennoch kein Licht. Das Problem was ich jetzt habe ist das wir uralte schlater(Runde Knöpfe im stromkasten) haben und ich keine Ahnung davon habe vllt kann mir jemand ein Rat geben oder sollte ich vllt doch lieber einen Fachmann Montag anrufen?? Danke schon mal für die Antworten										
 
 
 
- ; 
+Zitieren & Antworten ; grias di, meinst Du mit runden Köpfen Schraubautomaten oder Schmelzsicherungen? pfiati										
 
 
 
-
-																						
-											Eigentlich hätte Ich es lieber wenn das jemand mit Erfahrung mach. Möchte nicht zu viel experimentieren.										
+Zitieren & Antworten ; @steirer-bua: ich denke, dass jasmin_rowlins1618 Deine Frage nicht beantworten kann, wenn sie keine Ahnung davon hat. @jasmin_rowlins1618: wie sieht die Sicherung genau aus, ein runder roter Knopf in der Mitte der Sicherung?Wenn dieser hervorsteht, musst Du diesen nur wieder reindrücken.Eine durchbrennende Glühbirne kann schonmal die Sicherung auslösen.										
 
 
 
-Zitieren & Antworten
+Zitieren & Antworten ; Zitat von jasmin_rowlins1618 am 09.11.2019 um 19:32 Uhr
+                    
+
+                        „Hallo ihr Lieben, ich wohne in einer 3 ZKB Wohnung leider funktioniert der Strom  Das Problem was ich jetzt habe ist das wir uralte schlater(Runde Knöpfe im stromkasten) haben “
+                    
+  Wenn das Schraubsicherung sind, dann sind die runden Knöpfe Kappen zum abschrauben. Unter ihnen kommt die eigentliche Sicherung zum Vorschein. Man sollte immer ein paar Sicherungen zum Austausch im oder auf dem Sicherungskasten liegen haben. Im günstigen Fall kann man durch das kleine Fenster sehen, welche Sicherung defekt ist. Schaue mal hier unter Schmelzsicherung: https://www.sonnentaler.net/dokumentation/wiss/elektrizitaet/grundlagen/elektrik-im-haus/  Da du in einer Wohnung wohnst, hast du doch bestimmt Nachbarn im Haus, die du um Rat fragen kannst, bevor du einen Elektriker rufst. Die oder den Vermieter/Hausverwalter fragen, halte ich für zielführender als eine Ferndiagnose hier.										
 
 
 
+Zitieren & Antworten ; Hallo. Vermieter anrufen. Der hat ganz klar dafür zu sorgen dass die Elektrik in der Mietswohnung funktioniert. Verstehe nicht warum das nicht die erste Maßnahme war anstatt hier in einem Kochforum rumzusuchen. Gruß Dorit										
 
 
 
- ; 
-
-
-
-
-																						
-											Dann wirst du die Sanitär Geschäfte in deiner Nachbarschaft anrufen müssen, und nachfragen  ob das jemand übernimmt.										
-
-
-
-Zitieren & Antworten
-
-
-
-
-
-
- ; 
-
-
-
-
-																						
-											Dafür braucht es wenig handwerkliches Geschick. Hast du nicht jemanden in der Familie mit etwaigen handwerklichen Fähigkeiten der das machen könnte? Wenn du Mieter einer Wohnung bist dann kannst du ja den Vermieter fragen. Der schickt entweder den Hausmeister oder einen Handwerker vorbei. LG Leila										
+Zitieren & Antworten ; Hallo, wenn sie den Vermieter anruft und der einen Elektriker schickt, nur weil evtl. eine Sicherung rausgesprungen ist, kann das ganz schön teuer werden. Zumindest hatte ich noch nie einen Mietvertrag ohne Kleinreparaturklausel, und dann zahlt der Mieter die Rechnung solange sie unter ca. 100 € bleibt.Da finde ich den Hinweis, die Nachbarn zu fragen, die ja sehr wahrscheinlich die gleichen Sicherungen haben, deutlich besser. Fachmann kann man immer noch holen, wenn es nicht die Sicherung ist. Grüße,Eski										
 
 
 
 Zitieren & Antworten
-
-
-
-
-
-
- ; 
-
-
-
-
-																						
-											Ich weiß nicht wie es in Wien ist, aber in Gegenden, die vom Bau-Boom betroffen sind, wirst du für solche Aufträge kaum einen Profi finden. Wir sind auch handwerklich völlig unbegabt und würden solche Arbeiten immer vergeben (gerade im Bad, wo alles ordentlich gegen Feuchtigkeitsschäden gesichert werden muss), aber bei derzeitiger Auftragslage setzt sich für sowas keiner ins Auto. Auf Gut Glück kann man es in den von dir benannten Sparten probieren...ich persönlich würde in diesen Fällen aber entweder nach einem Allround-Handwerker suchen oder auf regionalen Portalen, bei myhammer o.ä. eine Anzeige schalten. Erstere bieten ihre Dienste meist ähnlich denen von einem Hausmeister an, sie machen allen "Kleinkram", der im Haus anfällt und zumindest in D gibt es einen sehr großen Trend in diesem Bereich. Auch ein Baumarkt bei uns (ich glaube es ist ein Hornbach?) bietet die Vermittlung von solchen Klein-Leistungen an, vielleicht lohnt es sich, dort mal zu fragen.Ikea möchte künftig auch so einen Vermittlungsservice in D anbieten, aber die Fugen sollen wahrscheinlich schneller gemacht werden   Ich suche übrigens noch jemanden, der das Dach unseres Gartenschuppens neu deckt... und ein kleineres Rohr verputzt... und eine Pergola streicht... ein Wandkabel "wegspachtelt" und und und... aber alle diese Arbeiten bleiben bei uns liegen, weil dafür einfach niemand raus kommt. Wir sammeln daher immer und lassen sowas mitmachen, wenn woanders im Haus etwas erledigt werden muss.										
-
-
-
-Zitieren & Antworten
-
-
-
-
-
-

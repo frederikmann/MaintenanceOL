@@ -1,6 +1,6 @@
-Im Fahrzeugdiagnosesystem vermerkt.  ; VerstÃ¤rkt durch SchlÃ¼sselanhÃ¤nger kann der ZÃ¼ndschlossschalter wÃ¤hrend der Fahrt in Stellung "aus" springen und damit die MotorzÃ¼ndung ausschalten. Im abgeschalteten Zustand kommt es in Folge zum Ausfall der LenkuntersÃ¼tzung und BremskraftverstÃ¤rkung. Das kann, je nach Fahrsituation, zu kritischen Verkehrssituationen fÃ¼hren. 
-Bei dem RÃ¼ckruf handelt es sich um die gleiche Ursache wie bei den 2.6 Mio. RÃ¼ckrufen von GM bei denen Fahrzeuge von Chevrolet, Pontiac und Saturn betroffen waren. 
-Die HÃ¤ndler tauschen die ZÃ¼ndschlÃ¶sser bei den  betroffenen Fahrzeugen aus.
-Die Aktion lÃ¤uft ab Mai 2014, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. ; keine Angaben ; Der Dichtring der Antriebswelle des Hinterachsdifferentials kann undicht werden. 
-In Folge tritt HinterachsÃ¶l aus, was auf Dauer zur Blockade des Differentials fÃ¼hren kann.
-Die HÃ¤ndler tauschen den Wellendichtring kostenlos aus. Die DurchfÃ¼hrung dauert etwa eine Stunde.
+Der Dichtring der Antriebswelle des Hinterachsdifferentials kann undicht werden. 
+In Folge tritt Hinterachsöl aus, was auf Dauer zur Blockade des Differentials führen kann.
+Die Händler tauschen den Wellendichtring kostenlos aus. Die Durchführung dauert etwa eine Stunde. ; Verstärkt durch Schlüsselanhänger kann der Zündschlossschalter während der Fahrt in Stellung "aus" springen und damit die Motorzündung ausschalten. Im abgeschalteten Zustand kommt es in Folge zum Ausfall der Lenkuntersützung und Bremskraftverstärkung. Das kann, je nach Fahrsituation, zu kritischen Verkehrssituationen führen. 
+Bei dem Rückruf handelt es sich um die gleiche Ursache wie bei den 2.6 Mio. Rückrufen von GM bei denen Fahrzeuge von Chevrolet, Pontiac und Saturn betroffen waren. 
+Die Händler tauschen die Zündschlösser bei den  betroffenen Fahrzeugen aus.
+Die Aktion läuft ab Mai 2014, dauert etwa eine Stunde und ist für die Kunden kostenlos. ; keine Angaben ; Im Fahrzeugdiagnosesystem vermerkt. 

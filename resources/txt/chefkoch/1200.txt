@@ -1,0 +1,41 @@
+Moin zusammen, ein Neubauprojekt auf das ich noch Einfluss nehmen kann: ein sehr großer Bakon. Was ich mir vorstelle sind bodentiefe Pflanzkübel, die über eine Wasserzuleitung unter dem Balkonbelag verlegt werden. 4 Wochen weg und nichts ist vertrocknet, selbst im Hochsommer.  Weiß jemand wer soetwas baut, Kübel anbietet? Im Netz habe ich nicht wirkich was gefunden, nur die Dinger mit Wasserreservoir, das fängt bei einem Südbalkon sehr schnell an zu stinken und für 4 Wochen ist das auch keine Lösung. Danke euchAdji										
+
+
+
+Zitieren & Antworten ; Hallo, ich kann mir das jetzt nicht so recht vorstellen, wie das aussehen soll. Das Wasser wird dann von unten in die Kübel geleitet?Selbst haben wir eine Bewässerungsanlage, bei der die einzelnen Kübel über dünne Schläuche versorgt werden, deren Ende man dann in die Erde steckt. Diese Anlage ist mit einer Zeituhr versehen. LGLaCiliegina										
+
+
+
+Zitieren & Antworten ; Hi Adji, dass die Pflanzen von unten mit ausreichend Wasser versorgt werden bezweifele ich.Vielleicht klappt das bei bestimmten Pflanzen.Etliche Pflanzen vertragen es nicht regelmäßig "nasse Füße" zu haben und/oder haben auch weiter oben Wurzeln. Das Wasser sollte besser von oben kommen, damit möglichst der gesamte "Ballen" befeuchtet wird.Dafür gibt es z.B. das Micro-Drip-System  das durch eine Bewässerungsuhr gesteuert werden kann.Die Hauptleitungen könnte man baulich "verstecken", sollten aber zugänglich bleiben. Meine, sehr durstigen, Bambusse werden mit sogenannten Schwitzschläuchen/Perlschläuchen bewässert.Ich habe eine Bewässerungsuhr mit zwei Ausgängen, die ich separat timen kann.So wird zuerst eine Hälfte der Pflanzen 30 Min. bewässert und dann die andere Hälfte 30 Min.Einfach aus dem Grund, weil der Wasserdruck nicht für beide "Linien" gleichzeitig ausreichen würde. Die Schläuche ziehe ich einfach durch die nebeneinander stehenden Kübel (70-80cm Durchmesser).Lücken überbrücke ich mit einem normalen Schlauch den ich unsichtbar unter die Metallabdeckung meiner gemauerten Terassenumrandung klemmen kann.Da die Bambusse auch unten belaubt sind sieht man die Schläuche nicht. Leider haben wir mit 14 Grad dH rel. hartes Wasser. Das heißt, dass ich die Schläuche alle zwei Jahre austauschen muss weil sie sich zusetzen.Aber zum jährlichen Umtopfen müssen sie eh entfernt werden. 30 Meter, 1/2" kosten rund 25,-Euro. VG										
+
+
+
+Zitieren & Antworten ; Ach so-Ich habe auch eine Südterasse mit mindestens 12 Std. praller Sonneneinstrahlung, kķund bin ab und zu zwei Monate weg.Wenn es dann viel regnet ist es natürlich eine Wasseverschwendung, wenn man so will, und die Kübel müssen eine gute Drainageschicht unten haben damit überflüssiges Wasser ablaufen kann. Aber die Bewässerung ist noch der geringste finanzielle Aufwand bei meinen Pflanzen die bis zu 4 Meter hoch sind, VG										
+
+
+
+Zitieren & Antworten ; Hm,also bis jetzt habe ich Garten (großen Garten) und habe die Erfahrung gemacht das sich Wurzeln immer dort bilden wo Wasser ist. Oberflächenwässerrung heißt also die Pflanzen bilden die Wurzeln nach oben aus, ist es 3 Tage trocken fangen sie an zu kümmern. Kommt die Bewässerung aus der Tiefe, deswegen ist die Drip Bewässerung eher kontraproduktiv. 'nasse Füsse' kann man durch ausreichend Drainage bewältigen. Das ist in einem Garten sicherlich einfacher zu bewältigen als in Kübeln. GrußAdji										
+
+
+
+Zitieren & Antworten ; Hallo Adji,das von Eva verlinkte System kenne ich ebenfalls und finde es sehr gut, es gibt andere Firmen aber bis jetzt ist Gardena die beste. So ein System wie von dir gewünscht habe ich bis jetzt  noch nicht auf irgend einer Gartenmesse gesehen. Genau wie Eva denke ich,  dass die Pflanzen von unten nicht mit ausreichend Wasser versorgt werden sollten.Das klappt in der Sumpfzone von unserem Teich zwar gut, aber das sind   speziellen Sumpf Pflanzen. Bei normalen Pflanzen lässt Staunässe  die Wurzeln   regelrecht ertrinken. Sie faulen, werden von Pilzen befallen.    Feuchtigkeit und Nährstoffe können dann nicht mehr von den Wurzeln der Pflanzen aufgenommen werden können. Pflanzen  können  nicht entscheiden  wie viel Wasser sie  benötigen, auch wenn es da Ausnahmen gibt.										
+
+
+
+Zitieren & Antworten ; Hallo Adji! Mein Tipp wäre: lasse die einen Außen-Wasserhahn installieren, den Du natürlich über den Winter von innen abstellen kannst. An diesen Wasserhahn kannst Du dann einen Gardena-Bewässerungs-Timer anschließen. Die Dinger sind wirklich nicht schlecht. Was für eine Wasserzuführung Du dann hinter den Bewässerungscomputer hängst, ist für die Technik erst mal relativ egal. Das kannst Du dann auf die zu bewässernden Pflanzen abstimmen. Mit dieser Installation wärst Du in alle Richtungen flexibel. Ob Tröpfchen-, Nebel- oder Schwall-Bewässerung, ob mit oder ohne Feuchte-Sensor. Du hast dann alle Möglichkeiten. Am besten lasse in der Nähe auch noch eine Steckdose installieren. Strom braucht man ja scowieso auf der Terrasse. Dann kannst Du, wenn Du es auf die Spitze treiben willst, die Bewässerung computergesteuert z.B. mit einem Raspberry Pi realisieren und das aktuelle Wetter und vorhandene Feuchtigkeit berücksichtigen. Der Pi könnte dir gleichzeitig als Kamera-Server dienen, damit Du deine Pflanzenpracht von fast überall auf der Welt her betrachten kannst. Sogar Dünger-Zugabe könnte das Ding managen. Liebe Grüße, Thomas.										
+
+
+
+Zitieren & Antworten ; Hi, einen Wasserhahn außen sollte man natürlich haben, wenn man eine Bewässerungsanlage installieren will.Das hatte ich als selbstverständlich voraus gesetzt. Feuchtesensor und Regenmesser hatte ich auch mal installiert. Die waren sehr unzuverlässig und wenn ich nicht, bei meiner Abwesenheit jemand gehabt hätte, die innen die Pflanzen gießt und allgemein nach dem Rechten schaut, wäre mir alles vertrocknet.Vertrauen in technische Anlagen ist gut-Kontrolle von Menschen besser.   VG										
+
+
+
+Zitieren & Antworten ; Moin,ja natürlich ein Wasseranschluss. Automatische Bewässerungsanlage und dann das Wasser in Eimern hin tragen, das wärs   Von Gardena bin ich ganz weg. Die Qualität ist durchweg (von Werkzeug bis Bewässerung) zu schlecht für deren sehr hohe Preise.Wie oft sich schon deren Schlauchverbindungen beim ersten Anschrauben mit einem leisen 'Knacks' verabschiedet haben, Scheren kann man nach 2 Jahren wegwerfen - da sind die von Tschibo besser. Aber: ich habe jemanden durch den Architekten gefunden, der solche Anlagen baut. Im Gartencenter bekommt man sie wohl nicht und selbständig darf ich an der Wasseranlage eh nichts tun. Haftung bei Neubau: wer ist schuld wenn es irgendwo schimmelt. Ich muss es also in jedem Fall absegnen lassen. Aber danke für eure AnregungenAdji										
+
+
+
+Zitieren & Antworten ; Für meine Tomatenpflanzen, die ich in großen Töpfen halte, hab ich mir Bewässerungskegel gekauft. Das sind so kleine Tonkegel mit einem Schlauch dran, den man mit dem anderen Ende in einen großen gefüllten Eimer Wasser hängt. Vorher muss man die Kegel mit den Schläuchen komplett in Wasser einlegen, damit sie volllaufen und das ganze funktioniert. Die gefüllten Kegel werden dann in die Erde gesteckt. Dann können die Pflanzen nach eigenem Bedarf so viel Wasser "trinken", wie sie benötigen. Wie lange das hält, kommt ganz auf Größe des Eimers an. Das probiert man am besten schon ein paar Wochen bevor man verreist aus, um es zu beobachten.										
+
+
+
+Zitieren & Antworten

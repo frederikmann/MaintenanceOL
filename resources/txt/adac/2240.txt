@@ -1,2 +1,2 @@
-Der Motorkabelbaum kann aufgrund von Montageabweichungen auf die Kante einer Abdeckung drÃ¼cken. Vibrationen kÃ¶nnen dann dazu fÃ¼hren, dass sich die Isolierung an den Kabeln im Laufe der Zeit abnutzt und der Kerndraht freigelegt wird. Somit kann ein elektrischer Kurzschluss entstehen.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; Der Motorkabelbaum kann aufgrund von Montageabweichungen auf die Kante einer Abdeckung drücken. Vibrationen können dann dazu führen, dass sich die Isolierung an den Kabeln im Laufe der Zeit abnutzt und der Kerndraht freigelegt wird. Somit kann ein elektrischer Kurzschluss entstehen.
+Die Aktion ist für den Kunden kostenlos.

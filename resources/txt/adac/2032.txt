@@ -1,1 +1,1 @@
-Eine fehlerhafte Konfiguration des Body-Control-Modul (BCM) kann dazu fÃ¼hren, dass ein Ausfall der vorderen LED-Fahrtrichtungsanzeiger nicht erkannt und nicht angezeigt wird. Abhilfe: Ein Softwareupdate wird durchgefÃ¼hrt. ; Im Hersteller-Werkstattsystem, Code 97DR
+Im Hersteller-Werkstattsystem, Code 97DR ; Eine fehlerhafte Konfiguration des Body-Control-Modul (BCM) kann dazu führen, dass ein Ausfall der vorderen LED-Fahrtrichtungsanzeiger nicht erkannt und nicht angezeigt wird. Abhilfe: Ein Softwareupdate wird durchgeführt.

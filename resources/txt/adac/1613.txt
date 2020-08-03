@@ -1,3 +1,3 @@
-Das SteuergerÃ¤t fÃ¼r Elektrik (Batterie-Ladung, Beleuchtung, Scheibenwischer etc.) wird vom HÃ¤ndler nach Herstelleranweisung Ã¼berprÃ¼ft und ggf. ausgetauscht.
-Die Arbeiten dauern bis zu zwei Stunden und sind fÃ¼r den Kunden kostenlos.
- ; im Peugeot EDV-System ; Der Hersteller macht keine Angaben zur Kennzeichnung bearbeiteter Fahrzeuge ; Die Stromversorgung der Fensterheber kann bis zu 45 Sekunden nach Ausschalten der ZÃ¼ndung aktiviert bleiben, auch wenn eine der TÃ¼ren geÃ¶ffnet wurde. Daraus resultieren mÃ¶gliche Risiken des Einklemmens oder des Diebstahls. Die Werkstatt aktualisiert die Software des Bordnetz-SteuergerÃ¤tes.I
+Das Steuergerät für Elektrik (Batterie-Ladung, Beleuchtung, Scheibenwischer etc.) wird vom Händler nach Herstelleranweisung überprüft und ggf. ausgetauscht.
+Die Arbeiten dauern bis zu zwei Stunden und sind für den Kunden kostenlos.
+ ; Der Hersteller macht keine Angaben zur Kennzeichnung bearbeiteter Fahrzeuge ; Die Stromversorgung der Fensterheber kann bis zu 45 Sekunden nach Ausschalten der Zündung aktiviert bleiben, auch wenn eine der Türen geöffnet wurde. Daraus resultieren mögliche Risiken des Einklemmens oder des Diebstahls. Die Werkstatt aktualisiert die Software des Bordnetz-Steuergerätes.I ; im Peugeot EDV-System

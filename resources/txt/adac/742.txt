@@ -1,7 +1,7 @@
-Im HÃ¤ndlersystem des Herstellers ; Im Honda Serviceportal "MaRIS Pay&Go" ist eine der Aktionscodes "5VZ" oder "5VX" vermerkt. ; im Datenbestand des Importeurs ; In der USA kam es in einigen FÃ¤llen mit unfallbedingten AuslÃ¶sen des Fahrerairbags, wÃ¤hrend des Aufblasphase des Airbags zum Zerreissen der Airbaghaut. 
-Dies kann zu Verletzungen der Insassen fÃ¼hren.
-Die wenigen betroffenen Kunden in Deutschland, es handelt sich um Einzelzulassungen, 
-erhalten beim HÃ¤ndler ein neues Airbagmodul
-Die Aktion startet im Februar in Deutschland , dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. ; Werkstatt wird prÃ¼fen, ob beanstandete Version des Zulieferteils eingebaut ist, diese werden kostenlos ersetzt.
-Honda lÃ¤ÃŸt die Halter-Adressen derzeit Ã¼ber das KBA erfassen-Start der Anschreibeaktion soll noch im Juni sein. ; Wegen eines Produktionsfehlers des Zulieferers Takata, kann im AuslÃ¶sefall (Unfall) der ZÃ¼nderdruck so hoch werden, dass sich aus dem Gasgenerator beim Entfalten des Airbags Metallsplitter lÃ¶sen die dann die Insassen verletzen kÃ¶nnen. Die HÃ¤ndler tauschen das Fahrerairbagmodul aus.
-Die Aktion wurde im Dez.2015 fÃ¼r deutsche Kunden gestartet, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos.
+im Datenbestand des Importeurs ; Wegen eines Produktionsfehlers des Zulieferers Takata, kann im Auslösefall (Unfall) der Zünderdruck so hoch werden, dass sich aus dem Gasgenerator beim Entfalten des Airbags Metallsplitter lösen die dann die Insassen verletzen können. Die Händler tauschen das Fahrerairbagmodul aus.
+Die Aktion wurde im Dez.2015 für deutsche Kunden gestartet, dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Im Händlersystem des Herstellers ; In der USA kam es in einigen Fällen mit unfallbedingten Auslösen des Fahrerairbags, während des Aufblasphase des Airbags zum Zerreissen der Airbaghaut. 
+Dies kann zu Verletzungen der Insassen führen.
+Die wenigen betroffenen Kunden in Deutschland, es handelt sich um Einzelzulassungen, 
+erhalten beim Händler ein neues Airbagmodul
+Die Aktion startet im Februar in Deutschland , dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Im Honda Serviceportal "MaRIS Pay&Go" ist eine der Aktionscodes "5VZ" oder "5VX" vermerkt. ; Werkstatt wird prüfen, ob beanstandete Version des Zulieferteils eingebaut ist, diese werden kostenlos ersetzt.
+Honda läßt die Halter-Adressen derzeit über das KBA erfassen-Start der Anschreibeaktion soll noch im Juni sein.

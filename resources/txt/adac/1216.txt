@@ -1,16 +1,16 @@
-Im Mercedes-Benz HÃ¤ndlersystem vermerkt.  ; Wegen einer defekten Dichtung am Steuerkettenspanner kann dieser ausfallen. Das fÃ¼hrt zu einer gelockerten Steuerkette, die Ã¼berspringen kann, was in Folge zum Motorschaden fÃ¼hren kann. Die HÃ¤ndler tauschen den fehlerhaften Dichtring gegen eine verbesserte Version aus. 
-Die Aktion ist im Jan. 2015 angelaufen und ist fÃ¼r die Kunden kostenlos. ; Aufgrund unzulÃ¤ssiger Abschalteinrichtungen wird aus der freiwilligen ServicemaÃŸnahme zum Softwareupdate ein offizieller RÃ¼ckruf. Betroffene Modelle:
-Vito 1.6 Diesel (OM622): 06.15 bis 06.18
-Vito 2.2 Diesel (OM651): 09.14 bis 09.16 
-C 220d/C 250d und C 220, C 250 BlueTEC (OM651): 12.13 bis 05.18 
-C 180d/C200d und C 180/200 BlueTEC (OM626): 08.14 bis 05.18 
-E 350 BlueTEC, E 350 d (nur Coupe, C207) (OM642): 02.13 bis 12.16 
-G 350d (evtl. auch G 350 BlueTEC) (OM642): 09.15 bis 12.15
-GLC 220d/GLC 250d (OM651): 06.15 bis 06.18 
-S 300 BlueTEC HYBRID /S 300 h (OM651): 12.13 bis 09.16 
-ML 250 BlueTEC (u.U. auch GLE 250d) (OM651): 08.11 bis 06.15 
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Die Motorraumabdichtung an der Trennwand kann sich lÃ¶sen und sich dann im ungÃ¼nstigen Fall an heiÃŸen Motorteilen entzÃ¼nden. Es besteht dann Brandgefahr. 
-Die HÃ¤ndler bringen an der Trennwand vier zusÃ¤tzliche Klammern an um die Motorraumabdichtung sicher zu fixieren.
-Die Aktion ist im Feb. 2015 angelaufen, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos., ; Im Daimler-Herstellersystem hinterlegt. ; Bei betroffenen Fahrzeugen existiert eine nicht ausreichende Erdung der LenksÃ¤ule. Bei einer BeschÃ¤digung der Leiterbahnen innerhalb der Wickelfederkassette im Mantelrohrschaltermodul kÃ¶nnte der Fahrerairbag im Falle einer elektrostatischen Entladung unmotiviert auslÃ¶sen. Die BeschÃ¤digung dieser Leiterbahnen wird dem Fahrer im Vorfeld durch eine Airbag-Warnmeldung im Kombiinstrument sowie der roten Airbagkontrollleuchte angezeigt. Als vorsorgliche MaÃŸnahme wird bei betroffenen Fahrzeugen in der Werkstatt eine ausreichende Erdung der LenksÃ¤ule hergestellt.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Es wurden SteuergerÃ¤te der elektrischen Servolenkung mit fehlerhafter VerschweiÃŸung der Kontakte verbaut. Im Falle von nicht korrekt verschweiÃŸten Pins im SteuergerÃ¤t wÃ¤re eine dauerhafte elektrische Verbindung der Kontakte mÃ¶glicherweise nicht gewÃ¤hrleistet. Sollten die Pins kontaktlos werden, hÃ¤tte dies den Verlust der ServolenkunterstÃ¼tzung und somit ein erhÃ¶htes Unfallrisiko zur Folge. Als Abhilfe wird bei betroffenen Fahrzeugen die elektrische Servolenkung ausgetauscht.
-Die Aktion lÃ¤uft bereits und ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem
+Die Motorraumabdichtung an der Trennwand kann sich lösen und sich dann im ungünstigen Fall an heißen Motorteilen entzünden. Es besteht dann Brandgefahr. 
+Die Händler bringen an der Trennwand vier zusätzliche Klammern an um die Motorraumabdichtung sicher zu fixieren.
+Die Aktion ist im Feb. 2015 angelaufen, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos., ; Bei betroffenen Fahrzeugen existiert eine nicht ausreichende Erdung der Lenksäule. Bei einer Beschädigung der Leiterbahnen innerhalb der Wickelfederkassette im Mantelrohrschaltermodul könnte der Fahrerairbag im Falle einer elektrostatischen Entladung unmotiviert auslösen. Die Beschädigung dieser Leiterbahnen wird dem Fahrer im Vorfeld durch eine Airbag-Warnmeldung im Kombiinstrument sowie der roten Airbagkontrollleuchte angezeigt. Als vorsorgliche Maßnahme wird bei betroffenen Fahrzeugen in der Werkstatt eine ausreichende Erdung der Lenksäule hergestellt.
+Die Aktion ist für den Kunden kostenlos. ; Es wurden Steuergeräte der elektrischen Servolenkung mit fehlerhafter Verschweißung der Kontakte verbaut. Im Falle von nicht korrekt verschweißten Pins im Steuergerät wäre eine dauerhafte elektrische Verbindung der Kontakte möglicherweise nicht gewährleistet. Sollten die Pins kontaktlos werden, hätte dies den Verlust der Servolenkunterstützung und somit ein erhöhtes Unfallrisiko zur Folge. Als Abhilfe wird bei betroffenen Fahrzeugen die elektrische Servolenkung ausgetauscht.
+Die Aktion läuft bereits und ist für den Kunden kostenlos. ; Aufgrund unzulässiger Abschalteinrichtungen wird aus der freiwilligen Servicemaßnahme zum Softwareupdate ein offizieller Rückruf. Betroffene Modelle:
+Vito 1.6 Diesel (OM622): 06.15 bis 06.18
+Vito 2.2 Diesel (OM651): 09.14 bis 09.16 
+C 220d/C 250d und C 220, C 250 BlueTEC (OM651): 12.13 bis 05.18 
+C 180d/C200d und C 180/200 BlueTEC (OM626): 08.14 bis 05.18 
+E 350 BlueTEC, E 350 d (nur Coupe, C207) (OM642): 02.13 bis 12.16 
+G 350d (evtl. auch G 350 BlueTEC) (OM642): 09.15 bis 12.15
+GLC 220d/GLC 250d (OM651): 06.15 bis 06.18 
+S 300 BlueTEC HYBRID /S 300 h (OM651): 12.13 bis 09.16 
+ML 250 BlueTEC (u.U. auch GLE 250d) (OM651): 08.11 bis 06.15 
+Die Aktion ist für den Kunden kostenlos. ; Wegen einer defekten Dichtung am Steuerkettenspanner kann dieser ausfallen. Das führt zu einer gelockerten Steuerkette, die überspringen kann, was in Folge zum Motorschaden führen kann. Die Händler tauschen den fehlerhaften Dichtring gegen eine verbesserte Version aus. 
+Die Aktion ist im Jan. 2015 angelaufen und ist für die Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Im Mercedes-Benz Händlersystem vermerkt.  ; Im Daimler-Herstellersystem hinterlegt.

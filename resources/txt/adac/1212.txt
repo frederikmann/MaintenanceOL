@@ -1,8 +1,8 @@
-Die Dieselkraftstofffilter mit integrierter Heizung kÃ¶nnen im oberen Verschlussbereich der EntwÃ¤sserungsÃ¶ffnung undicht werden und dadurch Dieselkraftstoff austreten. 
-Die HÃ¤ndler tauschen die Kraftstofffilter gegen eine modifizierte Version aus.
-Die Aktion lÃ¤uft seit  Nov. 2010 dauert etwa  eine Stunde und ist fÃ¼r die Kunden kostenlos. ; Wegen eines fehlerhaften Signals, das aufgrund von Toleranzabweichungen eines elektr. Bauteils im SteuergerÃ¤t  (Positions-Sensor), erzeugt wird, wird die LenkunterstÃ¼tzung deaktiviert und das System geht in das Notlaufprogramm (RÃ¼ckfallebene).
-Dadurch muss der Fahrer deutlich hÃ¶here LenkkrÃ¤fte aufbringen, die mechanische LenkfÃ¤higkeit des Fahrzeuges ist aber nicht beeintrÃ¤chtigt. Der Fehler wird im Kombiinstrument gleichzeitig als Meldung "Lenkhilfe-StÃ¶rung, siehe Betriebsanleitung" zusammen mit einem Warnton ausgegeben. 
-Die HÃ¤ndler tauschen das Lenkgetriebe aus.
-Der RÃ¼ckruf lÃ¤uft seit Sept. 2011, dauert etwa dreieinhalb Stunden und ist f. die Kunden kostenlos. ; Die Motorraumabdichtung an der Trennwand kann sich lÃ¶sen und sich dann im ungÃ¼nstigen Fall an heiÃŸen Motorteilen entzÃ¼nden. Es besteht dann Brandgefahr. 
-Die HÃ¤ndler bringen an der Trennwand vier zusÃ¤tzliche Klammern an um die Motorraumabdichtung sicher zu fixieren.
-Die Aktion ist im Feb. 2015 angelaufen, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos., ; nur im internen Garantiesystem des Herstellers vermerkt.  ; Im Garantiesystem des Herstellers vermerkt. ; Im Mercedes-Benz HÃ¤ndlersystem vermerkt. 
+Die Motorraumabdichtung an der Trennwand kann sich lösen und sich dann im ungünstigen Fall an heißen Motorteilen entzünden. Es besteht dann Brandgefahr. 
+Die Händler bringen an der Trennwand vier zusätzliche Klammern an um die Motorraumabdichtung sicher zu fixieren.
+Die Aktion ist im Feb. 2015 angelaufen, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos., ; nur im internen Garantiesystem des Herstellers vermerkt.  ; Im Mercedes-Benz Händlersystem vermerkt.  ; Die Dieselkraftstofffilter mit integrierter Heizung können im oberen Verschlussbereich der Entwässerungsöffnung undicht werden und dadurch Dieselkraftstoff austreten. 
+Die Händler tauschen die Kraftstofffilter gegen eine modifizierte Version aus.
+Die Aktion läuft seit  Nov. 2010 dauert etwa  eine Stunde und ist für die Kunden kostenlos. ; Wegen eines fehlerhaften Signals, das aufgrund von Toleranzabweichungen eines elektr. Bauteils im Steuergerät  (Positions-Sensor), erzeugt wird, wird die Lenkunterstützung deaktiviert und das System geht in das Notlaufprogramm (Rückfallebene).
+Dadurch muss der Fahrer deutlich höhere Lenkkräfte aufbringen, die mechanische Lenkfähigkeit des Fahrzeuges ist aber nicht beeinträchtigt. Der Fehler wird im Kombiinstrument gleichzeitig als Meldung "Lenkhilfe-Störung, siehe Betriebsanleitung" zusammen mit einem Warnton ausgegeben. 
+Die Händler tauschen das Lenkgetriebe aus.
+Der Rückruf läuft seit Sept. 2011, dauert etwa dreieinhalb Stunden und ist f. die Kunden kostenlos. ; Im Garantiesystem des Herstellers vermerkt.

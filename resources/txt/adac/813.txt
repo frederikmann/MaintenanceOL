@@ -1,1 +1,1 @@
-Im Hersteller-Werkstattsystem. Aktionscode lautet â€ž81C095â€œ. ; Ein fehlerhafter Elektromotor hat Auswirkung auf die Funktion der Einklemmschutzfunktion. Abhilfe:  Die Vertragswerkstatt tausch den Elektromotor bei Bedarf aus.
+Ein fehlerhafter Elektromotor hat Auswirkung auf die Funktion der Einklemmschutzfunktion. Abhilfe:  Die Vertragswerkstatt tausch den Elektromotor bei Bedarf aus. ; Im Hersteller-Werkstattsystem. Aktionscode lautet „81C095“.

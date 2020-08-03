@@ -1,6 +1,6 @@
-Der MasseanschluÃŸ des Frontscheibenwischer-Motors hat unzureichende LeitfÃ¤higkeit. Dadurch kann es zum Ausfall des Motors und damit Frontscheibenwischer kommen. 
-Die HÃ¤ndler montieren ein zusÃ¤tzliches Massekabel. 
-Der RÃ¼ckruf wurde im Juni 2011 gestartet, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Vermerk im HÃ¤ndlergarantiesystem ; AbgelÃ¶ste Beschichtungspartikel der Hydraulikleitungen der elektro-hydraulischen Servolenkung, verursachen einen Ausfall der Servopumpe. 
-Dadurch kommt es zum Ausfall der ServounterstÃ¼tzung und die erforderlichen LenkkrÃ¤fte werden deutlich hÃ¶her. Das Fahrzeug bleibt aber lt. Hersteller uneingeschrÃ¤nkt lenkfÃ¤hig. 
-Die HÃ¤ndler erneuern die hydraulischen Leitungen und die Servopumpe. ZusÃ¤tzlich wird das Lenkgetriebe gespÃ¼lt. Bei Kunden die sich bereits jetzt melden, wird zunÃ¤chst geprÃ¼ft ob das Fahrzeug betroffen ist und dann ggf. soweit bereits Teile verfÃ¼gbar sind diese auch vorab saniert.
-Die Aktion lÃ¤uft im Okt. 2010 an und ist fÃ¼r die Kunden kostenlos. ; Vermerk im internen HÃ¤ndlersystem.
+Abgelöste Beschichtungspartikel der Hydraulikleitungen der elektro-hydraulischen Servolenkung, verursachen einen Ausfall der Servopumpe. 
+Dadurch kommt es zum Ausfall der Servounterstützung und die erforderlichen Lenkkräfte werden deutlich höher. Das Fahrzeug bleibt aber lt. Hersteller uneingeschränkt lenkfähig. 
+Die Händler erneuern die hydraulischen Leitungen und die Servopumpe. Zusätzlich wird das Lenkgetriebe gespült. Bei Kunden die sich bereits jetzt melden, wird zunächst geprüft ob das Fahrzeug betroffen ist und dann ggf. soweit bereits Teile verfügbar sind diese auch vorab saniert.
+Die Aktion läuft im Okt. 2010 an und ist für die Kunden kostenlos. ; Vermerk im internen Händlersystem. ; Vermerk im Händlergarantiesystem ; Der Masseanschluß des Frontscheibenwischer-Motors hat unzureichende Leitfähigkeit. Dadurch kann es zum Ausfall des Motors und damit Frontscheibenwischer kommen. 
+Die Händler montieren ein zusätzliches Massekabel. 
+Der Rückruf wurde im Juni 2011 gestartet, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.

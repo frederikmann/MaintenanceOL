@@ -1,2 +1,2 @@
-Im Hersteller-Werkstattsystem (Code 71C006) ; Die Seilzug Motorhauben-Verriegelung ist defekt und muss ausgetauscht werden. Es besteht die Gefahr, dass die Motorhaube wÃ¤hrend der Fahrt aufgeht. Der Hersteller ruft betroffene Fahrzeuge daher zurÃ¼ck in die Werkstatt.
-Die Aktion lÃ¤uft seit dem 11.08.2017 und ist fÃ¼r den Kunden kostenlos.
+Die Seilzug Motorhauben-Verriegelung ist defekt und muss ausgetauscht werden. Es besteht die Gefahr, dass die Motorhaube während der Fahrt aufgeht. Der Hersteller ruft betroffene Fahrzeuge daher zurück in die Werkstatt.
+Die Aktion läuft seit dem 11.08.2017 und ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 71C006)

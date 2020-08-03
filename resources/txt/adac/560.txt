@@ -1,10 +1,10 @@
-Der Kabelstrang des ABS-SteuergerÃ¤ts wurde unter dem HaltebÃ¼gel des Batteriekorbs eingeklemmt. Dadurch kann es zu KabelkurzschluÃŸ durch anscheuern kommen. Im ungÃ¼nstigsten Fall besteht dann auch Brandgefahr.
-Die HÃ¤ndler prÃ¼fen die richtige Verlegung und evtl. VorschÃ¤digung des Kabelstrangs. Bei SchÃ¤digung einzelner Kabel werden diese ggf. ersetzt.
-Der RÃ¼ckruf (Aktionscode 5521) wurde im MÃ¤rz 2011 gestartet, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. ; Wegen falschem Anzugsmoment  der oberen Lenkwellenbefestigungsschraube, kann es zum Ausfall der Lenkwellengabel kommen.
-Dann wÃ¤re das Fahrzeug nicht mehr lenkfÃ¤hig. 
-Die HÃ¤ndler prÃ¼fen das Anzugsmoment der oberen Befestigungsschraube (Sollwertbereich 11Nm bis 25 Nm) und korrigieren dies dann auf 30 Nm. 
-Liegt der gemessene Anzugswert unter 11 Nm oder Ã¼ber 30 Nm, wird die Lenkwelle ersetzt.
-Die Aktion wurde in der 49.kW 2009 gestartet, ist kostenlos und dauert bis zu einer Stunde bei Lenkwellentausch.
-Bei Fragen zur Aktion (5397) kann auch die Herstellerhotline unter 0080034280000 kontaktiert werden.   ; Weisse Farbmarkierung an der Steckverbindung der ABS-Steuerung. ; Zwei Parbpunkte auf der Lenkwelle und Eintrag im Servicesystem des Herstellers. ; An der Verkabelung des HeizungsgeblÃ¤ses, kann es am Armaturenbretthalter zum durchscheuern und Kurzschluss mit mÃ¶glichem Kabelbrand kommen.
-Die HÃ¤ndler prÃ¼fen die korrekte Lage des Kabelstrangs, isolieren zusÃ¤tzlich mit Coroplastband und bringen eine Halteklammer an.
-Die Aktion ist kostenlos und dauert etwa ein halbe Stunde. ; Halteklammer fÃ¼r die Verkabelung vorhanden (Aktion 5299). 
+Wegen falschem Anzugsmoment  der oberen Lenkwellenbefestigungsschraube, kann es zum Ausfall der Lenkwellengabel kommen.
+Dann wäre das Fahrzeug nicht mehr lenkfähig. 
+Die Händler prüfen das Anzugsmoment der oberen Befestigungsschraube (Sollwertbereich 11Nm bis 25 Nm) und korrigieren dies dann auf 30 Nm. 
+Liegt der gemessene Anzugswert unter 11 Nm oder über 30 Nm, wird die Lenkwelle ersetzt.
+Die Aktion wurde in der 49.kW 2009 gestartet, ist kostenlos und dauert bis zu einer Stunde bei Lenkwellentausch.
+Bei Fragen zur Aktion (5397) kann auch die Herstellerhotline unter 0080034280000 kontaktiert werden.   ; Halteklammer für die Verkabelung vorhanden (Aktion 5299).  ; Zwei Parbpunkte auf der Lenkwelle und Eintrag im Servicesystem des Herstellers. ; An der Verkabelung des Heizungsgebläses, kann es am Armaturenbretthalter zum durchscheuern und Kurzschluss mit möglichem Kabelbrand kommen.
+Die Händler prüfen die korrekte Lage des Kabelstrangs, isolieren zusätzlich mit Coroplastband und bringen eine Halteklammer an.
+Die Aktion ist kostenlos und dauert etwa ein halbe Stunde. ; Der Kabelstrang des ABS-Steuergeräts wurde unter dem Haltebügel des Batteriekorbs eingeklemmt. Dadurch kann es zu Kabelkurzschluß durch anscheuern kommen. Im ungünstigsten Fall besteht dann auch Brandgefahr.
+Die Händler prüfen die richtige Verlegung und evtl. Vorschädigung des Kabelstrangs. Bei Schädigung einzelner Kabel werden diese ggf. ersetzt.
+Der Rückruf (Aktionscode 5521) wurde im März 2011 gestartet, dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Weisse Farbmarkierung an der Steckverbindung der ABS-Steuerung.

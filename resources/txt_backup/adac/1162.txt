@@ -1,0 +1,1 @@
+Im Hersteller-Werkstattsystem ; Bei einigen Exemplaren der C-Klasse und E-Klasse Coupé/Cabriolet (BR 205 und 238) wurde der Verriegelungszustand der Lenkungskupplung bei der Montage im Produktionswerk nicht korrekt dokumentiert. Ein Fehler in dieser Baugruppe könnte fatale Folgen haben. Es kann ein Verlust der Lenkfähigkeit des Fahrzeugs bedingen.

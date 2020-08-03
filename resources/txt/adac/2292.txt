@@ -1,4 +1,5 @@
-Im Volvo Servicesystem vermerkt. ; Das Anzugsdrehmoment einer Befestigungsmutter des vorderen Querlenkers kÃ¶nnte nicht ausreichend hoch sein. Die Werkstatt zieht die Mutter mit dem Korrekten Drehmoment nach. Volvo verwendet den eigenen Adressbestand, das KBA ist Ã¼ber die Aktion informiert. ; im Datenbastand des Herstellers ; Da die EndanschlÃ¤ge der Sitzschienen fehlen oder nicht korrekt verbaut wurden, kann der Sitz auch Ã¼ber den vorgesehenen Minimalabstand zum Lenkrad weiter nach vorne gefahren werden.
-Dadurch kann es lt. Hersteller bei einem Unfall mit AirbagauslÃ¶sung zu erhÃ¶htem Verletzungsrisiko des Fahrers kommen.
-Die HÃ¤ndler ergÃ¤nzen die SitzendanschlÃ¤ge falls erforderlich. 
-Die Aktion wurde am 10.12.2010 gestartet und ist fÃ¼r die Kunden kostenlos.
+im Datenbastand des Herstellers ; Das Anzugsdrehmoment einer Befestigungsmutter des vorderen Querlenkers könnte nicht ausreichend hoch sein. Die Werkstatt zieht die Mutter mit dem Korrekten Drehmoment nach. Volvo verwendet den eigenen Adressbestand, das KBA ist über die Aktion informiert. ; Da die Endanschläge der Sitzschienen fehlen oder nicht korrekt verbaut wurden, kann der Sitz auch über den vorgesehenen Minimalabstand zum Lenkrad weiter nach vorne gefahren werden.
+Dadurch kann es lt. Hersteller bei einem Unfall mit Airbagauslösung zu erhöhtem Verletzungsrisiko des Fahrers kommen.
+Die Händler ergänzen die Sitzendanschläge falls erforderlich. 
+Die Aktion wurde am 10.12.2010 gestartet und ist für die Kunden kostenlos.
+ ; Im Volvo Servicesystem vermerkt.

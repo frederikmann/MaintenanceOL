@@ -1,0 +1,11 @@
+Eintrag Aktionscode "24V9" im Serviceheft und Aufkleber mit Code "24V9" im Bereich Reserveradwanne oder des Bordwerkzeuges (Caddy) vorhanden. ; Eintrag im Serviceheft (Code 19H2) und Aufkleber mit Aktionscode 19H2 im Bereich der Reserveradmulde. ; Eine Fehlfunktion am Ladedrucksteller (Wastegatesteuerung) führt zu Leistungseinbruch und unzureichende Gasannahme (Notlaufprogramm). Dabei leuchtet dann auch die Motorkontrollleuchte im Kombiinstrument auf. 
+Die Händler prüfen anhand der Teilenr. des Abgasturboladers ob das Fahrzeug betroffen ist. Wenn ja, wird zwischen der Wastegateregelstange und Ladedrucksteller eine Distanzscheibe (2mm) eingesetzt. Zusätzlich erfolgt ein Softwareupdate des Motorsteuergerätes. 
+Die Aktion dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Die in den Kraftstoffleitungen auftretenden Druckpulsationen bringen die Leitungen zum Schwingen und führen im Anschlussbereich am Kraftstofffilterdeckel zu Rissen. Dort kann dann Dieselkraftstoff austreten und zu Verschmutzungen führen. 
+Die Händler prüfen die Dieselkraftstofffilter und tauschen diesen ggf. aus. 
+Der Rückruf ist Ende Okt. 2014 angelaufen, dauert eine halbe Stunde und ist für die Kunden kostenlos. ; Im Hersteller-Werkstattsystem. Code 15H3 ; 
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Durch einen Bruch oder eine Schiefstellung der Rückstellfeder im Magnetschalter kann es zu einer Dauerbestromung kommen. Eine Dauerbestromung kann zu einer Bauteilüberhitzung führen. Es besteht Brandgefahr. Abhilfe schafft ein Austausch des Magnetschalters.
+Die Aktion startet im Februar 2018 und ist für den Kunden kostenlos. ; Vermerk des Aktionscodes "20U7" im Serviceheft und am Aufkleber an der Reserveradmulde im Kofferraum. ; Im Hersteller-Werkstattsystem (Code 27F9), Aufkleber in Reserveradmulde und im Servicebuch ; Laut Hersteller ist beim Kühlmittelbefüllen ein Fehler im Mischungsverhältnis des Kühlmittels(G12++) zu destilliertem Wasser entstanden.
+Dadurch kann es zu reduzierter Heizleistung bei niedriger Last (Leerlauf) kommen.
+Die Händler tauschen die komplette Kühlflüssigkeit aus.
+Die Aktion läuft seit Okt. 2010, dauert etwa eine Stunde und ist für die Kunden kostenlos.

@@ -1,11 +1,11 @@
-GelÃ¶stes Streusalz kann in die Elektronik (SteuergerÃ¤t) des KÃ¼hlerlÃ¼fters eindringen. Dies verursacht dort Korrosion und Ãœberhitzung.
-In Folge kÃ¶nnen sich die umliegenden Kabel und Bauteile sogar entzÃ¼nden.
-Die HÃ¤ndler Ã¼berprÃ¼fen das KÃ¼hlerlÃ¼fter-Modul und bauen, falls erforderlich, einen zusÃ¤tzlichen Kabelstrang ein, der die Stromversorgung des KÃ¼hlerlÃ¼fter-Moduls bei ausgeschalteter ZÃ¼ndung unterbricht. ZusÃ¤tzlich wird an das Modul ein Spritzschutz angebracht, der vor Wassereintritt und und Korrosion schÃ¼tzen soll. 
-Die Aktion lÃ¤uft ab Juli 2014, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos
- ; Ford hat bei internen QualitÃ¤tskontrollen festgestellt, dass sich das RÃ¼ckschlagventil in der Unterdruckpumpe des Bremssystems bei niedrigen Umgebungstemperaturen und kaltem Motor mÃ¶glicherweise nicht Ã¶ffnet und den BremskraftverstÃ¤rker dann nicht mit Unterdruck versorgt. Die Bremse bleibt in diesem Fall zwar funktionsfÃ¤hig, jedoch ist deutlich hÃ¶herer Pedaldruck erforderlich.
-Das Bauteil wird ersetzt, die veranschlagte Arbeitszeit betrÃ¤gt ca. 0,3 Stunden. ; ISchutzabdeckung an Steuermodul ; Wegen unzureichender Abdichtung der WaschdÃ¼sen kÃ¶nnen diese im inneren korrodieren und es zu Kurzschluss mit Ãœberhitzung kommen. Durch die heissen DÃ¼sen kÃ¶nnen dann mÃ¶glicherweise auch Hitze- bzw. BrandschÃ¤den am Windlaufgrill entstehen. 
-Die HÃ¤ndler tauschen die WaschdÃ¼sen gegen modifizierte Teile mit integrierter Sicherung aus. 
-Die Aktion lÃ¤uft seit Nov. 2013, dauert etwa eine  halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Bei Feuchtigkeitseintritt kann es zum Kurzschluss und Ausfall des LÃ¼fters kommen. Auch ein Brandschaden ist im Kurzschlussfall nicht auszuschliessen.
-Die HÃ¤ndler ergÃ¤nzen einen Zusatzkabelstrang der die Spannungsversorgung zum LÃ¼ftermodul bei ausgeschalteter ZÃ¼ndung unterbricht (Sicherheitsschaltung).
-ZusÃ¤tzlich wird um das Modul eine Schutzabdeckung angebracht, die vor Wassereintritt und Korrosion schÃ¼tzen soll. 
-Die MaÃŸnahmen dauern etwa eine Stunde und sind fÃ¼r die Kunden kostenlos.  ; Im Servicesystem des Herstellers vermerkt. ; Im HÃ¤ndlersystem vermerkt.  ; im Datenbestand des Herstellers ; Einbau eines geÃ¤nderten Dichtrings und einer DichttÃ¼lle, Dauer etwa eine Stunde
+Im Servicesystem des Herstellers vermerkt. ; Wegen unzureichender Abdichtung der Waschdüsen können diese im inneren korrodieren und es zu Kurzschluss mit Überhitzung kommen. Durch die heissen Düsen können dann möglicherweise auch Hitze- bzw. Brandschäden am Windlaufgrill entstehen. 
+Die Händler tauschen die Waschdüsen gegen modifizierte Teile mit integrierter Sicherung aus. 
+Die Aktion läuft seit Nov. 2013, dauert etwa eine  halbe Stunde und ist für die Kunden kostenlos. ; Einbau eines geänderten Dichtrings und einer Dichttülle, Dauer etwa eine Stunde ; Bei Feuchtigkeitseintritt kann es zum Kurzschluss und Ausfall des Lüfters kommen. Auch ein Brandschaden ist im Kurzschlussfall nicht auszuschliessen.
+Die Händler ergänzen einen Zusatzkabelstrang der die Spannungsversorgung zum Lüftermodul bei ausgeschalteter Zündung unterbricht (Sicherheitsschaltung).
+Zusätzlich wird um das Modul eine Schutzabdeckung angebracht, die vor Wassereintritt und Korrosion schützen soll. 
+Die Maßnahmen dauern etwa eine Stunde und sind für die Kunden kostenlos.  ; Gelöstes Streusalz kann in die Elektronik (Steuergerät) des Kühlerlüfters eindringen. Dies verursacht dort Korrosion und Überhitzung.
+In Folge können sich die umliegenden Kabel und Bauteile sogar entzünden.
+Die Händler überprüfen das Kühlerlüfter-Modul und bauen, falls erforderlich, einen zusätzlichen Kabelstrang ein, der die Stromversorgung des Kühlerlüfter-Moduls bei ausgeschalteter Zündung unterbricht. Zusätzlich wird an das Modul ein Spritzschutz angebracht, der vor Wassereintritt und und Korrosion schützen soll. 
+Die Aktion läuft ab Juli 2014, dauert etwa eine Stunde und ist für die Kunden kostenlos
+ ; Ford hat bei internen Qualitätskontrollen festgestellt, dass sich das Rückschlagventil in der Unterdruckpumpe des Bremssystems bei niedrigen Umgebungstemperaturen und kaltem Motor möglicherweise nicht öffnet und den Bremskraftverstärker dann nicht mit Unterdruck versorgt. Die Bremse bleibt in diesem Fall zwar funktionsfähig, jedoch ist deutlich höherer Pedaldruck erforderlich.
+Das Bauteil wird ersetzt, die veranschlagte Arbeitszeit beträgt ca. 0,3 Stunden. ; ISchutzabdeckung an Steuermodul ; im Datenbestand des Herstellers ; Im Händlersystem vermerkt. 

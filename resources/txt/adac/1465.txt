@@ -1,14 +1,14 @@
-Laut Hersteller kann es bei Volllastfahrten auf rutschiger oder schlechter FahrbahnoberflÃ¤che zum Durchrutschen des Schubgliederbandes des CVT-Getriebes kommen. 
-Dies fÃ¼hrt zu erhÃ¶htem VerschleiÃŸ und kann auf Dauer bis zum Verlust des Antriebs (Fahrzeug bleibt stehen- Motorkontrollleuchte an) fÃ¼hren. 
-Die HÃ¤ndler fÃ¼hren ein Programmupdate am CVT-SteuergerÃ¤t durch. 
-Die Aktion lÃ¤uft seit  Jun. 2013, dauert etwa eine viertel Stunde und ist fÃ¼r die Kunden kostenlos. ; bei einigen Fahrzeugen kÃ¶nnen mehrere der Defekte gleichzeitig auftreten
-Abhilfe: PrÃ¼fung und ggf. Montage neuer Teile bzw. Umprogrammieren des SteuergerÃ¤tes fÃ¼r das Heckklappenschloss, Dauer 1,3 Stunden ; im Nissan EDV-System ; Bei der Montage ist mÃ¶glicherweise das Lenkgetriebenadellager vergessen worden.
-Das kann zu GerÃ¤uschen und Spiel in der Lenkung fÃ¼hren, schlimmstenfalls (bei Missachtung der GerÃ¤usche Ã¼ber einen lÃ¤ngeren Zeitraum) zu einem Ausfall der Lenkung.
-Bei allen Fahrzeugen werden Lenkung und Lenkgetriebe Ã¼berprÃ¼ft. Die ÃœberprÃ¼fung dauert etwa eine halbe Stunde. Sollte das Nadellager fehlen, wird das komplette Lenkgetriebe getauscht, was rund zwei  Stunden in Anspruch nimmt.
-Die Aktion ist fÃ¼r den Kunden kostenlos. 
- ; Da der Kraftstoffschlauchstecker mÃ¶glicherweise nicht exakt mit der EinspritzdÃ¼se am PDF verrastet ist, kann es bei der Filterregeneration zum Austritt von Dieselkraftstoff kommen.
-Die HÃ¤ndler Ã¼berprÃ¼fen die korrekte Verrasterung des Schlauches auf der DÃ¼se.
-Die MaÃŸnahme dauert etwa zehn Minuten und ist fÃ¼r den Kunden kostenlos. ; Die Sicherungsmutter der Verbindungsschraube zwischen Lenkspindel und Lenkgetriebeeingang kann sich lÃ¶sen. Dadurch kann es zum Ausfall der Lenkung kommen. 
-Die HÃ¤ndler bringen einen zusÃ¤tzlichen Halteflansch an die Ãœberwurfmutter der Verbindung an, um eine dauerhafte Sicherung zu gewÃ¤hrleisten. 
-Die Aktion wurde im November gestartet und dauert   etwa eine halbe Stunde.   ; Im internen Herstellersystem vermerkt. ; keine Angaben ; Im HÃ¤ndlersystem des Herstellers hinterlegt. 
+Bei der Montage ist möglicherweise das Lenkgetriebenadellager vergessen worden.
+Das kann zu Geräuschen und Spiel in der Lenkung führen, schlimmstenfalls (bei Missachtung der Geräusche über einen längeren Zeitraum) zu einem Ausfall der Lenkung.
+Bei allen Fahrzeugen werden Lenkung und Lenkgetriebe überprüft. Die Überprüfung dauert etwa eine halbe Stunde. Sollte das Nadellager fehlen, wird das komplette Lenkgetriebe getauscht, was rund zwei  Stunden in Anspruch nimmt.
+Die Aktion ist für den Kunden kostenlos. 
+ ; Da der Kraftstoffschlauchstecker möglicherweise nicht exakt mit der Einspritzdüse am PDF verrastet ist, kann es bei der Filterregeneration zum Austritt von Dieselkraftstoff kommen.
+Die Händler überprüfen die korrekte Verrasterung des Schlauches auf der Düse.
+Die Maßnahme dauert etwa zehn Minuten und ist für den Kunden kostenlos. ; Laut Hersteller kann es bei Volllastfahrten auf rutschiger oder schlechter Fahrbahnoberfläche zum Durchrutschen des Schubgliederbandes des CVT-Getriebes kommen. 
+Dies führt zu erhöhtem Verschleiß und kann auf Dauer bis zum Verlust des Antriebs (Fahrzeug bleibt stehen- Motorkontrollleuchte an) führen. 
+Die Händler führen ein Programmupdate am CVT-Steuergerät durch. 
+Die Aktion läuft seit  Jun. 2013, dauert etwa eine viertel Stunde und ist für die Kunden kostenlos. ; Im internen Herstellersystem vermerkt. ; keine Angaben ; Die Sicherungsmutter der Verbindungsschraube zwischen Lenkspindel und Lenkgetriebeeingang kann sich lösen. Dadurch kann es zum Ausfall der Lenkung kommen. 
+Die Händler bringen einen zusätzlichen Halteflansch an die Überwurfmutter der Verbindung an, um eine dauerhafte Sicherung zu gewährleisten. 
+Die Aktion wurde im November gestartet und dauert   etwa eine halbe Stunde.   ; bei einigen Fahrzeugen können mehrere der Defekte gleichzeitig auftreten
+Abhilfe: Prüfung und ggf. Montage neuer Teile bzw. Umprogrammieren des Steuergerätes für das Heckklappenschloss, Dauer 1,3 Stunden ; im Nissan EDV-System ; Im Händlersystem des Herstellers hinterlegt. 
 

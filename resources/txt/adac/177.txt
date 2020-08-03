@@ -1,1 +1,1 @@
-Der Fehler kÃ¶nnte den Angaben zufolge dazu fÃ¼hren, dass die elektrische Servolenkung sporadisch nicht funktioniert. Zum Lenken sei dann mehr Kraft erforderlich. Um das zu vermeiden, mÃ¼sse das entsprechende SteuergerÃ¤t neu programmiert werden. ; Im Hersteller-Werkstattsystem
+Der Fehler könnte den Angaben zufolge dazu führen, dass die elektrische Servolenkung sporadisch nicht funktioniert. Zum Lenken sei dann mehr Kraft erforderlich. Um das zu vermeiden, müsse das entsprechende Steuergerät neu programmiert werden. ; Im Hersteller-Werkstattsystem

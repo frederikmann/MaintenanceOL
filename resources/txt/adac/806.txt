@@ -1,2 +1,2 @@
-Im Hersteller-Werkstattsystem (interner Code "71C027") ; Unter UmstÃ¤nden kann eine Undichtigkeit der Kraftstoffleitung vorliegen, dies fÃ¼hrt zur Brandgefahr. Abhilfe schafft ein Austausch der Leitung.
-Die Aktion startet bald und ist fÃ¼r den Kunden kostenlos.
+Unter Umständen kann eine Undichtigkeit der Kraftstoffleitung vorliegen, dies führt zur Brandgefahr. Abhilfe schafft ein Austausch der Leitung.
+Die Aktion startet bald und ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (interner Code "71C027")

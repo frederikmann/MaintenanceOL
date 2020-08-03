@@ -1,6 +1,6 @@
-Eine Ãœberhitzung des Motors kann zu Ã–laustritt und auch zum Kontrollverlust beim Fahren fÃ¼hren. 
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Mangelbehaftetes Starterrelais kann zum Brand fÃ¼hren.
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit. ; Die Einspeiseklemme am Anlasser ist falsch positioniert und kÃ¶nnte dazu fÃ¼hren, dass das Starterkabel in Kontakt mit dem AbgasrÃ¼ckfÃ¼hrventil kommt und so durchscheuert. Dadurch entsteht die Gefahr eines Kurzschlusses. 
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit. ; Im Hersteller-Werkstattsystem (Code HXW) ; Die Bolzen der QuerlenkeraufhÃ¤ngung kÃ¶nnen brechen und der Fahrer dadurch die Kontrolle Ã¼ber das Fahrzeug verlieren.
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit. ; Im Hersteller-Werkstattsystem
+Die Einspeiseklemme am Anlasser ist falsch positioniert und könnte dazu führen, dass das Starterkabel in Kontakt mit dem Abgasrückführventil kommt und so durchscheuert. Dadurch entsteht die Gefahr eines Kurzschlusses. 
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit. ; Im Hersteller-Werkstattsystem ; Die Bolzen der Querlenkeraufhängung können brechen und der Fahrer dadurch die Kontrolle über das Fahrzeug verlieren.
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit. ; Mangelbehaftetes Starterrelais kann zum Brand führen.
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit. ; Im Hersteller-Werkstattsystem (Code HXW) ; Eine Überhitzung des Motors kann zu Ölaustritt und auch zum Kontrollverlust beim Fahren führen. 
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos.

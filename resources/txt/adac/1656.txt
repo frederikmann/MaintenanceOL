@@ -1,5 +1,5 @@
-keine Angaben ; In der Peugeot Service-Box vermerkt. ; Wegen einem defekten KÃ¼hlwassertemperaturfÃ¼hler kommt es zum Aufleuchten der KÃ¼hlwassertemperaturanzeige im Kombiinstrument obwohl die KÃ¼hlwassertemperatur nicht Ã¼berhÃ¶ht ist. 
-Die HÃ¤ndler Ã¼berprÃ¼fen den Temperatursensor und tauschen diesen ggf. aus. 
-Die Aktion wurde im Juli 2015 gestartet, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Laut Peugeot Deutschland sind in Deutschland keine Fahrzeuge betroffen.
-Wegen einer Scheuerstelle zwischen KraftstoffrÃ¼cklaufleitung und GerÃ¤uschdÃ¤mmung, kann es mÃ¶glicherweise zum Kraftstoffaustritt kommen.
-Der RÃ¼ckruf lÃ¤uft seit Juli 2011 im EU-Bereich Aktionscode YUS.
+In der Peugeot Service-Box vermerkt. ; Laut Peugeot Deutschland sind in Deutschland keine Fahrzeuge betroffen.
+Wegen einer Scheuerstelle zwischen Kraftstoffrücklaufleitung und Geräuschdämmung, kann es möglicherweise zum Kraftstoffaustritt kommen.
+Der Rückruf läuft seit Juli 2011 im EU-Bereich Aktionscode YUS. ; keine Angaben ; Wegen einem defekten Kühlwassertemperaturfühler kommt es zum Aufleuchten der Kühlwassertemperaturanzeige im Kombiinstrument obwohl die Kühlwassertemperatur nicht überhöht ist. 
+Die Händler überprüfen den Temperatursensor und tauschen diesen ggf. aus. 
+Die Aktion wurde im Juli 2015 gestartet, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.

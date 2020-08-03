@@ -1,5 +1,5 @@
-Im Hersteller-Werkstattsystem (Code 64E8) ; Bei A4 und A5 sind Frontscheiben nicht korrekt verklebt, beim Q2 zusÃ¤tzlich noch die Heckscheiben. Ursache ist ein nicht der Spezifikation entsprechender Kleber. Bisher sind keine Beanstandungen bekannt und die Fahrzeuge kÃ¶nnen laut Audi weiter benutzt werden. In der Werkstatt erfolgt ein Austausch der Scheiben.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Die SchweiÃŸnaht der FÃ¼hrungshÃ¼lse auf dem Lehnenrahmen der RÃ¼cksitzlehne wird Ã¼berprÃ¼ft. Falls notwendig wird ein neuer Lehnenrahmen eingebaut.
-Fahrzeug darf bis zur ÃœberprÃ¼fung / Instandsetzung weiter genutzt werden
-und die Reparatur ist fÃ¼r den Kunden kostenlos. ; Bei der Herstellung der betroffenen hinteren RadtrÃ¤ger ist es aufgrund eines Prozessfehlers zu einer HÃ¤rteabweichung gekommen. Die Dauerfestigkeit der betroffenen RadtrÃ¤ger ist nicht sichergestellt. In der Werkstatt werden die RadtrÃ¤ger an der Hinterachse ersetzt.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem
+Bei A4 und A5 sind Frontscheiben nicht korrekt verklebt, beim Q2 zusätzlich noch die Heckscheiben. Ursache ist ein nicht der Spezifikation entsprechender Kleber. Bisher sind keine Beanstandungen bekannt und die Fahrzeuge können laut Audi weiter benutzt werden. In der Werkstatt erfolgt ein Austausch der Scheiben.
+Die Aktion ist für den Kunden kostenlos. ; Die Schweißnaht der Führungshülse auf dem Lehnenrahmen der Rücksitzlehne wird überprüft. Falls notwendig wird ein neuer Lehnenrahmen eingebaut.
+Fahrzeug darf bis zur Überprüfung / Instandsetzung weiter genutzt werden
+und die Reparatur ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 64E8) ; Im Hersteller-Werkstattsystem ; Bei der Herstellung der betroffenen hinteren Radträger ist es aufgrund eines Prozessfehlers zu einer Härteabweichung gekommen. Die Dauerfestigkeit der betroffenen Radträger ist nicht sichergestellt. In der Werkstatt werden die Radträger an der Hinterachse ersetzt.
+Die Aktion ist für den Kunden kostenlos.

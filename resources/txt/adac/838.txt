@@ -1,2 +1,2 @@
-Bestimmte StÃ¶rungen des Automatikgetriebes ohne Meldung an den Fahrer fÃ¼hren dazu, dass die Fahrzeugemissionen evtl. erhÃ¶ht sind und nicht mehr den gesetzlichen Anforderungen entsprechen. Der Hersteller ruft daher betroffene Fahrzeuge zurÃ¼ck in die Werkstatt, um das MotorsteuergerÃ¤t (ECM) umzuprogrammieren.
-Die Aktion lÃ¤uft seit 10.11.2017 und ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code R1726)
+Im Hersteller-Werkstattsystem (Code R1726) ; Bestimmte Störungen des Automatikgetriebes ohne Meldung an den Fahrer führen dazu, dass die Fahrzeugemissionen evtl. erhöht sind und nicht mehr den gesetzlichen Anforderungen entsprechen. Der Hersteller ruft daher betroffene Fahrzeuge zurück in die Werkstatt, um das Motorsteuergerät (ECM) umzuprogrammieren.
+Die Aktion läuft seit 10.11.2017 und ist für den Kunden kostenlos.

@@ -1,5 +1,5 @@
-Im internen HÃ¤ndlersystem hinterlegt. ; Wegen eines falschen SchweiÃŸpunktes an der Halterung des Schaltzuges des Automatikgetriebes, kann es zum Bruch der Hlaterung kommen.
-Dann treten erhÃ¶hte WÃ¤hlhebelkrÃ¤fte auf und die Anzeige am Hebel kÃ¶nnte falsch sein. Im ungÃ¼nstigen Fall wÃ¼rde "P" (Parken) angezeigt und "N" (Neutral) wÃ¤re geschaltet, was zum Wegrollen an GefÃ¤llstrecken gei nicht eingelegter Feststellbremse  fÃ¼hren kÃ¶nnte. 
-Im Kombiinstrument wird allerdings lt. Hersteller immer die richtige Fahrstufe angezeigt.
-Die HÃ¤ndler erneuern die Schaltzughalterung.
-Die Aktion lÃ¤uft seit Nov. 2010, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos.
+Im internen Händlersystem hinterlegt. ; Wegen eines falschen Schweißpunktes an der Halterung des Schaltzuges des Automatikgetriebes, kann es zum Bruch der Hlaterung kommen.
+Dann treten erhöhte Wählhebelkräfte auf und die Anzeige am Hebel könnte falsch sein. Im ungünstigen Fall würde "P" (Parken) angezeigt und "N" (Neutral) wäre geschaltet, was zum Wegrollen an Gefällstrecken gei nicht eingelegter Feststellbremse  führen könnte. 
+Im Kombiinstrument wird allerdings lt. Hersteller immer die richtige Fahrstufe angezeigt.
+Die Händler erneuern die Schaltzughalterung.
+Die Aktion läuft seit Nov. 2010, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.

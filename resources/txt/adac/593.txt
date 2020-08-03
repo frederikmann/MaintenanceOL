@@ -1,3 +1,3 @@
-Im Hersteller-Werkstattsystem (interne Nr. 6052) ; Im Hersteller-Werkstattsystem (Code 6114) ; Aufgrund einer potenziellen NichtkonformitÃ¤t hinsichtlich der ZÃ¼ndung der Sprengladung, muss das Airbag-Modul an der Fahrerseite ausgetauscht werden. 
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Aufgrund einer mÃ¶glichen NichtkonformitÃ¤t des Kabellayouts des Fahrerairbags, kann es zu einem Reiben der Kabel kommen. Dies kann zu einer Abnutzung des Kabels fÃ¼hren und einen Kurzschluss begÃ¼nstigen, welcher zum Ausfall des Airbags fÃ¼hren kann.
-Die Aktion lÃ¤uft seit November 2016 und ist fÃ¼r den Kunden kostenlos.
+Im Hersteller-Werkstattsystem (interne Nr. 6052) ; Aufgrund einer potenziellen Nichtkonformität hinsichtlich der Zündung der Sprengladung, muss das Airbag-Modul an der Fahrerseite ausgetauscht werden. 
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 6114) ; Aufgrund einer möglichen Nichtkonformität des Kabellayouts des Fahrerairbags, kann es zu einem Reiben der Kabel kommen. Dies kann zu einer Abnutzung des Kabels führen und einen Kurzschluss begünstigen, welcher zum Ausfall des Airbags führen kann.
+Die Aktion läuft seit November 2016 und ist für den Kunden kostenlos.

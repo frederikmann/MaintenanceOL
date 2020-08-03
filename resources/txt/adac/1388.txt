@@ -1,4 +1,4 @@
-Eintrag im Serviceheft und Vermerk im  Herstellersystem.  ; Probleme mit der Feststellbremse. Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Wegen eines fehlerhaften SteuergerÃ¤tes der elektromechanischen Servolenkung EPS-ECU) kann des zum Ausfall der LenkkraftunterstÃ¼tzung kommen. Die LenkkrÃ¤fte erhÃ¶hen sich fÃ¼r den Fahrer dann erheblich.
-Die HÃ¤ndler tauschen das fehlerhafte SteuergerÃ¤t aus .
-Die Aktion lÃ¤uft ab Aug.2013, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos.
+Probleme mit der Feststellbremse. Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Wegen eines fehlerhaften Steuergerätes der elektromechanischen Servolenkung EPS-ECU) kann des zum Ausfall der Lenkkraftunterstützung kommen. Die Lenkkräfte erhöhen sich für den Fahrer dann erheblich.
+Die Händler tauschen das fehlerhafte Steuergerät aus .
+Die Aktion läuft ab Aug.2013, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Eintrag im Serviceheft und Vermerk im  Herstellersystem.  ; Im Hersteller-Werkstattsystem

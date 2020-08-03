@@ -1,0 +1,17 @@
+Hallo zusammen,  ich habe eine Frage an unsere Technikfreunde: Ich habe einen Backofen der keine Anschlüsse für einen Herd (Ofenplatte) hat, also ,,nur" 230Volt Anschlüsse (PE (Schutzleiter), N (Neutralleiter), L1 (Phase 1). Diesen habe ich versucht an den Herdanschluss in meiner Wohnung anzuschließen  (PE (Schutzleiter), N (Neutralleiter), L1 (Phase 1), L2 (Phase 2), L3 (Phase3) und habe hier L2 und L3 nicht belegt. Jetzt habe ich die Sicherung eingeschaltet (bleibt drin) und den Ofen eingeschaltet (Licht). Auch hier bleibt die Sicherung drin. Wenn ich jetzt ein ,,Programm", also Ober/Unterhitze z.B. einschalte fliegt die Sicherung raus. Ich habe den Ofen auch mal auf einen Schukostecker montiert und eine andere, normale Steckdose ausprobiert. Auch hier fliegt die Sicherung raus.  Was mache ich falsch? Bin über jede Hilfe sehr dankbar. Habe zu diesem speziellen Problem nichts gefunden. Nur das die Sicherung direkt immer raus fliegt wenn der Ofen eingeschaltet wird. Aber nichts dazu wenn der Ofen unter ,,Last" läuft, dass dann erst die Sicherung raus fliegt.  Beste Grüße  Mauritius										
+
+
+
+Zitieren & Antworten ; Es kann sein, dass Deine Sicherungen zu schwach sind. Was steht denn auf den Sicherungen drauf? Wievie Ampere? Sind die für 16 A oder viel weniger? Wenn sie für 16 A ausgelegt sind, kann es sein, dass im Ofen ein interner Kurzschluss bestehr. Da muss ein Elektriker dran.LDakelus										
+
+
+
+Zitieren & Antworten ; Hallo, welche "Sicherung" fliegt raus? Der Sicherungsautomat oder der Fehlerstromschutzschalter (FI)? Wenn FI fällt -> Kurzschluß/Fehler im Gerät; wenn Sicherung fällt -> Sicherung zu klein ausgelegt. LG, eumex209										
+
+
+
+Zitieren & Antworten ; Und? Fliegt sie immer noch raus? Der Hinweis auf den FI war sehr wichtig, Den hatte ich vergessen... LGakelu										
+
+
+
+Zitieren & Antworten

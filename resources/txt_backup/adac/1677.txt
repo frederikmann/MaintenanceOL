@@ -1,0 +1,4 @@
+Das Steuergerät für Elektrik (Batterie-Ladung, Beleuchtung, Scheibenwischer etc.) wird vom Händler nach Herstelleranweisung überprüft und ggf. ausgetauscht.
+Die Arbeiten dauern bis zu zwei Stunden und sind für den Kunden kostenlos.
+ ; nur Peugeot-intern, Auskunft nur auf Anfrage ; Vordere Radaufhängungs-Federn können aufgrund von Korrosion brechen. Reifenschäden werden durch Montage eines zusätzlichen Haltebügels im unteren Bereich jeder Feder der Vorderachse verhindert; Dauer etwa 1/2 Tag ; Wegen Fehler im Sicherungskasten kann es zu Funktionsstörungen (Stromkreisunterbrechung) kommen. Die Händler überprüfen den Sicherungskasten und ersetzen diesen falls nötig.
+Die Aktion dauert etwa eine Stunde und ist für den Kunden kostenlos. ; Der Hersteller macht keine Angaben zur Kennzeichnung bearbeiteter Fahrzeuge ; nein; Status eines Fahrzeuges kann jedoch jederzeit über Peugeot-EDV-System abgefragt werden.

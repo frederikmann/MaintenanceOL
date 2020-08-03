@@ -1,2 +1,2 @@
-Im Hersteller-Werkstattsystem (Code 6114) ; Aufgrund einer potenziellen NichtkonformitÃ¤t hinsichtlich der ZÃ¼ndung der Sprengladung, muss das Airbag-Modul an der Fahrerseite ausgetauscht werden. 
-Die Aktion ist fÃ¼r den Kunden kostenlos.
+Aufgrund einer potenziellen Nichtkonformität hinsichtlich der Zündung der Sprengladung, muss das Airbag-Modul an der Fahrerseite ausgetauscht werden. 
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 6114)

@@ -1,7 +1,7 @@
-Im Citroen EDV-System vermerkt  ; Die Halterung des Hitzeschutzblechs am ErsatzradkÃ¤fig kann durch Vibrationen beschÃ¤digt werden.
-Dadurch ist es mÃ¶glich, dass sich ein Teil des Schutzblechs lÃ¶st und auf die Fahrbahn fÃ¤llt.
-Das Hitzeschutzschild wird modifiziert und ggf. ausgetauscht;
-Die Aktion ist fÃ¼r den Kunden kostenlos und dauert etwa zwei Stunden.  ; Eine unzureichende Absicherung des KÃ¼hlerlÃ¼fters kann zu einer Ãœberhitzung der Stromleitung und in der Folge zu einem Brand fÃ¼hren.
-Die HÃ¤ndler tauschen die zu hohe Absicherung des LÃ¼fterkreises (50 AmpÃ¨re-AusfÃ¼hrung) durch eine  20 AmpÃ¨re-AusfÃ¼hrung aus. 
-Die Aktion dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Im Serviceportal â€“ ist sowohl fÃ¼r CitroÃ«n-Vertragspartner als auch fÃ¼r freie WerkstÃ¤tten zugÃ¤nglich. Kunden kÃ¶nnen sich an das CitroÃ«n Kundenbetreuungscenter unter Telefon 02203 44775 oder per E-Mail an kundenbetreuung1@citroen.com wenden.  ; Das SteuergerÃ¤t fÃ¼r Elektrik (Batterie-Ladung, Beleuchtung, Scheibenwischer etc.) wird vom HÃ¤ndler nach Herstelleranweisung Ã¼berprÃ¼ft und ggf. ausgetauscht.
-Die Arbeiten dauern bis zu zwei Stunden und sind fÃ¼r den Kunden kostenlos. ; im Citroen-EDV-System
+Das Steuergerät für Elektrik (Batterie-Ladung, Beleuchtung, Scheibenwischer etc.) wird vom Händler nach Herstelleranweisung überprüft und ggf. ausgetauscht.
+Die Arbeiten dauern bis zu zwei Stunden und sind für den Kunden kostenlos. ; Im Citroen EDV-System vermerkt  ; Im Serviceportal – ist sowohl für Citroën-Vertragspartner als auch für freie Werkstätten zugänglich. Kunden können sich an das Citroën Kundenbetreuungscenter unter Telefon 02203 44775 oder per E-Mail an kundenbetreuung1@citroen.com wenden.  ; im Citroen-EDV-System ; Die Halterung des Hitzeschutzblechs am Ersatzradkäfig kann durch Vibrationen beschädigt werden.
+Dadurch ist es möglich, dass sich ein Teil des Schutzblechs löst und auf die Fahrbahn fällt.
+Das Hitzeschutzschild wird modifiziert und ggf. ausgetauscht;
+Die Aktion ist für den Kunden kostenlos und dauert etwa zwei Stunden.  ; Eine unzureichende Absicherung des Kühlerlüfters kann zu einer Überhitzung der Stromleitung und in der Folge zu einem Brand führen.
+Die Händler tauschen die zu hohe Absicherung des Lüfterkreises (50 Ampère-Ausführung) durch eine  20 Ampère-Ausführung aus. 
+Die Aktion dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.

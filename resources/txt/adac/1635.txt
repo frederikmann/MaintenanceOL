@@ -1,13 +1,13 @@
-Eintrag im Herstellersystem ; Das SteuergerÃ¤t fÃ¼r Elektrik (Batterie-Ladung, Beleuchtung, Scheibenwischer etc.) wird vom HÃ¤ndler nach Herstelleranweisung Ã¼berprÃ¼ft und ggf. ausgetauscht.
-Die Arbeiten dauern bis zu zwei Stunden und sind fÃ¼r den Kunden kostenlos.
- ; im Peugeot EDV-System ; Ein falsch verbautes Teil im Hauptbremszylinder kann zur BeeintrÃ¤chtigung der BremskraftunterstÃ¼tzung fÃ¼hren und damit zu erhÃ¶hten PedalkrÃ¤ften fÃ¼hren. 
-Die HÃ¤ndler tauschen den Hauptbremszylinder kostenlos aus. 
-Fragen zur Aktion kÃ¶nnen auch an das Peugeot Kundenbetreuungscenter  unter der Rufnr. 01801/111 999 unter Angabe der Fahrgestellnr. gerichtet werden. ; Die Schalterposition des Lichtschalters wird vom SteuergerÃ¤t mÃ¶glicherweise nicht richtig erkannt. Das fÃ¼hrt zum zum Ausschalten der Beleuchtung  bzw. die Beleuchtung lÃ¤sst sich gar nicht erst anschalten.
-Die HÃ¤ndler aktualisieren die Software.
-Die DurchfÃ¼hrung dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. 
-Ob das eigene Fahrzeug betroffen ist, kann auch der HÃ¤ndler beantworten oder auch unter der Service-Nummer 01801 / 111 999 oderhttp://www.peugeot.de/dialog/
-kundenbetreuungscenter/ unter Angabe der Fahrgestellnummer abgefragt werden ; keine Angaben ; In der Peugeot Service-Box vermerkt. ; Wegen einem defekten KÃ¼hlwassertemperaturfÃ¼hler kommt es zum Aufleuchten der KÃ¼hlwassertemperaturanzeige im Kombiinstrument obwohl die KÃ¼hlwassertemperatur nicht Ã¼berhÃ¶ht ist. 
-Die HÃ¤ndler Ã¼berprÃ¼fen den Temperatursensor und tauschen diesen ggf. aus. 
-Die Aktion wurde im Juli 2015 gestartet, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Laut Peugeot Deutschland sind in Deutschland keine Fahrzeuge betroffen.
-Wegen einer Scheuerstelle zwischen KraftstoffrÃ¼cklaufleitung und GerÃ¤uschdÃ¤mmung, kann es mÃ¶glicherweise zum Kraftstoffaustritt kommen.
-Der RÃ¼ckruf lÃ¤uft seit Juli 2011 im EU-Bereich Aktionscode YUS. ; Der Hersteller macht keine Angaben zur Kennzeichnung bearbeiteter Fahrzeuge
+Eintrag im Herstellersystem ; keine Angaben ; Wegen einem defekten Kühlwassertemperaturfühler kommt es zum Aufleuchten der Kühlwassertemperaturanzeige im Kombiinstrument obwohl die Kühlwassertemperatur nicht überhöht ist. 
+Die Händler überprüfen den Temperatursensor und tauschen diesen ggf. aus. 
+Die Aktion wurde im Juli 2015 gestartet, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; In der Peugeot Service-Box vermerkt. ; Die Schalterposition des Lichtschalters wird vom Steuergerät möglicherweise nicht richtig erkannt. Das führt zum zum Ausschalten der Beleuchtung  bzw. die Beleuchtung lässt sich gar nicht erst anschalten.
+Die Händler aktualisieren die Software.
+Die Durchführung dauert etwa eine Stunde und ist für die Kunden kostenlos. 
+Ob das eigene Fahrzeug betroffen ist, kann auch der Händler beantworten oder auch unter der Service-Nummer 01801 / 111 999 oderhttp://www.peugeot.de/dialog/
+kundenbetreuungscenter/ unter Angabe der Fahrgestellnummer abgefragt werden ; im Peugeot EDV-System ; Ein falsch verbautes Teil im Hauptbremszylinder kann zur Beeinträchtigung der Bremskraftunterstützung führen und damit zu erhöhten Pedalkräften führen. 
+Die Händler tauschen den Hauptbremszylinder kostenlos aus. 
+Fragen zur Aktion können auch an das Peugeot Kundenbetreuungscenter  unter der Rufnr. 01801/111 999 unter Angabe der Fahrgestellnr. gerichtet werden. ; Das Steuergerät für Elektrik (Batterie-Ladung, Beleuchtung, Scheibenwischer etc.) wird vom Händler nach Herstelleranweisung überprüft und ggf. ausgetauscht.
+Die Arbeiten dauern bis zu zwei Stunden und sind für den Kunden kostenlos.
+ ; Der Hersteller macht keine Angaben zur Kennzeichnung bearbeiteter Fahrzeuge ; Laut Peugeot Deutschland sind in Deutschland keine Fahrzeuge betroffen.
+Wegen einer Scheuerstelle zwischen Kraftstoffrücklaufleitung und Geräuschdämmung, kann es möglicherweise zum Kraftstoffaustritt kommen.
+Der Rückruf läuft seit Juli 2011 im EU-Bereich Aktionscode YUS.

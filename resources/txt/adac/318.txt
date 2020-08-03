@@ -1,3 +1,3 @@
-Im Hersteller-Werkstattsystem (Aktionscode 0036030200) ; Interne QualitÃ¤tskontrollen haben gezeigt, dass bei den betroffenen Fahrzeugen die Radschrauben nicht nach der geforderten Spezifikation angezogen wurden. Diese wurden zu fest angezogen. Die Radschrauben kÃ¶nnten, Ã¼ber die Zeit, unter fahraktiver Belastung brechen und sich lÃ¶sen.
-An den betroffenen Fahrzeugen werden die Radschrauben erneuert.
-Die Aktion lÃ¤uft seit Ende September 2018 und ist fÃ¼r die Kunden kostenlos.
+Interne Qualitätskontrollen haben gezeigt, dass bei den betroffenen Fahrzeugen die Radschrauben nicht nach der geforderten Spezifikation angezogen wurden. Diese wurden zu fest angezogen. Die Radschrauben könnten, über die Zeit, unter fahraktiver Belastung brechen und sich lösen.
+An den betroffenen Fahrzeugen werden die Radschrauben erneuert.
+Die Aktion läuft seit Ende September 2018 und ist für die Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Aktionscode 0036030200)

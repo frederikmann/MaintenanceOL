@@ -1,3 +1,3 @@
-
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Aufgrund einer fehlenden Zuordnung in der Software des Kombi-Instruments leuchtet die Warnleuchte fÃ¼r den BremsenverschleiÃŸ nicht dauerhaft auf. Es besteht die Gefahr, dass das Fahrzeug mit verschlissenen BremsbelÃ¤gen benutzt wird. Abhilfe: Eine Neuprogrammierung des Kombiinstruments. ; Im Hersteller-Werkstattsystem. Code â€AKA0â€œ und â€AKA1â€œ. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; 
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem. Code „AKA0“ und „AKA1“. ; Aufgrund einer fehlenden Zuordnung in der Software des Kombi-Instruments leuchtet die Warnleuchte für den Bremsenverschleiß nicht dauerhaft auf. Es besteht die Gefahr, dass das Fahrzeug mit verschlissenen Bremsbelägen benutzt wird. Abhilfe: Eine Neuprogrammierung des Kombiinstruments.

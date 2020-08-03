@@ -1,16 +1,16 @@
-Eintrag im Werkstattsystem ; Der RÃ¼ckruf (Code "4KET-991") wird im Garantiesystem des Hersteller vermerkt. ; Die beiden Befestigungsmuttern der Scheiben-wischerarme wurden nicht ordnungsgemÃ¤ÃŸ fest-gezogen. Dadurch kann sich, besonders bei hohem Wischermoment (Schnee auf der Scheibe) die Verbindung zwischen Antriebsachse und Wische-arm lÃ¶sen. In Folge bleibt der Wischerarm stehen und die Sicht wird beeintrÃ¤chtigt.
-Die HÃ¤ndler befestigen die Wischerarme mit neuen Muttern und erforderlichem Drehmoment. 
-Aie Aktion startet im Feb. 2013, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; im HÃ¤ndersystem vermerkt  ; Der Einspritzventile der Benzin-Motoren verfÃ¼gen Ã¼ber eine gemeinsame Kraftstoffversorgungsleitung an der ein Drucksensor hÃ¤ngt. Da die DichtfÃ¤che des Sensors mit Beschichtung (Nickel,Phosphat) verunreinigt wurde, kann es an dieser Stelle zum Austritt von Kraftstoff kommen. 
-Laut Hersteller macht sich ausgetretender Kraftstoff durch Geruchsbildung auch im Innenraum bemerkbar.
-Die HÃ¤ndler Ã¼berprÃ¼fen die DichtflÃ¤che des Kraftstoffdrucksensors. Falls erforderlich wird diese nachgearbeitet und die Dichtringe des Sensors gleichzeitig erneuert.   
-Der RÃ¼ckruf startet im Dez. 2014,  dauert bis zu fÃ¼nf Stunden und ist fÃ¼r die Kunden kostenlos. ; Wegen Korrosion der hint. BremssÃ¤ttel und FÃ¼hrungsstifte kann es lt. Hersteller zum einseitigen Verschleiss der hinteren BremsbelÃ¤ge und GerÃ¤uschbildung kommen.
-Die HÃ¤ndler prÃ¼fen die BremssÃ¤ttel.
-Im Rahmen der Aktion werden diese entweder entrostet oder ggf. erneuert. 
-Die Aktion ist kostenlos und dauert knapp zwei Stunden.   ; Im Servicesystem des Herstellers vermerkt. ; Im Falle einer AuslÃ¶sung kann der Airbag nicht wie gewÃ¼nscht funktionieren, dadurch steigt das Verletzungsrisiko der Insassen. Der Hersteller ruft daher die betroffenen Fahrzeuge zurÃ¼ck, stellt aber auch auf RÃ¼ckfrage keine weiteren Informationen zur VerfÃ¼gung.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Wegen zu niedrigem Anzugmoments des Kraftstoffdrucksensors lockert sich die Verschraubung und es kann an der dichtung zum Kraftstoffaustritt  kommen.
-Die HÃ¤ndler ziehen die Verschraubung des Sensors mit dem vorgeschriebenem Anzugsmoment fest. Falls bereits Kraftstoff ausgetreten war, wird auch die Dichtung erneuert. 
-Die RÃ¼ckrufaktion start mitte Feb. 2011, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. 
-  ; Wegen eines Fertigungsfehlers im Elektromotor der Lenkungssteuerung kÃ¡nn es zum ausfall der LenkungsunterstÃ¼tzung kommen. 
-Damit sind schlagartig deutlich hÃ¶here LenkkrÃ¤fte erforderlich, die dem Fahrer das GefÃ¼hl geben kÃ¶nnten, die Lenkung wÃ¼rde blockieren, was aber nicht der Fall ist. 
-Wegen diesem Ãœberraschungseffekt kann es zu Fahrproblemen kommen. Insbesondere bei niedrigen Geschwindigkeiten und Einparsituationen, wo die hÃ¶chste LenkkrÃ¤fte auftreten.
-Die elektromechanische Lenkung wir durch den HÃ¤ndler kostenlos komplett ersetzt.  ; Vermerk im internen Servicesystem. ; Im Hersteller-Werkstattsystem
+Im Servicesystem des Herstellers vermerkt. ; Die beiden Befestigungsmuttern der Scheiben-wischerarme wurden nicht ordnungsgemäß fest-gezogen. Dadurch kann sich, besonders bei hohem Wischermoment (Schnee auf der Scheibe) die Verbindung zwischen Antriebsachse und Wische-arm lösen. In Folge bleibt der Wischerarm stehen und die Sicht wird beeinträchtigt.
+Die Händler befestigen die Wischerarme mit neuen Muttern und erforderlichem Drehmoment. 
+Aie Aktion startet im Feb. 2013, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Im Falle einer Auslösung kann der Airbag nicht wie gewünscht funktionieren, dadurch steigt das Verletzungsrisiko der Insassen. Der Hersteller ruft daher die betroffenen Fahrzeuge zurück, stellt aber auch auf Rückfrage keine weiteren Informationen zur Verfügung.
+Die Aktion ist für den Kunden kostenlos. ; Wegen zu niedrigem Anzugmoments des Kraftstoffdrucksensors lockert sich die Verschraubung und es kann an der dichtung zum Kraftstoffaustritt  kommen.
+Die Händler ziehen die Verschraubung des Sensors mit dem vorgeschriebenem Anzugsmoment fest. Falls bereits Kraftstoff ausgetreten war, wird auch die Dichtung erneuert. 
+Die Rückrufaktion start mitte Feb. 2011, dauert etwa eine Stunde und ist für die Kunden kostenlos. 
+  ; Eintrag im Werkstattsystem ; Der Rückruf (Code "4KET-991") wird im Garantiesystem des Hersteller vermerkt. ; Wegen Korrosion der hint. Bremssättel und Führungsstifte kann es lt. Hersteller zum einseitigen Verschleiss der hinteren Bremsbeläge und Geräuschbildung kommen.
+Die Händler prüfen die Bremssättel.
+Im Rahmen der Aktion werden diese entweder entrostet oder ggf. erneuert. 
+Die Aktion ist kostenlos und dauert knapp zwei Stunden.   ; Wegen eines Fertigungsfehlers im Elektromotor der Lenkungssteuerung kánn es zum ausfall der Lenkungsunterstützung kommen. 
+Damit sind schlagartig deutlich höhere Lenkkräfte erforderlich, die dem Fahrer das Gefühl geben könnten, die Lenkung würde blockieren, was aber nicht der Fall ist. 
+Wegen diesem Überraschungseffekt kann es zu Fahrproblemen kommen. Insbesondere bei niedrigen Geschwindigkeiten und Einparsituationen, wo die höchste Lenkkräfte auftreten.
+Die elektromechanische Lenkung wir durch den Händler kostenlos komplett ersetzt.  ; Im Hersteller-Werkstattsystem ; Vermerk im internen Servicesystem. ; Der Einspritzventile der Benzin-Motoren verfügen über eine gemeinsame Kraftstoffversorgungsleitung an der ein Drucksensor hängt. Da die Dichtfäche des Sensors mit Beschichtung (Nickel,Phosphat) verunreinigt wurde, kann es an dieser Stelle zum Austritt von Kraftstoff kommen. 
+Laut Hersteller macht sich ausgetretender Kraftstoff durch Geruchsbildung auch im Innenraum bemerkbar.
+Die Händler überprüfen die Dichtfläche des Kraftstoffdrucksensors. Falls erforderlich wird diese nachgearbeitet und die Dichtringe des Sensors gleichzeitig erneuert.   
+Der Rückruf startet im Dez. 2014,  dauert bis zu fünf Stunden und ist für die Kunden kostenlos. ; im Händersystem vermerkt 

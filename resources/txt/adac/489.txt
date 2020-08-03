@@ -1,8 +1,8 @@
-Die Kennzeichnung der bearbeiteten Fahrzeuge erfolgt durch einen Spezialaufkleber am vorderen StoÃŸdÃ¤mpferdom ; Spezialaufkleber am vorderen StoÃŸdÃ¤mpferdom der Fahrerseite (Markierung im Feld Q6)  ; Die Ventilkeile als Verbindungselement zur Ventilfeder kÃ¶nnen wegen unzureichender Materialeigenschaften verschleiÃŸen und dadurch zu einer StÃ¶rung der geregelten Ventilsteuerung fÃ¼hren. Dies kann im Extremfall zum Motortotalschaden fÃ¼hren.
-Die HÃ¤ndler kontrollieren als vorbeugende MaÃŸnahme die Zylinderkopf-Nummern und tauschen - falls notwendig - die Ventilkeile aus.
-Aktionsstart ist in Europa am 01. Sept. 2011.
-Die DurchfÃ¼hrung dauert zwischen 20 Minuten (PrÃ¼fvorgang) bis zu 9 Stunden (Tausch Ventilkeile) und ist fÃ¼r die Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 0CDQ) ; MÃ¶glicherweise wurden weltweit sieben fehlerhafte Gasgenerator-ZÃ¼nder des Fahrerairbags verbaut. Im Falle eines Aufpralls mit AuslÃ¶sung des Airbags besteht die Gefahr, dass der Fahrer-Airbag nicht ausgelÃ¶st wird. Bei den betroffenen Fahrzeugen wird das Bauteil ausgetauscht.
-Die Aktion lÃ¤uft seit dem 20.12.2016 und ist fÃ¼r den Kunden kostenlos. ; Da in der Selbsttestphase der Instrumententafel (3 Sekunden ab Einschalten der ZÃ¼ndung) die ABS-Kontrolle nicht aufleuchtet, wÃ¼rde bei einem evtl. Ausfall des ABS-Systems keine RÃ¼ckmeldung fÃ¼r den Fahrer erfolgen. 
-Betroffen sind alle Dacia Logan und Sandero mit ABS und Fertigung in Pitesti (RumÃ¤nien) oder Somaca (Marokko). In Deutschland verkaufte Logan MPV sind lt. Hersteller nicht betroffen.
-Die HÃ¤ndler tauschen die Instrumententafel aus.
-Die Aktion dauert etwa 30 Minuten und ist kostenlos.
+Möglicherweise wurden weltweit sieben fehlerhafte Gasgenerator-Zünder des Fahrerairbags verbaut. Im Falle eines Aufpralls mit Auslösung des Airbags besteht die Gefahr, dass der Fahrer-Airbag nicht ausgelöst wird. Bei den betroffenen Fahrzeugen wird das Bauteil ausgetauscht.
+Die Aktion läuft seit dem 20.12.2016 und ist für den Kunden kostenlos. ; Spezialaufkleber am vorderen Stoßdämpferdom der Fahrerseite (Markierung im Feld Q6)  ; Die Ventilkeile als Verbindungselement zur Ventilfeder können wegen unzureichender Materialeigenschaften verschleißen und dadurch zu einer Störung der geregelten Ventilsteuerung führen. Dies kann im Extremfall zum Motortotalschaden führen.
+Die Händler kontrollieren als vorbeugende Maßnahme die Zylinderkopf-Nummern und tauschen - falls notwendig - die Ventilkeile aus.
+Aktionsstart ist in Europa am 01. Sept. 2011.
+Die Durchführung dauert zwischen 20 Minuten (Prüfvorgang) bis zu 9 Stunden (Tausch Ventilkeile) und ist für die Kunden kostenlos. ; Die Kennzeichnung der bearbeiteten Fahrzeuge erfolgt durch einen Spezialaufkleber am vorderen Stoßdämpferdom ; Da in der Selbsttestphase der Instrumententafel (3 Sekunden ab Einschalten der Zündung) die ABS-Kontrolle nicht aufleuchtet, würde bei einem evtl. Ausfall des ABS-Systems keine Rückmeldung für den Fahrer erfolgen. 
+Betroffen sind alle Dacia Logan und Sandero mit ABS und Fertigung in Pitesti (Rumänien) oder Somaca (Marokko). In Deutschland verkaufte Logan MPV sind lt. Hersteller nicht betroffen.
+Die Händler tauschen die Instrumententafel aus.
+Die Aktion dauert etwa 30 Minuten und ist kostenlos. ; Im Hersteller-Werkstattsystem (Code 0CDQ)

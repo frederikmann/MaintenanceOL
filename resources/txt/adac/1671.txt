@@ -1,7 +1,7 @@
-Die Schalterposition des Lichtschalters wird vom SteuergerÃ¤t mÃ¶glicherweise nicht richtig erkannt. Das fÃ¼hrt zum zum Ausschalten der Beleuchtung  bzw. die Beleuchtung lÃ¤sst sich gar nicht erst anschalten.
-Die HÃ¤ndler aktualisieren die Software.
-Die DurchfÃ¼hrung dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. 
-Ob das eigene Fahrzeug betroffen ist, kann auch der HÃ¤ndler beantworten oder auch unter der Service-Nummer 01801 / 111 999 oderhttp://www.peugeot.de/dialog/
-kundenbetreuungscenter/ unter Angabe der Fahrgestellnummer abgefragt werden ; keine Angaben ; im Peugeot EDV-System ; Laut Peugeot Deutschland sind in Deutschland keine Fahrzeuge betroffen.
-Wegen einer Scheuerstelle zwischen KraftstoffrÃ¼cklaufleitung und GerÃ¤uschdÃ¤mmung, kann es mÃ¶glicherweise zum Kraftstoffaustritt kommen.
-Der RÃ¼ckruf lÃ¤uft seit Juli 2011 im EU-Bereich Aktionscode YUS.
+Die Schalterposition des Lichtschalters wird vom Steuergerät möglicherweise nicht richtig erkannt. Das führt zum zum Ausschalten der Beleuchtung  bzw. die Beleuchtung lässt sich gar nicht erst anschalten.
+Die Händler aktualisieren die Software.
+Die Durchführung dauert etwa eine Stunde und ist für die Kunden kostenlos. 
+Ob das eigene Fahrzeug betroffen ist, kann auch der Händler beantworten oder auch unter der Service-Nummer 01801 / 111 999 oderhttp://www.peugeot.de/dialog/
+kundenbetreuungscenter/ unter Angabe der Fahrgestellnummer abgefragt werden ; Laut Peugeot Deutschland sind in Deutschland keine Fahrzeuge betroffen.
+Wegen einer Scheuerstelle zwischen Kraftstoffrücklaufleitung und Geräuschdämmung, kann es möglicherweise zum Kraftstoffaustritt kommen.
+Der Rückruf läuft seit Juli 2011 im EU-Bereich Aktionscode YUS. ; im Peugeot EDV-System ; keine Angaben

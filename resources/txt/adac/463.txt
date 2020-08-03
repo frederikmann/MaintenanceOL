@@ -1,4 +1,4 @@
-Im Hersteller-Werkstattsystem (Code NUH) ; Eine Ãœberhitzung des Motors kann zu Ã–laustritt und auch zum Kontrollverlust beim Fahren fÃ¼hren. 
-Der Hersteller ruft daher das Produkt zurÃ¼ck, um ein Softwareupdate durchzufÃ¼hren, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Bei den betroffenen Fahrzeugen kÃ¶nnte sich der Halt der Halterung des SchlieÃŸfallenkabels am Motorhaubeninnenblech als unzureichend erweisen und zu  unbeabsichtigtem Ã–ffnen der Motorhaube fÃ¼hren. Die Korrektur besteht in der Montage einer zusÃ¤tzlichen VerstÃ¤rkung, um den Halt des SchlieÃŸfallenkabels am Motorhaubeninnenblech zu gewÃ¤hrleisten. 
-Die Aktion lÃ¤uft seit dem 21.11.2016 und ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code GFJ)
+Bei den betroffenen Fahrzeugen könnte sich der Halt der Halterung des Schließfallenkabels am Motorhaubeninnenblech als unzureichend erweisen und zu  unbeabsichtigtem Öffnen der Motorhaube führen. Die Korrektur besteht in der Montage einer zusätzlichen Verstärkung, um den Halt des Schließfallenkabels am Motorhaubeninnenblech zu gewährleisten. 
+Die Aktion läuft seit dem 21.11.2016 und ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code GFJ) ; Eine Überhitzung des Motors kann zu Ölaustritt und auch zum Kontrollverlust beim Fahren führen. 
+Der Hersteller ruft daher das Produkt zurück, um ein Softwareupdate durchzuführen, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code NUH)

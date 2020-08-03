@@ -1,5 +1,5 @@
-Das ABS/ESP-Modul kann auch bei ausgeschaltetem Motor mit Strom versorgt werden. Dadurch entsteht Brandgefahr bzw. ABS und ESP k√∂nnten nicht ordnungsgem√§√ü funktionieren. Der Hersteller ruft betroffene Fahrzeuge daher in die Werkstatt, um ein Relais in der Hauptverteilerbox zu installieren.
-Die Aktion l√§uft seit dem 20.03.2018 und ist f√ºr den Kunden kostenlos. ; Wegen unzureichendem Korrosionsschutz kann der hintere Achstr√§ger brechen. Dann ist die Fahrstabilit√§t nicht mehr gew√§hrleistet und es kann zum Unfall kommen.
-Die H√§ndler f√ºhren bei geringer Korrosion eine Korrosionsbehandlung des Tr√§gers durch.
-Im fortgeschrittenem Stadium wird der Achstr√§ger getauscht. 
-Die Aktion ist im Dez. 2014 angelaufen, dauert bis zu einem ganzen Tag (Korrosionsbehandlung) und ist f√ºr die Kunden kostenlos., ; Im Hersteller-Werkstattsystem (Code 71C126) ; Im Hyundai- Werkstattsystem (Aktionscode 31C031) hinterlegt.
+Wegen unzureichendem Korrosionsschutz kann der hintere Achstr‰ger brechen. Dann ist die Fahrstabilit‰t nicht mehr gew‰hrleistet und es kann zum Unfall kommen.
+Die H‰ndler f¸hren bei geringer Korrosion eine Korrosionsbehandlung des Tr‰gers durch.
+Im fortgeschrittenem Stadium wird der Achstr‰ger getauscht. 
+Die Aktion ist im Dez. 2014 angelaufen, dauert bis zu einem ganzen Tag (Korrosionsbehandlung) und ist f¸r die Kunden kostenlos., ; Im Hyundai- Werkstattsystem (Aktionscode 31C031) hinterlegt. ; Das ABS/ESP-Modul kann auch bei ausgeschaltetem Motor mit Strom versorgt werden. Dadurch entsteht Brandgefahr bzw. ABS und ESP kˆnnten nicht ordnungsgem‰ﬂ funktionieren. Der Hersteller ruft betroffene Fahrzeuge daher in die Werkstatt, um ein Relais in der Hauptverteilerbox zu installieren.
+Die Aktion l‰uft seit dem 20.03.2018 und ist f¸r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 71C126)

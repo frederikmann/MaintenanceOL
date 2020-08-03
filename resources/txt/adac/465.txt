@@ -1,7 +1,7 @@
-an jedem Elektroventil des Unterdrucksystems wird eine externe EntlÃ¼ftung mit Filter montiert, Dauer etwa eine halbe Stunde ; Aktion: 5247: Wegen diverser sporadischer Fehler im Fehlerspeicher ein Softwareupdate fÃ¼r das MotorsteuergerÃ¤t
-Aktion: 5221: Wegen unzureichender Abdeckung sammelt sich Ablaufwasser im Bereich der Einspritzinjektoren und fÃ¼hrt dort zu
-OberflÃ¤chenkorrosion. Die HÃ¤ndler behandeln die
-Injektoren mit Rostumwandler und versiegeln diese
-anschl. mit einem Wachsschutz.
-Die Aktionen sind kostenlos und dauern zusammen
-etwa eine Stunde. ; ovaler Aufkleber im inneren Teil des Sicherungskasten-Deckels mit dem BuchstabenkÃ¼rzel XVZ ; weiÃŸer Lackpunkt auf MotorsteuergerÃ¤t, Injektoren mit Wachsauftrag
+Aktion: 5247: Wegen diverser sporadischer Fehler im Fehlerspeicher ein Softwareupdate für das Motorsteuergerät
+Aktion: 5221: Wegen unzureichender Abdeckung sammelt sich Ablaufwasser im Bereich der Einspritzinjektoren und führt dort zu
+Oberflächenkorrosion. Die Händler behandeln die
+Injektoren mit Rostumwandler und versiegeln diese
+anschl. mit einem Wachsschutz.
+Die Aktionen sind kostenlos und dauern zusammen
+etwa eine Stunde. ; an jedem Elektroventil des Unterdrucksystems wird eine externe Entlüftung mit Filter montiert, Dauer etwa eine halbe Stunde ; ovaler Aufkleber im inneren Teil des Sicherungskasten-Deckels mit dem Buchstabenkürzel XVZ ; weißer Lackpunkt auf Motorsteuergerät, Injektoren mit Wachsauftrag

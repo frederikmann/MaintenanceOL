@@ -1,5 +1,4 @@
-GelÃ¶stes Streusalz kann in die Elektronik (SteuergerÃ¤t) des KÃ¼hlerlÃ¼fters eindringen. Dies verursacht dort Korrosion und Ãœberhitzung.
-In Folge kÃ¶nnen sich die umliegenden Kabel und Bauteile sogar entzÃ¼nden.
-Die HÃ¤ndler Ã¼berprÃ¼fen das KÃ¼hlerlÃ¼fter-Modul und bauen, falls erforderlich, einen zusÃ¤tzlichen Kabelstrang ein, der die Stromversorgung des KÃ¼hlerlÃ¼fter-Moduls bei ausgeschalteter ZÃ¼ndung unterbricht. ZusÃ¤tzlich wird an das Modul ein Spritzschutz angebracht, der vor Wassereintritt und und Korrosion schÃ¼tzen soll. 
-Die Aktion lÃ¤uft ab Juli 2014, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos
- ; Im HÃ¤ndlersystem vermerkt. 
+Im Händlersystem vermerkt.  ; Gelöstes Streusalz kann in die Elektronik (Steuergerät) des Kühlerlüfters eindringen. Dies verursacht dort Korrosion und Überhitzung.
+In Folge können sich die umliegenden Kabel und Bauteile sogar entzünden.
+Die Händler überprüfen das Kühlerlüfter-Modul und bauen, falls erforderlich, einen zusätzlichen Kabelstrang ein, der die Stromversorgung des Kühlerlüfter-Moduls bei ausgeschalteter Zündung unterbricht. Zusätzlich wird an das Modul ein Spritzschutz angebracht, der vor Wassereintritt und und Korrosion schützen soll. 
+Die Aktion läuft ab Juli 2014, dauert etwa eine Stunde und ist für die Kunden kostenlos

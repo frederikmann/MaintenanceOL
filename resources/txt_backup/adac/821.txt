@@ -1,0 +1,2 @@
+An der Electronic Power Control Unit (EPCU) kann es zu Undichtigkeiten und somit zu Wassereintritt kommen. Hierdurch kann es zu einem Kurzschluss kommen und es besteht Brandgefahr. Als Abhilfe ruft der Hersteller betroffene Fahrzeuge in die Werkstatt, um die Versiegelung der EPCU zu prüfen, und bei Bedarf zu erneuern.
+Die Aktion läuft seit dem 19.01.2018 und ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code 71C062)

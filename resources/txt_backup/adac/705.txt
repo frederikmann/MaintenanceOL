@@ -1,0 +1,6 @@
+Ford hat bei internen Qualitätskontrollen festgestellt, dass sich bei einer Anzahl von Motoren Antriebsriemen der Lenkhilfepumpe lösen können, was zu einem Ausfall der Servolenkung führen könnte. Bei den betroffenen Fahrzeugen ist eine Überprüfung des Herstell-Datumscodes auf dem/den Riemen und ggfs. eine Riemenerneuerung erforderlich.
+Die veranschlagte Arbeitszeit beträgt 0,2 bis 0,7 Stunden, je nach Ausstattung des Fahrzeuges. ; Im Bereich der Lenkradnabe, kann es zum Ermüdungsbruch in der Mitte des Nabengussteils kommen. 
+Das würde zum Ablösen des Lenkrads von der Lenksäule führen und dadurch das Fahrzeug nicht mehr lenkfähig sein. 
+Die Händler tauschen die fehlerhaften Lenkräder kostenlos aus.
+Die Aktion dauert etwa eine halbe Stunde.  ; im Datenbestand des Herstellers ; Keine Angaben des Herstellers ; Bei Ford Transit-Fahrzeugen könnte die Halterung des Sicherheitsgurts am äußeren Punkt des Sitzrahmens möglicherweise nicht korrekt ausgerichtet und die Befestigungsschraube nicht mit dem erforderlichen Anzugsdrehmoment festgezogen sein. Fahrzeugvibrationen in Verbindung mit einer falsch ausgerichteten Halterung können zum Lösen der Schraube und letztendlich zum Lösen des Sicherheitsgurtes führen.
+Bei den betroffenen Fahrzeugen werden der korrekte Einbau der Halterung und das Anzugsdrehmoment der Befestigungsschraube überprüft.

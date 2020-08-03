@@ -1,0 +1,4 @@
+Eintrag Aktionscode HUT3 im Suzuki Händler Netz ; Im Zuge der Qualitätskontrolle wurde festgestellt, dass an den betroffenen Modellen die Motorkontrollleuchte gegebenenfalls nicht aktiviert wird, wenn der Ansauglufttemperatursensor eine Fehlfunktion aufweist. Als Abhilfe wird das ECM (elektronisches Steuergerät) neu programmiert.
+Die Aktion läuft seit November 2016 und ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem (Code HUY4) ; Die Befestigungsschrauben der Hinterachse weisen keine Schraubensicherung auf und können sich deshalb mit der Zeit lockern. Das beeinflusst dann das Fahrverhalten negativ, so dass es je nach Fahrsituation zu krit. Reaktionen führen kann. 
+Die Händler ersetzen die Befestigungsschrauben gegen eine Version mit Schraubensicherungsbeschichtung.
+Die Aktion startet im April 2016, dauert bis zu einer Stunde und ist für die Kunden kostenlos.

@@ -25,6 +25,7 @@ def sentences(corpus, no_questions):
     # potentially add root form support
     terms = ["wohin", "wie", "woher", "was", "wieso", "warum", "wer", "welche", "wen", "wem", "wo", "?"]
     matcher = PhraseMatcher(nlp.vocab)
+    unique_sents = set()
 
     patterns = [nlp.make_doc(text) for text in terms]
     matcher.add("QuestionList", None, *patterns)
@@ -35,9 +36,10 @@ def sentences(corpus, no_questions):
     for sent in doc.sents:
         doc = nlp(sent.text)
         matches = matcher(doc)
-        if sent.root.pos_ and len(sent.text) > 3:
+        if sent.root.pos_ and len(sent.text) > 3 and sent.text not in unique_sents:
             if not no_questions or (no_questions and not matches):
                 sents.append(sent.text.translate(str.maketrans('', '', string.punctuation)))
+        unique_sents.add(sent.text)
 
     return "; ".join(sents)
 

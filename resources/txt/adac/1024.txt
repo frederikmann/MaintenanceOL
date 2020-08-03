@@ -1,3 +1,4 @@
-keine Angaben. ; Ein VorlaufschlauchstÃ¼ck des MotorÃ¶lkreislaufs wird rissig. Das austretende MotorÃ¶l kann sich am heissen Motor entzÃ¼nden und es besteht Brandgefahr. 
-Die HÃ¤ndler tauschen das schadhafte SchlauchstÃ¼ck aus. 
-Die Aktion ist Dez. 2012 angelaufen, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos.
+Ein Vorlaufschlauchstück des Motorölkreislaufs wird rissig. Das austretende Motoröl kann sich am heissen Motor entzünden und es besteht Brandgefahr. 
+Die Händler tauschen das schadhafte Schlauchstück aus. 
+Die Aktion ist Dez. 2012 angelaufen, dauert etwa eine Stunde und ist für die Kunden kostenlos.
+ ; keine Angaben.

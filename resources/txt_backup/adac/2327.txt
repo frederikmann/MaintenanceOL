@@ -1,0 +1,15 @@
+Wegen eines Softwarefehlers des Steuergerätes funktionieren die Scheibenwischer möglicherweise beim Einschalten nicht oder schalten sich im ausgeschalteten Zustand unvermittelt ein.
+Die Vertragshändler spielen eine aktualisierte Softwareversion auf. 
+Die Aktion ist für den Kunden kostenlos und dauert etwa eine halbe Stunde. 
+Die Händler sind seit 20.4.09 informiert.  ; Vermerk im Händlersystem  ; Wegen eines gelösten Kugelbolzens in der Schaltkulisse kann es zu Schaltproblemen bei den obigen Modellen kommen. 
+Die Händler ziehen den Kugelbolzen mit korrektem Anzugsmoment nach Herstellervorgabe fest.
+Die Aktion ist ab 3.6.2010 gestartet, dauert je nach Modell, bis zu einer Stunde und ist für die Kunden kostenlos. ; Im internen Volvo-Händler-System und Aufkleber ; Wegen eines Softwarefehlers der Steuerung elektronische Feststellbremse, kann diese sich bereits vorzeitig, nach Fahrzeugstart und eingelegtem Gang, lösen.
+Dann könnte es zu einem unbeabsichtigten Wegrollen des Fahrzeugs kommen.
+Die Händler aktualisieren die Steuersoftware der elektr. Feststellbremse.
+Start der Aktion war Feb.2015, die Aktion dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Vermerk im Volvo-Händlersystem. ; Im internen Volvo System unter Code R29424 hinterlegt.  ; Im Volvo Herstellersystem hinterlegt.  ; Der Riemenspanner des Nebenaggregateantriebs kann vorzeitig verschleißen und der Antriebsriemen abspringen.
+Laut Hersteller treten zunächst Laufgeräusche auf und in Folge kann es zum Abspringen des Riemens kommen, so dass dann die Unterstützung der Servolenkung ausfällt. Dann sind die Fahrzeuge nur noch mit erheblich höherer Lenkkraft zu steuern.
+Die Händler überprüfen die Riemenspanner und tauschen ggf. den Spanner und Antriebsriemen Nebenaggregate aus.
+Die Aktion läuft seit Nov. 2013, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Bei Partikelfilterfahrzeugen kann es  u.a. auch wegen der Regenerierungsstrategie zu hoher Motorölverdünnung kommen, was bei Anstieg des Ölstands über Maximum zum Motorschaden führen kann. 
+Im ersten Anschreiben vom Mai 2010 hatte Volvo die Kunden zur regelmäßigen Ölstandskontrolle aufgerufen. Mit dem aktuellen Rückruf ab Aug. 2010 werden die Kunden zum Motorsoftwareupdate gerufen. Mit dem verbesserten Softwarestand wird u.a. auch eine Meldung im Infodisplay integriert, falls ein erhöhter Motorölstand erreicht wird. 
+Die Händler spielen den aktuellen Softwarestand auf und bringen einen Aufkleber im Motorraum an , an dem die Ölstände protokolliert werden. 
+Die Aktion dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.

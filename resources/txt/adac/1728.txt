@@ -1,3 +1,3 @@
-Durch einen Fehler in der Schalterkonsole fÃ¼r "TC-Off" und "PASM" kÃ¶nnen das Traktionskontrollsystem und die Regelung der Fahrwerks-DÃ¤mpfung ausfallen.
-Bei den betroffenen Fahrzeugen werden die Schalterkonsolen ersetzt, Dauer etwa 30 Minuten.
+Durch einen Fehler in der Schalterkonsole für "TC-Off" und "PASM" können das Traktionskontrollsystem und die Regelung der Fahrwerks-Dämpfung ausfallen.
+Bei den betroffenen Fahrzeugen werden die Schalterkonsolen ersetzt, Dauer etwa 30 Minuten.
 Nach Angaben von Porsche wurden bisher noch keine Beanstandungen von Kunden gemeldet.

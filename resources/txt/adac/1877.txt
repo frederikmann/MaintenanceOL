@@ -1,3 +1,3 @@
-Wegen ungeeigneter Kalibrierung des SteuergerÃ¤ts der elektrischen Servolenkung kann es zu einem plÃ¶tzlichen Ausfall der ServounterstÃ¼tzung kommen.
-Dann sind deutlich erhÃ¶hte LenkkrÃ¤fte erforderlich. Die HÃ¤ndler fÃ¼hren einen Software-Update fÃ¼r das Lenkhilfe-SteuergerÃ¤t durch.
+Wegen ungeeigneter Kalibrierung des Steuergeräts der elektrischen Servolenkung kann es zu einem plötzlichen Ausfall der Servounterstützung kommen.
+Dann sind deutlich erhöhte Lenkkräfte erforderlich. Die Händler führen einen Software-Update für das Lenkhilfe-Steuergerät durch.
 Die Aktion ist kostenlos und dauert etwa eine halbe Stunde. ; Kennzeichnung Code "L1" im Motorraum links.

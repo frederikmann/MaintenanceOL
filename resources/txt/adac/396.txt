@@ -1,1 +1,1 @@
-keine vorgesehen ; Der Unterdruckschlauch zwischen BremskraftverstÃ¤rkers und Saugrohr kann durch Ã–lverunreinigungen aufquellen und sich lÃ¶sen. Dadurch kommt es zum Ausfall der BremskraftunterstÃ¼tzung mit deutlichem Anstieg der erforderlichen Bremspedalkraft.
+Der Unterdruckschlauch zwischen Bremskraftverstärkers und Saugrohr kann durch Ölverunreinigungen aufquellen und sich lösen. Dadurch kommt es zum Ausfall der Bremskraftunterstützung mit deutlichem Anstieg der erforderlichen Bremspedalkraft. ; keine vorgesehen

@@ -1,19 +1,19 @@
-Im Garantiesystem des Importeurs vermerkt. ; Wegen einer defekten Dichtung am Steuerkettenspanner kann dieser ausfallen. Das fÃ¼hrt zu einer gelockerten Steuerkette, die Ã¼berspringen kann, was in Folge zum Motorschaden fÃ¼hren kann. Die HÃ¤ndler tauschen den fehlerhaften Dichtring gegen eine verbesserte Version aus. 
-Die Aktion ist im Jan. 2015 angelaufen und ist fÃ¼r die Kunden kostenlos. ; Bei bestimmten Fahrzeugen sind die Achsschrauben an der Vorder- und/oder Hinterachse nicht ordnungsgemÃ¤ÃŸ verschraubt. Dies kÃ¶nnte zu einer Ãœberlastung der restlichen Schraubverbindungen an der betroffenen Achse fÃ¼hren. Als vorsorgliche MaÃŸnahme werden bei den betroffenen Fahrzeugen die Achsschrauben an der Vorder- und Hinterachse getauscht.
-Die Aktion lÃ¤uft bereits und ist fÃ¼r den Kunden kostenlos. ; Im Falle einer elektrischen Fehlfunktion der Platine kÃ¶nnte die Ladefunktion durch ein externes Ladekabel nicht gegeben sein. Des Weiteren kÃ¶nnte der Hochvolt-Onboardlader fÃ¤lschlicherweise ein gestecktes Ladekabel auch wÃ¤hrend der Fahrt erkennen (PlausibilitÃ¤tsprÃ¼fung) und das Fahrzeug wÃ¼rde die Aktivierung von "P" anfordern. Sollte dies wÃ¤hrend der Fahrt bei Geschwindigkeiten kleiner als 5 km/h auftreten, wÃ¼rde das Getriebe die Parksperrenfunktion aktivieren.
-Dies wÃ¼rde eine Weiterfahrt des Fahrzeugs verhindern und kÃ¶nnte die Gefahr eines mÃ¶glichen Unfalls erhÃ¶hen.
-Die HÃ¤ndler tauschen betroffenen Fahrzeugen die Hochvolt-Onboard-Lader aus.
-Die Aktion startete im Juni 2016, und ist fÃ¼r die Kunden kostenlos. ; Wegen einer fehlerhaften Verschraubung des hinteren, rechten Gurtendbeschlags kann dieser bei hoher Belastung nachgeben und dadurch besteht eine erhÃ¶hte Verletzungsgefahr. 
-Die HÃ¤ndler prÃ¼fen und arbeiten ggf. den Gurtendbeschlags nach.
-Die Aktion lÃ¤uft seit Jul. 2016, dauert etwa eine Stunde und ist fÃ¼r die Kunden kostenlos. ; Bei bestimmten Fahrzeugen funktioniert die Kalibrierung der automatischen Insassenklassifizierung der Beifahrersitzbelegung nicht. Sollte eine sehr leichte Person im Randbereich des Sitzes Platz nehmen und Ã¼ber einen lÃ¤ngeren Zeitraum absolut ruhig in dieser Position sitzen bleiben, besteht die MÃ¶glichkeit, dass die automatische Insassenklassifizierung die Person nicht korrekt erkennt und den Beifahrer als Kindersitz umklassifiziert. Als Abhilfe wird die Software der Insassenklassifizierung zu aktualisiert.
-Die Aktion lÃ¤uft bereits und ist fÃ¼r den Kunden kostenlos. ; Aufgrund unzulÃ¤ssiger Abschalteinrichtungen wird aus der freiwilligen ServicemaÃŸnahme zum Softwareupdate ein offizieller RÃ¼ckruf. Betroffene Modelle:
-Vito 1.6 Diesel (OM622): 06.15 bis 06.18
-Vito 2.2 Diesel (OM651): 09.14 bis 09.16 
-C 220d/C 250d und C 220, C 250 BlueTEC (OM651): 12.13 bis 05.18 
-C 180d/C200d und C 180/200 BlueTEC (OM626): 08.14 bis 05.18 
-E 350 BlueTEC, E 350 d (nur Coupe, C207) (OM642): 02.13 bis 12.16 
-G 350d (evtl. auch G 350 BlueTEC) (OM642): 09.15 bis 12.15
-GLC 220d/GLC 250d (OM651): 06.15 bis 06.18 
-S 300 BlueTEC HYBRID /S 300 h (OM651): 12.13 bis 09.16 
-ML 250 BlueTEC (u.U. auch GLE 250d) (OM651): 08.11 bis 06.15 
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Daimler-Herstellersystem hinterlegt. ; Im Mercedes-Werkstatt-System ; Im Hersteller-Werkstattsystem
+Bei bestimmten Fahrzeugen funktioniert die Kalibrierung der automatischen Insassenklassifizierung der Beifahrersitzbelegung nicht. Sollte eine sehr leichte Person im Randbereich des Sitzes Platz nehmen und über einen längeren Zeitraum absolut ruhig in dieser Position sitzen bleiben, besteht die Möglichkeit, dass die automatische Insassenklassifizierung die Person nicht korrekt erkennt und den Beifahrer als Kindersitz umklassifiziert. Als Abhilfe wird die Software der Insassenklassifizierung zu aktualisiert.
+Die Aktion läuft bereits und ist für den Kunden kostenlos. ; Aufgrund unzulässiger Abschalteinrichtungen wird aus der freiwilligen Servicemaßnahme zum Softwareupdate ein offizieller Rückruf. Betroffene Modelle:
+Vito 1.6 Diesel (OM622): 06.15 bis 06.18
+Vito 2.2 Diesel (OM651): 09.14 bis 09.16 
+C 220d/C 250d und C 220, C 250 BlueTEC (OM651): 12.13 bis 05.18 
+C 180d/C200d und C 180/200 BlueTEC (OM626): 08.14 bis 05.18 
+E 350 BlueTEC, E 350 d (nur Coupe, C207) (OM642): 02.13 bis 12.16 
+G 350d (evtl. auch G 350 BlueTEC) (OM642): 09.15 bis 12.15
+GLC 220d/GLC 250d (OM651): 06.15 bis 06.18 
+S 300 BlueTEC HYBRID /S 300 h (OM651): 12.13 bis 09.16 
+ML 250 BlueTEC (u.U. auch GLE 250d) (OM651): 08.11 bis 06.15 
+Die Aktion ist für den Kunden kostenlos. ; Im Garantiesystem des Importeurs vermerkt. ; Bei bestimmten Fahrzeugen sind die Achsschrauben an der Vorder- und/oder Hinterachse nicht ordnungsgemäß verschraubt. Dies könnte zu einer Überlastung der restlichen Schraubverbindungen an der betroffenen Achse führen. Als vorsorgliche Maßnahme werden bei den betroffenen Fahrzeugen die Achsschrauben an der Vorder- und Hinterachse getauscht.
+Die Aktion läuft bereits und ist für den Kunden kostenlos. ; Wegen einer defekten Dichtung am Steuerkettenspanner kann dieser ausfallen. Das führt zu einer gelockerten Steuerkette, die überspringen kann, was in Folge zum Motorschaden führen kann. Die Händler tauschen den fehlerhaften Dichtring gegen eine verbesserte Version aus. 
+Die Aktion ist im Jan. 2015 angelaufen und ist für die Kunden kostenlos. ; Wegen einer fehlerhaften Verschraubung des hinteren, rechten Gurtendbeschlags kann dieser bei hoher Belastung nachgeben und dadurch besteht eine erhöhte Verletzungsgefahr. 
+Die Händler prüfen und arbeiten ggf. den Gurtendbeschlags nach.
+Die Aktion läuft seit Jul. 2016, dauert etwa eine Stunde und ist für die Kunden kostenlos. ; Im Hersteller-Werkstattsystem ; Im Daimler-Herstellersystem hinterlegt. ; Im Falle einer elektrischen Fehlfunktion der Platine könnte die Ladefunktion durch ein externes Ladekabel nicht gegeben sein. Des Weiteren könnte der Hochvolt-Onboardlader fälschlicherweise ein gestecktes Ladekabel auch während der Fahrt erkennen (Plausibilitätsprüfung) und das Fahrzeug würde die Aktivierung von "P" anfordern. Sollte dies während der Fahrt bei Geschwindigkeiten kleiner als 5 km/h auftreten, würde das Getriebe die Parksperrenfunktion aktivieren.
+Dies würde eine Weiterfahrt des Fahrzeugs verhindern und könnte die Gefahr eines möglichen Unfalls erhöhen.
+Die Händler tauschen betroffenen Fahrzeugen die Hochvolt-Onboard-Lader aus.
+Die Aktion startete im Juni 2016, und ist für die Kunden kostenlos. ; Im Mercedes-Werkstatt-System

@@ -1,3 +1,3 @@
-Eintragung im Fahrzeugdiagnosesystem des Herstellers.  ; In der zentralen Softwarebereitstellung fÃ¼r die Serviceorganisation "Zentrale Business Logik" sowie "Dialog"  wurde Servicesoftware mit falscher Kalibrierungsnummer fÃ¼r das SteuergerÃ¤t (SNC-Codierung) versehen.
-Die falschen SNC-Codierungen kÃ¶nnen Auswirkungen auf die Steuerung der Motorabschaltung imCrashfall, die Onboard-Diagnose und das Tank- und Tachosignal haben.
+Eintragung im Fahrzeugdiagnosesystem des Herstellers.  ; In der zentralen Softwarebereitstellung für die Serviceorganisation "Zentrale Business Logik" sowie "Dialog"  wurde Servicesoftware mit falscher Kalibrierungsnummer für das Steuergerät (SNC-Codierung) versehen.
+Die falschen SNC-Codierungen können Auswirkungen auf die Steuerung der Motorabschaltung imCrashfall, die Onboard-Diagnose und das Tank- und Tachosignal haben.
 Das kostenlose Softwareupdate dauert etwa eine halbe Stunde.

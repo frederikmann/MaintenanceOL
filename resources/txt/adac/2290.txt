@@ -1,14 +1,14 @@
-Bei der Montage der A-SÃ¤ulenverkleidungen wurden diese mit zu hohem Anzugsmoment angezogen. Dadurch kÃ¶nnen die Verkleidungen beim AuslÃ¶sefall des Seitenairbags wegfliegen und die Insassen gefÃ¤hrdet werden. 
-Die HÃ¤ndler tauschen die A-SÃ¤ulenverkleidungen und Verschraubung aus. 
-Die Aktion ist Ende Okt. 2012 angelaufen, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos.
- ; Wegen eines Softwarefehlers der Steuerung elektronische Feststellbremse, kann diese sich bereits vorzeitig, nach Fahrzeugstart und eingelegtem Gang, lÃ¶sen.
-Dann kÃ¶nnte es zu einem unbeabsichtigten Wegrollen des Fahrzeugs kommen.
-Die HÃ¤ndler aktualisieren die Steuersoftware der elektr. Feststellbremse.
-Start der Aktion war Feb.2015, die Aktion dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Im Volvo Servicesystem vermerkt. ; Im internen Volvo System unter Code R29424 hinterlegt.  ; Im Volvo Herstellersystem hinterlegt.  ; Im Volvo-HÃ¤ndlersystem vermerkt ; Da die EndanschlÃ¤ge der Sitzschienen fehlen oder nicht korrekt verbaut wurden, kann der Sitz auch Ã¼ber den vorgesehenen Minimalabstand zum Lenkrad weiter nach vorne gefahren werden.
-Dadurch kann es lt. Hersteller bei einem Unfall mit AirbagauslÃ¶sung zu erhÃ¶htem Verletzungsrisiko des Fahrers kommen.
-Die HÃ¤ndler ergÃ¤nzen die SitzendanschlÃ¤ge falls erforderlich. 
-Die Aktion wurde am 10.12.2010 gestartet und ist fÃ¼r die Kunden kostenlos.
- ; Der Riemenspanner des Nebenaggregateantriebs kann vorzeitig verschleiÃŸen und der Antriebsriemen abspringen.
-Laut Hersteller treten zunÃ¤chst LaufgerÃ¤usche auf und in Folge kann es zum Abspringen des Riemens kommen, so dass dann die UnterstÃ¼tzung der Servolenkung ausfÃ¤llt. Dann sind die Fahrzeuge nur noch mit erheblich hÃ¶herer Lenkkraft zu steuern.
-Die HÃ¤ndler Ã¼berprÃ¼fen die Riemenspanner und tauschen ggf. den Spanner und Antriebsriemen Nebenaggregate aus.
-Die Aktion lÃ¤uft seit Nov. 2013, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos.
+Bei der Montage der A-Säulenverkleidungen wurden diese mit zu hohem Anzugsmoment angezogen. Dadurch können die Verkleidungen beim Auslösefall des Seitenairbags wegfliegen und die Insassen gefährdet werden. 
+Die Händler tauschen die A-Säulenverkleidungen und Verschraubung aus. 
+Die Aktion ist Ende Okt. 2012 angelaufen, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.
+ ; Wegen eines Softwarefehlers der Steuerung elektronische Feststellbremse, kann diese sich bereits vorzeitig, nach Fahrzeugstart und eingelegtem Gang, lösen.
+Dann könnte es zu einem unbeabsichtigten Wegrollen des Fahrzeugs kommen.
+Die Händler aktualisieren die Steuersoftware der elektr. Feststellbremse.
+Start der Aktion war Feb.2015, die Aktion dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Da die Endanschläge der Sitzschienen fehlen oder nicht korrekt verbaut wurden, kann der Sitz auch über den vorgesehenen Minimalabstand zum Lenkrad weiter nach vorne gefahren werden.
+Dadurch kann es lt. Hersteller bei einem Unfall mit Airbagauslösung zu erhöhtem Verletzungsrisiko des Fahrers kommen.
+Die Händler ergänzen die Sitzendanschläge falls erforderlich. 
+Die Aktion wurde am 10.12.2010 gestartet und ist für die Kunden kostenlos.
+ ; Der Riemenspanner des Nebenaggregateantriebs kann vorzeitig verschleißen und der Antriebsriemen abspringen.
+Laut Hersteller treten zunächst Laufgeräusche auf und in Folge kann es zum Abspringen des Riemens kommen, so dass dann die Unterstützung der Servolenkung ausfällt. Dann sind die Fahrzeuge nur noch mit erheblich höherer Lenkkraft zu steuern.
+Die Händler überprüfen die Riemenspanner und tauschen ggf. den Spanner und Antriebsriemen Nebenaggregate aus.
+Die Aktion läuft seit Nov. 2013, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Im Volvo-Händlersystem vermerkt ; Im Volvo Servicesystem vermerkt. ; Im internen Volvo System unter Code R29424 hinterlegt.  ; Im Volvo Herstellersystem hinterlegt. 

@@ -1,1 +1,1 @@
-Im Hersteller-Werkstattsystem. Code â€94M1 ; Die ursprÃ¼ngliche Software kann unter UmstÃ¤nden einen defekten LED-Blinker nicht erfassen. Abhilfe: Eine neue Software soll das Problem beheben.
+Im Hersteller-Werkstattsystem. Code „94M1 ; Die ursprüngliche Software kann unter Umständen einen defekten LED-Blinker nicht erfassen. Abhilfe: Eine neue Software soll das Problem beheben.

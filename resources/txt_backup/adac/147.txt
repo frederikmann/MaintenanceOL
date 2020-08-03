@@ -1,0 +1,3 @@
+Im extremen Rennstreckeneinsatz kann es in Kombination mit extremen Fahrmanövern zu einem Ölaustritt in der Getriebeentlüftung kommen. Das dafür vorgehaltene Ausdehnungsvermögen in der Getriebeentlüftung kann im Einzelfall zu gering sein, um den Austritt vollständig zu kompensieren. Sollten austretende Öldämpfe auf heiße Bauteile im Motorraum treffen, ist eine Rauchentwicklung möglich. Auch kann ein Fahrzeugbrand nicht ausgeschlossen werden.
+
+In der Werkstatt wird der Einfachentlüfter durch einen Zweifachentlüfter mit höherem Ausdehnungsvolumen ersetzt. ; Im Hersteller-Werkstattsystem

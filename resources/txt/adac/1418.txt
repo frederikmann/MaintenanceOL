@@ -1,6 +1,6 @@
-Ein Sicherungsclip, der dazu benutzt wird, das LenksÃ¤ulengelenk richtig an die Lenkung zu montieren, kann verloren gegangen sein. 
-Dann besteht die MÃ¶glichkeit, dass der Befestigungsbolzen des Gelenks festgezogen wurde, obwohl die LenksÃ¤ulenwelle noch nicht vollstÃ¤ndig in die Eingangswelle des Lenkgetriebes eingefÃ¼hrt war. 
-Es besteht dann die Gefahr, dass sich die Verbindung von Gelenk und Welle lockert. Im Extremfall wÃ¤re das Fahrzeug dann nicht mehr lenkbar. 
-Die HÃ¤ndler prÃ¼fen die LenksÃ¤ule/Gelenkverbindung und tauschen die Lenkwelle ggf. aus.  
-Die Aktion startete im Dez. 2014, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; keine Angaben, im internen Herstellersystem vermerkt.  ; Das SteuergerÃ¤t zur Scheinwerfer-Leuchtenregulierung einiger Fahrzeuge kÃ¶nnte nicht korrekt konfiguriert worden sein. Die Automatische Leuchtweitenregulierung bei beladenem Fahrzeug erfolgt dann nicht. Der Hersteller ruft die betroffenen Fahrzeuge zur Neuprogrammierung des SteuergerÃ¤ts in die Werkstatt.
-Die Aktion lÃ¤uft seit dem 4. Mai 2017 und ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem
+Im Hersteller-Werkstattsystem ; Ein Sicherungsclip, der dazu benutzt wird, das Lenksäulengelenk richtig an die Lenkung zu montieren, kann verloren gegangen sein. 
+Dann besteht die Möglichkeit, dass der Befestigungsbolzen des Gelenks festgezogen wurde, obwohl die Lenksäulenwelle noch nicht vollständig in die Eingangswelle des Lenkgetriebes eingeführt war. 
+Es besteht dann die Gefahr, dass sich die Verbindung von Gelenk und Welle lockert. Im Extremfall wäre das Fahrzeug dann nicht mehr lenkbar. 
+Die Händler prüfen die Lenksäule/Gelenkverbindung und tauschen die Lenkwelle ggf. aus.  
+Die Aktion startete im Dez. 2014, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Das Steuergerät zur Scheinwerfer-Leuchtenregulierung einiger Fahrzeuge könnte nicht korrekt konfiguriert worden sein. Die Automatische Leuchtweitenregulierung bei beladenem Fahrzeug erfolgt dann nicht. Der Hersteller ruft die betroffenen Fahrzeuge zur Neuprogrammierung des Steuergeräts in die Werkstatt.
+Die Aktion läuft seit dem 4. Mai 2017 und ist für den Kunden kostenlos. ; keine Angaben, im internen Herstellersystem vermerkt. 

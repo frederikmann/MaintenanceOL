@@ -1,0 +1,6 @@
+Eintrag im Werkstattsystem ; Neue Einspritzpumpe mit modifizierter Buchse (Äussere Erkennungsmerkmale noch nicht bekannt) ; Beanstandungen von Kunden im asiatischen Raum veranlasste Mercedes zum Rückruf. Dort wurden Gerüche wahrgenommen, wenn die Klimaanlage bei Motorleerlauf längere Zeit mit voller Leistung betrieben wurde. 
+Die Kunden werden seit Juli 2004 von Mercedes angeschrieben und mit ihren Fahrzeugen in die Werkstätten gebeten. Dort wird ein Leitungssatz mit Sicherungsschalter kostenlos eingebaut. ; Wegen der fehlerhafter Spannungssignale des Sensors kann es an der Vorderachse zu ungewöhnlichen Aufbaubewegungen kommen, wobei dies auch mit Warnmeldung im Kombiinstrument einhergehen kann.
+Lt. Hersteller handelt es sich nur um Komfortbeeinträchtigungen.
+Die Händler prüfen und tauschen ggf. den Aufbaubeschleunigungssensor aus.
+Der Maßnahme läuft Ende 2008, dauert eine Stunde und ist kostenlos.
+ ; im Datenbestand des Herstellers ; Wegen eines vorzeitigen Verschleißes einer Lagerbuchse der Einspritzpumpe kann es zum plötzlichen Ausfall der Pumpe kommen. Das Fahrzeug bleibt stehen (Pannenfall).

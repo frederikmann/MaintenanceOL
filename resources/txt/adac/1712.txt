@@ -1,2 +1,2 @@
-Im Hersteller-Werkstattsystem und im Wartungsheft (Code AH04) ; An betroffenen Fahrzeugen kann die Verklebung der Windschutzscheibe zur Karosserie unzureichend ausgefÃ¼hrt sein. Dadurch kann sich die Scheibe bei einem Unfall lÃ¶sen. Der Hersteller ruft die Fahrzeuge daher zurÃ¼ck und erneuert Die Verklebung der Windschutzscheibe.
-Die Aktion ist fÃ¼r den Kunden kostenlos.
+An betroffenen Fahrzeugen kann die Verklebung der Windschutzscheibe zur Karosserie unzureichend ausgeführt sein. Dadurch kann sich die Scheibe bei einem Unfall lösen. Der Hersteller ruft die Fahrzeuge daher zurück und erneuert Die Verklebung der Windschutzscheibe.
+Die Aktion ist für den Kunden kostenlos. ; Im Hersteller-Werkstattsystem und im Wartungsheft (Code AH04)

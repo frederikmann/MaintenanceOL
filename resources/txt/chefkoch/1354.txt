@@ -1,0 +1,61 @@
+Hi zusammen, kennt ihr das auch? Es kommt die Jahresabrechnung vom Stromanbieter und man denkt sich, da stimmt doch was nicht. Wie kann ich denn selbst überprüfen, ob alles richtig berechnet wurde? Wie kann ich das denn mal selbst verlässlich ausrechnen?										
+
+
+
+Zitieren & Antworten ; Hallo! Ich verstehe nicht so ganz, wo das Problem liegen soll. Die Abrechnungen vom Stromanbieter sind zwar ein wilder Zahlenwust auf den ersten Blick, aber wenn man sich dort in Ruhe hinein vertieft, stehen doch alle Berechnungen mit ihren Grundlagen dort drin. Und ob da die Endergebnisse richtig gerechnet wurden, naja, kann man mit einem Taschenrechner nachprüfen, aber da das von spezialisierten Computerprogrammen und nicht von Menschen mit Taschenrechnern gerechnet wird, müsste ein Fehler dabei schon tief in dem Programm sitzen - und wäre wahrscheinlich schon irgendwem irgendwann aufgefallen. Wenn einem die Stromrechnung merkwürdig vorkommt, ist der sinnvollste Schritt, dass man mal den Verbrauch auf Plausibilität prüft. Hierfür kannst du einfach mal in die Abrechnungen der letzten Jahre schauen und gucken, ob der aktuelle Verbrauch in einer ähnlichen Größenordnung liegt. Bei massiven Abweichungen kannst du dann dort auf "Fehlersuche" gehen. Das fängt dann an mit defekten Zählern und Geräten und endet bei sowas wie Stromklau durch Nachbarn. Aber das hat dann weniger mit Rechnen zu tun :). GLG, Elphi										
+
+
+
+Zitieren & Antworten ; Hallöchen! Ich verstehe das Problem auch nicht ganz. Ein Tipp:Hänge neben dem Stromzähler einen Zettel und notiere (evtl. immer am ersten des Monats) den Zählerstand. So hast Du immer genau im Blick, was Du verbrauchst.Den Zählerstand von dem Tag an dem abgelesen wird (meist macht man das ja eh selbst) markierst Du besonders.Dann kannst Du auf der Rechnung genau nachschauen, ob die richtigen Zahlen übermittelt wurden.  Wie Elphi schon bemerkt hat: Ein Fehler im Programm des Stromanbieters ist nicht unmöglich - aber unwahrscheinlich.  Viel Erfolg Zauber  
+
+
+
+Zitieren & Antworten ; Hallo, Du kannst Deine Rechnung wie folgt systematisch überprüfen: 1. Zählernummer abgleichen, ist es überhaupt Dein Stromzähler der auf der Rechnung angegeben ist?2. Verbrauch ermitteln, entweder hast Du die Zählerstände selber notiert oder Du schaust Dir den Endstand auf der Rechnung davor an.Dann einfach vom aktuellen Stand abziehen.3. Verbrauch auf Plausibilität prüfen, mit dem Verbrauch im Jahr davor vergleichen, war längere Zeit niemand in der Wohnung (Auslandsaufenthalt, ...) Ist der Verbrauch nicht plausibel, den Grundversorger bitten den Zähler zu überprüfen (kostet Geld wenn der Zähler OK ist)4. Überprüfen ob der angegebene Tarif mit dem Tarif Übereinstimmt den man abgeschlossen hat (kWh-Preis, Grundpreis,...)5.  Rechnung selber prüfen. (Traue keiner Rechnung, auch wenn sie aus einem Computer kommt)- Stimmen die angegebenen schon bezahlten Abschläge, ist eine evtl. Vorauszahlung korrekt?- Verbrauch mit dem Kwh-Preis multiplizieren.- Grundpreis und Zählermiete addieren, etc... - Umsatzsteuer nicht vergessen Grüße										
+
+
+
+Zitieren & Antworten ; also mich überrascht meine Stromabrechnung nicht.Ich weiß seit 30 Jahren genau, was ich jährlcih verbrauche. In meiner 1. Wohnung hatte ich die ersten 15 Jahre nen Wasserboiler im Bad,da ging der Zähler natürlich recht flott.Mein damaliger Jahresverbrauch  ca. 1.500 kw. In meiner jetzigen  Wohnung habe ich Heizung, d.h. immer WarmWasser, könnte also zu jeder Tages- und Nachtzeit baden. Mein Jahresverbrauch liegt nun bei  800 - 1000 kw  Ich habe immer am 1. jeden Monats meinen Stand aufgeschrieben,damit man die Monate vergleichen kann.Kla, im Winter braucht man früher Licht, deswegen mehr Stromverbrauch. Ansonsten habe ich ganz wenig  Geräte im Haushalt. ( nur Kühlschrank und Telefon haben Dauerbetrieb )										
+
+
+
+Zitieren & Antworten ; Ich habe schon erlebt, dass die Zähler vertauscht wurden und daher der falsche Tarif mit den ansich richtigen Ständen berechnet wurde. Habe 2 Zähler.  Mengenmäßig brauche ich im Altbau 800 kw/h pro Jahr, im Neubau inkl. Außenanlage 2.400 kw/h. 2 Personen.										
+
+
+
+Zitieren & Antworten ; Hallo Kolibri990, mir kam meine hohe Stromrechnung, von Jahr zu Jahr, auch immer merkwürdiger vor. 1 Person, mit einem Verbrauch von ca. 4000kw entspricht etwa den Verbrauch einer 3-köpfigen Familie, mit 3x Maschine Buntes die Woche, jeden Tag kochen, alle Lampen an, hier nen PC, da TV, Musikanlage, etc. - Ich aber wenig zu Hause und wenn, dann nur entweder PC oder TV und nur Licht, wo ich mich gerade befand.Kein "Stand by" und außer Telefon und Kühlschrank nichts "on".  Selbst bei den Stadtwerken sagte man mir "das kann nicht sein". Totschlags-Standartfrage war dann aber immer: "Haben Sie nen Durchlauferhitzer?" - "Ja, aber ich bade nicht jeden Tag (quasi gar nicht) und dusche auch nicht jeden Tag 3 Stunden."Sogar ein Zählergerät für 2 Wochen dort ausgeliehen, ALLES akribisch nachgemessen, kam auf etwa 1600/kw. "Tja, wir sehen zwar auch, das was nicht stimmen kann, aber wir können nur DAS berechnen, was auf dem Zähler steht." Wirklich nur das Nötigste für mich an Strom verbraucht - denk jetzt kommt mal ne Rückerstattung (85,- € Pauschale), wieder ne heftige Nachzahlungsrechnung.  Lange Rede: Habe gegen die Rechnung Widerspruch eingelegt, monatliche Abbuchung gestoppt (geht bei Einzugsermächtigung).Mein Zählergerät wurde überprüft - war angeblich ok.  Vermieter eingeschaltet (und nur DER kann/darf über den Zählergerätetest hinaus agieren und einen Elektriker einschalten) sagt, da stimmt was nicht, das sehe ich doch schon als Nichtfachmann.  Tatsächlich ging eine Strom-Leitung aus dem Haus über meinen Zähler. WER das war, konnte man nicht mehr feststellen (um Regressansprüche geltend zu machen). Der Zähler wurde komplett ausgetauscht, die andere Leitung gekappt und ich bekam von meinem sehr kulanten Vermieter eine ungefaire Summe des zuviel gezahlten Stroms der letzten 3 Jahre zurück. Er meinte: "Ich habe das letztendlich zu verantworten, da ich der Vermieter bin und alles was NACH dem Zähler nicht korrekt ist, mit damals falsch gelegten Leitungen (Altbau) zu verantworten habe."  Ansonsten haben meine Vorredner Alles sonst schon gesagt.  LGmichi										
+
+
+
+Zitieren & Antworten ; P.S: Zu "Mein Zählergerät wurde überprüft - war angeblich ok.  Das Gerät war ok. Mehr überprüfen die nicht.										
+
+
+
+Zitieren & Antworten ; Noch mal PS.: Doch, man kann auch selbst einen Elektriker-(Meister) beauftragen. Mein Vermieter hat es dann in Eigenregie selbst getan. chapeau!  
+
+
+
+Zitieren & Antworten ; ...hier der passende Ratgeber zum Thema Stromkosten berechnen  .										
+
+
+
+Zitieren & Antworten ; Hänge neben dem Stromzähler einen Zettel und notiere (evtl. immer am ersten des Monats) den Zählerstand. So hast Du immer genau im Blick, was Du verbrauchst.   Das mache ich auch. Aber es scheint nicht so selten zu sein, dass Zähler vertauscht werden. Vor 1 oder 2 Jahren hat jemand von der SWN Freitags geklingelt und meinte er müsse an die Stromzähler. Zum Glück lief der TV. Plötzlich war er aus. Lichtschalter geprüft, Nix. Ich in den Keller und gefragt was er da macht und ob das länger dauert. Er ganz rotzfrech "Das müssten SIe doch am Besten wissen" wollte unser Konotauszüge holen um ihm zu zeigen, dass wir seit Jahren eine Abbuchungsauftrag haben. Wollte er nicht. Dann bat ich doch bei seinem Vorgesetzten anzurufen. Nö würde er eh keinen erreichen. Der wurde sowas von frech. Dann habe ich gefragt auf welchen Namen sein Auftrag lautet. (Durch die Aufregung vorher nicht dran gedacht9  Dürfe er nicht sagen aber ich müsse das ja wohl wissen.   Leider kam ich dann erst auf die Idee zu fragen ob der Auftrag auf "Turtle" hinweist. Nö, völlig anderer Name. Er hätte sich bei der Zählernummer vertan. Strom wieder an, keine Entschuldigung, nix. Hätten wir das nicht bemerkt, hätten wir mindestens 1 WE keinen Strom gehabt.   Also prüft immer ganz genau. Die machen öfter Mist als man denkt  
+
+
+
+Zitieren & Antworten ; @ turlte ich glaub den hätt ich gewürgt, besonders bei den "freundlichen Hinweisen" daß ich es ja wissen müßte    LG Gabi										
+
+
+
+Zitieren & Antworten ; Möhrchen glaub mir, viel hat nicht gefehlt.  
+
+
+
+Zitieren & Antworten ; Hi, zuerst würde ich den persönlichen Stromverbrauch messen um überschlagen zu können, wieviel die Geräte, die an zugänglichen Steckdosen hängen, verbrauchen. Das ist meist mehr als man denkt. In neuen und kernsanierten Häusern sind mittlerweile elektronische Stromzähler Pflicht.Die kann man sich aber auch auf eigene Rechnung montieren lassen wenn man Eigentümer ist.Sie zählen nicht nur, sondern zeigen auch den aktuellen Verbrauch an. Damit kann man leicht überprüfen ob sich ein Anderer bedient. Stattet man sie mit einem Modul aus, muss auch keiner mehr zum Ablesen kommen und man kann sich, auf der Seite des Stromanbieters, seinen eigenen Verbrauch tabellarisch anzeigen lassen.Wir verbrauchen mit 2 Personen und zwei Durchlauferhitzern rund 5000 kWh/Jahr. VG										
+
+
+
+Zitieren & Antworten ; sehr gute Tipps danke dafür  
+
+
+
+Zitieren & Antworten

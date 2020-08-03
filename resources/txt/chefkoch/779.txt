@@ -1,0 +1,26 @@
+Guten Morgen, vielleicht kennt sich ja jemand mit Abrechnungen von Energieversorgern aus. Angenommen man schließt im April 2017 einen Vertrag mit einem Energieversorger ab und bekommt ab 12000KWh einen Bonus von 130€. Unter 12000KWh erhält man 50€ gutgeschrieben.  Man verbraucht bis Februar 2018 10000KWh. Im Februar erstellt der Energieversorger seine Jahresabrechnung (warum auch immer schon nach 10 Monaten). Der Bonus wurde nicht berücksichtigt. Man kündigt daraufhin zur Mindestvertragslaufzeit und erhält im April die Schlussabrechnung. Von Februar bis April wurden 3000KWh verbraucht. Nun schreibt der Energieversorger aber nur 50€ gut, da in der ersten Jahresabrechnung keine 12000KWh verbraucht wurden, sondern nur 10000. Macht das Sinn? Da kann der Energieversorgen theoretisch immer vor dem Erreichen des höheren Bonus abrechnen (wer weiß denn schon, wann die ihre Jahresrechnungen erstellen?). Meiner Meinung nach muss der gesamte Verbrauch bis Ablauf der 12 Monate addiert werden. Jemand einen Rat?  Danke Auszug aus den AGB"Die Höhe des Bonus ist abhängig vom Verbrauch, welcher bis zur nächsten Schluss- oder Jahresrechnung anfällt. Sie erhalten den Bonus nach 12 Monaten ununterbrochener Belieferung als einmalige Gutschrift auf die nächste Schluss- oder Jahresrechnung. Der Bonus gilt für einen neuen Vertrag. Eine zeitanteilige Bonusgewährung ist ausgeschlossen. Ab 12.000 kWh gilt der höhere Bonus, bis zu 12.000 kWh der niedrigere."										
+
+
+
+Zitieren & Antworten ; Hi, nach meinem Verständnis: Der Stromanbieter erstellt einmal im Jahr eine Abrechnung, hier scheinbar im Februar, das ist die Jahresabrechnung für das Jahr 2017. Zu diesem Zeitpunkt hattest Du die 12.000 kWh noch nicht erreicht. Ab Februar 2018 beginnt das neue Stromjahr, d. h. die Bedingung "12 Monate ununterbrochener Belieferung" war zum Zeitpunkt der Jahresabrechnung noch nicht erfüllt. Dies wäre erst im April 2018 gewesen, da ist der Vertrag aber schon gekündigt (Gutschrift von EUR 130,00 wäre mit der Jahresabrechnung 2018 gutgeschrieben worden). Die 10.000 kWh wurden erreicht und dafür hast Du auch die Gutschrift erhalten. Aus meiner Sicht hat der Stromanbieter korrekt gehandelt. Ist aber nur meine laienhafte Meinung, ruf doch dort mal an und frag nach. LGSchnürzel										
+
+
+
+Zitieren & Antworten ; Hi, danke für deine Einschätzung.Das kann man so sehen, stimmt, allerdings macht es in meinen Augen wenig Sinn, vor Ablauf der 12 Monate eine Abrechnung zu erstellen. Das habe ich so auch noch nie erlebt. Und wie ich bereits gesagte hatte, kommt dann niemals jemand in den Genuss des höheren Bonus (wenn man nur die MVLZ bei diesem Anbieter ist), da der Versorger ja nach Lust und Laune seine "Jahres-"Abrechnung erstellen kann.Der Vertrag wurde zum Ablauf der MVLZ gekündigt, d.h. jetzt Anfang April waren die 12 Monate um und es wurden in den 365 Tagen mehr als 10000 kWh verbraucht.  Gruß										
+
+
+
+Zitieren & Antworten ; Tippfehler, es sollte 12000 kWh heissen.										
+
+
+
+Zitieren & Antworten ; Zitat von Jochen12345 am 07.04.2018 um 08:02 Uhr
+                    
+
+                        „ Das kann man so sehen, stimmt, allerdings macht es in meinen Augen wenig Sinn, vor Ablauf der 12 Monate eine Abrechnung zu erstellen. Das habe ich so auch noch nie erlebt. “
+                    
+ Also mein Versorger hat auch einen festen Zeitpunkt der Abrechnung mitten im Jahr. Am 30.6. wird abgelesen (Heizung, Wasser, Strom), danach gibt's die Rechnung für die letzten 12 Monate und wer kürzer dabei ist, eben entsprechend weniger. So ungewöhnlich finde ich das nicht.Hast Du denn mal auf der Webseite geschaut, ob da nicht vielleicht im Kleingedruckten bei den AGBs gestanden hätte, wann bei Deinem Versorger abgerechnet wird? LG Sylvia										
+
+
+
+Zitieren & Antworten

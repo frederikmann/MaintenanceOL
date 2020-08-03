@@ -1,7 +1,7 @@
-Aufgrund eines Produktionsfehlers kann es zu Fehlfunktionen der Seitenairbags kommen.
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit. ; Eine fehlende Ballastvorrichtung im Heckbereich der Fahrzeuge kann unter UmstÃ¤nden zu einer eingeschrÃ¤nkten SpurstabilitÃ¤t fÃ¼hren.
-Abhilfe:
-In der Werkstatt wird die FahrzeugkonformitÃ¤t Ã¼berprÃ¼ft. Sofern erforderlich erfolgt der Einbau der fehlenden Ballastvorrichtung entsprechend der Montageanleitung. ; Eine mÃ¶glicherweise nicht konforme Komponente des Brems-Hydraulikblocks (ABS/ESP) kÃ¶nnte die Funktionsweise der Ausstattungen ABS und ESP im Falle einer Notbremsung oder eines AusweichmanÃ¶vers beintrÃ¤chtigen. Als AbhilfemaÃŸnahme muss ein Austausch des Hydraulikblocks vorgenommen werden.
-Die Aktion lÃ¤uft seit dem 30.09.2016 und ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem. Der interne Code fÃ¼r die vom KBA Ã¼berwachten Aktion lautet "GYW" ; Die Schrauben des Generators und des Klimakompressors sind nicht mit dem korrekten Drehmoment angezogen. Es droht, dass die beiden Teile sich lÃ¶sen und abfallen kÃ¶nnen. Dadurch kÃ¶nnen andere Verkehrsteilnehmer gefÃ¤hrdet werden.
-Der Hersteller ruft daher das Produkt zurÃ¼ck, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
-Die Aktion ist fÃ¼r den Kunden kostenlos. ; Im Hersteller-Werkstattsystem
+Eine fehlende Ballastvorrichtung im Heckbereich der Fahrzeuge kann unter Umständen zu einer eingeschränkten Spurstabilität führen.
+Abhilfe:
+In der Werkstatt wird die Fahrzeugkonformität überprüft. Sofern erforderlich erfolgt der Einbau der fehlenden Ballastvorrichtung entsprechend der Montageanleitung. ; Im Hersteller-Werkstattsystem. Der interne Code für die vom KBA überwachten Aktion lautet "GYW" ; Aufgrund eines Produktionsfehlers kann es zu Fehlfunktionen der Seitenairbags kommen.
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit. ; Im Hersteller-Werkstattsystem ; Die Schrauben des Generators und des Klimakompressors sind nicht mit dem korrekten Drehmoment angezogen. Es droht, dass die beiden Teile sich lösen und abfallen können. Dadurch können andere Verkehrsteilnehmer gefährdet werden.
+Der Hersteller ruft daher das Produkt zurück, stellt jedoch auch auf Nachfrage keine weiteren Informationen bereit.
+Die Aktion ist für den Kunden kostenlos. ; Eine möglicherweise nicht konforme Komponente des Brems-Hydraulikblocks (ABS/ESP) könnte die Funktionsweise der Ausstattungen ABS und ESP im Falle einer Notbremsung oder eines Ausweichmanövers beinträchtigen. Als Abhilfemaßnahme muss ein Austausch des Hydraulikblocks vorgenommen werden.
+Die Aktion läuft seit dem 30.09.2016 und ist für den Kunden kostenlos.

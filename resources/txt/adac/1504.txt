@@ -1,6 +1,7 @@
-Vermerk Fahrzeugdiagnosesystem ; Der KÃ¼hler kann undicht werden und Wasser verlieren, das dann in den Ã–lkreislauf eindringen kann. 
-Die HÃ¤ndler prÃ¼fen anhand der Produktionsstandes, ob der KÃ¼hler betroffen ist und tauschen diesen dann ggf. kostenlos aus. Falls ein Tausch erforderlich ist, dauert die DurchfÃ¼hrung der Aktion etwa 1,5 Stunden.
-Die Aktion lÃ¤uft seit Anfang Juni 2009.. ; Blauer Lackpunkt auf der RÃ¼ckseite des Lenkrades. ; Die Batteriabdeckung kann sich lÃ¶sen und den KÃ¼hlerlÃ¼fter dabei blockieren. Das fÃ¼hrt in Folge zur motorÃ¼berhitzung mit evtl. Brandgefahr.
-Die HÃ¤ndler entfernen im ersten Schritt die Batterieabdeckung. Zu einem spÃ¤teren Zeitpunkt  wird die Abdeckung mit einem Adapterkabelsatz angebracht. 
-Der RÃ¼ckruf ist Dez.2014 angelaufen, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos. ; Datumscode am KÃ¼hler aus aktuellem Bauzeitraum  ; Die Kontaktstelle der Hupenfunktion im LenksÃ¤ulenelektronikmodul ist fehlerhaft. 
-Dadurch kann es zum Ausfall der Hupe kommen. Die HÃ¤ndler Ã¼berprÃ¼fen die Kontaktstelle im LenksÃ¤ulenelektronikmodul und erneuern diese ggf. Die Aktion lÃ¤uft seit 10/2010, dauert etwa eine halbe Stunde und ist fÃ¼r die Kunden kostenlos.
+Die Kontaktstelle der Hupenfunktion im Lenksäulenelektronikmodul ist fehlerhaft. 
+Dadurch kann es zum Ausfall der Hupe kommen. Die Händler überprüfen die Kontaktstelle im Lenksäulenelektronikmodul und erneuern diese ggf. Die Aktion läuft seit 10/2010, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos.
+ ; Der Kühler kann undicht werden und Wasser verlieren, das dann in den Ölkreislauf eindringen kann. 
+Die Händler prüfen anhand der Produktionsstandes, ob der Kühler betroffen ist und tauschen diesen dann ggf. kostenlos aus. Falls ein Tausch erforderlich ist, dauert die Durchführung der Aktion etwa 1,5 Stunden.
+Die Aktion läuft seit Anfang Juni 2009.. ; Datumscode am Kühler aus aktuellem Bauzeitraum  ; Die Batteriabdeckung kann sich lösen und den Kühlerlüfter dabei blockieren. Das führt in Folge zur motorüberhitzung mit evtl. Brandgefahr.
+Die Händler entfernen im ersten Schritt die Batterieabdeckung. Zu einem späteren Zeitpunkt  wird die Abdeckung mit einem Adapterkabelsatz angebracht. 
+Der Rückruf ist Dez.2014 angelaufen, dauert etwa eine halbe Stunde und ist für die Kunden kostenlos. ; Vermerk Fahrzeugdiagnosesystem ; Blauer Lackpunkt auf der Rückseite des Lenkrades.
