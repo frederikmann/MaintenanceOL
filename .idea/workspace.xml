@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="430e6a67-fa81-43a7-9028-e261bff924f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/KnowledgegraphPreparation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/KnowledgegraphPreparation-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForumPostExtraction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ForumPostExtraction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parts/collect.py" beforeDir="false" afterPath="$PROJECT_DIR$/parts/collect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parts/domain_relevance.py" beforeDir="false" afterPath="$PROJECT_DIR$/parts/domain_relevance.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ccxXvg3sTuCPsM792j1A4s9gW2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="430e6a67-fa81-43a7-9028-e261bff924f2" name="Default Changelist" comment="" />
+      <created>1590841725625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590841725625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="284" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1601460978187">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state x="283" y="369" key="com.intellij.ide.util.TipDialog/44.23.1636.1027@44.23.1636.1027" timestamp="1593426534928" />
+    <state x="284" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1601460978187" />
+    <state x="286" y="369" key="com.intellij.ide.util.TipDialog/48.23.1632.1027@48.23.1632.1027" timestamp="1601219180519" />
+    <state x="288" y="369" key="com.intellij.ide.util.TipDialog/50.23.1630.1027@50.23.1630.1027" timestamp="1593550475085" />
+    <state x="324" y="379" key="com.intellij.ide.util.TipDialog/51.23.1869.1057@51.23.1869.1057" timestamp="1596738506627" />
+  </component>
+</project>

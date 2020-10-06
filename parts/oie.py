@@ -2,11 +2,19 @@ import spacy
 from spacy.pipeline import Sentencizer
 
 nlp = spacy.load("de_core_news_md")
+<<<<<<< Updated upstream
 sentencizer = Sentencizer(punct_chars=[".", "?", "!", ",", ";", ":"])
 nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
 
 
 def get_oie(corpus, just_terms=None):
+=======
+sentencizer = Sentencizer(punct_chars=[char for char in string.punctuation])
+nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
+
+
+def get_oie(corpus):
+>>>>>>> Stashed changes
     # decision logic for extracting roots and terms - for better analysis sentences are passed as well
 
     roots = []
@@ -33,6 +41,7 @@ def get_oie(corpus, just_terms=None):
                 ng = token.lemma_
             if token.pos_ == "NOUN":
                 t.add(token.text)
+<<<<<<< Updated upstream
 
         # get noun chunks and remove stopwords
         for chunk in sent.noun_chunks:
@@ -49,6 +58,18 @@ def get_oie(corpus, just_terms=None):
                 if not token.is_stop:
                     e.append(token.text)
             t.add(" ".join(e))
+=======
+            if token.pos_ == "PROPN":
+                t.add(token.text)
+
+        for chunk in sent.noun_chunks:
+            c = []
+            for token in chunk:
+                if not token.is_stop and not token.pos_ == "DET":
+                    c.append(token.text)
+            if len(c)>1:
+                t.add(" ".join(c))
+>>>>>>> Stashed changes
 
         # get roots / predicate depending on sentence structure
         r = []
@@ -64,8 +85,31 @@ def get_oie(corpus, just_terms=None):
         roots.append(' '.join(r))
         terms.append(t)
 
+<<<<<<< Updated upstream
     if just_terms:
         return [item for sublist in terms for item in sublist]
     else:
         return roots, terms, sents
+=======
+    return roots, terms, sents
+
+
+def get_terms(corpus):
+
+    terms = []
+
+    doc = nlp(corpus.lower())
+
+    for token in doc:
+        if token.pos_ in ["NOUN", "PROPN"] and not token.is_stop:
+            terms.append(token.lemma_)
+
+    for chunk in doc.noun_chunks:
+        c = []
+        for token in chunk:
+            if not token.is_stop and not token.pos_ == "DET":
+                c.append(token.text)
+        if len(c) > 1:
+            terms.append(" ".join(c))
+>>>>>>> Stashed changes
 

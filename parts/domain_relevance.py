@@ -109,8 +109,38 @@ def main(target_link, target_terms):
     contrastive_domain = get_words(flat_cook_terms)
 
     for candidate in candidates:
+<<<<<<< Updated upstream
         dr = get_dr(target_domain, contrastive_domain, candidate)
         dc = get_dc(car_terms, candidate)
         domain_relevance[candidate] = get_dw(dr, dc, 0.5)
 
     return domain_relevance
+=======
+        label[candidate] = 0
+        try:
+            background_relevance[candidate]
+        except KeyError:
+            background_relevance[candidate] = 0
+
+        try:
+            contrastive_relevance[candidate]
+        except KeyError:
+            contrastive_relevance[candidate] = 0
+
+        if background_relevance[candidate] > contrastive_relevance[candidate]:
+            label[candidate] = 1
+            counter1 += 1
+        elif contrastive_relevance[candidate]:
+            if shared_concept_labels[candidate]:
+                label[candidate] = 1
+                counter2 += 1
+        elif target_tf[candidate] > 1:
+            label[candidate] = 1
+            counter3 += 1
+
+    print("Chosen via background domain:", counter1)
+    print("Chosen via metric:", counter2)
+    print("Chosen via tf > 1 limit:", counter3)
+    
+    return label
+>>>>>>> Stashed changes
