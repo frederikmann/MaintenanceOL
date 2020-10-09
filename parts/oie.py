@@ -1,27 +1,20 @@
 import spacy
+import string
 from spacy.pipeline import Sentencizer
 
 nlp = spacy.load("de_core_news_md")
-<<<<<<< Updated upstream
-sentencizer = Sentencizer(punct_chars=[".", "?", "!", ",", ";", ":"])
-nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
-
-
-def get_oie(corpus, just_terms=None):
-=======
 sentencizer = Sentencizer(punct_chars=[char for char in string.punctuation])
 nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
 
 
 def get_oie(corpus):
->>>>>>> Stashed changes
     # decision logic for extracting roots and terms - for better analysis sentences are passed as well
 
     roots = []
     terms = []
     sents = []
 
-    doc = nlp(corpus)
+    doc = nlp(corpus.lower())
 
     for sent in doc.sents:
         t = set()
@@ -31,8 +24,6 @@ def get_oie(corpus):
         # get important tokens from sentence
         pd, oc, ng = "", "", ""
         for token in sent:
-            if token.dep_ == "sb":
-                t.add(token.lemma_)
             if token.dep_ == "pd":
                 pd = token.lemma_
             if token.dep_ == "oc":
@@ -41,24 +32,6 @@ def get_oie(corpus):
                 ng = token.lemma_
             if token.pos_ == "NOUN":
                 t.add(token.text)
-<<<<<<< Updated upstream
-
-        # get noun chunks and remove stopwords
-        for chunk in sent.noun_chunks:
-            c = []
-            for token in chunk:
-                if not token.is_stop:
-                    c.append(token.text)
-            t.add(" ".join(c))
-
-        # get entities and remove stopwords
-        for ent in sent.ents:
-            e = []
-            for token in ent:
-                if not token.is_stop:
-                    e.append(token.text)
-            t.add(" ".join(e))
-=======
             if token.pos_ == "PROPN":
                 t.add(token.text)
 
@@ -69,7 +42,6 @@ def get_oie(corpus):
                     c.append(token.text)
             if len(c)>1:
                 t.add(" ".join(c))
->>>>>>> Stashed changes
 
         # get roots / predicate depending on sentence structure
         r = []
@@ -85,12 +57,6 @@ def get_oie(corpus):
         roots.append(' '.join(r))
         terms.append(t)
 
-<<<<<<< Updated upstream
-    if just_terms:
-        return [item for sublist in terms for item in sublist]
-    else:
-        return roots, terms, sents
-=======
     return roots, terms, sents
 
 
@@ -111,5 +77,5 @@ def get_terms(corpus):
                 c.append(token.text)
         if len(c) > 1:
             terms.append(" ".join(c))
->>>>>>> Stashed changes
 
+    return terms

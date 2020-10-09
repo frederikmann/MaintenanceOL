@@ -1,121 +1,292 @@
-import spacy
 import numpy as np
-from spacy.pipeline import Sentencizer
+import math
+from collections import Counter
+from tqdm import tqdm
 
-from .collect import get_text_car, get_text_cook
-from .preprocessing import normalize
-from .oie import get_oie
-
-nlp = spacy.load("de_core_news_md")
-sentencizer = Sentencizer(punct_chars=[".", "?", "!", ",", ";", ":"])
-nlp.add_pipe(sentencizer, name="sentence_segmenter", before="parser")
-
-car_links = ["https://www.motor-talk.de/forum/123d-wie-oft-batterie-laden-t6833745.html",
-             "https://www.motor-talk.de/forum/fensterheber-defekt-tuerverkleidung-demontieren-t5183259.html",
-             "https://www.motor-talk.de/forum/fahrzeug-hat-keine-leistung-mehr-ab-2300-touren-t6861763.html"]
-
-cook_links = ["https://www.chefkoch.de/forum/2,27,549451/Kein-Glueck-mit-Salbei.html"
-              "https://www.chefkoch.de/forum/2,53,712593/Spargel-aus-dem-Ofen.html",
-              "https://www.chefkoch.de/forum/2,13,770061/Wie-schaelt-ihr-den-Spargel.html",
-              "https://www.chefkoch.de/forum/2,10,770039/Tiefkuehlspinat-knirscht-fuehlt-sich-sandig-im-Mund-an.html"]
+'''
+definition of all metrics needed for evaluation of domain relevancy
+'''
 
 
-def get_words(terms):
-    # get dictionary of word frequency from corpus
-    words = {}
-    for term in terms:
-        if term not in words:
-            words[term] = 1
+def get_tf(terms, norm=0):
+    flat_terms = [item for sublist in terms for item in sublist]
+    tf = Counter(flat_terms)
+    max_freq = Counter(flat_terms).most_common(1)[0][1]
+    for t in tf:
+        if norm:
+            tf[t] = (tf[t] / max_freq)
         else:
-            words[term] += 1
-
-    return words
-
-
-def get_dr(dic_a, dic_b, term):
-    total_a, total_b = sum(dic_a.values()), sum(dic_b.values())
-
-    try:
-        freq_a = dic_a[term]
-    except KeyError:
-        return 0
-    try:
-        freq_b = dic_b[term]
-    except KeyError:
-        return 1
-
-    return (freq_a / total_a) / (freq_b / total_b)
-
-
-def get_dc(domain, term):
-    dc = 0
-    for link in domain:
-        words = get_words(link)
-
-        try:
-            prob_d = words[term] / sum(words.values())
-            dc += prob_d * np.log(1 / prob_d)
-        except KeyError:
             pass
+
+    return tf
+
+
+def get_idf(terms):
+    flat_terms = [item for sublist in terms for item in set(sublist)]
+    idf = Counter(flat_terms)
+    for t in idf:
+        idf[t] = np.log2(len(terms) / idf[t])
+
+    return idf
+
+
+def get_tdf(terms):
+    flat_terms = [item for sublist in terms for item in set(sublist)]
+    tdf = Counter(flat_terms)
+    max_freq = Counter(flat_terms).most_common(1)[0][1]
+    for t in tdf:
+        tdf[t] = tdf[t] / max_freq
+
+    return tdf
+
+
+def get_tf_idf(terms):
+    tf_idf = {}
+    tf = get_tf(terms)
+    idf = get_idf(terms)
+
+    for term in set([item for sublist in terms for item in sublist]):
+        tf_idf[term] = tf[term] * idf[term]
+
+    return tf_idf
+
+
+def get_dr(target_domain, contrastive_domain, candidates):
+    # candidates should be part of the target domain
+    dr = {}
+    target_tf = get_tf(target_domain)
+    contrastive_tf = get_tf(contrastive_domain)
+
+    for term in candidates:
+        try:
+            dr[term] = target_tf[term] / contrastive_tf[term]
+        except ZeroDivisionError:
+            dr[term] = 0
+
+    return dr
+
+
+def get_dc(target_domain, candidates):
+    dc = {}
+    target_tdf = get_tdf(target_domain)
+
+    for term in candidates:
+        dc[term] = target_tdf[term] * np.log2(1 / target_tdf[term])
 
     return dc
 
 
-def get_dw(dr, dc, alpha):
-    return alpha * dr + (1 - alpha) * dc
+def get_dw(target_domain, contrastive_domain, candidates, alpha):
+    dw = {}
+    dr = get_dr(target_domain, contrastive_domain, candidates)
+    dc = get_dc(target_domain, candidates)
+
+    for term in candidates:
+        dw[term] = alpha * dr[term] + (1 - alpha) * dc[term]
+
+    return dw
 
 
-def get_cook_terms(links):
-    # getting cooking terms for domain relevance
-    cook_terms = []
-    for link in links:
-        cook = []
-        cook.extend(get_text_cook(link))
-        cook_corpus = "; ".join(cook)
-        cook_norm = normalize(cook_corpus, 1, 0)
-        terms = get_oie(cook_norm, 1)
-        cook_terms.append(terms)
+def get_llr(target_domain, contrastive_domain, candidates):
+    # candidates should be part of the target domain
+    llr = {}
+    target_tf = get_tf(target_domain)
+    contrastive_tf = get_tf(contrastive_domain)
 
-    return cook_terms
+    for term in candidates:
+        target_tf[term] = 0.1 if not target_tf[term] else target_tf[term]
+        contrastive_tf[term] = 0.1 if not contrastive_tf[term] else contrastive_tf[term]
 
+        llr[term] = np.log(target_tf[term]) - np.log(contrastive_tf[term])
 
-def get_car_terms(links):
-    # getting car terms for domain relevance per link
-    car_terms = []
-    for link in links:
-        car = []
-        car.extend(get_text_car(link))
-        car_corpus = "; ".join(car)
-        car_norm = normalize(car_corpus, 1, 0)
-        terms = get_oie(car_norm, 1)
-        car_terms.append(terms)
-
-    return car_terms
+    return llr
 
 
-def main(target_link, target_terms):
-    domain_relevance = {}
+def get_lor(target_domain, contrastive_domain, candidates):
+    # candidates should be part of the target domain
+    lor = {}
+    target_tf = get_tf(target_domain)
+    contrastive_tf = get_tf(contrastive_domain)
 
-    # get terms from both domains for each link
-    car_links.append(target_link)
-    car_terms = get_car_terms(car_links)
-    cook_terms = get_cook_terms(cook_links)
+    for term in candidates:
+        target_tf[term] = 0.0001 if not target_tf[term] else target_tf[term]
+        contrastive_tf[term] = 0.0001 if not contrastive_tf[term] else contrastive_tf[term]
 
-    flat_car_terms = [item for sublist in car_terms for item in sublist]
-    flat_cook_terms = [item for sublist in cook_terms for item in sublist]
+        lor[term] = np.log2(target_tf[term] / (1 - target_tf[term])) - np.log2(
+            contrastive_tf[term] / (1 - contrastive_tf[term]))
 
-    candidates = set([item for sublist in target_terms for item in sublist])
-    target_domain = get_words(flat_car_terms)
-    contrastive_domain = get_words(flat_cook_terms)
+    return lor
+
+
+def get_lor_bg(target_domain, contrastive_domain, candidates, normalized=0):
+    # candidates should be part of the target domain
+    lor_bg = {}
+
+    # get term frequency for each domain - combining both gives background knowledge
+    target_flat_terms = [item for sublist in target_domain for item in sublist]
+    target_tf = Counter(target_flat_terms)
+
+    contrastive_flat_terms = [item for sublist in contrastive_domain for item in sublist]
+    contrastive_tf = Counter(contrastive_flat_terms)
+
+    combine_flat_terms = target_flat_terms + contrastive_flat_terms
+    combine_tf = Counter(combine_flat_terms)
+
+    n_i = len(target_flat_terms)
+    n_j = len(contrastive_flat_terms)
+    a_0 = len(combine_flat_terms)
+
+    for term in candidates:
+        target_tf[term] = 0.1 if not target_tf[term] else target_tf[term]
+        contrastive_tf[term] = 0.1 if not contrastive_tf[term] else contrastive_tf[term]
+        combine_tf[term] = 0.1 if not combine_tf[term] else contrastive_tf[term]
+
+        lor_bg[term] = np.log2(
+            (target_tf[term] + combine_tf[term]) / n_i + a_0 - (target_tf[term] + combine_tf[term])) - np.log2(
+            (contrastive_tf[term] + combine_tf[term]) / n_i + a_0 - (contrastive_tf[term] + combine_tf[term]))
+        if normalized:
+            sigma = 1 / (target_tf[term] + combine_tf[term]) + 1 / (contrastive_tf[term] + combine_tf[term])
+            lor_bg[term] = lor_bg[term] / math.sqrt(sigma)
+    return lor_bg
+
+
+def get_lambda(target_domain, contrastive_domain, candidates):
+    ### depreciated version (does not work) from CRCTOL paper
+    lambda_metric = {}
+
+    target_tf = get_tf(target_domain, 1)
+    contrast_tf = get_tf(contrastive_domain, 1)
+
+    target_len = len([item for sublist in target_domain for item in sublist])
+    contrast_len = len([item for sublist in contrastive_domain for item in sublist])
+
+    for term in candidates:
+        a = target_tf[term]
+        b = contrast_tf[term]
+
+        n1 = target_len
+        n2 = contrast_len
+
+        p = (a + b) / (n1 + n2)
+        p1 = a / n1
+        p2 = a / n2
+
+        lambda_metric[term] = (p ** a * (1 - p) ** (n1 - a) * p ** b * (1 - p) ** (n2 - b)) / (
+                p1 ** a * (1 - p1) ** (n1 - a) * p2 ** b * (1 - p2) ** (n2 - b))
+
+    return lambda_metric
+
+
+def get_relevance(terms, metric):
+    tf = get_tf(terms)
+    idf = get_idf(terms)
+    tdf = get_tdf(terms)
+    tf_tdf = {}
+    tf_idf = {}
+
+    if metric == "tf":
+        return tf
+    elif metric == "idf":
+        return idf
+    elif metric == "tdf":
+        return tdf
+    elif metric == "tf_tdf":
+        for term in set([item for sublist in terms for item in sublist]):
+            tf_tdf[term] = tf[term] * tdf[term]
+        return tf_tdf
+    elif metric == "tf_idf":
+        for term in set([item for sublist in terms for item in sublist]):
+            tf_idf[term] = tf[term] * idf[term]
+        return tf_idf
+    else:
+        return False
+
+
+'''
+definition of all functions needed to run the domain relevancy evaluation
+'''
+
+
+def get_shared_domain(domain_a, domain_b):
+    shared_domain_a = []
+    shared_domain_b = []
+
+    terms_a = set([item for sublist in domain_a for item in sublist])
+    terms_b = set([item for sublist in domain_b for item in sublist])
+
+    for docs in tqdm(domain_a):
+        doc = []
+        for term in docs:
+            if term in terms_b:
+                doc.append(term)
+        shared_domain_a.append(doc)
+
+    for docs in tqdm(domain_b):
+        doc = []
+        for term in docs:
+            if term in terms_a:
+                doc.append(term)
+        shared_domain_b.append(doc)
+
+    return shared_domain_a, shared_domain_b
+
+
+def get_metrics(target_domain, contrastive_domain, metric):
+    target_relevance = get_relevance(target_domain, metric)
+
+    alpha = 0.5
+    candidates = set([item for sublist in target_domain for item in sublist])
+    dw = get_dw(target_domain, contrastive_domain, candidates, alpha)
+
+    llr = get_llr(target_domain, contrastive_domain, candidates)
+
+    lor_bg = get_lor_bg(target_domain, contrastive_domain, candidates)
+
+    return target_relevance, dw, llr, lor_bg
+
+
+def label_shared_concepts(target_domain, contrastive_domain, method, metric):
+    label = {}
+    shared_target_domain, shared_contrastive_domain = get_shared_domain(target_domain, contrastive_domain)
+    target_relevance, target_dw, target_llr, target_lor_bg = get_metrics(shared_target_domain,
+                                                                         shared_contrastive_domain, metric)
+    contrast_relevance, contrast_dw, contrast_llr, contrast_lor_bg = get_metrics(shared_contrastive_domain,
+                                                                                 shared_target_domain, metric)
+    candidates = set([item for sublist in shared_target_domain for item in sublist])
 
     for candidate in candidates:
-<<<<<<< Updated upstream
-        dr = get_dr(target_domain, contrastive_domain, candidate)
-        dc = get_dc(car_terms, candidate)
-        domain_relevance[candidate] = get_dw(dr, dc, 0.5)
+        label[candidate] = 0
+        if target_relevance[candidate] > contrast_relevance[candidate] and not method:
+            label[candidate] = 1
+        elif target_dw[candidate] > contrast_dw[candidate] and method == "dw":
+            label[candidate] = 1
+        elif target_llr[candidate] > contrast_llr[candidate] and method == "llr":
+            label[candidate] = 1
+        elif target_lor_bg[candidate] > contrast_lor_bg[candidate] and method == "lor_ bg":
+            label[candidate] = 1
+        elif method == "del":
+            pass
 
-    return domain_relevance
-=======
+    return label
+
+
+def label_concepts(target_domain, background_domain, contrastive_domain, method=0, metric="tf"):
+    label = {}
+
+    # get term frequency for last stage decision making
+    target_tf = get_tf(target_domain)
+    candidates = set([item for sublist in target_domain for item in sublist])
+
+    # get all relevant metrics
+    background_relevance = get_relevance(background_domain, metric)
+    contrastive_relevance = get_relevance(contrastive_domain, metric)
+    shared_concept_labels = label_shared_concepts(target_domain, contrastive_domain, method, metric)
+
+    counter1 = 0
+    counter2 = 0
+    counter3 = 0
+
+    for candidate in candidates:
         label[candidate] = 0
         try:
             background_relevance[candidate]
@@ -141,6 +312,5 @@ def main(target_link, target_terms):
     print("Chosen via background domain:", counter1)
     print("Chosen via metric:", counter2)
     print("Chosen via tf > 1 limit:", counter3)
-    
+
     return label
->>>>>>> Stashed changes

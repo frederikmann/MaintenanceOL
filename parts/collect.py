@@ -1,73 +1,29 @@
-import spacy
 import requests as req
 from bs4 import BeautifulSoup
+from tqdm import tqdm
 
-nlp = spacy.load("de_core_news_md")
+from .oie import get_terms
+from .cleaning import terms as clean_terms
 
 
-def get_links_car(topic):
-    r = req.get(topic)
-    soup = BeautifulSoup(r.text, "html.parser")
-    h = []
+def get_links(topic, domain, limit):
+    # get links from topic pages - give topic link and specify domain and limit of pages to be scraped
 
-    ul = soup.find("ul", {"class": "_2DRQIffNCzdlprT-xoye1"})
+    counter = 0
+    links = []
 
-    h += [link["href"] for link in ul.find_all("a", href=True)]
-
-    while soup.find("a", rel="next", href=True):
-        r = req.get("https://www.motor-talk.de" + soup.find("a", rel="next", href=True)["href"])
-        soup = BeautifulSoup(r.text, 'html.parser')
+    if domain == "car":
+        r = req.get(topic)
+        soup = BeautifulSoup(r.text, "html.parser")
         ul = soup.find("ul", {"class": "_2DRQIffNCzdlprT-xoye1"})
-        h += [link["href"] for link in ul.find_all("a", href=True)]
-        break
 
-    return h
+        links.extend(["https://www.motor-talk.de" + link["href"] for link in ul.find_all("a", href=True)])
 
-
-def get_text_car(link):
-    r = req.get(link)
-    soup = BeautifulSoup(r.text, "html.parser")
-    p = []
-
-    for div in soup.find_all("div", {"itemprop": "text"}):
-        p += [p.text for p in div.find_all("p")]
-
-    while soup.find("a", rel="next", href=True):
-        r = req.get("https://www.motor-talk.de" + soup.find("a", rel="next", href=True)["href"])
-        soup = BeautifulSoup(r.text, 'html.parser')
-        for div in soup.find_all("section", {"itemprop": "comment"}):
-            p += [p.text for p in div.find_all("p")]
-
-    return p
-
-
-def get_text_cook(link):
-    # modified version of the get_text_car function in collect
-
-    r = req.get(link)
-    soup = BeautifulSoup(r.text, "html.parser")
-    p = []
-
-    p += [div.text for div in soup.find_all("div", {"class": "forum-message-content"})]
-
-    while soup.find("a",
-                    {
-                        "class": "ck-pagination__link ck-pagination__link-prevnext ck-pagination__link-prevnext--next qa-pagination-next"},
-                    href=True):
-        r = req.get(link + soup.find("a", {
-            "class": "ck-pagination__link ck-pagination__link-prevnext ck-pagination__link-prevnext--next qa-pagination-next"},
-                                     href=True)["href"])
-        soup = BeautifulSoup(r.text, 'html.parser')
-        p += [div.text for div in soup.find_all("div", {"class": "forum-message-content"})]
-
-<<<<<<< Updated upstream
-    return p
-=======
         while soup.find("a", rel="prev", href=True) and counter < limit:
             r = req.get("https://www.motor-talk.de" + soup.find("a", rel="prev", href=True)["href"])
             soup = BeautifulSoup(r.text, 'html.parser')
             ul = soup.find("ul", {"class": "_2DRQIffNCzdlprT-xoye1"})
-            links.extend(["https://www.motor-talk.de"+link["href"] for link in ul.find_all("a", href=True)])
+            links.extend(["https://www.motor-talk.de" + link["href"] for link in ul.find_all("a", href=True)])
             counter += 1
         links.pop(0)
 
@@ -123,7 +79,7 @@ def get_text(link, domain, ordered_text=0):
         soup = BeautifulSoup(r.text, "html.parser")
     except req.exceptions.ConnectionError as e:
         return False
-    
+
     # paragraphs returns unordered list of paragraphs good for domain relacancy analysis
     paragraphs = set()
     # text returns list of ordered paragraphs good for individual post analysis
@@ -168,7 +124,7 @@ def get_text(link, domain, ordered_text=0):
             paragraphs.update([div.text for div in soup.find_all("td", {"class": "forum-message-text"})])
             counter += 1
 
-    if ordered_text:    
+    if ordered_text:
         return [x.strip() for x in text]
     else:
         return [x.strip() for x in paragraphs]
@@ -188,7 +144,7 @@ def get_corpus(topic, domain, limit, export):
             if len(text) < 100000 and text:
                 corpus.append(text)
                 if export:
-                    with open(path+domain+"/"+str(counter)+".txt", "w", encoding="utf-8") as file:
+                    with open(path + domain + "/" + str(counter) + ".txt", "w", encoding="utf-8") as file:
                         file.write(text)
                     counter += 1
     return corpus
@@ -216,4 +172,3 @@ def load_domain_terms(domain, limit, clean=0):
         terms = clean_terms(terms)
 
     return terms
->>>>>>> Stashed changes
